@@ -72,7 +72,7 @@ Your choice is stored in **localStorage** under a site-specific key (not used as
 
 - **Essential** browser storage for theme or UI preferences  
 - **Hosting / CDN** technical logs required to deliver the site  
-- **Optional analytics** scripts or beacons — **only after opt-in**, and only when we actually enable a vendor (we will name the tool here when live)
+- **Optional analytics** scripts or beacons — **only after opt-in**. When configured, we may load **Plausible** (`PUBLIC_PLAUSIBLE_DOMAIN`) and/or **Google Analytics 4** (`PUBLIC_GA_MEASUREMENT_ID`). Neither loads until you accept analytics.
 
 We do not use play as a vehicle to track you across unrelated third-party sites. Analytics remain **denied** until you accept.
 

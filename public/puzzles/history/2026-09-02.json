@@ -1,0 +1,437 @@
+{
+  "id": "history-2026-09-02",
+  "playDate": "2026-09-02",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "F",
+      "S",
+      "Y",
+      "Z",
+      "Q",
+      "H",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "J",
+      "L",
+      "Z",
+      "G",
+      "L",
+      "A",
+      "V",
+      "W",
+      "O",
+      "U"
+    ],
+    [
+      "P",
+      "J",
+      "D",
+      "P",
+      "R",
+      "I",
+      "C",
+      "P",
+      "D",
+      "S"
+    ],
+    [
+      "T",
+      "L",
+      "M",
+      "V",
+      "D",
+      "K",
+      "I",
+      "G",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "S",
+      "E",
+      "E",
+      "N",
+      "Y",
+      "A",
+      "Y",
+      "S",
+      "E"
+    ],
+    [
+      "Q",
+      "S",
+      "N",
+      "W",
+      "M",
+      "L",
+      "C",
+      "X",
+      "S",
+      "C"
+    ],
+    [
+      "T",
+      "C",
+      "L",
+      "A",
+      "S",
+      "S",
+      "I",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "E",
+      "C",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R",
+      "E",
+      "B",
+      "N"
+    ],
+    [
+      "T",
+      "T",
+      "N",
+      "E",
+      "M",
+      "D",
+      "N",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "O",
+      "Q",
+      "U",
+      "E",
+      "O",
+      "A",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "AMENDMENT",
+      "gloss": "A formal change to a law or constitution.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EVIDENCE",
+      "gloss": "Information used to support a claim.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.270Z"
+}

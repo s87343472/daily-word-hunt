@@ -6,459 +6,384 @@
   "theme": "places",
   "title": "Cities & Places",
   "description": "Streets, landmarks, and travel vocabulary for place lovers.",
-  "rows": 11,
-  "cols": 11,
+  "rows": 10,
+  "cols": 10,
   "grid": [
     [
-      "N",
-      "V",
+      "M",
+      "X",
       "T",
-      "S",
-      "C",
-      "X",
       "R",
-      "B",
-      "C",
-      "X",
-      "B"
-    ],
-    [
       "O",
-      "C",
-      "O",
-      "L",
-      "L",
-      "E",
-      "G",
-      "E",
       "F",
-      "H",
-      "A"
-    ],
-    [
-      "I",
-      "Y",
-      "C",
-      "A",
-      "S",
-      "T",
-      "L",
-      "E",
-      "J",
-      "C",
-      "L"
-    ],
-    [
-      "T",
-      "I",
-      "A",
-      "O",
-      "S",
       "B",
       "T",
-      "L",
-      "O",
-      "R",
-      "U"
-    ],
-    [
-      "A",
-      "D",
-      "S",
-      "H",
-      "O",
-      "G",
-      "C",
-      "Q",
-      "T",
-      "O",
-      "S"
-    ],
-    [
-      "M",
-      "U",
-      "E",
-      "M",
-      "Y",
-      "U",
       "I",
-      "X",
-      "Y",
-      "S",
-      "T"
-    ],
-    [
-      "R",
-      "Z",
-      "P",
-      "D",
-      "O",
-      "P",
-      "R",
-      "I",
-      "X",
-      "S",
       "R"
     ],
     [
-      "O",
-      "J",
-      "F",
-      "I",
-      "M",
+      "S",
+      "X",
+      "L",
+      "Q",
       "T",
-      "T",
-      "H",
-      "A",
-      "W",
-      "A"
-    ],
-    [
-      "F",
-      "B",
-      "W",
-      "P",
-      "U",
-      "O",
+      "C",
       "S",
       "A",
+      "H",
+      "V"
+    ],
+    [
       "E",
+      "V",
+      "B",
+      "Z",
+      "N",
+      "I",
+      "R",
+      "N",
+      "O",
+      "G"
+    ],
+    [
+      "T",
+      "G",
+      "Q",
+      "D",
+      "R",
+      "Y",
+      "D",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "S",
+      "Y",
       "A",
+      "U",
+      "K",
+      "W",
+      "N",
+      "Q",
+      "W",
+      "M"
+    ],
+    [
+      "I",
+      "O",
+      "O",
+      "T",
+      "E",
+      "L",
+      "M",
+      "A",
+      "H",
       "D"
     ],
     [
-      "N",
-      "C",
-      "E",
-      "I",
-      "E",
-      "W",
-      "I",
-      "U",
-      "K",
       "L",
-      "E"
+      "T",
+      "U",
+      "X",
+      "T",
+      "Z",
+      "H",
+      "D",
+      "A",
+      "N"
     ],
     [
+      "C",
+      "N",
+      "W",
+      "Q",
+      "W",
+      "O",
+      "N",
+      "Z",
+      "Z",
+      "L"
+    ],
+    [
+      "Y",
       "I",
       "Q",
-      "T",
-      "A",
-      "L",
-      "N",
-      "D",
-      "H",
+      "R",
+      "F",
+      "I",
       "C",
-      "K",
+      "Z",
+      "A",
       "V"
+    ],
+    [
+      "C",
+      "J",
+      "S",
+      "U",
+      "I",
+      "T",
+      "C",
+      "A",
+      "S",
+      "E"
     ]
   ],
   "words": [
     {
-      "word": "BALUSTRADE",
-      "gloss": "A railing supported by balusters.",
+      "word": "COTTAGE",
+      "gloss": "A small simple house.",
       "path": [
-        {
-          "r": 0,
-          "c": 10
-        },
-        {
-          "r": 1,
-          "c": 10
-        },
-        {
-          "r": 2,
-          "c": 10
-        },
-        {
-          "r": 3,
-          "c": 10
-        },
-        {
-          "r": 4,
-          "c": 10
-        },
-        {
-          "r": 5,
-          "c": 10
-        },
-        {
-          "r": 6,
-          "c": 10
-        },
-        {
-          "r": 7,
-          "c": 10
-        },
         {
           "r": 8,
-          "c": 10
-        },
-        {
-          "r": 9,
-          "c": 10
-        }
-      ]
-    },
-    {
-      "word": "CASTLE",
-      "gloss": "A large fortified residence.",
-      "path": [
-        {
-          "r": 2,
-          "c": 2
-        },
-        {
-          "r": 2,
-          "c": 3
-        },
-        {
-          "r": 2,
-          "c": 4
-        },
-        {
-          "r": 2,
-          "c": 5
-        },
-        {
-          "r": 2,
           "c": 6
         },
         {
-          "r": 2,
-          "c": 7
-        }
-      ]
-    },
-    {
-      "word": "COLLEGE",
-      "gloss": "A school for higher education.",
-      "path": [
+          "r": 7,
+          "c": 5
+        },
         {
-          "r": 1,
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
           "c": 1
         },
         {
-          "r": 1,
-          "c": 2
-        },
-        {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 1,
-          "c": 4
-        },
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CROWD",
+      "gloss": "A large group of people.",
+      "path": [
         {
           "r": 1,
           "c": 5
         },
         {
-          "r": 1,
+          "r": 2,
           "c": 6
         },
         {
-          "r": 1,
-          "c": 7
-        }
-      ]
-    },
-    {
-      "word": "CROSSWALK",
-      "gloss": "A marked place to cross a street.",
-      "path": [
-        {
-          "r": 2,
-          "c": 9
-        },
-        {
           "r": 3,
-          "c": 9
+          "c": 7
         },
         {
           "r": 4,
-          "c": 9
+          "c": 8
         },
         {
           "r": 5,
           "c": 9
-        },
+        }
+      ]
+    },
+    {
+      "word": "CYCLIST",
+      "gloss": "A person who rides a bicycle.",
+      "path": [
         {
-          "r": 6,
-          "c": 9
-        },
-        {
-          "r": 7,
-          "c": 9
+          "r": 9,
+          "c": 0
         },
         {
           "r": 8,
-          "c": 9
+          "c": 0
         },
         {
-          "r": 9,
-          "c": 9
+          "r": 7,
+          "c": 0
         },
         {
-          "r": 10,
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DRYDOCK",
+      "gloss": "A dock for repairing ships.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
           "c": 9
         }
       ]
     },
     {
-      "word": "CUSTOMS",
-      "gloss": "Officials who check goods entering a country.",
+      "word": "FORT",
+      "gloss": "A fortified military building.",
       "path": [
         {
-          "r": 10,
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HAMLET",
+      "gloss": "A very small village.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUITCASE",
+      "gloss": "A case for carrying clothes while traveling.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
           "c": 8
         },
         {
           "r": 9,
-          "c": 7
-        },
-        {
-          "r": 8,
-          "c": 6
-        },
-        {
-          "r": 7,
-          "c": 5
-        },
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOURIST",
+      "gloss": "A person visiting a place for pleasure.",
+      "path": [
         {
           "r": 6,
-          "c": 4
+          "c": 1
         },
         {
           "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
           "c": 3
         },
         {
-          "r": 4,
-          "c": 2
-        }
-      ]
-    },
-    {
-      "word": "DISTRICT",
-      "gloss": "An area of a city with a particular character.",
-      "path": [
-        {
-          "r": 10,
-          "c": 6
-        },
-        {
-          "r": 9,
-          "c": 6
-        },
-        {
-          "r": 8,
-          "c": 6
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 6,
-          "c": 6
-        },
-        {
-          "r": 5,
-          "c": 6
-        },
-        {
-          "r": 4,
-          "c": 6
-        },
-        {
           "r": 3,
-          "c": 6
-        }
-      ]
-    },
-    {
-      "word": "INFORMATION",
-      "gloss": "A desk or place that provides help.",
-      "path": [
-        {
-          "r": 10,
-          "c": 0
-        },
-        {
-          "r": 9,
-          "c": 0
-        },
-        {
-          "r": 8,
-          "c": 0
-        },
-        {
-          "r": 7,
-          "c": 0
-        },
-        {
-          "r": 6,
-          "c": 0
-        },
-        {
-          "r": 5,
-          "c": 0
-        },
-        {
-          "r": 4,
-          "c": 0
-        },
-        {
-          "r": 3,
-          "c": 0
+          "c": 4
         },
         {
           "r": 2,
-          "c": 0
+          "c": 5
         },
         {
           "r": 1,
-          "c": 0
+          "c": 6
         },
         {
           "r": 0,
-          "c": 0
-        }
-      ]
-    },
-    {
-      "word": "UPTOWN",
-      "gloss": "A residential area away from the center.",
-      "path": [
-        {
-          "r": 5,
-          "c": 5
-        },
-        {
-          "r": 6,
-          "c": 5
-        },
-        {
-          "r": 7,
-          "c": 5
-        },
-        {
-          "r": 8,
-          "c": 5
-        },
-        {
-          "r": 9,
-          "c": 5
-        },
-        {
-          "r": 10,
-          "c": 5
+          "c": 7
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.015Z"
+  "createdAt": "2026-08-07T05:30:56.356Z"
 }

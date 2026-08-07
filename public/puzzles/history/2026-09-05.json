@@ -1,0 +1,413 @@
+{
+  "id": "history-2026-09-05",
+  "playDate": "2026-09-05",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "N",
+      "M",
+      "E",
+      "M",
+      "P",
+      "E",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "W",
+      "S",
+      "O",
+      "O",
+      "F",
+      "F",
+      "W",
+      "X",
+      "O",
+      "Y"
+    ],
+    [
+      "D",
+      "Z",
+      "C",
+      "I",
+      "N",
+      "D",
+      "T",
+      "J",
+      "A",
+      "Y"
+    ],
+    [
+      "G",
+      "D",
+      "H",
+      "I",
+      "G",
+      "A",
+      "L",
+      "I",
+      "D",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "H",
+      "D",
+      "E",
+      "E",
+      "R",
+      "N",
+      "I",
+      "G"
+    ],
+    [
+      "O",
+      "U",
+      "N",
+      "Z",
+      "B",
+      "N",
+      "L",
+      "C",
+      "H",
+      "D"
+    ],
+    [
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M",
+      "C",
+      "F",
+      "H",
+      "F"
+    ],
+    [
+      "N",
+      "J",
+      "U",
+      "S",
+      "T",
+      "I",
+      "C",
+      "E",
+      "F",
+      "Y"
+    ],
+    [
+      "M",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "T",
+      "B",
+      "K",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MONARCHY",
+      "gloss": "Rule by a monarch.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.273Z"
+}

@@ -1,0 +1,413 @@
+{
+  "id": "history-2026-08-30",
+  "playDate": "2026-08-30",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "R",
+      "H",
+      "R",
+      "S",
+      "B",
+      "E",
+      "L",
+      "Q",
+      "V"
+    ],
+    [
+      "P",
+      "Z",
+      "P",
+      "E",
+      "E",
+      "C",
+      "H",
+      "N",
+      "Q",
+      "Z"
+    ],
+    [
+      "L",
+      "K",
+      "Y",
+      "V",
+      "N",
+      "E",
+      "L",
+      "L",
+      "U",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "L",
+      "O",
+      "A",
+      "N",
+      "E",
+      "I",
+      "V",
+      "R"
+    ],
+    [
+      "G",
+      "L",
+      "G",
+      "L",
+      "T",
+      "T",
+      "D",
+      "B",
+      "Q",
+      "D"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "U",
+      "E",
+      "U",
+      "A",
+      "R",
+      "Y",
+      "Q"
+    ],
+    [
+      "E",
+      "W",
+      "R",
+      "T",
+      "H",
+      "R",
+      "S",
+      "A",
+      "W",
+      "G"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "I",
+      "S",
+      "Y",
+      "U",
+      "R",
+      "Z",
+      "N"
+    ],
+    [
+      "N",
+      "U",
+      "I",
+      "O",
+      "H",
+      "B",
+      "R",
+      "Y",
+      "N",
+      "I"
+    ],
+    [
+      "I",
+      "A",
+      "H",
+      "N",
+      "F",
+      "F",
+      "C",
+      "S",
+      "D",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENTURY",
+      "gloss": "A period of one hundred years.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "RUNE",
+      "gloss": "A letter of an ancient alphabet.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.266Z"
+}

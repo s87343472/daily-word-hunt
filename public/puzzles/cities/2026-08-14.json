@@ -6,321 +6,204 @@
   "theme": "places",
   "title": "Cities & Places",
   "description": "Streets, landmarks, and travel vocabulary for place lovers.",
-  "rows": 11,
-  "cols": 11,
+  "rows": 10,
+  "cols": 10,
   "grid": [
     [
-      "Y",
-      "G",
-      "S",
-      "X",
-      "K",
-      "J",
-      "Q",
-      "X",
-      "T",
-      "M",
-      "V"
-    ],
-    [
-      "K",
-      "R",
-      "U",
-      "C",
-      "O",
-      "O",
-      "F",
-      "T",
-      "R",
-      "V",
-      "E"
-    ],
-    [
-      "S",
-      "X",
-      "O",
-      "T",
-      "O",
-      "S",
-      "U",
-      "Z",
-      "O",
       "I",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "W",
+      "A",
+      "L",
       "K"
     ],
     [
-      "I",
-      "N",
-      "T",
-      "T",
-      "B",
-      "M",
-      "P",
-      "B",
-      "S",
-      "S",
-      "J"
-    ],
-    [
-      "N",
-      "O",
-      "I",
-      "X",
-      "A",
-      "Y",
-      "P",
-      "X",
-      "E",
-      "A",
-      "V"
-    ],
-    [
-      "V",
-      "I",
-      "C",
-      "Z",
-      "N",
-      "V",
-      "R",
-      "A",
-      "R",
-      "Z",
-      "J"
-    ],
-    [
-      "B",
-      "G",
-      "K",
-      "X",
-      "N",
-      "Y",
-      "R",
-      "B",
-      "S",
-      "B",
-      "G"
-    ],
-    [
-      "T",
-      "E",
-      "E",
-      "I",
-      "B",
       "U",
-      "S",
       "E",
+      "T",
+      "R",
+      "A",
       "P",
-      "S",
-      "D"
+      "M",
+      "A",
+      "R",
+      "R"
     ],
     [
-      "F",
-      "R",
-      "T",
-      "K",
-      "Y",
+      "N",
+      "N",
+      "A",
+      "L",
       "M",
+      "Z",
+      "T",
+      "L",
+      "E",
+      "W"
+    ],
+    [
+      "E",
       "Q",
+      "D",
+      "Y",
+      "I",
+      "I",
+      "T",
+      "G",
+      "V",
+      "S"
+    ],
+    [
+      "I",
+      "O",
+      "X",
+      "E",
+      "P",
+      "H",
+      "N",
+      "R",
+      "O",
+      "U"
+    ],
+    [
+      "G",
+      "A",
+      "F",
+      "S",
+      "R",
+      "E",
+      "G",
+      "S",
+      "U",
+      "B"
+    ],
+    [
+      "H",
+      "H",
+      "O",
+      "F",
+      "S",
+      "P",
+      "P",
+      "E",
+      "A",
+      "W"
+    ],
+    [
+      "B",
+      "H",
+      "G",
+      "S",
+      "I",
+      "M",
+      "A",
+      "W",
+      "X",
+      "A"
+    ],
+    [
+      "O",
+      "E",
+      "A",
+      "S",
+      "O",
+      "C",
       "H",
       "S",
-      "B",
-      "G"
-    ],
-    [
-      "T",
-      "J",
-      "Y",
-      "T",
       "N",
-      "U",
-      "O",
-      "C",
-      "S",
-      "B",
-      "M"
+      "Y"
     ],
     [
-      "W",
-      "A",
-      "T",
-      "E",
       "R",
+      "P",
+      "K",
+      "C",
       "T",
-      "O",
-      "W",
+      "L",
       "E",
-      "R",
-      "O"
+      "L",
+      "S",
+      "N"
     ]
   ],
   "words": [
     {
-      "word": "COMPASS",
-      "gloss": "A device showing magnetic north.",
+      "word": "BOARDWALK",
+      "gloss": "A wooden walkway along a beach.",
       "path": [
         {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 2,
-          "c": 4
-        },
-        {
-          "r": 3,
-          "c": 5
-        },
-        {
-          "r": 4,
-          "c": 6
-        },
-        {
-          "r": 5,
-          "c": 7
-        },
-        {
-          "r": 6,
-          "c": 8
-        },
-        {
-          "r": 7,
-          "c": 9
-        }
-      ]
-    },
-    {
-      "word": "COUNTY",
-      "gloss": "A territorial division within a country.",
-      "path": [
-        {
-          "r": 9,
-          "c": 7
-        },
-        {
-          "r": 9,
-          "c": 6
-        },
-        {
-          "r": 9,
-          "c": 5
-        },
-        {
-          "r": 9,
-          "c": 4
-        },
-        {
-          "r": 9,
-          "c": 3
-        },
-        {
-          "r": 9,
-          "c": 2
-        }
-      ]
-    },
-    {
-      "word": "OBSERVATORY",
-      "gloss": "A building for observing stars.",
-      "path": [
-        {
-          "r": 10,
-          "c": 10
-        },
-        {
-          "r": 9,
-          "c": 9
-        },
-        {
-          "r": 8,
-          "c": 8
-        },
-        {
-          "r": 7,
-          "c": 7
-        },
-        {
-          "r": 6,
-          "c": 6
-        },
-        {
-          "r": 5,
-          "c": 5
-        },
-        {
-          "r": 4,
-          "c": 4
-        },
-        {
-          "r": 3,
-          "c": 3
-        },
-        {
-          "r": 2,
-          "c": 2
-        },
-        {
-          "r": 1,
+          "r": 0,
           "c": 1
         },
         {
           "r": 0,
-          "c": 0
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
         }
       ]
     },
     {
-      "word": "REGION",
-      "gloss": "A large area of a country.",
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick.",
       "path": [
-        {
-          "r": 8,
-          "c": 1
-        },
         {
           "r": 7,
           "c": 1
         },
         {
           "r": 6,
-          "c": 1
+          "c": 2
         },
         {
           "r": 5,
-          "c": 1
+          "c": 3
         },
         {
           "r": 4,
-          "c": 1
+          "c": 4
         },
         {
           "r": 3,
-          "c": 1
-        }
-      ]
-    },
-    {
-      "word": "RESORT",
-      "gloss": "A place for holidays and recreation.",
-      "path": [
-        {
-          "r": 5,
-          "c": 8
-        },
-        {
-          "r": 4,
-          "c": 8
-        },
-        {
-          "r": 3,
-          "c": 8
+          "c": 5
         },
         {
           "r": 2,
-          "c": 8
+          "c": 6
         },
         {
           "r": 1,
-          "c": 8
+          "c": 7
         },
         {
           "r": 0,
@@ -329,16 +212,50 @@
       ]
     },
     {
-      "word": "TICKET",
-      "gloss": "A pass for travel or entry.",
+      "word": "NEIGHBOR",
+      "gloss": "A person living nearby.",
       "path": [
         {
+          "r": 2,
+          "c": 0
+        },
+        {
           "r": 3,
-          "c": 2
+          "c": 0
         },
         {
           "r": 4,
-          "c": 2
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OFFICE",
+      "gloss": "A room or building for work.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
         },
         {
           "r": 5,
@@ -346,30 +263,102 @@
         },
         {
           "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
           "c": 2
         },
         {
           "r": 7,
-          "c": 2
+          "c": 3
         },
         {
-          "r": 8,
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAMPART",
+      "gloss": "A defensive wall of a fort.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
           "c": 2
         }
       ]
     },
     {
-      "word": "VISA",
-      "gloss": "Permission to enter a foreign country.",
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system.",
       "path": [
-        {
-          "r": 1,
-          "c": 9
-        },
-        {
-          "r": 2,
-          "c": 9
-        },
         {
           "r": 3,
           "c": 9
@@ -377,56 +366,68 @@
         {
           "r": 4,
           "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
         }
       ]
     },
     {
-      "word": "WATERTOWER",
-      "gloss": "A tower storing water for a town.",
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
       "path": [
         {
-          "r": 10,
+          "r": 1,
           "c": 0
         },
         {
-          "r": 10,
+          "r": 2,
           "c": 1
         },
         {
-          "r": 10,
+          "r": 3,
           "c": 2
         },
         {
-          "r": 10,
+          "r": 4,
           "c": 3
         },
         {
-          "r": 10,
+          "r": 5,
           "c": 4
         },
         {
-          "r": 10,
+          "r": 6,
           "c": 5
         },
         {
-          "r": 10,
+          "r": 7,
           "c": 6
         },
         {
-          "r": 10,
+          "r": 8,
           "c": 7
         },
         {
-          "r": 10,
+          "r": 9,
           "c": 8
-        },
-        {
-          "r": 10,
-          "c": 9
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.003Z"
+  "createdAt": "2026-08-07T05:30:56.342Z"
 }

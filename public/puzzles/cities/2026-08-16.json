@@ -10,200 +10,222 @@
   "cols": 10,
   "grid": [
     [
-      "P",
-      "J",
-      "J",
-      "L",
-      "C",
-      "V",
-      "L",
-      "J",
-      "P",
-      "B"
-    ],
-    [
-      "D",
-      "B",
-      "U",
-      "T",
-      "R",
-      "O",
-      "X",
-      "R",
-      "A",
-      "I"
-    ],
-    [
-      "N",
-      "B",
-      "I",
-      "M",
-      "V",
-      "Y",
-      "Y",
-      "X",
-      "S",
-      "L"
-    ],
-    [
-      "P",
-      "P",
-      "M",
-      "X",
-      "Z",
-      "A",
-      "R",
-      "I",
-      "S",
-      "L"
-    ],
-    [
-      "Q",
       "F",
+      "R",
+      "S",
       "Y",
-      "A",
-      "P",
-      "G",
-      "Z",
-      "W",
-      "E",
-      "B"
-    ],
-    [
-      "S",
-      "S",
-      "A",
-      "P",
-      "R",
-      "E",
-      "V",
-      "O",
-      "N",
-      "O"
-    ],
-    [
-      "T",
-      "U",
-      "R",
-      "P",
-      "S",
-      "K",
-      "A",
-      "T",
-      "G",
-      "A"
-    ],
-    [
-      "L",
-      "U",
-      "G",
-      "G",
-      "A",
-      "G",
-      "E",
       "M",
-      "E",
+      "A",
+      "K",
+      "Z",
+      "S",
       "R"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "T",
-      "U",
       "E",
+      "M",
+      "I",
+      "A",
+      "R",
       "D",
       "T",
       "R",
+      "R",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "G",
+      "L",
+      "I",
+      "D",
+      "O",
+      "Y",
+      "Q",
       "D"
     ],
     [
-      "B",
+      "N",
+      "R",
+      "N",
+      "R",
+      "W",
+      "R",
+      "Y",
+      "X",
+      "L",
+      "D"
+    ],
+    [
+      "I",
+      "K",
+      "P",
+      "K",
+      "S",
+      "E",
+      "P",
+      "N",
+      "K",
+      "I"
+    ],
+    [
+      "V",
+      "E",
+      "O",
+      "Y",
+      "Q",
+      "S",
+      "P",
+      "O",
+      "E",
+      "H"
+    ],
+    [
+      "O",
+      "T",
+      "S",
+      "Q",
+      "F",
+      "S",
+      "T",
+      "J",
+      "R",
+      "N"
+    ],
+    [
+      "R",
+      "Z",
+      "T",
+      "K",
+      "E",
       "O",
       "M",
-      "U",
-      "R",
+      "O",
       "A",
-      "L",
-      "F",
-      "H",
-      "P"
+      "T"
+    ],
+    [
+      "P",
+      "R",
+      "J",
+      "B",
+      "Y",
+      "P",
+      "A",
+      "S",
+      "S",
+      "G"
+    ],
+    [
+      "I",
+      "K",
+      "E",
+      "T",
+      "I",
+      "U",
+      "S",
+      "W",
+      "A",
+      "G"
     ]
   ],
   "words": [
     {
-      "word": "BILLBOARD",
-      "gloss": "A large outdoor advertising board.",
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
       "path": [
         {
           "r": 0,
-          "c": 9
+          "c": 5
         },
         {
           "r": 1,
-          "c": 9
+          "c": 5
         },
         {
           "r": 2,
-          "c": 9
+          "c": 5
         },
         {
           "r": 3,
-          "c": 9
+          "c": 5
         },
         {
           "r": 4,
-          "c": 9
+          "c": 5
         },
         {
           "r": 5,
-          "c": 9
+          "c": 5
         },
         {
           "r": 6,
-          "c": 9
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
         },
         {
           "r": 7,
-          "c": 9
-        },
-        {
-          "r": 8,
           "c": 9
         }
       ]
     },
     {
-      "word": "LUGGAGE",
-      "gloss": "Bags taken on a journey.",
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
       "path": [
         {
-          "r": 7,
-          "c": 0
-        },
-        {
-          "r": 7,
-          "c": 1
-        },
-        {
-          "r": 7,
-          "c": 2
-        },
-        {
-          "r": 7,
+          "r": 8,
           "c": 3
         },
         {
-          "r": 7,
+          "r": 8,
           "c": 4
         },
         {
-          "r": 7,
+          "r": 8,
           "c": 5
         },
         {
-          "r": 7,
+          "r": 8,
           "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
         }
       ]
     },
@@ -212,198 +234,156 @@
       "gloss": "A place where goods are bought and sold.",
       "path": [
         {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
           "r": 3,
-          "c": 2
+          "c": 1
         },
         {
           "r": 4,
-          "c": 3
-        },
-        {
-          "r": 5,
-          "c": 4
-        },
-        {
-          "r": 6,
-          "c": 5
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 8,
-          "c": 7
-        }
-      ]
-    },
-    {
-      "word": "MURAL",
-      "gloss": "A painting on a wall.",
-      "path": [
-        {
-          "r": 9,
-          "c": 2
-        },
-        {
-          "r": 9,
-          "c": 3
-        },
-        {
-          "r": 9,
-          "c": 4
-        },
-        {
-          "r": 9,
-          "c": 5
-        },
-        {
-          "r": 9,
-          "c": 6
-        }
-      ]
-    },
-    {
-      "word": "OVERPASS",
-      "gloss": "A bridge carrying one road over another.",
-      "path": [
-        {
-          "r": 5,
-          "c": 7
-        },
-        {
-          "r": 5,
-          "c": 6
-        },
-        {
-          "r": 5,
-          "c": 5
-        },
-        {
-          "r": 5,
-          "c": 4
-        },
-        {
-          "r": 5,
-          "c": 3
-        },
-        {
-          "r": 5,
-          "c": 2
+          "c": 1
         },
         {
           "r": 5,
           "c": 1
         },
         {
-          "r": 5,
-          "c": 0
+          "r": 6,
+          "c": 1
         }
       ]
     },
     {
-      "word": "PASSENGER",
-      "gloss": "A person traveling in a vehicle.",
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
       "path": [
         {
-          "r": 0,
-          "c": 8
+          "r": 7,
+          "c": 6
         },
         {
-          "r": 1,
-          "c": 8
-        },
-        {
-          "r": 2,
-          "c": 8
-        },
-        {
-          "r": 3,
-          "c": 8
-        },
-        {
-          "r": 4,
-          "c": 8
-        },
-        {
-          "r": 5,
-          "c": 8
-        },
-        {
-          "r": 6,
-          "c": 8
+          "r": 7,
+          "c": 7
         },
         {
           "r": 7,
           "c": 8
         },
         {
-          "r": 8,
-          "c": 8
+          "r": 7,
+          "c": 9
         }
       ]
     },
     {
-      "word": "STATUE",
-      "gloss": "A carved or cast figure of a person or animal.",
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country.",
       "path": [
         {
           "r": 8,
           "c": 0
         },
         {
-          "r": 8,
-          "c": 1
+          "r": 7,
+          "c": 0
         },
         {
-          "r": 8,
-          "c": 2
+          "r": 6,
+          "c": 0
         },
         {
-          "r": 8,
-          "c": 3
+          "r": 5,
+          "c": 0
         },
         {
-          "r": 8,
-          "c": 4
+          "r": 4,
+          "c": 0
         },
         {
-          "r": 8,
-          "c": 5
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
         }
       ]
     },
     {
-      "word": "VOYAGE",
-      "gloss": "A long journey by sea or air.",
+      "word": "SIGNPOST",
+      "gloss": "A post with directional signs.",
       "path": [
         {
           "r": 0,
-          "c": 5
+          "c": 2
         },
         {
           "r": 1,
-          "c": 5
+          "c": 2
         },
         {
           "r": 2,
-          "c": 5
+          "c": 2
         },
         {
           "r": 3,
-          "c": 5
+          "c": 2
         },
         {
           "r": 4,
-          "c": 5
+          "c": 2
         },
         {
           "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
           "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.004Z"
+  "createdAt": "2026-08-07T05:30:56.344Z"
 }

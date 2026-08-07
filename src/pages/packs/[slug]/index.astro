@@ -3,8 +3,6 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
-import Main from "@/components/Main.astro";
 import JsonLd from "@/components/JsonLd.astro";
 import WordSearchGame from "@/components/game/WordSearchGame.astro";
 import { breadcrumbSchema } from "@/lib/seo/schemas";
@@ -27,14 +25,13 @@ if (!pack) {
 const tz = config.site.timezone;
 const today = formatDateInTimeZone(new Date(), tz);
 const allDates = listPackDates(pack.id);
-const released = allDates.filter(d => d <= today).sort().reverse();
+const released = allDates.filter(d => d < today || d === today).sort().reverse();
 const hasToday = released.includes(today);
 const largePrint = Astro.url.searchParams.get("a11y") === "1";
 
 const title = `${pack.title} Word Search | ${config.site.title}`;
 const description = pack.description;
 
-// Group released by month for archive chips
 const byMonth = new Map<string, string[]>();
 for (const d of released) {
   const key = d.slice(0, 7);
@@ -54,71 +51,52 @@ for (const d of released) {
     ])}
   />
   <Header />
-  <Breadcrumb />
-  <Main pageTitle={pack.title}>
-    <p class="pack-kicker">{pack.theme} series</p>
-    <p class="text-muted-foreground mb-6 max-w-2xl text-sm leading-relaxed">
-      {pack.description}
-      {
-        pack.id === "daily" && (
-          <>
-            {" "}
-            This is the default series on the{" "}
-            <a
-              class="text-accent font-medium underline-offset-2 hover:underline"
-              href={getRelativeLocaleUrl(locale, "")}
-            >
-              home page
-            </a>
-            .
-          </>
-        )
-      }
-    </p>
+  <main id="main-content" class="pack-hub">
+    <header class="pack-hub-bar">
+      <div>
+        <h1 class="pack-hub-title">{pack.shortTitle ?? pack.title}</h1>
+        <p class="pack-hub-sub">{pack.description}</p>
+      </div>
+      <a class="pack-hub-back" href={getRelativeLocaleUrl(locale, "packs")}
+        >All series</a
+      >
+    </header>
 
     {
       hasToday ? (
-        <section class="pack-today mb-10" aria-labelledby="pack-today-heading">
-          <h2 id="pack-today-heading" class="section-h">
-            Today’s {pack.shortTitle ?? pack.title} puzzle
-          </h2>
-          <div class="play-embed">
-            <WordSearchGame
-              daily
-              packId={pack.id}
-              timezone={tz}
-              fallbackUrl="/puzzles/sample.json"
-              largePrint={largePrint}
-              printHref={getRelativeLocaleUrl(locale, "print")}
-              a11yHref={getRelativeLocaleUrl(
-                locale,
-                largePrint
-                  ? `packs/${pack.id}`
-                  : `packs/${pack.id}?a11y=1`
-              )}
-              a11yLabel={largePrint ? "Default size" : "Large print page"}
-            />
-          </div>
+        <section class="pack-hub-play" aria-label="Today’s puzzle">
+          <WordSearchGame
+            daily
+            packId={pack.id}
+            timezone={tz}
+            fallbackUrl="/puzzles/sample.json"
+            largePrint={largePrint}
+            printHref={getRelativeLocaleUrl(locale, "print")}
+            a11yHref={getRelativeLocaleUrl(
+              locale,
+              largePrint ? `packs/${pack.id}` : `packs/${pack.id}?a11y=1`
+            )}
+            compact
+          />
         </section>
       ) : (
-        <p class="text-muted-foreground mb-8 text-sm">
-          No puzzle for today in this series yet. Check back after the next
-          generate run, or open a past day below.
+        <p class="pack-hub-empty">
+          No puzzle for today yet. Open a past day below.
         </p>
       )
     }
 
-    <section aria-labelledby="pack-archive-heading">
-      <h2 id="pack-archive-heading" class="section-h">Past days</h2>
+    <details class="pack-hub-archive">
+      <summary>Past days ({released.length})</summary>
       {
         released.length === 0 ? (
-          <p class="text-muted-foreground text-sm">No released puzzles yet.</p>
+          <p class="pack-hub-empty">No released puzzles yet.</p>
         ) : (
-          <div class="space-y-6">
+          <div class="pack-months">
             {[...byMonth.entries()].map(([month, days]) => (
               <div>
-                <h3 class="month-h">{month}</h3>
-                <ul class="date-chips">
+                <h2 class="pack-month">{month}</h2>
+                <ul class="pack-days">
                   {days.map(d => (
                     <li>
                       <a
@@ -126,10 +104,7 @@ for (const d of released) {
                           locale,
                           `packs/${pack.id}/${d}`
                         )}
-                        class:list={[
-                          "chip",
-                          { "chip--today": d === today },
-                        ]}
+                        class:list={["pack-day", { "pack-day--today": d === today }]}
                       >
                         {d === today ? `Today · ${d}` : d}
                       </a>
@@ -141,59 +116,109 @@ for (const d of released) {
           </div>
         )
       }
-    </section>
-  </Main>
+    </details>
+  </main>
   <Footer />
 </Layout>
 
 <style>
-  .pack-kicker {
-    margin: -0.25rem 0 0.5rem;
-    font-size: 0.72rem;
+  .pack-hub {
+    width: 100%;
+    max-width: 28rem;
+    margin-inline: auto;
+    padding: 0.35rem 0.75rem 2rem;
+  }
+  .pack-hub-bar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.65rem;
+  }
+  .pack-hub-title {
+    margin: 0;
+    font-size: 1.2rem;
     font-weight: 700;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+    color: var(--foreground);
+  }
+  .pack-hub-sub {
+    margin: 0.2rem 0 0;
+    font-size: 0.8rem;
+    line-height: 1.35;
+    color: var(--muted-foreground);
+    max-width: 18rem;
+  }
+  .pack-hub-back {
+    flex-shrink: 0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--muted-foreground);
+    text-decoration: none;
+  }
+  .pack-hub-back:hover {
     color: var(--accent);
   }
-  .section-h {
-    margin: 0 0 0.75rem;
-    font-size: 1rem;
-    font-weight: 700;
+  .pack-hub-empty {
+    margin: 0.5rem 0;
+    font-size: 0.85rem;
+    color: var(--muted-foreground);
   }
-  .play-embed {
-    max-width: 32rem;
+  .pack-hub-archive {
+    margin-top: 1.25rem;
   }
-  .month-h {
-    margin: 0 0 0.45rem;
-    font-size: 0.75rem;
+  .pack-hub-archive > summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--muted-foreground);
+    text-align: center;
+    padding: 0.35rem;
+  }
+  .pack-hub-archive > summary::-webkit-details-marker {
+    display: none;
+  }
+  .pack-hub-archive[open] > summary {
+    margin-bottom: 0.65rem;
+    color: var(--foreground);
+  }
+  .pack-months {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+  .pack-month {
+    margin: 0 0 0.35rem;
+    font-size: 0.7rem;
     font-weight: 700;
     letter-spacing: 0.04em;
     text-transform: uppercase;
     color: var(--muted-foreground);
   }
-  .date-chips {
+  .pack-days {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem;
+    gap: 0.35rem;
   }
-  .chip {
+  .pack-day {
     display: inline-block;
     border: 1px solid var(--border);
     border-radius: 999px;
-    padding: 0.3rem 0.7rem;
-    font-size: 0.8rem;
+    padding: 0.28rem 0.6rem;
+    font-size: 0.78rem;
     font-weight: 600;
     text-decoration: none;
     color: var(--foreground);
+    background: var(--muted);
   }
-  .chip:hover {
+  .pack-day:hover {
     border-color: var(--accent);
     color: var(--accent);
   }
-  .chip--today {
+  .pack-day--today {
     background: var(--accent);
     border-color: transparent;
     color: var(--accent-foreground);

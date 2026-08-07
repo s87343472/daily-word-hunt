@@ -94,6 +94,18 @@ export default defineConfig({
         context: "client",
         optional: true,
       }),
+      /** Plausible site domain, e.g. words.sagasu.art (loaded only after cookie opt-in) */
+      PUBLIC_PLAUSIBLE_DOMAIN: envField.string({
+        access: "public",
+        context: "client",
+        optional: true,
+      }),
+      /** GA4 measurement id G-XXXX (loaded only after cookie opt-in) */
+      PUBLIC_GA_MEASUREMENT_ID: envField.string({
+        access: "public",
+        context: "client",
+        optional: true,
+      }),
     },
   },
   experimental: {

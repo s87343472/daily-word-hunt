@@ -1,0 +1,433 @@
+{
+  "id": "history-2026-08-09",
+  "playDate": "2026-08-09",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "L",
+      "E",
+      "N",
+      "N",
+      "I",
+      "U",
+      "M"
+    ],
+    [
+      "T",
+      "M",
+      "D",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "P"
+    ],
+    [
+      "R",
+      "R",
+      "O",
+      "N",
+      "Q",
+      "T",
+      "I",
+      "X",
+      "V",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "E",
+      "S",
+      "N",
+      "U",
+      "U",
+      "Z",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "K",
+      "S",
+      "A",
+      "A",
+      "M",
+      "Z",
+      "F",
+      "E",
+      "F"
+    ],
+    [
+      "A",
+      "U",
+      "X",
+      "E",
+      "T",
+      "I",
+      "O",
+      "R",
+      "B",
+      "G"
+    ],
+    [
+      "R",
+      "G",
+      "M",
+      "I",
+      "R",
+      "Y",
+      "C",
+      "N",
+      "G",
+      "C"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "C",
+      "J",
+      "R",
+      "A",
+      "I",
+      "L",
+      "R",
+      "O",
+      "A",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAILROAD",
+      "gloss": "A track system for trains.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher learning.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.236Z"
+}

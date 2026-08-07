@@ -1,0 +1,653 @@
+{
+  "pack": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for word search.",
+  "size": 10,
+  "wordsPerDay": 8,
+  "words": [
+    {
+      "word": "EMPIRE",
+      "gloss": "A group of lands under one ruler."
+    },
+    {
+      "word": "KINGDOM",
+      "gloss": "A country ruled by a king or queen."
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family."
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives."
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly."
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions."
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire."
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife."
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen."
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt."
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome."
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army."
+    },
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer."
+    },
+    {
+      "word": "GLADIATOR",
+      "gloss": "A fighter in ancient Roman arenas."
+    },
+    {
+      "word": "FORUM",
+      "gloss": "A public square in ancient Rome."
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship."
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy."
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of writing material."
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant."
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing."
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing."
+    },
+    {
+      "word": "RUNE",
+      "gloss": "A letter of an ancient alphabet."
+    },
+    {
+      "word": "MANUSCRIPT",
+      "gloss": "A handwritten document."
+    },
+    {
+      "word": "CHRONICLE",
+      "gloss": "A written record of events."
+    },
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records."
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past."
+    },
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago."
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building."
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence."
+    },
+    {
+      "word": "FORTRESS",
+      "gloss": "A strong military fort."
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city."
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier."
+    },
+    {
+      "word": "SIEGE",
+      "gloss": "A military blockade of a place."
+    },
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces."
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states."
+    },
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit."
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority."
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval."
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system."
+    },
+    {
+      "word": "CONSTITUTION",
+      "gloss": "The basic laws of a country."
+    },
+    {
+      "word": "DEMOCRACY",
+      "gloss": "Government by the people."
+    },
+    {
+      "word": "OLIGARCHY",
+      "gloss": "Rule by a small group."
+    },
+    {
+      "word": "MONARCHY",
+      "gloss": "Rule by a monarch."
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system."
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages."
+    },
+    {
+      "word": "SQUIRE",
+      "gloss": "A young man attending a knight."
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church."
+    },
+    {
+      "word": "MONASTERY",
+      "gloss": "A community of monks."
+    },
+    {
+      "word": "ABBESS",
+      "gloss": "A woman heading a convent."
+    },
+    {
+      "word": "PILGRIM",
+      "gloss": "A person traveling for religious reasons."
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign."
+    },
+    {
+      "word": "RENAISSANCE",
+      "gloss": "A revival of art and learning in Europe."
+    },
+    {
+      "word": "INDUSTRY",
+      "gloss": "Large-scale manufacturing."
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process."
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places."
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea."
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control."
+    },
+    {
+      "word": "TRADE",
+      "gloss": "The exchange of goods."
+    },
+    {
+      "word": "SILKROAD",
+      "gloss": "Historic trade routes across Asia."
+    },
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade."
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships."
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships."
+    },
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships."
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea."
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth."
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north."
+    },
+    {
+      "word": "ASTROLABE",
+      "gloss": "An instrument for navigation by stars."
+    },
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days."
+    },
+    {
+      "word": "EPOCH",
+      "gloss": "A notable period in history."
+    },
+    {
+      "word": "CENTURY",
+      "gloss": "A period of one hundred years."
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years."
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years."
+    },
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past."
+    },
+    {
+      "word": "MEDIEVAL",
+      "gloss": "Relating to the Middle Ages."
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times."
+    },
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture."
+    },
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style."
+    },
+    {
+      "word": "GOTHIC",
+      "gloss": "A medieval architectural style."
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces."
+    },
+    {
+      "word": "FRESCO",
+      "gloss": "A painting on wet plaster."
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding."
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person."
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past."
+    },
+    {
+      "word": "HERITAGE",
+      "gloss": "Traditions and culture from the past."
+    },
+    {
+      "word": "ANCESTOR",
+      "gloss": "A person from whom one is descended."
+    },
+    {
+      "word": "DESCENDANT",
+      "gloss": "A person descended from an ancestor."
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history."
+    },
+    {
+      "word": "MIGRATION",
+      "gloss": "Movement of people from one place to another."
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community."
+    },
+    {
+      "word": "CIVILIZATION",
+      "gloss": "An advanced stage of social development."
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people."
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication."
+    },
+    {
+      "word": "ALPHABET",
+      "gloss": "A set of letters used in writing."
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records."
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher learning."
+    },
+    {
+      "word": "SCHOLAR",
+      "gloss": "A person devoted to study."
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence."
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world."
+    },
+    {
+      "word": "ASTRONOMY",
+      "gloss": "The study of stars and planets."
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing."
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation."
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease."
+    },
+    {
+      "word": "FAMINE",
+      "gloss": "Extreme shortage of food."
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops."
+    },
+    {
+      "word": "AGRICULTURE",
+      "gloss": "The practice of farming."
+    },
+    {
+      "word": "IRRIGATION",
+      "gloss": "Supplying water to land for crops."
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle."
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil."
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain."
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped."
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money."
+    },
+    {
+      "word": "CURRENCY",
+      "gloss": "A system of money."
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade."
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population."
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law."
+    },
+    {
+      "word": "TRIAL",
+      "gloss": "A formal examination of evidence in court."
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court."
+    },
+    {
+      "word": "PARLIAMENT",
+      "gloss": "A legislature of elected members."
+    },
+    {
+      "word": "CONGRESS",
+      "gloss": "A national legislative body."
+    },
+    {
+      "word": "AMENDMENT",
+      "gloss": "A formal change to a law or constitution."
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote."
+    },
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery."
+    },
+    {
+      "word": "EMANCIPATION",
+      "gloss": "The act of setting free."
+    },
+    {
+      "word": "INDEPENDENCE",
+      "gloss": "Freedom from outside control."
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement."
+    },
+    {
+      "word": "FEDERATION",
+      "gloss": "A union of states under central power."
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries."
+    },
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat."
+    },
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting."
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict."
+    },
+    {
+      "word": "CAMPAIGN",
+      "gloss": "A series of military operations."
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal."
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle."
+    },
+    {
+      "word": "CAVALRY",
+      "gloss": "Soldiers who fight on horseback."
+    },
+    {
+      "word": "INFANTRY",
+      "gloss": "Soldiers who fight on foot."
+    },
+    {
+      "word": "ARCHER",
+      "gloss": "A person who shoots with a bow."
+    },
+    {
+      "word": "SHIELD",
+      "gloss": "A protective armor plate."
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon."
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip."
+    },
+    {
+      "word": "CATAPULT",
+      "gloss": "A machine for hurling large objects."
+    },
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount."
+    },
+    {
+      "word": "MUSKET",
+      "gloss": "An early type of gun."
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships."
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new."
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose."
+    },
+    {
+      "word": "COLONIST",
+      "gloss": "A settler in a colony."
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore."
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land."
+    },
+    {
+      "word": "RAILROAD",
+      "gloss": "A track system for trains."
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire."
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images."
+    },
+    {
+      "word": "REFORMATION",
+      "gloss": "A 16th-century religious movement."
+    },
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories."
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects."
+    },
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public."
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection."
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history."
+    },
+    {
+      "word": "PRIMARY",
+      "gloss": "An original historical source."
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence."
+    },
+    {
+      "word": "EVIDENCE",
+      "gloss": "Information used to support a claim."
+    },
+    {
+      "word": "TIMELINE",
+      "gloss": "A display of events in order."
+    }
+  ]
+}

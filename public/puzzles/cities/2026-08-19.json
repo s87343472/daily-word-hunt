@@ -6,208 +6,254 @@
   "theme": "places",
   "title": "Cities & Places",
   "description": "Streets, landmarks, and travel vocabulary for place lovers.",
-  "rows": 12,
-  "cols": 12,
+  "rows": 10,
+  "cols": 10,
   "grid": [
     [
+      "K",
       "R",
-      "B",
-      "S",
-      "M",
-      "A",
-      "Y",
-      "O",
-      "R",
-      "I",
-      "Y",
-      "A",
-      "G"
-    ],
-    [
-      "N",
-      "E",
-      "I",
       "G",
-      "H",
-      "B",
-      "O",
+      "M",
       "R",
-      "H",
-      "O",
-      "O",
-      "D"
-    ],
-    [
-      "X",
-      "C",
-      "R",
-      "F",
+      "E",
       "D",
-      "K",
-      "X",
-      "U",
-      "J",
-      "L",
-      "Y",
-      "D"
+      "R",
+      "O",
+      "B"
     ],
     [
-      "B",
-      "O",
-      "A",
-      "H",
-      "P",
-      "Q",
-      "O",
-      "F",
       "U",
+      "Q",
       "K",
+      "E",
+      "S",
+      "C",
+      "A",
+      "N",
+      "P",
+      "I"
+    ],
+    [
+      "L",
       "H",
+      "B",
+      "T",
+      "N",
+      "V",
+      "S",
+      "K",
+      "B",
+      "P"
+    ],
+    [
+      "J",
+      "I",
+      "A",
+      "R",
+      "U",
+      "C",
+      "P",
+      "R",
+      "O",
       "H"
     ],
     [
       "E",
-      "R",
-      "W",
-      "P",
-      "E",
-      "I",
-      "E",
-      "O",
-      "G",
-      "K",
-      "P",
-      "P"
-    ],
-    [
-      "N",
-      "J",
-      "C",
-      "D",
-      "I",
-      "O",
-      "P",
-      "J",
-      "O",
       "L",
-      "K",
+      "Z",
+      "O",
+      "B",
+      "G",
+      "H",
+      "E",
+      "P",
       "A"
     ],
     [
-      "C",
-      "S",
-      "T",
-      "Z",
-      "D",
-      "T",
-      "Z",
-      "E",
+      "O",
+      "L",
       "A",
-      "Z",
-      "G",
-      "T"
-    ],
-    [
-      "H",
       "P",
-      "N",
-      "T",
-      "I",
-      "J",
+      "D",
+      "G",
       "A",
+      "S",
+      "W",
+      "R"
+    ],
+    [
+      "D",
+      "S",
+      "A",
+      "O",
+      "B",
+      "G",
+      "L",
+      "O",
+      "M",
+      "M"
+    ],
+    [
+      "X",
+      "I",
+      "R",
+      "L",
+      "D",
+      "C",
+      "T",
+      "R",
+      "V",
+      "A"
+    ],
+    [
+      "X",
+      "D",
+      "C",
+      "I",
       "Z",
       "L",
+      "L",
       "T",
-      "M",
-      "I"
+      "Q",
+      "C"
     ],
     [
-      "K",
-      "B",
-      "R",
-      "A",
-      "V",
-      "A",
-      "A",
-      "L",
-      "U",
-      "I",
-      "L",
-      "O"
-    ],
-    [
-      "H",
-      "B",
-      "J",
-      "M",
-      "C",
-      "V",
-      "N",
-      "B",
-      "R",
-      "O",
-      "N",
-      "X"
-    ],
-    [
-      "O",
-      "N",
+      "D",
       "E",
-      "X",
-      "H",
-      "B",
-      "C",
-      "Y",
-      "M",
-      "A",
-      "B",
-      "E"
-    ],
-    [
-      "N",
+      "D",
       "S",
-      "F",
-      "F",
-      "Y",
-      "Y",
-      "G",
-      "O",
-      "J",
       "A",
-      "R",
-      "T"
+      "L",
+      "L",
+      "E",
+      "Y",
+      "Y"
     ]
   ],
   "words": [
     {
-      "word": "BENCH",
-      "gloss": "A long seat for several people.",
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings.",
       "path": [
         {
-          "r": 3,
-          "c": 0
+          "r": 9,
+          "c": 4
         },
         {
-          "r": 4,
-          "c": 0
+          "r": 9,
+          "c": 5
         },
         {
-          "r": 5,
-          "c": 0
+          "r": 9,
+          "c": 6
         },
         {
-          "r": 6,
-          "c": 0
+          "r": 9,
+          "c": 7
         },
         {
-          "r": 7,
-          "c": 0
+          "r": 9,
+          "c": 8
         }
       ]
     },
     {
-      "word": "CAPITAL",
-      "gloss": "The city where a government is based.",
+      "word": "ASPHALT",
+      "gloss": "A dark material used for road surfaces.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HILLSIDE",
+      "gloss": "The side of a hill in a city.",
       "path": [
         {
           "r": 2,
@@ -215,159 +261,107 @@
         },
         {
           "r": 3,
-          "c": 2
-        },
-        {
-          "r": 4,
-          "c": 3
-        },
-        {
-          "r": 5,
-          "c": 4
-        },
-        {
-          "r": 6,
-          "c": 5
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 8,
-          "c": 7
-        }
-      ]
-    },
-    {
-      "word": "MAYOR",
-      "gloss": "The elected head of a city.",
-      "path": [
-        {
-          "r": 0,
-          "c": 3
-        },
-        {
-          "r": 0,
-          "c": 4
-        },
-        {
-          "r": 0,
-          "c": 5
-        },
-        {
-          "r": 0,
-          "c": 6
-        },
-        {
-          "r": 0,
-          "c": 7
-        }
-      ]
-    },
-    {
-      "word": "NEIGHBORHOOD",
-      "gloss": "A local area within a city.",
-      "path": [
-        {
-          "r": 1,
-          "c": 0
-        },
-        {
-          "r": 1,
           "c": 1
         },
         {
-          "r": 1,
-          "c": 2
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "METROPOLIS",
+      "gloss": "A very large city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
         },
         {
           "r": 1,
           "c": 3
         },
         {
-          "r": 1,
-          "c": 4
+          "r": 2,
+          "c": 3
         },
         {
-          "r": 1,
-          "c": 5
+          "r": 3,
+          "c": 3
         },
-        {
-          "r": 1,
-          "c": 6
-        },
-        {
-          "r": 1,
-          "c": 7
-        },
-        {
-          "r": 1,
-          "c": 8
-        },
-        {
-          "r": 1,
-          "c": 9
-        },
-        {
-          "r": 1,
-          "c": 10
-        },
-        {
-          "r": 1,
-          "c": 11
-        }
-      ]
-    },
-    {
-      "word": "PATIO",
-      "gloss": "A paved outdoor area by a house.",
-      "path": [
         {
           "r": 4,
-          "c": 11
+          "c": 3
         },
         {
           "r": 5,
-          "c": 11
+          "c": 3
         },
         {
           "r": 6,
-          "c": 11
+          "c": 3
         },
         {
           "r": 7,
-          "c": 11
+          "c": 3
         },
         {
           "r": 8,
-          "c": 11
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
         }
       ]
     },
     {
-      "word": "PIPELINE",
-      "gloss": "A long pipe for oil or gas.",
+      "word": "PHARMACY",
+      "gloss": "A shop that sells medicines.",
       "path": [
         {
+          "r": 2,
+          "c": 9
+        },
+        {
           "r": 3,
-          "c": 4
+          "c": 9
         },
         {
           "r": 4,
-          "c": 5
+          "c": 9
         },
         {
           "r": 5,
-          "c": 6
+          "c": 9
         },
         {
           "r": 6,
-          "c": 7
+          "c": 9
         },
         {
           "r": 7,
-          "c": 8
+          "c": 9
         },
         {
           "r": 8,
@@ -375,29 +369,29 @@
         },
         {
           "r": 9,
-          "c": 10
-        },
-        {
-          "r": 10,
-          "c": 11
+          "c": 9
         }
       ]
     },
     {
-      "word": "PLAZA",
-      "gloss": "A public open square.",
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation.",
       "path": [
         {
+          "r": 3,
+          "c": 7
+        },
+        {
           "r": 4,
-          "c": 10
+          "c": 7
         },
         {
           "r": 5,
-          "c": 9
+          "c": 7
         },
         {
           "r": 6,
-          "c": 8
+          "c": 7
         },
         {
           "r": 7,
@@ -405,29 +399,11 @@
         },
         {
           "r": 8,
-          "c": 6
-        }
-      ]
-    },
-    {
-      "word": "ZOO",
-      "gloss": "A place where animals are kept for display.",
-      "path": [
-        {
-          "r": 6,
-          "c": 9
-        },
-        {
-          "r": 5,
-          "c": 8
-        },
-        {
-          "r": 4,
           "c": 7
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.007Z"
+  "createdAt": "2026-08-07T05:30:56.347Z"
 }

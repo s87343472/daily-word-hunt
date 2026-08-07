@@ -10,130 +10,256 @@
   "cols": 10,
   "grid": [
     [
-      "Q",
       "P",
-      "Y",
-      "X",
-      "Z",
-      "M",
+      "H",
+      "J",
+      "S",
+      "D",
       "A",
+      "F",
+      "E",
+      "M",
+      "N"
+    ],
+    [
+      "R",
+      "G",
       "X",
+      "N",
+      "O",
+      "N",
+      "A",
+      "T",
+      "O",
+      "D"
+    ],
+    [
+      "O",
+      "U",
+      "Y",
+      "O",
+      "V",
+      "M",
+      "C",
+      "I",
+      "I",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "P",
+      "I",
+      "L",
+      "F",
+      "T",
+      "D",
+      "J",
+      "U"
+    ],
+    [
+      "E",
+      "R",
       "X",
+      "T",
+      "R",
+      "I",
+      "O",
+      "Q",
+      "V",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "D",
+      "C",
+      "D",
+      "I",
+      "R",
+      "Z",
+      "E",
+      "H"
+    ],
+    [
+      "A",
+      "B",
+      "J",
+      "E",
+      "I",
+      "M",
+      "Y",
+      "D",
+      "U",
+      "Q"
+    ],
+    [
+      "D",
+      "M",
+      "P",
+      "R",
+      "U",
+      "Y",
+      "R",
+      "G",
+      "H",
       "P"
     ],
     [
-      "C",
-      "O",
-      "L",
-      "U",
-      "M",
-      "N",
-      "D",
-      "C",
-      "U",
-      "O"
-    ],
-    [
-      "M",
-      "L",
+      "E",
+      "X",
+      "R",
       "I",
-      "O",
-      "H",
-      "P",
-      "D",
-      "A",
-      "K",
-      "S"
-    ],
-    [
-      "W",
-      "S",
+      "T",
       "A",
       "V",
-      "T",
-      "V",
-      "R",
-      "Y",
-      "S",
-      "T"
-    ],
-    [
-      "X",
-      "M",
-      "U",
-      "T",
-      "L",
-      "Z",
       "E",
-      "T",
-      "L",
-      "O"
-    ],
-    [
-      "K",
-      "E",
-      "L",
-      "Y",
-      "I",
-      "N",
-      "S",
-      "M",
-      "X",
-      "F"
-    ],
-    [
-      "V",
       "R",
+      "N"
+    ],
+    [
+      "E",
+      "F",
+      "M",
+      "D",
       "G",
-      "A",
-      "R",
-      "P",
-      "S",
-      "I",
       "M",
-      "F"
-    ],
-    [
-      "Q",
-      "X",
-      "A",
       "U",
-      "N",
-      "B",
-      "S",
-      "A",
-      "I",
-      "I"
-    ],
-    [
-      "Q",
-      "T",
-      "O",
-      "P",
-      "B",
-      "E",
       "R",
-      "O",
-      "D",
-      "C"
-    ],
-    [
-      "U",
-      "J",
-      "B",
-      "E",
-      "Z",
-      "T",
-      "S",
-      "K",
-      "H",
-      "E"
+      "A",
+      "L"
     ]
   ],
   "words": [
     {
-      "word": "ADDRESS",
-      "gloss": "The details of where a building is.",
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made.",
       "path": [
         {
           "r": 0,
@@ -166,203 +292,113 @@
       ]
     },
     {
-      "word": "COLUMN",
-      "gloss": "A vertical pillar.",
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
       "path": [
         {
-          "r": 1,
-          "c": 0
-        },
-        {
-          "r": 1,
-          "c": 1
-        },
-        {
-          "r": 1,
-          "c": 2
-        },
-        {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 1,
+          "r": 9,
           "c": 4
         },
         {
-          "r": 1,
+          "r": 8,
           "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
         }
       ]
     },
     {
-      "word": "HOSPITAL",
-      "gloss": "A place that cares for the sick.",
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
       "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
         {
           "r": 9,
           "c": 8
         },
         {
-          "r": 8,
-          "c": 7
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 6,
-          "c": 5
-        },
-        {
-          "r": 5,
-          "c": 4
-        },
-        {
-          "r": 4,
-          "c": 3
-        },
-        {
-          "r": 3,
-          "c": 2
-        },
-        {
-          "r": 2,
-          "c": 1
-        }
-      ]
-    },
-    {
-      "word": "JOURNEY",
-      "gloss": "Travel from one place to another.",
-      "path": [
-        {
           "r": 9,
-          "c": 1
-        },
-        {
-          "r": 8,
-          "c": 2
-        },
-        {
-          "r": 7,
-          "c": 3
-        },
-        {
-          "r": 6,
-          "c": 4
-        },
-        {
-          "r": 5,
-          "c": 5
-        },
-        {
-          "r": 4,
-          "c": 6
-        },
-        {
-          "r": 3,
-          "c": 7
+          "c": 9
         }
       ]
     },
     {
-      "word": "LANE",
-      "gloss": "A narrow road.",
-      "path": [
-        {
-          "r": 5,
-          "c": 2
-        },
-        {
-          "r": 6,
-          "c": 3
-        },
-        {
-          "r": 7,
-          "c": 4
-        },
-        {
-          "r": 8,
-          "c": 5
-        }
-      ]
-    },
-    {
-      "word": "PARK",
-      "gloss": "A public green space for recreation.",
-      "path": [
-        {
-          "r": 8,
-          "c": 3
-        },
-        {
-          "r": 7,
-          "c": 2
-        },
-        {
-          "r": 6,
-          "c": 1
-        },
-        {
-          "r": 5,
-          "c": 0
-        }
-      ]
-    },
-    {
-      "word": "POSTOFFICE",
-      "gloss": "A place for sending mail.",
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
       "path": [
         {
           "r": 0,
-          "c": 9
+          "c": 0
         },
         {
           "r": 1,
-          "c": 9
+          "c": 0
         },
         {
           "r": 2,
-          "c": 9
+          "c": 0
         },
         {
           "r": 3,
-          "c": 9
+          "c": 0
         },
         {
           "r": 4,
-          "c": 9
+          "c": 0
         },
         {
           "r": 5,
-          "c": 9
+          "c": 0
         },
         {
           "r": 6,
-          "c": 9
+          "c": 0
         },
         {
           "r": 7,
-          "c": 9
+          "c": 0
         },
         {
           "r": 8,
-          "c": 9
-        },
-        {
-          "r": 9,
-          "c": 9
+          "c": 0
         }
       ]
     },
     {
-      "word": "TRAM",
-      "gloss": "A passenger vehicle on rails in a city.",
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food.",
       "path": [
         {
-          "r": 9,
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
           "c": 5
         },
         {
@@ -370,16 +406,20 @@
           "c": 6
         },
         {
-          "r": 7,
+          "r": 8,
           "c": 7
         },
         {
-          "r": 6,
+          "r": 8,
           "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.005Z"
+  "createdAt": "2026-08-07T05:30:56.346Z"
 }

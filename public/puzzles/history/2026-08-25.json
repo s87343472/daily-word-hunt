@@ -1,0 +1,389 @@
+{
+  "id": "history-2026-08-25",
+  "playDate": "2026-08-25",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "E",
+      "X",
+      "R",
+      "E",
+      "L",
+      "I",
+      "C",
+      "B",
+      "A"
+    ],
+    [
+      "H",
+      "Z",
+      "S",
+      "S",
+      "Y",
+      "E",
+      "H",
+      "J",
+      "V",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "B",
+      "W",
+      "R",
+      "I",
+      "Y",
+      "M",
+      "L",
+      "J"
+    ],
+    [
+      "Y",
+      "H",
+      "R",
+      "I",
+      "Q",
+      "R",
+      "B",
+      "L",
+      "Y",
+      "O"
+    ],
+    [
+      "B",
+      "R",
+      "P",
+      "I",
+      "U",
+      "C",
+      "I",
+      "W",
+      "A",
+      "C"
+    ],
+    [
+      "C",
+      "M",
+      "A",
+      "T",
+      "T",
+      "A",
+      "N",
+      "O",
+      "K",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "R",
+      "N",
+      "A",
+      "D",
+      "L",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "C",
+      "C",
+      "B",
+      "H",
+      "G",
+      "P",
+      "H",
+      "R"
+    ],
+    [
+      "C",
+      "V",
+      "E",
+      "E",
+      "I",
+      "I",
+      "W",
+      "E",
+      "Y",
+      "F"
+    ],
+    [
+      "O",
+      "G",
+      "X",
+      "U",
+      "F",
+      "O",
+      "L",
+      "U",
+      "S",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CENTURY",
+      "gloss": "A period of one hundred years.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EMPIRE",
+      "gloss": "A group of lands under one ruler.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FRESCO",
+      "gloss": "A painting on wet plaster.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HERITAGE",
+      "gloss": "Traditions and culture from the past.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.260Z"
+}

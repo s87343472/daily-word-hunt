@@ -1,0 +1,405 @@
+{
+  "id": "history-2026-09-04",
+  "playDate": "2026-09-04",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "E",
+      "K",
+      "R",
+      "A",
+      "M",
+      "S",
+      "Z",
+      "T",
+      "B"
+    ],
+    [
+      "G",
+      "C",
+      "L",
+      "A",
+      "S",
+      "S",
+      "I",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "M",
+      "Z",
+      "M",
+      "W",
+      "E",
+      "W",
+      "A",
+      "U",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "Z",
+      "G",
+      "R",
+      "U",
+      "F",
+      "N",
+      "L",
+      "H",
+      "O"
+    ],
+    [
+      "Z",
+      "F",
+      "P",
+      "W",
+      "I",
+      "M",
+      "K",
+      "V",
+      "C",
+      "N"
+    ],
+    [
+      "W",
+      "M",
+      "O",
+      "T",
+      "E",
+      "U",
+      "A",
+      "X",
+      "R",
+      "A"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "K",
+      "Z",
+      "E",
+      "X",
+      "U",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "R",
+      "N",
+      "S",
+      "O",
+      "O",
+      "N",
+      "C"
+    ],
+    [
+      "M",
+      "I",
+      "A",
+      "P",
+      "K",
+      "U",
+      "H",
+      "U",
+      "O",
+      "H"
+    ],
+    [
+      "J",
+      "Z",
+      "W",
+      "L",
+      "M",
+      "M",
+      "Z",
+      "T",
+      "M",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MONARCHY",
+      "gloss": "Rule by a monarch.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.272Z"
+}

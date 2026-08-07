@@ -1,0 +1,393 @@
+{
+  "id": "history-2026-08-07",
+  "playDate": "2026-08-07",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "Z",
+      "Y",
+      "T",
+      "D",
+      "I",
+      "M",
+      "P",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      "J",
+      "M",
+      "R",
+      "S",
+      "E",
+      "I",
+      "R",
+      "G",
+      "D"
+    ],
+    [
+      "E",
+      "U",
+      "T",
+      "I",
+      "T",
+      "B",
+      "C",
+      "V",
+      "O",
+      "K"
+    ],
+    [
+      "P",
+      "R",
+      "B",
+      "A",
+      "R",
+      "X",
+      "E",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "U",
+      "Y",
+      "H",
+      "L",
+      "A",
+      "L",
+      "N",
+      "Q",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "S",
+      "E",
+      "D",
+      "E",
+      "I",
+      "F",
+      "N"
+    ],
+    [
+      "I",
+      "W",
+      "A",
+      "N",
+      "G",
+      "Q",
+      "C",
+      "I",
+      "S",
+      "O"
+    ],
+    [
+      "C",
+      "C",
+      "T",
+      "D",
+      "Y",
+      "S",
+      "G",
+      "J",
+      "S",
+      "I"
+    ],
+    [
+      "W",
+      "F",
+      "K",
+      "C",
+      "J",
+      "Z",
+      "I",
+      "N",
+      "Q",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRIAL",
+      "gloss": "A formal examination of evidence in court.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.231Z"
+}

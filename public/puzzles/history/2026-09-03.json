@@ -1,0 +1,421 @@
+{
+  "id": "history-2026-09-03",
+  "playDate": "2026-09-03",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "U",
+      "E",
+      "S",
+      "J",
+      "P",
+      "R",
+      "U",
+      "I",
+      "C"
+    ],
+    [
+      "R",
+      "P",
+      "D",
+      "S",
+      "N",
+      "A",
+      "L",
+      "P",
+      "A",
+      "C"
+    ],
+    [
+      "I",
+      "U",
+      "A",
+      "S",
+      "S",
+      "H",
+      "O",
+      "M",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "A",
+      "I",
+      "R",
+      "P",
+      "S",
+      "K",
+      "K"
+    ],
+    [
+      "T",
+      "B",
+      "E",
+      "P",
+      "T",
+      "A",
+      "T",
+      "D",
+      "Y",
+      "X"
+    ],
+    [
+      "I",
+      "L",
+      "D",
+      "R",
+      "I",
+      "L",
+      "E",
+      "N",
+      "D",
+      "W"
+    ],
+    [
+      "N",
+      "Y",
+      "A",
+      "G",
+      "E",
+      "Y",
+      "O",
+      "L",
+      "T",
+      "D"
+    ],
+    [
+      "G",
+      "I",
+      "N",
+      "V",
+      "E",
+      "N",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "B",
+      "M",
+      "C",
+      "U",
+      "R",
+      "A",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "Y",
+      "T",
+      "A",
+      "C",
+      "T",
+      "I",
+      "C",
+      "S",
+      "C",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMPAIGN",
+      "gloss": "A series of military operations.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.271Z"
+}

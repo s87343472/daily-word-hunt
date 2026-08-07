@@ -94,12 +94,25 @@ npx impeccable install --providers=grok --scope=project
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Static vs dynamic, packs, Free tier |
 | [PROJECT.md](./PROJECT.md) | Routes, SEO checklist, ops notes |
 
-## Roadmap (not done yet)
+## Analytics (opt-in only)
 
-- Leaderboard (Pages Function + D1; optional nickname, no forced login)
+Set on Cloudflare Pages (or `.env`) — scripts load **only** after cookie Accept:
+
+```bash
+PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art
+# and/or
+PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXX
+```
+
+## Local progress
+
+Completing a daily puzzle stores a streak in `localStorage` (`dwh-progress-v1`) and offers Share on the win dialog.
+
+## Roadmap (still open)
+
+- Leaderboard (Pages Function + D1; optional nickname)
 - Optional accounts
-- More themed packs / languages
-- Real analytics vendor (after cookie opt-in)
+- More languages
 
 ## License
 

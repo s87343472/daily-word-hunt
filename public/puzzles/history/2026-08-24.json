@@ -1,0 +1,421 @@
+{
+  "id": "history-2026-08-24",
+  "playDate": "2026-08-24",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "H",
+      "M",
+      "O",
+      "D",
+      "L",
+      "A",
+      "I",
+      "P",
+      "Q"
+    ],
+    [
+      "C",
+      "I",
+      "U",
+      "O",
+      "S",
+      "I",
+      "Z",
+      "M",
+      "A",
+      "Y"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "C",
+      "I",
+      "T",
+      "S",
+      "U",
+      "J",
+      "H"
+    ],
+    [
+      "N",
+      "R",
+      "S",
+      "G",
+      "J",
+      "E",
+      "T",
+      "G",
+      "L",
+      "C"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "I",
+      "E",
+      "M",
+      "E",
+      "V",
+      "Y",
+      "R"
+    ],
+    [
+      "U",
+      "G",
+      "M",
+      "N",
+      "R",
+      "P",
+      "M",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "L",
+      "B",
+      "O",
+      "R",
+      "R",
+      "P",
+      "Y",
+      "K",
+      "G"
+    ],
+    [
+      "I",
+      "Y",
+      "Z",
+      "G",
+      "N",
+      "E",
+      "L",
+      "V",
+      "P",
+      "I"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "O",
+      "B",
+      "S",
+      "E",
+      "N",
+      "P",
+      "L"
+    ],
+    [
+      "N",
+      "H",
+      "A",
+      "M",
+      "W",
+      "S",
+      "H",
+      "Q",
+      "E",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "OLIGARCHY",
+      "gloss": "Rule by a small group.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SIEGE",
+      "gloss": "A military blockade of a place.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.259Z"
+}

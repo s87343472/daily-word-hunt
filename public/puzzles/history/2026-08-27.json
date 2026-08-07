@@ -1,0 +1,409 @@
+{
+  "id": "history-2026-08-27",
+  "playDate": "2026-08-27",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "U",
+      "F",
+      "F",
+      "R",
+      "A",
+      "G",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "T",
+      "W",
+      "K",
+      "Q",
+      "U",
+      "R",
+      "U",
+      "O",
+      "E"
+    ],
+    [
+      "T",
+      "N",
+      "M",
+      "E",
+      "S",
+      "L",
+      "N",
+      "I",
+      "G",
+      "X"
+    ],
+    [
+      "T",
+      "E",
+      "K",
+      "R",
+      "A",
+      "M",
+      "T",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "O",
+      "I",
+      "D",
+      "Z",
+      "T",
+      "I",
+      "K",
+      "R",
+      "I",
+      "L"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "A",
+      "L",
+      "N",
+      "U",
+      "W",
+      "X",
+      "O"
+    ],
+    [
+      "G",
+      "N",
+      "H",
+      "O",
+      "S",
+      "T",
+      "A",
+      "P",
+      "R",
+      "R"
+    ],
+    [
+      "B",
+      "A",
+      "B",
+      "O",
+      "L",
+      "U",
+      "G",
+      "K",
+      "Y",
+      "E"
+    ],
+    [
+      "I",
+      "A",
+      "R",
+      "U",
+      "E",
+      "J",
+      "R",
+      "G",
+      "M",
+      "R"
+    ],
+    [
+      "A",
+      "Y",
+      "C",
+      "P",
+      "K",
+      "C",
+      "D",
+      "C",
+      "A",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RUNE",
+      "gloss": "A letter of an ancient alphabet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.262Z"
+}

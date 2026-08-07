@@ -1,0 +1,436 @@
+{
+  "id": "history-2026-08-13",
+  "playDate": "2026-08-13",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "J",
+      "C",
+      "T",
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "X",
+      "H",
+      "L",
+      "D",
+      "G",
+      "B",
+      "I",
+      "H",
+      "C",
+      "O",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "N",
+      "E",
+      "L",
+      "A",
+      "C",
+      "I",
+      "G",
+      "V"
+    ],
+    [
+      "I",
+      "N",
+      "Y",
+      "I",
+      "X",
+      "B",
+      "Z",
+      "T",
+      "G",
+      "N",
+      "I"
+    ],
+    [
+      "C",
+      "I",
+      "H",
+      "T",
+      "O",
+      "G",
+      "A",
+      "V",
+      "N",
+      "L",
+      "D"
+    ],
+    [
+      "H",
+      "J",
+      "R",
+      "C",
+      "S",
+      "M",
+      "W",
+      "N",
+      "I",
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "I",
+      "T",
+      "R",
+      "N",
+      "O",
+      "O",
+      "T",
+      "G",
+      "N"
+    ],
+    [
+      "S",
+      "V",
+      "B",
+      "O",
+      "A",
+      "V",
+      "K",
+      "I",
+      "N",
+      "B",
+      "C"
+    ],
+    [
+      "L",
+      "S",
+      "F",
+      "V",
+      "V",
+      "A",
+      "H",
+      "G",
+      "I",
+      "H",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "Y",
+      "B",
+      "C",
+      "U",
+      "E",
+      "E",
+      "R",
+      "E",
+      "X"
+    ],
+    [
+      "R",
+      "V",
+      "E",
+      "E",
+      "F",
+      "M",
+      "T",
+      "L",
+      "P",
+      "L",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EVIDENCE",
+      "gloss": "Information used to support a claim.",
+      "path": [
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "GOTHIC",
+      "gloss": "A medieval architectural style.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images.",
+      "path": [
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REFORMATION",
+      "gloss": "A 16th-century religious movement.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.242Z"
+}

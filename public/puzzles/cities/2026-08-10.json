@@ -10,167 +10,133 @@
   "cols": 10,
   "grid": [
     [
-      "F",
-      "C",
-      "Q",
-      "N",
-      "R",
       "H",
       "P",
+      "E",
+      "C",
+      "X",
       "R",
-      "A",
-      "N"
-    ],
-    [
-      "P",
-      "O",
-      "W",
-      "E",
-      "R",
-      "L",
-      "I",
-      "N",
-      "E",
-      "B"
-    ],
-    [
-      "G",
-      "C",
-      "I",
-      "W",
-      "I",
-      "U",
-      "E",
-      "N",
       "S",
-      "O"
-    ],
-    [
-      "E",
-      "P",
       "I",
-      "S",
-      "Y",
+      "F",
+      "I"
+    ],
+    [
       "E",
-      "L",
-      "L",
       "A",
-      "R"
-    ],
-    [
-      "F",
-      "K",
-      "T",
-      "S",
-      "C",
-      "L",
-      "E",
-      "T",
-      "J",
-      "O"
-    ],
-    [
-      "J",
-      "G",
-      "Z",
-      "T",
-      "C",
-      "E",
-      "V",
-      "U",
-      "G",
-      "U"
-    ],
-    [
-      "V",
-      "F",
-      "F",
-      "A",
-      "I",
-      "N",
-      "A",
-      "E",
-      "E",
-      "G"
-    ],
-    [
-      "F",
-      "T",
-      "F",
-      "N",
-      "N",
-      "L",
-      "T",
-      "L",
-      "L",
-      "H"
-    ],
-    [
-      "H",
-      "E",
-      "C",
       "D",
-      "N",
-      "N",
+      "D",
+      "I",
       "O",
-      "Z",
-      "Y",
-      "G"
+      "M",
+      "X",
+      "F",
+      "C"
     ],
     [
-      "U",
+      "W",
+      "L",
+      "D",
+      "L",
+      "I",
       "F",
-      "Q",
-      "G",
+      "T",
+      "A",
+      "I",
+      "T"
+    ],
+    [
+      "W",
+      "A",
       "Z",
       "B",
-      "R",
+      "O",
+      "S",
+      "F",
+      "T",
+      "Q",
+      "I"
+    ],
+    [
+      "S",
+      "Z",
+      "G",
+      "D",
+      "O",
       "U",
-      "J",
-      "L"
+      "Y",
+      "A",
+      "I",
+      "X"
+    ],
+    [
+      "H",
+      "Z",
+      "O",
+      "P",
+      "P",
+      "B",
+      "L",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "Y",
+      "O",
+      "M",
+      "X",
+      "K",
+      "U",
+      "A",
+      "P",
+      "U",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "A",
+      "B",
+      "T",
+      "R",
+      "O",
+      "Z",
+      "X",
+      "Q"
+    ],
+    [
+      "L",
+      "U",
+      "C",
+      "X",
+      "W",
+      "B",
+      "N",
+      "G",
+      "O",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "U",
+      "D",
+      "I",
+      "O",
+      "Z",
+      "P",
+      "V",
+      "H"
     ]
   ],
   "words": [
     {
-      "word": "ALLEY",
-      "gloss": "A narrow passage between buildings.",
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
       "path": [
         {
-          "r": 3,
-          "c": 8
-        },
-        {
-          "r": 3,
-          "c": 7
-        },
-        {
-          "r": 3,
-          "c": 6
-        },
-        {
-          "r": 3,
-          "c": 5
-        },
-        {
-          "r": 3,
-          "c": 4
-        }
-      ]
-    },
-    {
-      "word": "BOROUGH",
-      "gloss": "A district within a city.",
-      "path": [
-        {
-          "r": 1,
-          "c": 9
-        },
-        {
-          "r": 2,
-          "c": 9
-        },
-        {
-          "r": 3,
+          "r": 5,
           "c": 9
         },
         {
@@ -178,204 +144,238 @@
           "c": 9
         },
         {
-          "r": 5,
+          "r": 3,
           "c": 9
         },
         {
-          "r": 6,
-          "c": 9
-        },
-        {
-          "r": 7,
+          "r": 2,
           "c": 9
         }
       ]
     },
     {
-      "word": "CAFE",
-      "gloss": "A small restaurant serving drinks and light meals.",
+      "word": "LAMPOST",
+      "gloss": "A tall post with a light.",
       "path": [
-        {
-          "r": 5,
-          "c": 4
-        },
-        {
-          "r": 6,
-          "c": 3
-        },
-        {
-          "r": 7,
-          "c": 2
-        },
         {
           "r": 8,
-          "c": 1
-        }
-      ]
-    },
-    {
-      "word": "ELEVATOR",
-      "gloss": "A platform that moves people between floors.",
-      "path": [
-        {
-          "r": 2,
-          "c": 6
-        },
-        {
-          "r": 3,
-          "c": 6
-        },
-        {
-          "r": 4,
-          "c": 6
-        },
-        {
-          "r": 5,
-          "c": 6
-        },
-        {
-          "r": 6,
-          "c": 6
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 8,
-          "c": 6
-        },
-        {
-          "r": 9,
-          "c": 6
-        }
-      ]
-    },
-    {
-      "word": "INN",
-      "gloss": "A small hotel, often in the countryside.",
-      "path": [
-        {
-          "r": 6,
-          "c": 4
-        },
-        {
-          "r": 7,
-          "c": 4
-        },
-        {
-          "r": 8,
-          "c": 4
-        }
-      ]
-    },
-    {
-      "word": "NEWSSTAND",
-      "gloss": "A stall that sells newspapers.",
-      "path": [
-        {
-          "r": 0,
-          "c": 3
-        },
-        {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 2,
-          "c": 3
-        },
-        {
-          "r": 3,
-          "c": 3
-        },
-        {
-          "r": 4,
-          "c": 3
-        },
-        {
-          "r": 5,
-          "c": 3
-        },
-        {
-          "r": 6,
-          "c": 3
-        },
-        {
-          "r": 7,
-          "c": 3
-        },
-        {
-          "r": 8,
-          "c": 3
-        }
-      ]
-    },
-    {
-      "word": "PIER",
-      "gloss": "A platform extending into water.",
-      "path": [
-        {
-          "r": 3,
-          "c": 1
-        },
-        {
-          "r": 2,
-          "c": 2
-        },
-        {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 0,
-          "c": 4
-        }
-      ]
-    },
-    {
-      "word": "POWERLINE",
-      "gloss": "A cable carrying electricity.",
-      "path": [
-        {
-          "r": 1,
           "c": 0
         },
         {
-          "r": 1,
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 0,
           "c": 1
         },
         {
           "r": 1,
-          "c": 2
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "QUAYSIDE",
+      "gloss": "The area along a quay.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
         },
         {
           "r": 1,
           "c": 3
         },
         {
-          "r": 1,
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
           "c": 4
         },
         {
-          "r": 1,
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 3,
           "c": 5
         },
         {
-          "r": 1,
-          "c": 6
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
         },
         {
           "r": 1,
           "c": 7
         },
         {
-          "r": 1,
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TRAFFIC",
+      "gloss": "Vehicles moving on a road.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
           "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:42.999Z"
+  "createdAt": "2026-08-07T05:30:56.337Z"
 }

@@ -1,0 +1,397 @@
+{
+  "id": "history-2026-08-19",
+  "playDate": "2026-08-19",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "E",
+      "X",
+      "H",
+      "I",
+      "B",
+      "I",
+      "T",
+      "T",
+      "H"
+    ],
+    [
+      "P",
+      "C",
+      "N",
+      "F",
+      "L",
+      "E",
+      "E",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "H",
+      "X",
+      "O",
+      "N",
+      "L",
+      "W",
+      "O",
+      "R",
+      "U",
+      "R"
+    ],
+    [
+      "G",
+      "O",
+      "Z",
+      "L",
+      "J",
+      "L",
+      "V",
+      "L",
+      "W",
+      "L"
+    ],
+    [
+      "Q",
+      "Y",
+      "J",
+      "E",
+      "O",
+      "E",
+      "A",
+      "L",
+      "C",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "W",
+      "H",
+      "S",
+      "N",
+      "T",
+      "W",
+      "U",
+      "G"
+    ],
+    [
+      "E",
+      "Y",
+      "C",
+      "T",
+      "P",
+      "O",
+      "I",
+      "O",
+      "W",
+      "A"
+    ],
+    [
+      "N",
+      "P",
+      "X",
+      "O",
+      "N",
+      "Y",
+      "J",
+      "S",
+      "M",
+      "C"
+    ],
+    [
+      "T",
+      "H",
+      "G",
+      "I",
+      "N",
+      "K",
+      "Z",
+      "B",
+      "T",
+      "Y"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "U",
+      "S",
+      "T",
+      "R",
+      "I",
+      "A",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COLONIST",
+      "gloss": "A settler in a colony.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.250Z"
+}

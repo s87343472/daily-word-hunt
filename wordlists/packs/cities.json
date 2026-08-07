@@ -760,6 +760,334 @@
     {
       "word": "POSTCODE",
       "gloss": "A code for a postal area."
+    },
+    {
+      "word": "METRO",
+      "gloss": "An urban rail system."
+    },
+    {
+      "word": "SKYTRAIN",
+      "gloss": "An elevated urban train."
+    },
+    {
+      "word": "BUSSTOP",
+      "gloss": "A place where buses pick up passengers."
+    },
+    {
+      "word": "CROSSING",
+      "gloss": "A place where roads or paths cross."
+    },
+    {
+      "word": "JUNCTION",
+      "gloss": "A place where roads meet."
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city."
+    },
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center."
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge."
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building."
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping roadway connection."
+    },
+    {
+      "word": "MEDIAN",
+      "gloss": "A strip separating opposing traffic."
+    },
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk."
+    },
+    {
+      "word": "PAVEMENT",
+      "gloss": "A hard road or walkway surface."
+    },
+    {
+      "word": "ASPHALT",
+      "gloss": "A dark material used for road surfaces."
+    },
+    {
+      "word": "CONCRETE",
+      "gloss": "A building material of cement and aggregate."
+    },
+    {
+      "word": "BRICKWORK",
+      "gloss": "Construction using bricks."
+    },
+    {
+      "word": "ATTIC",
+      "gloss": "A room just under the roof."
+    },
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level."
+    },
+    {
+      "word": "FOYER",
+      "gloss": "An entrance area in a building."
+    },
+    {
+      "word": "MEZZANINE",
+      "gloss": "A partial floor between main floors."
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms."
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace."
+    },
+    {
+      "word": "LOFT",
+      "gloss": "An open upper-level living space."
+    },
+    {
+      "word": "CONDO",
+      "gloss": "A privately owned apartment unit."
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls."
+    },
+    {
+      "word": "VILLA",
+      "gloss": "A large free-standing house."
+    },
+    {
+      "word": "COTTAGE",
+      "gloss": "A small simple house."
+    },
+    {
+      "word": "BUNGALOW",
+      "gloss": "A low house with a wide porch."
+    },
+    {
+      "word": "MANSION",
+      "gloss": "A large impressive house."
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building."
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress commanding a city."
+    },
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification."
+    },
+    {
+      "word": "RAMPART",
+      "gloss": "A defensive wall of a fort."
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle."
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised."
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building."
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building."
+    },
+    {
+      "word": "CORNICE",
+      "gloss": "A decorative molding at the top of a wall."
+    },
+    {
+      "word": "PORTICO",
+      "gloss": "A porch with columns."
+    },
+    {
+      "word": "COLONNADE",
+      "gloss": "A row of columns."
+    },
+    {
+      "word": "OBELISK",
+      "gloss": "A tall four-sided stone pillar."
+    },
+    {
+      "word": "GAZEBO",
+      "gloss": "An open garden shelter."
+    },
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music."
+    },
+    {
+      "word": "AMPHITHEATER",
+      "gloss": "An open circular performance space."
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances."
+    },
+    {
+      "word": "CINEMA",
+      "gloss": "A place for watching films."
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center."
+    },
+    {
+      "word": "QUAYSIDE",
+      "gloss": "The area along a quay."
+    },
+    {
+      "word": "WHARFAGE",
+      "gloss": "Space or fees at a wharf."
+    },
+    {
+      "word": "DRYDOCK",
+      "gloss": "A dock for repairing ships."
+    },
+    {
+      "word": "SHIPYARD",
+      "gloss": "A place where ships are built."
+    },
+    {
+      "word": "AIRFIELD",
+      "gloss": "An area for aircraft takeoff and landing."
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters."
+    },
+    {
+      "word": "RUNWAY",
+      "gloss": "A strip for aircraft takeoff and landing."
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station."
+    },
+    {
+      "word": "TIMETABLE",
+      "gloss": "A schedule of arrivals and departures."
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another."
+    },
+    {
+      "word": "COMMUTER",
+      "gloss": "A person who travels daily to work."
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle."
+    },
+    {
+      "word": "TRAMWAY",
+      "gloss": "Tracks for a tram."
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A streetcar or wheeled cart."
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails."
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope."
+    },
+    {
+      "word": "MONORAIL",
+      "gloss": "A railway with a single rail."
+    },
+    {
+      "word": "SUBURBIA",
+      "gloss": "Suburban residential areas."
+    },
+    {
+      "word": "MIDTOWN",
+      "gloss": "The middle area of a large city."
+    },
+    {
+      "word": "HARBORSIDE",
+      "gloss": "The area beside a harbor."
+    },
+    {
+      "word": "RIVERSIDE",
+      "gloss": "Land along a river."
+    },
+    {
+      "word": "HILLSIDE",
+      "gloss": "The side of a hill in a city."
+    },
+    {
+      "word": "SKYSCRAPER",
+      "gloss": "A very tall building."
+    },
+    {
+      "word": "HIGHRISE",
+      "gloss": "A tall multi-story building."
+    },
+    {
+      "word": "TOWERBLOCK",
+      "gloss": "A tall residential building."
+    },
+    {
+      "word": "OFFICE",
+      "gloss": "A room or building for work."
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods."
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made."
+    },
+    {
+      "word": "WORKSHOP",
+      "gloss": "A room or building for making things."
+    },
+    {
+      "word": "BISTRO",
+      "gloss": "A small informal restaurant."
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food."
+    },
+    {
+      "word": "COURT",
+      "gloss": "An area for ball games; also a law court."
+    },
+    {
+      "word": "PITCH",
+      "gloss": "A sports field."
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path for running or racing."
+    },
+    {
+      "word": "ARCHIVE",
+      "gloss": "A place storing historical records."
     }
   ]
 }

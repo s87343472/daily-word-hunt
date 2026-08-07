@@ -6,355 +6,220 @@
   "theme": "places",
   "title": "Cities & Places",
   "description": "Streets, landmarks, and travel vocabulary for place lovers.",
-  "rows": 11,
-  "cols": 11,
+  "rows": 10,
+  "cols": 10,
   "grid": [
     [
-      "P",
-      "L",
-      "A",
-      "T",
-      "F",
-      "O",
       "R",
-      "M",
-      "A",
-      "T",
-      "R"
-    ],
-    [
       "E",
-      "E",
-      "W",
-      "L",
-      "E",
-      "Z",
-      "N",
       "P",
-      "C",
-      "I",
-      "P"
-    ],
-    [
-      "T",
-      "G",
-      "T",
-      "I",
-      "T",
-      "P",
-      "J",
-      "C",
-      "E",
-      "C",
-      "E"
-    ],
-    [
       "A",
-      "A",
-      "L",
-      "G",
-      "Z",
       "R",
+      "C",
+      "S",
       "Y",
-      "C",
-      "F",
       "K",
-      "D"
-    ],
-    [
-      "L",
-      "L",
-      "F",
-      "H",
-      "Y",
-      "J",
-      "N",
-      "M",
-      "P",
-      "E",
-      "E"
-    ],
-    [
-      "U",
-      "L",
-      "H",
-      "T",
-      "K",
-      "I",
-      "R",
-      "M",
-      "D",
-      "T",
       "S"
     ],
     [
-      "S",
-      "I",
-      "J",
-      "H",
-      "V",
-      "V",
-      "H",
+      "T",
+      "O",
       "W",
-      "Q",
-      "B",
+      "N",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
       "T"
     ],
     [
+      "Q",
+      "R",
+      "P",
+      "O",
+      "C",
+      "M",
+      "P",
+      "T",
       "N",
+      "E"
+    ],
+    [
+      "I",
+      "O",
+      "A",
+      "T",
+      "C",
       "V",
-      "G",
-      "O",
-      "U",
+      "M",
+      "N",
+      "K",
+      "R"
+    ],
+    [
       "H",
-      "O",
+      "Y",
       "F",
-      "H",
+      "B",
+      "L",
+      "A",
       "O",
+      "O",
+      "C",
       "R"
     ],
     [
       "O",
-      "W",
-      "R",
-      "U",
-      "T",
-      "R",
-      "Z",
-      "E",
-      "R",
-      "O",
-      "I"
-    ],
-    [
-      "C",
-      "P",
-      "C",
-      "S",
-      "C",
       "B",
-      "N",
-      "N",
       "Y",
-      "T",
+      "B",
+      "Y",
+      "I",
+      "Z",
+      "V",
+      "A",
       "A"
     ],
     [
-      "M",
-      "D",
-      "M",
+      "S",
+      "O",
       "E",
-      "D",
-      "N",
+      "O",
+      "S",
+      "J",
+      "E",
+      "S",
+      "M",
+      "C"
+    ],
+    [
       "T",
-      "R",
       "W",
+      "R",
+      "N",
+      "Y",
+      "N",
+      "I",
+      "J",
+      "P",
+      "E"
+    ],
+    [
+      "E",
+      "U",
+      "A",
+      "B",
+      "C",
+      "Z",
+      "J",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "L",
+      "M",
+      "Z",
+      "F",
+      "Z",
       "H",
-      "N"
+      "P",
+      "K",
+      "S",
+      "Z"
     ]
   ],
   "words": [
     {
-      "word": "CONSULATE",
-      "gloss": "An office that helps citizens abroad.",
+      "word": "BENCH",
+      "gloss": "A long seat for several people.",
       "path": [
         {
-          "r": 9,
-          "c": 0
-        },
-        {
-          "r": 8,
-          "c": 0
-        },
-        {
-          "r": 7,
-          "c": 0
+          "r": 5,
+          "c": 1
         },
         {
           "r": 6,
-          "c": 0
+          "c": 2
         },
         {
-          "r": 5,
-          "c": 0
+          "r": 7,
+          "c": 3
         },
         {
-          "r": 4,
-          "c": 0
+          "r": 8,
+          "c": 4
         },
         {
-          "r": 3,
-          "c": 0
-        },
-        {
-          "r": 2,
-          "c": 0
-        },
-        {
-          "r": 1,
-          "c": 0
+          "r": 9,
+          "c": 5
         }
       ]
     },
     {
-      "word": "CROWD",
-      "gloss": "A large group of people.",
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
       "path": [
         {
-          "r": 9,
-          "c": 4
-        },
-        {
-          "r": 8,
-          "c": 5
-        },
-        {
-          "r": 7,
-          "c": 6
-        },
-        {
-          "r": 6,
-          "c": 7
+          "r": 4,
+          "c": 8
         },
         {
           "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
           "c": 8
         }
       ]
     },
     {
-      "word": "LIGHTHOUSE",
-      "gloss": "A tower with a light to guide ships.",
+      "word": "HOSTEL",
+      "gloss": "Inexpensive shared lodging.",
       "path": [
-        {
-          "r": 1,
-          "c": 3
-        },
-        {
-          "r": 2,
-          "c": 3
-        },
-        {
-          "r": 3,
-          "c": 3
-        },
         {
           "r": 4,
-          "c": 3
-        },
-        {
-          "r": 5,
-          "c": 3
-        },
-        {
-          "r": 6,
-          "c": 3
-        },
-        {
-          "r": 7,
-          "c": 3
-        },
-        {
-          "r": 8,
-          "c": 3
-        },
-        {
-          "r": 9,
-          "c": 3
-        },
-        {
-          "r": 10,
-          "c": 3
-        }
-      ]
-    },
-    {
-      "word": "PEDESTRIAN",
-      "gloss": "A person walking in a city.",
-      "path": [
-        {
-          "r": 1,
-          "c": 10
-        },
-        {
-          "r": 2,
-          "c": 10
-        },
-        {
-          "r": 3,
-          "c": 10
-        },
-        {
-          "r": 4,
-          "c": 10
-        },
-        {
-          "r": 5,
-          "c": 10
-        },
-        {
-          "r": 6,
-          "c": 10
-        },
-        {
-          "r": 7,
-          "c": 10
-        },
-        {
-          "r": 8,
-          "c": 10
-        },
-        {
-          "r": 9,
-          "c": 10
-        },
-        {
-          "r": 10,
-          "c": 10
-        }
-      ]
-    },
-    {
-      "word": "PLATFORM",
-      "gloss": "A raised area beside railway tracks.",
-      "path": [
-        {
-          "r": 0,
           "c": 0
         },
         {
-          "r": 0,
-          "c": 1
+          "r": 5,
+          "c": 0
         },
         {
-          "r": 0,
-          "c": 2
+          "r": 6,
+          "c": 0
         },
         {
-          "r": 0,
-          "c": 3
+          "r": 7,
+          "c": 0
         },
         {
-          "r": 0,
-          "c": 4
+          "r": 8,
+          "c": 0
         },
         {
-          "r": 0,
-          "c": 5
-        },
-        {
-          "r": 0,
-          "c": 6
-        },
-        {
-          "r": 0,
-          "c": 7
+          "r": 9,
+          "c": 0
         }
       ]
     },
     {
-      "word": "PROVINCE",
-      "gloss": "A main administrative division of a country.",
+      "word": "MANSION",
+      "gloss": "A large impressive house.",
       "path": [
         {
           "r": 9,
@@ -383,22 +248,86 @@
         {
           "r": 3,
           "c": 7
-        },
-        {
-          "r": 2,
-          "c": 8
         }
       ]
     },
     {
-      "word": "TICKETBOOTH",
-      "gloss": "A small office that sells tickets.",
+      "word": "MAYOR",
+      "gloss": "The elected head of a city.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SKYSCRAPER",
+      "gloss": "A very tall building.",
       "path": [
         {
           "r": 0,
           "c": 9
         },
         {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area.",
+      "path": [
+        {
           "r": 1,
           "c": 9
         },
@@ -424,57 +353,53 @@
         },
         {
           "r": 7,
-          "c": 9
-        },
-        {
-          "r": 8,
-          "c": 9
-        },
-        {
-          "r": 9,
-          "c": 9
-        },
-        {
-          "r": 10,
           "c": 9
         }
       ]
     },
     {
-      "word": "VILLAGE",
-      "gloss": "A small settlement.",
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
       "path": [
         {
-          "r": 7,
-          "c": 1
-        },
-        {
-          "r": 6,
-          "c": 1
-        },
-        {
-          "r": 5,
-          "c": 1
-        },
-        {
-          "r": 4,
-          "c": 1
-        },
-        {
-          "r": 3,
-          "c": 1
-        },
-        {
-          "r": 2,
-          "c": 1
+          "r": 1,
+          "c": 0
         },
         {
           "r": 1,
           "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
         }
       ]
     }
   ],
   "largePrintFriendly": true,
-  "createdAt": "2026-08-07T03:12:43.013Z"
+  "createdAt": "2026-08-07T05:30:56.355Z"
 }

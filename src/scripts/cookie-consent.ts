@@ -63,7 +63,10 @@ export function hasAnalyticsConsent(): boolean {
 }
 
 /**
- * Wire real analytics vendors here later.
+ * Load analytics only after opt-in.
+ * Configure via public env (Cloudflare Pages → Environment variables):
+ *   PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art
+ *   PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXX
  * Never inject third-party scripts unless analytics === true.
  */
 export function applyAnalyticsGate(
@@ -72,15 +75,62 @@ export function applyAnalyticsGate(
   const allowed = state?.analytics === true;
   document.documentElement.dataset.analytics = allowed ? "granted" : "denied";
 
-  // Example when you enable a vendor:
-  // if (allowed && !document.getElementById("dwh-analytics")) { ... }
-  // if (!allowed) document.getElementById("dwh-analytics")?.remove();
+  if (allowed) {
+    loadPlausible();
+    loadGa4();
+  } else {
+    document.getElementById("dwh-plausible")?.remove();
+    document.getElementById("dwh-ga4")?.remove();
+    document.getElementById("dwh-ga4-config")?.remove();
+  }
 
   if (import.meta.env.DEV) {
     (window as unknown as { __dwhAnalytics?: string }).__dwhAnalytics = allowed
       ? "granted"
       : "denied";
   }
+}
+
+function env(name: string): string {
+  try {
+    // Vite / Astro public env
+    const v = (import.meta as ImportMeta & { env: Record<string, string> }).env[
+      name
+    ];
+    return typeof v === "string" ? v.trim() : "";
+  } catch {
+    return "";
+  }
+}
+
+function loadPlausible() {
+  const domain = env("PUBLIC_PLAUSIBLE_DOMAIN");
+  if (!domain || document.getElementById("dwh-plausible")) return;
+  const s = document.createElement("script");
+  s.id = "dwh-plausible";
+  s.defer = true;
+  s.dataset.domain = domain;
+  s.src = "https://plausible.io/js/script.js";
+  document.head.appendChild(s);
+}
+
+function loadGa4() {
+  const id = env("PUBLIC_GA_MEASUREMENT_ID");
+  if (!id || document.getElementById("dwh-ga4")) return;
+  const s = document.createElement("script");
+  s.id = "dwh-ga4";
+  s.async = true;
+  s.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(id)}`;
+  document.head.appendChild(s);
+  const cfg = document.createElement("script");
+  cfg.id = "dwh-ga4-config";
+  cfg.textContent = `
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', ${JSON.stringify(id)}, { anonymize_ip: true });
+  `;
+  document.head.appendChild(cfg);
 }
 
 export type CookieConsentApi = {

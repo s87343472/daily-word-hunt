@@ -1,0 +1,440 @@
+{
+  "id": "history-2026-08-10",
+  "playDate": "2026-08-10",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "L",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "O",
+      "H",
+      "C",
+      "S",
+      "C",
+      "P",
+      "O",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "A",
+      "I",
+      "S",
+      "S",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "Y",
+      "W",
+      "J",
+      "L",
+      "S",
+      "M",
+      "R",
+      "S",
+      "M",
+      "P",
+      "J"
+    ],
+    [
+      "H",
+      "E",
+      "O",
+      "A",
+      "V",
+      "O",
+      "U",
+      "F",
+      "O",
+      "Z",
+      "N"
+    ],
+    [
+      "R",
+      "B",
+      "A",
+      "U",
+      "D",
+      "L",
+      "U",
+      "U",
+      "Y",
+      "R",
+      "Z"
+    ],
+    [
+      "L",
+      "B",
+      "K",
+      "F",
+      "L",
+      "A",
+      "D",
+      "R",
+      "C",
+      "Q",
+      "C"
+    ],
+    [
+      "A",
+      "R",
+      "J",
+      "J",
+      "I",
+      "L",
+      "M",
+      "N",
+      "C",
+      "J",
+      "L"
+    ],
+    [
+      "L",
+      "U",
+      "V",
+      "E",
+      "A",
+      "Y",
+      "I",
+      "R",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "M",
+      "R",
+      "O",
+      "F",
+      "N",
+      "J",
+      "M",
+      "A",
+      "H",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships.",
+      "path": [
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ASTRONOMY",
+      "gloss": "The study of stars and planets.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome.",
+      "path": [
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MIGRATION",
+      "gloss": "Movement of people from one place to another.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RENAISSANCE",
+      "gloss": "A revival of art and learning in Europe.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "SCHOLAR",
+      "gloss": "A person devoted to study.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.238Z"
+}

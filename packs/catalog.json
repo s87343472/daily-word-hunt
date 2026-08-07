@@ -46,6 +46,21 @@
       "wordsPerDay": 8,
       "dedupeDays": 30,
       "horizonDays": 21
+    },
+    {
+      "id": "history",
+      "title": "History Series",
+      "shortTitle": "History",
+      "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+      "theme": "history",
+      "schedule": "calendar",
+      "wordlist": "wordlists/packs/history.json",
+      "featured": true,
+      "nav": true,
+      "size": 10,
+      "wordsPerDay": 8,
+      "dedupeDays": 30,
+      "horizonDays": 21
     }
   ]
 }

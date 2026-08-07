@@ -1,0 +1,401 @@
+{
+  "id": "history-2026-09-01",
+  "playDate": "2026-09-01",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "I",
+      "W",
+      "K",
+      "S",
+      "C",
+      "R",
+      "O",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "C",
+      "R",
+      "T",
+      "C",
+      "A",
+      "N",
+      "N",
+      "O",
+      "N",
+      "P"
+    ],
+    [
+      "Y",
+      "R",
+      "R",
+      "G",
+      "P",
+      "S",
+      "R",
+      "N",
+      "L",
+      "X"
+    ],
+    [
+      "Z",
+      "K",
+      "I",
+      "I",
+      "U",
+      "H",
+      "M",
+      "Y",
+      "D",
+      "S"
+    ],
+    [
+      "Q",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "C",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "E",
+      "P",
+      "S",
+      "A",
+      "N",
+      "I",
+      "O",
+      "W"
+    ],
+    [
+      "H",
+      "R",
+      "E",
+      "M",
+      "G",
+      "A",
+      "T",
+      "I",
+      "D",
+      "T"
+    ],
+    [
+      "C",
+      "C",
+      "O",
+      "P",
+      "S",
+      "C",
+      "G",
+      "I",
+      "T",
+      "G"
+    ],
+    [
+      "K",
+      "I",
+      "G",
+      "T",
+      "A",
+      "E",
+      "O",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "F",
+      "B",
+      "Y",
+      "T",
+      "L",
+      "I",
+      "L",
+      "T",
+      "C",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "IRRIGATION",
+      "gloss": "Supplying water to land for crops.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of writing material.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.268Z"
+}

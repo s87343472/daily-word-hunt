@@ -145,14 +145,26 @@ const {
       <p class="ws-win-emoji" aria-hidden="true">✓</p>
       <h3 class="ws-win-title">Nice work!</h3>
       <p data-ws-win-detail class="ws-win-detail"></p>
-      <button type="button" data-ws-win-dismiss class="ws-win-btn">
-        Keep browsing
-      </button>
+      <p data-ws-win-streak class="ws-win-streak" hidden></p>
+      <div class="ws-win-actions">
+        <button type="button" data-ws-win-share class="ws-win-btn ws-win-btn--ghost">
+          Share
+        </button>
+        <button type="button" data-ws-win-dismiss class="ws-win-btn">
+          Keep playing
+        </button>
+      </div>
     </div>
   </div>
 </div>
 
 <script>
+  import {
+    formatShareText,
+    markPuzzleComplete,
+    readProgress,
+  } from "@/scripts/progress";
+
   type Cell = { r: number; c: number };
   type PuzzleWord = { word: string; gloss: string; path?: Cell[] };
   type Puzzle = {
@@ -160,6 +172,7 @@ const {
     title: string;
     description?: string;
     playDate?: string;
+    pack?: string;
     rows: number;
     cols: number;
     grid: string[][];
@@ -217,9 +230,13 @@ const {
     const glossText = root.querySelector<HTMLElement>("[data-ws-gloss-text]")!;
     const winEl = root.querySelector<HTMLElement>("[data-ws-win]")!;
     const winDetail = root.querySelector<HTMLElement>("[data-ws-win-detail]")!;
+    const winStreak = root.querySelector<HTMLElement>("[data-ws-win-streak]");
     const winDismiss = root.querySelector<HTMLElement>(
       "[data-ws-win-dismiss]"
     )!;
+    const winShare = root.querySelector<HTMLButtonElement>(
+      "[data-ws-win-share]"
+    );
     const largeToggle = root.querySelector<HTMLInputElement>(
       "[data-ws-large-toggle]"
     )!;
@@ -276,9 +293,40 @@ const {
       if (n === total && total > 0) {
         const ms = Date.now() - startTime;
         statusEl.textContent = "";
-        winDetail.textContent = `All ${total} words in ${formatTime(ms)}`;
+        const timeLabel = formatTime(ms);
+        winDetail.textContent = `All ${total} words in ${timeLabel}`;
+
+        const packId =
+          puzzle.pack || root.dataset.pack || "daily";
+        const store = markPuzzleComplete(packId, puzzle.playDate, ms);
+        if (winStreak) {
+          if (packId === "daily" && store.streak > 0) {
+            winStreak.hidden = false;
+            winStreak.textContent =
+              store.streak === 1
+                ? "First clear today · streak started"
+                : `${store.streak}-day streak · best ${store.bestStreak}`;
+          } else {
+            winStreak.hidden = true;
+          }
+        }
+        // expose for share
+        (winEl as HTMLElement & { __share?: string }).__share =
+          formatShareText({
+            title: puzzle.title || "Daily Word Hunt",
+            date: puzzle.playDate,
+            timeLabel,
+            streak: packId === "daily" ? store.streak : 0,
+            url: location.origin + location.pathname,
+          });
+
         winEl.hidden = false;
         if (timerId) window.clearInterval(timerId);
+        document.dispatchEvent(
+          new CustomEvent("dwh:puzzle-complete", {
+            detail: { packId, playDate: puzzle.playDate, timeMs: ms, store },
+          })
+        );
       }
     }
 
@@ -539,6 +587,31 @@ const {
     const onWinDismiss = () => {
       winEl.hidden = true;
     };
+    const onWinShare = async () => {
+      const text =
+        (winEl as HTMLElement & { __share?: string }).__share ||
+        `I finished a Daily Word Hunt puzzle ${location.href}`;
+      try {
+        if (navigator.share) {
+          await navigator.share({ text, url: location.href, title: "Daily Word Hunt" });
+          return;
+        }
+      } catch {
+        /* user cancelled or unsupported */
+      }
+      try {
+        await navigator.clipboard.writeText(text);
+        if (winShare) {
+          const prev = winShare.textContent;
+          winShare.textContent = "Copied!";
+          window.setTimeout(() => {
+            winShare.textContent = prev;
+          }, 1200);
+        }
+      } catch {
+        window.prompt("Copy share text:", text);
+      }
+    };
     const onHint = () => useHint();
 
     function formatDateInTz(date: Date, timeZone: string) {
@@ -604,7 +677,19 @@ const {
       document.addEventListener("pointercancel", onDocUp);
       largeToggle?.addEventListener("change", onLarge);
       winDismiss?.addEventListener("click", onWinDismiss);
+      winShare?.addEventListener("click", onWinShare);
       hintBtn?.addEventListener("click", onHint);
+
+      // Streak chip on page (optional)
+      const streakChip = document.querySelector<HTMLElement>("[data-dwh-streak]");
+      if (streakChip) {
+        const st = readProgress();
+        if (st.streak > 0) {
+          streakChip.hidden = false;
+          streakChip.textContent =
+            st.streak === 1 ? "1-day streak" : `${st.streak}-day streak`;
+        }
+      }
     }
 
     function onDocMove(e: PointerEvent) {
@@ -633,6 +718,7 @@ const {
         document.removeEventListener("pointercancel", onDocUp);
         largeToggle?.removeEventListener("change", onLarge);
         winDismiss?.removeEventListener("click", onWinDismiss);
+        winShare?.removeEventListener("click", onWinShare);
         hintBtn?.removeEventListener("click", onHint);
       },
     };
@@ -1132,8 +1218,19 @@ const {
     color: var(--ws-muted-fg);
     font-size: 0.95rem;
   }
-  .ws .ws-win-btn {
+  .ws .ws-win-streak {
+    margin: 0.4rem 0 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--ws-accent);
+  }
+  .ws .ws-win-actions {
     margin-top: 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .ws .ws-win-btn {
     width: 100%;
     border: none;
     border-radius: 0.65rem;
@@ -1143,6 +1240,11 @@ const {
     cursor: pointer;
     background: var(--ws-accent);
     color: var(--ws-accent-fg);
+  }
+  .ws .ws-win-btn--ghost {
+    background: var(--ws-muted);
+    color: var(--ws-fg);
+    border: 1px solid color-mix(in oklab, var(--ws-border) 60%, transparent);
   }
 
   /* Slightly roomier on tablet+ where vertical space is less scarce */

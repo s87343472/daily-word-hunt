@@ -1,0 +1,424 @@
+{
+  "id": "history-2026-08-18",
+  "playDate": "2026-08-18",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "Q",
+      "S",
+      "G",
+      "R",
+      "G",
+      "H",
+      "C",
+      "C",
+      "C",
+      "Y",
+      "U"
+    ],
+    [
+      "T",
+      "K",
+      "W",
+      "X",
+      "T",
+      "O",
+      "F",
+      "L",
+      "A",
+      "Q",
+      "C"
+    ],
+    [
+      "A",
+      "V",
+      "N",
+      "R",
+      "L",
+      "Z",
+      "S",
+      "E",
+      "R",
+      "T",
+      "Q"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "O",
+      "U",
+      "P",
+      "P",
+      "D",
+      "C",
+      "L",
+      "G"
+    ],
+    [
+      "T",
+      "Q",
+      "N",
+      "L",
+      "N",
+      "I",
+      "V",
+      "A",
+      "H",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "Y",
+      "V",
+      "V",
+      "A",
+      "N",
+      "N",
+      "T",
+      "I",
+      "P",
+      "P"
+    ],
+    [
+      "C",
+      "P",
+      "N",
+      "J",
+      "M",
+      "Q",
+      "A",
+      "I",
+      "V",
+      "I",
+      "D"
+    ],
+    [
+      "S",
+      "D",
+      "S",
+      "W",
+      "I",
+      "C",
+      "Y",
+      "C",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "Y",
+      "E",
+      "U",
+      "W",
+      "Y",
+      "G",
+      "Y",
+      "T",
+      "O",
+      "K",
+      "I"
+    ],
+    [
+      "Q",
+      "H",
+      "S",
+      "Y",
+      "Z",
+      "P",
+      "L",
+      "A",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "L",
+      "A",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.249Z"
+}

@@ -1,0 +1,453 @@
+{
+  "id": "history-2026-08-15",
+  "playDate": "2026-08-15",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 12,
+  "cols": 12,
+  "grid": [
+    [
+      "N",
+      "Q",
+      "X",
+      "R",
+      "A",
+      "K",
+      "I",
+      "N",
+      "G",
+      "D",
+      "O",
+      "M"
+    ],
+    [
+      "O",
+      "X",
+      "X",
+      "X",
+      "B",
+      "E",
+      "L",
+      "S",
+      "O",
+      "Q",
+      "L",
+      "O"
+    ],
+    [
+      "I",
+      "J",
+      "P",
+      "D",
+      "C",
+      "B",
+      "L",
+      "W",
+      "C",
+      "J",
+      "K",
+      "T"
+    ],
+    [
+      "T",
+      "S",
+      "M",
+      "P",
+      "B",
+      "F",
+      "U",
+      "O",
+      "F",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "S",
+      "A",
+      "X",
+      "W",
+      "X",
+      "R",
+      "Y",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "Z",
+      "F",
+      "B",
+      "P",
+      "A",
+      "I",
+      "D",
+      "D",
+      "F",
+      "O",
+      "U",
+      "G"
+    ],
+    [
+      "I",
+      "U",
+      "R",
+      "H",
+      "E",
+      "H",
+      "Y",
+      "I",
+      "F",
+      "Q",
+      "R",
+      "R"
+    ],
+    [
+      "L",
+      "M",
+      "G",
+      "R",
+      "W",
+      "A",
+      "T",
+      "J",
+      "O",
+      "P",
+      "Y",
+      "E"
+    ],
+    [
+      "I",
+      "A",
+      "C",
+      "V",
+      "Q",
+      "R",
+      "C",
+      "R",
+      "I",
+      "T",
+      "P",
+      "J"
+    ],
+    [
+      "V",
+      "Q",
+      "R",
+      "V",
+      "A",
+      "Y",
+      "A",
+      "E",
+      "A",
+      "P",
+      "A",
+      "X"
+    ],
+    [
+      "I",
+      "I",
+      "S",
+      "S",
+      "E",
+      "B",
+      "B",
+      "H",
+      "I",
+      "R",
+      "P",
+      "N"
+    ],
+    [
+      "C",
+      "R",
+      "A",
+      "C",
+      "K",
+      "C",
+      "O",
+      "I",
+      "N",
+      "A",
+      "C",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 11
+        }
+      ]
+    },
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 11
+        }
+      ]
+    },
+    {
+      "word": "CIVILIZATION",
+      "gloss": "An advanced stage of social development.",
+      "path": [
+        {
+          "r": 11,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 11,
+          "c": 5
+        },
+        {
+          "r": 11,
+          "c": 6
+        },
+        {
+          "r": 11,
+          "c": 7
+        },
+        {
+          "r": 11,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "KINGDOM",
+      "gloss": "A country ruled by a king or queen.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        },
+        {
+          "r": 0,
+          "c": 11
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 10,
+          "c": 10
+        },
+        {
+          "r": 9,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T05:30:56.246Z"
+}

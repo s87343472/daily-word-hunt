@@ -71,6 +71,7 @@ const contactUrl = getRelativeLocaleUrl(locale, "contact");
     <h1 class="sr-only">Free daily word search</h1>
 
     <section class="home-play" aria-label="Today’s puzzle">
+      <p class="home-streak" data-dwh-streak hidden></p>
       <WordSearchGame
         daily
         packId="daily"
@@ -261,6 +262,13 @@ const contactUrl = getRelativeLocaleUrl(locale, "contact");
 
   .home-play {
     width: 100%;
+  }
+  .home-streak {
+    margin: 0 0 0.35rem;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--accent);
   }
 
   /* About: one quiet line until opened */
