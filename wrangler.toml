@@ -13,5 +13,6 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "daily-word-hunt"
-database_id = "REPLACE_AFTER_wrangler_d1_create"
-preview_database_id = "REPLACE_AFTER_wrangler_d1_create"
+database_id = "5d0b8d07-6a21-4548-8e3f-fdfd65fc7342"
+# Preview can share the same DB on Free; split later if needed
+preview_database_id = "5d0b8d07-6a21-4548-8e3f-fdfd65fc7342"
