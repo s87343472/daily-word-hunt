@@ -5,21 +5,35 @@ import Header from "@/components/Header.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import {
+  breadcrumbSchema,
+  howToSchema,
+} from "@/lib/seo/schemas";
 import config from "@/config";
 
 const page = await getEntry("pages", "how-to");
-
 if (!page) {
   throw new Error("Missing content entry: how-to.md in src/content/pages/");
 }
-
 const { Content } = await render(page);
+
+const title = `${page.data.title} | ${config.site.title}`;
+const description =
+  page.data.description ??
+  "Learn how to play free daily word search: drag or tap, allowed directions, hints, and large print.";
 ---
 
-<Layout
-  title={`${page.data.title} | ${config.site.title}`}
-  description={page.data.description}
->
+<Layout {title} {description}>
+  <Fragment slot="head">
+    <JsonLd data={howToSchema()} />
+    <JsonLd
+      data={breadcrumbSchema([
+        { name: "Home", path: "" },
+        { name: "How to play", path: "how-to/" },
+      ])}
+    />
+  </Fragment>
   <Header />
   <Breadcrumb />
   <Main pageTitle={page.data.title} class="app-prose">

@@ -1,0 +1,13 @@
+---
+/**
+ * Emit a JSON-LD script tag. Pass a plain object or array of objects.
+ */
+type Props = {
+  data: Record<string, unknown> | Record<string, unknown>[];
+};
+
+const { data } = Astro.props;
+const json = JSON.stringify(data).replace(/</g, "\\u003c");
+---
+
+<script is:inline type="application/ld+json" set:html={json} />

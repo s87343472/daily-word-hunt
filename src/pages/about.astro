@@ -16,11 +16,15 @@ if (!about) {
 }
 
 const { Content } = await render(about);
+const title = `${about.data.title} | ${config.site.title}`;
+const description =
+  about.data.description ??
+  "About Daily Word Hunt — free daily word search in the browser.";
 ---
 
 <Layout
-  title={`${about.data.title} | ${config.site.title}`}
-  description={about.data.description}
+  title={title}
+  description={description}
   ogImage={about.data.ogImage}
   canonicalURL={about.data.canonicalURL}
 >

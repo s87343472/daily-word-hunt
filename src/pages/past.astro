@@ -12,6 +12,8 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import { breadcrumbSchema } from "@/lib/seo/schemas";
 import config from "@/config";
 
 const locale = Astro.currentLocale ?? config.site.lang;
@@ -28,22 +30,30 @@ const allDates = fs.existsSync(dir)
       .map(f => f.replace(/\.json$/, ""))
       .sort()
   : [];
+
+const title = `Past Word Search Puzzles | ${config.site.title}`;
+const description =
+  "Browse and replay previous free daily word search puzzles by date. Today’s game is always on the home page.";
 ---
 
-<Layout
-  title={`Past puzzles | ${config.site.title}`}
-  description="Browse previous Daily Word Hunt puzzles by date."
->
+<Layout {title} {description}>
+  <JsonLd
+    slot="head"
+    data={breadcrumbSchema([
+      { name: "Home", path: "" },
+      { name: "Past puzzles", path: "past/" },
+    ])}
+  />
   <Header />
   <Breadcrumb />
-  <Main pageTitle="Past puzzles">
+  <Main pageTitle="Past word search puzzles">
     <p class="text-muted-foreground mb-6 max-w-xl text-sm leading-relaxed">
-      Today’s game always lives on the
+      Today’s free <strong>daily word search</strong> always lives on the
       <a
         class="text-accent font-medium underline-offset-2 hover:underline"
         href={homeHref}>home page</a
-      >. Use this list only if you want an older day. Future dates stay hidden
-      until their calendar day (site timezone).
+      >. Use this archive to open an older day. Future dates stay hidden until
+      their calendar day (site timezone).
     </p>
 
     <div

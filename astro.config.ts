@@ -14,13 +14,42 @@ import {
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
 
+function todayInSiteTz(): string {
+  const tz = config.site.timezone ?? "UTC";
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: tz,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+}
+
+function sitemapInclude(page: string): boolean {
+  // Tool / thin surfaces
+  if (page.includes("/search")) return false;
+  // Blog monthly archives off in product nav
+  if (
+    config.features?.showArchives === false &&
+    page.includes("/archives")
+  ) {
+    return false;
+  }
+  // Legacy redirects are empty shells if ever emitted
+  if (page.endsWith("/play/") || page.includes("/play/print")) return false;
+
+  // Unreleased daily stock: keep out of sitemap until calendar day
+  const daily = page.match(/\/daily\/(\d{4}-\d{2}-\d{2})\/?$/);
+  if (daily && daily[1] > todayInSiteTz()) return false;
+
+  return true;
+}
+
 export default defineConfig({
   site: config.site.url,
   integrations: [
     mdx(),
     sitemap({
-      filter: page =>
-        config.features?.showArchives !== false || !page.endsWith("/archives/"),
+      filter: sitemapInclude,
     }),
   ],
   i18n: {

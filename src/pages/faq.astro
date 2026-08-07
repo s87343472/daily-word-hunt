@@ -5,17 +5,70 @@ import Header from "@/components/Header.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import {
+  breadcrumbSchema,
+  faqPageSchema,
+} from "@/lib/seo/schemas";
 import config from "@/config";
 
 const page = await getEntry("pages", "faq");
 if (!page) throw new Error("Missing content: src/content/pages/faq.md");
 const { Content } = await render(page);
+
+const title = `${page.data.title} | ${config.site.title}`;
+const description =
+  page.data.description ??
+  "Answers about Daily Word Hunt: how to play, daily puzzles, privacy, and printing.";
+
+/** Keep FAQ schema in sync with major answers on /faq (plain text for crawlers). */
+const faqEntities = [
+  {
+    question: "What is Daily Word Hunt?",
+    answer:
+      "A free word search in your browser. Letters are already on the grid; you find each word from the list by dragging or tapping endpoints.",
+  },
+  {
+    question: "Do I need an account?",
+    answer: "No. Open the home page and play today’s puzzle.",
+  },
+  {
+    question: "Where is today’s puzzle?",
+    answer:
+      "Always on the home page. You do not need a special dated URL for daily play.",
+  },
+  {
+    question: "Can I play older puzzles?",
+    answer:
+      "Yes. Open Past puzzles and pick a date, or use a shared /daily/YYYY-MM-DD link.",
+  },
+  {
+    question: "Which directions are allowed?",
+    answer:
+      "Horizontal, vertical, diagonal — forwards or backwards. Straight lines only.",
+  },
+  {
+    question: "Is the game free?",
+    answer: "Yes for daily play. No account is required.",
+  },
+  {
+    question: "What about cookies and analytics?",
+    answer:
+      "Analytics stay off until you accept the cookie banner. You can change choices anytime via Cookie settings in the footer.",
+  },
+];
 ---
 
-<Layout
-  title={`${page.data.title} | ${config.site.title}`}
-  description={page.data.description}
->
+<Layout {title} {description}>
+  <Fragment slot="head">
+    <JsonLd data={faqPageSchema(faqEntities)} />
+    <JsonLd
+      data={breadcrumbSchema([
+        { name: "Home", path: "" },
+        { name: "FAQ", path: "faq/" },
+      ])}
+    />
+  </Fragment>
   <Header />
   <Breadcrumb />
   <Main pageTitle={page.data.title} class="app-prose">

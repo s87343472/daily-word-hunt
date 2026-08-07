@@ -1,14 +1,17 @@
 ---
 /**
- * Product home = today's puzzle.
- * Users land on `/` and play; no need to type /play or dated URLs.
- * Optional archive: /daily/YYYY-MM-DD (SEO + share).
+ * Product home = today's puzzle + SEO landing for "daily word search".
  */
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
+import JsonLd from "@/components/JsonLd.astro";
 import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import {
+  webApplicationSchema,
+  webSiteSchema,
+} from "@/lib/seo/schemas";
 import config from "@/config";
 
 const locale = Astro.currentLocale ?? config.site.lang;
@@ -17,12 +20,13 @@ const homePath = getRelativeLocaleUrl(locale, "");
 const homeHref = homePath.endsWith("/") ? homePath : `${homePath}/`;
 const a11yHref = largePrint ? homeHref : `${homeHref}?a11y=1`;
 const tz = config.site.timezone;
+
+const title = `Free Daily Word Search | ${config.site.title}`;
+const description = config.site.description;
 ---
 
-<Layout
-  title={config.site.title}
-  description={config.site.description}
->
+<Layout {title} {description}>
+  <JsonLd slot="head" data={[webSiteSchema(), webApplicationSchema()]} />
   <Header />
   <main
     id="main-content"
@@ -30,6 +34,14 @@ const tz = config.site.timezone;
     data-layout="index"
     data-home-path={homePath}
   >
+    <header class="home-seo-head">
+      <h1 class="home-h1">Free daily word search</h1>
+      <p class="home-lead">
+        Play today’s free browser word search — drag or tap to find every word.
+        New puzzle each day. No account required.
+      </p>
+    </header>
+
     <WordSearchGame
       daily
       timezone={tz}
@@ -40,11 +52,24 @@ const tz = config.site.timezone;
       a11yLabel={largePrint ? "Default size" : "Large print page"}
     />
 
-    <!-- Below-fold product copy (SEO + orientation; not competing with the board) -->
-    <section class="home-meta" aria-label="About today’s puzzle">
+    <section class="home-meta" aria-labelledby="home-about-heading">
+      <h2 id="home-about-heading" class="home-meta-h2">
+        About Daily Word Hunt
+      </h2>
       <p>
-        Free <strong>daily word search</strong> in your browser. Drag or tap to
-        find every word. New puzzle each day — no account required.
+        <strong>Daily Word Hunt</strong> is a free online <strong
+          >word search</strong
+        > (find-the-word) puzzle. Letters are already on the grid; you highlight
+        each word from the list. Words may run horizontally, vertically,
+        diagonally, and backwards.
+      </p>
+      <p>
+        Come back tomorrow for a new daily puzzle. Prefer paper?
+        <a href={getRelativeLocaleUrl(locale, "print")}>Print today</a>. Need
+        help?
+        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a> or the
+        <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a>. Browse
+        <a href={getRelativeLocaleUrl(locale, "past")}>past puzzles</a> anytime.
       </p>
       <p class="home-meta-links">
         <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a>
@@ -53,7 +78,7 @@ const tz = config.site.timezone;
         <span aria-hidden="true">·</span>
         <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
         <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "print")}>Print</a>
+        <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a>
         <span aria-hidden="true">·</span>
         <a href={getRelativeLocaleUrl(locale, "about")}>About</a>
       </p>
@@ -75,34 +100,58 @@ const tz = config.site.timezone;
     padding-top: 0.55rem !important;
     padding-bottom: 0.55rem !important;
   }
+  .home-seo-head {
+    margin-bottom: 0.45rem;
+  }
+  .home-h1 {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--foreground, #eaedf3);
+  }
+  .home-lead {
+    margin: 0.2rem 0 0;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: var(--muted-foreground, #afb9ca);
+  }
   .home-meta {
     margin-top: 1.75rem;
     padding-top: 1rem;
-    border-top: 1px solid color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
+    border-top: 1px solid
+      color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
     font-size: 0.85rem;
-    line-height: 1.5;
+    line-height: 1.55;
     color: var(--muted-foreground, #afb9ca);
   }
+  .home-meta-h2 {
+    margin: 0 0 0.45rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--foreground, #eaedf3);
+  }
   .home-meta p {
-    margin: 0 0 0.5rem;
+    margin: 0 0 0.55rem;
   }
   .home-meta strong {
     color: var(--foreground, #eaedf3);
     font-weight: 600;
+  }
+  .home-meta a {
+    color: var(--accent, #ff6b01);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .home-meta a:hover {
+    text-decoration: underline;
   }
   .home-meta-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0.35rem 0.5rem;
     align-items: center;
-  }
-  .home-meta-links a {
-    color: var(--accent, #ff6b01);
-    font-weight: 600;
-    text-decoration: none;
-  }
-  .home-meta-links a:hover {
-    text-decoration: underline;
+    margin-top: 0.35rem !important;
   }
   @media (min-width: 640px) {
     .play-main {
@@ -112,6 +161,9 @@ const tz = config.site.timezone;
     body:has(.play-main) header.app-layout > div {
       padding-top: 1rem !important;
       padding-bottom: 1rem !important;
+    }
+    .home-h1 {
+      font-size: 1.15rem;
     }
   }
 </style>

@@ -15,9 +15,11 @@ const tags = getUniqueTags(posts);
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+const title = `${t.pages.tagsTitle} | ${config.site.title}`;
+const description = t.pages.tagsDesc;
 ---
 
-<Layout title={`${t.pages.tagsTitle} | ${config.site.title}`}>
+<Layout {title} {description}>
   <Header />
 
   <Breadcrumb />

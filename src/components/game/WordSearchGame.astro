@@ -40,9 +40,9 @@ const {
   data-tz={daily ? timezone : undefined}
   data-fallback={daily ? fallbackUrl : undefined}
 >
-  <!-- Compact single-row HUD (mobile first) -->
+  <!-- Compact single-row HUD (mobile first). h2 so page-level h1 can be SEO-owned. -->
   <header class="ws-hud">
-    <h1 data-ws-title class="ws-title">Loading…</h1>
+    <h2 data-ws-title class="ws-title">Loading…</h2>
     <div class="ws-hud-right" aria-live="polite">
       <span class="ws-pill"
         ><span data-ws-progress>0/0</span></span

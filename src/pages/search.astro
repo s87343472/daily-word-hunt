@@ -25,9 +25,11 @@ const backUrl = config.features.showBackButton
 const pagefindBundlePath = getAssetPath("pagefind/");
 
 const t = useTranslations(locale);
+const title = `${t.pages.searchTitle} | ${config.site.title}`;
+const description = t.pages.searchDesc;
 ---
 
-<Layout title={`${t.pages.searchTitle} | ${config.site.title}`}>
+<Layout {title} {description} noindex>
   <Header />
 
   <Breadcrumb />
