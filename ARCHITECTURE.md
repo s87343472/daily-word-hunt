@@ -73,10 +73,42 @@ pnpm gen:puzzle --all-packs --horizon 21 --force
 - Workers: only for optional score APIs later
 - No LLM on the request path
 
+## Accounts, D1, practice bank (current direction)
+
+| Piece | Implementation |
+|-------|----------------|
+| Auth | Google OAuth via Pages Functions (`/api/auth/google`, `/api/auth/callback`) |
+| Session | HttpOnly cookie `dwh_session` → D1 `sessions` |
+| Progress | D1 `plays` (daily + practice); client also keeps localStorage streak for daily |
+| Events | D1 `events` (level_end, login, …) for funnels / leaderboard support |
+| Leaderboard | D1 `leaderboard_week` + `/api/leaderboard` + `/leaderboard` page |
+| Practice volume | **100_000 IDs/pack**, deterministic gen (`src/lib/puzzle/practiceBank.ts`) — not 100k stored JSON |
+
+### Env (Cloudflare Pages → Settings → Variables)
+
+| Name | Notes |
+|------|--------|
+| `GOOGLE_CLIENT_ID` | OAuth Web client |
+| `GOOGLE_CLIENT_SECRET` | Secret (encrypt) |
+| `SITE_URL` | `https://words.sagasu.art` (redirect URI base) |
+| D1 binding `DB` | `wrangler.toml` + dashboard |
+
+Redirect URI to allow in Google Cloud Console:  
+`https://words.sagasu.art/api/auth/callback`
+
+### Apply schema
+
+```bash
+wrangler d1 create daily-word-hunt
+# paste database_id into wrangler.toml
+wrangler d1 execute daily-word-hunt --remote --file=cloudflare/schema.sql
+```
+
 ## Phase roadmap
 
 0. ✅ Play UI + static daily  
 1. ✅ SEO + legal + cookies  
 2. ✅ Packs / series architecture + Action refill  
-3. D1 leaderboard (optional nicknames, no forced login)  
-4. Optional accounts  
+3. ✅ Google auth + D1 progress/leaderboard + practice bank (100k IDs)  
+4. Polish leaderboard UI, answer keys, more wordlist depth  
+

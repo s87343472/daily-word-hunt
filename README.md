@@ -116,11 +116,18 @@ Then **redeploy**. Local: copy `.env.example` → `.env`.
 
 Completing a daily puzzle stores a streak in `localStorage` (`dwh-progress-v1`) and offers Share on the win dialog.
 
+## Accounts & leaderboard (Cloudflare)
+
+- **Google sign-in** → `/api/auth/google` (Pages Function)
+- **D1** stores users, sessions, plays, events, weekly leaderboard
+- **Practice** `/practice` — 100k puzzle IDs per theme (deterministic, not pre-stored JSON)
+- Setup: see `ARCHITECTURE.md` (OAuth env + `wrangler d1 execute … schema.sql`)
+
 ## Roadmap (still open)
 
-- Leaderboard (Pages Function + D1; optional nickname)
-- Optional accounts
-- More languages
+- Leaderboard UX polish / share cards
+- More languages / deeper wordlists
+- Print answer keys
 
 ## License
 

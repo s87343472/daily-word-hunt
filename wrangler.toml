@@ -1,18 +1,17 @@
-# Cloudflare config for Free-tier deployment.
-# Site: Cloudflare Pages (static Astro output).
-# Optional APIs: bind this Worker/D1 when adding leaderboard.
+# Cloudflare Pages + optional D1 / Functions
+# Site: static Astro → dist
+# APIs: functions/ (Google auth, progress, leaderboard, practice)
 
 name = "daily-word-hunt"
-compatibility_date = "2026-08-01"
+compatibility_date = "2026-08-07"
 pages_build_output_dir = "dist"
 
-# Uncomment when enabling leaderboard (Workers Paid not required for low traffic).
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "daily-word-hunt"
-# database_id = "REPLACE_AFTER_wrangler_d1_create"
+# After: wrangler d1 create daily-word-hunt
+# paste database_id below, then:
+#   wrangler d1 execute daily-word-hunt --remote --file=cloudflare/schema.sql
 
-# Optional: pointer for "today's puzzle" (write ~1/day — OK on Free KV write limits)
-# [[kv_namespaces]]
-# binding = "CONFIG"
-# id = "REPLACE"
+[[d1_databases]]
+binding = "DB"
+database_name = "daily-word-hunt"
+database_id = "REPLACE_AFTER_wrangler_d1_create"
+preview_database_id = "REPLACE_AFTER_wrangler_d1_create"

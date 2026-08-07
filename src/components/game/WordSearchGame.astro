@@ -26,6 +26,10 @@ type Props = {
    * footer tools. Use on the home page where users come to play, not read.
    */
   compact?: boolean;
+  /** practice | daily — for cloud progress sync */
+  playKind?: "daily" | "practice";
+  /** Practice bank id 1..100000 when playKind=practice */
+  practiceBankId?: number;
 };
 
 const {
@@ -40,6 +44,8 @@ const {
   a11yHref,
   a11yLabel = "Large print page",
   compact = false,
+  playKind = "daily",
+  practiceBankId,
 } = Astro.props;
 ---
 
@@ -49,10 +55,12 @@ const {
   data-puzzle-url={puzzleJson || daily ? undefined : puzzleUrl}
   data-puzzle={puzzleJson}
   data-daily={daily ? "1" : undefined}
-  data-pack={daily ? packId : undefined}
+  data-pack={daily ? packId : packId}
   data-tz={daily ? timezone : undefined}
   data-fallback={daily ? fallbackUrl : undefined}
   data-compact={compact ? "1" : undefined}
+  data-play-kind={playKind}
+  data-practice-bank-id={practiceBankId != null ? String(practiceBankId) : undefined}
 >
   <!-- HUD: compact = progress/timer only (title for SR). -->
   <header class="ws-hud">
@@ -298,9 +306,24 @@ const {
 
         const packId =
           puzzle.pack || root.dataset.pack || "daily";
-        const store = markPuzzleComplete(packId, puzzle.playDate, ms);
+        const playKind =
+          (root.dataset.playKind as "daily" | "practice") || "daily";
+        const bankRaw = root.dataset.practiceBankId;
+        const practiceBankId = bankRaw ? Number(bankRaw) : undefined;
+        const hintsUsed = Math.max(0, 3 - hintsLeft);
+
+        // Local streak only for calendar dailies (not practice bank)
+        let store = null as ReturnType<typeof markPuzzleComplete> | null;
+        if (playKind !== "practice" && puzzle.playDate) {
+          store = markPuzzleComplete(packId, puzzle.playDate, ms);
+        }
         if (winStreak) {
-          if (packId === "daily" && store.streak > 0) {
+          if (
+            playKind !== "practice" &&
+            packId === "daily" &&
+            store &&
+            store.streak > 0
+          ) {
             winStreak.hidden = false;
             winStreak.textContent =
               store.streak === 1
@@ -316,7 +339,10 @@ const {
             title: puzzle.title || "Daily Word Hunt",
             date: puzzle.playDate,
             timeLabel,
-            streak: packId === "daily" ? store.streak : 0,
+            streak:
+              playKind !== "practice" && packId === "daily" && store
+                ? store.streak
+                : 0,
             url: location.origin + location.pathname,
           });
 
@@ -324,7 +350,16 @@ const {
         if (timerId) window.clearInterval(timerId);
         document.dispatchEvent(
           new CustomEvent("dwh:puzzle-complete", {
-            detail: { packId, playDate: puzzle.playDate, timeMs: ms, store },
+            detail: {
+              packId,
+              playDate: puzzle.playDate,
+              timeMs: ms,
+              store,
+              playKind,
+              practiceBankId,
+              hintsUsed,
+              success: true,
+            },
           })
         );
       }

@@ -7,6 +7,7 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
 import IconX from "@/assets/icons/IconX.svg";
 import LinkButton from "./LinkButton.astro";
+import AuthControls from "./AuthControls.astro";
 import { stripBase, stripLocale } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -107,6 +108,14 @@ const isActive = (path: string) => {
             {t.nav.past}
           </a>
         </li>
+        <li class="col-span-2">
+          <a
+            href={getRelativeLocaleUrl(locale, "practice")}
+            class:list={{ "active-nav": isActive("/practice") }}
+          >
+            Practice
+          </a>
+        </li>
         <li class="nav-sec col-span-2">
           <a
             href={getRelativeLocaleUrl(locale, "posts")}
@@ -168,6 +177,9 @@ const isActive = (path: string) => {
             </li>
           )
         }
+        <li class="col-span-2 flex items-center justify-center sm:col-span-1 sm:justify-end">
+          <AuthControls />
+        </li>
       </ul>
     </nav>
   </div>

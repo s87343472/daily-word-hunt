@@ -1,0 +1,83 @@
+---
+/**
+ * Google sign-in / account chip. Hidden until /api/me reports authConfigured.
+ */
+---
+
+<div class="auth" data-auth-root hidden>
+  <a
+    class="auth-signin"
+    data-auth-signin
+    href="/api/auth/google"
+    >Sign in</a
+  >
+  <div class="auth-menu" data-auth-menu hidden>
+    <img
+      class="auth-avatar"
+      data-auth-avatar
+      alt=""
+      width="28"
+      height="28"
+      hidden
+      referrerpolicy="no-referrer"
+    />
+    <span class="auth-name" data-auth-name></span>
+    <button type="button" class="auth-out" data-auth-logout>Sign out</button>
+  </div>
+</div>
+
+<style>
+  .auth {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .auth-signin {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.4rem;
+    border: 1px solid var(--border);
+  }
+  .auth-signin:hover {
+    background: var(--muted);
+  }
+  .auth-menu {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    max-width: 11rem;
+  }
+  .auth-avatar {
+    border-radius: 999px;
+    object-fit: cover;
+  }
+  .auth-name {
+    font-size: 0.75rem;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 5.5rem;
+  }
+  .auth-out {
+    font: inherit;
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: 0;
+    background: transparent;
+    color: var(--muted-foreground);
+    padding: 0.2rem 0.35rem;
+  }
+  .auth-out:hover {
+    color: var(--accent);
+  }
+  @media (max-width: 639px) {
+    .auth-name {
+      display: none;
+    }
+  }
+</style>

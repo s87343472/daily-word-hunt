@@ -1,0 +1,134 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const title = `Leaderboard | ${config.site.title}`;
+const description =
+  "Weekly fastest clears for Daily Word Hunt. Sign in with Google to post times.";
+---
+
+<Layout {title} {description}>
+  <Header />
+  <main class="lb mx-auto max-w-lg px-4 py-6">
+    <header class="mb-4">
+      <h1 class="text-xl font-bold">Leaderboard</h1>
+      <p class="text-muted-foreground mt-1 text-sm leading-relaxed">
+        Weekly best times (signed-in players). Complete a
+        <a class="text-accent font-semibold" href={getRelativeLocaleUrl(locale, "")}
+          >daily puzzle</a
+        >
+        while logged in to appear here.
+      </p>
+    </header>
+
+    <div class="lb-meta text-muted-foreground mb-3 text-sm" id="lb-meta">
+      Loading…
+    </div>
+    <ol class="lb-list" id="lb-list"></ol>
+    <p class="text-muted-foreground mt-6 text-sm" id="lb-empty" hidden>
+      No times yet this week — be the first after signing in.
+    </p>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  type Row = {
+    display_name?: string;
+    best_time_ms?: number;
+    puzzle_key?: string;
+  };
+
+  function formatTime(ms: number): string {
+    const s = Math.floor(ms / 1000);
+    const m = Math.floor(s / 60);
+    const r = s % 60;
+    return `${m}:${String(r).padStart(2, "0")}`;
+  }
+
+  async function load() {
+    const meta = document.getElementById("lb-meta");
+    const list = document.getElementById("lb-list");
+    const empty = document.getElementById("lb-empty");
+    try {
+      const res = await fetch("/api/leaderboard?pack=daily&limit=25", {
+        credentials: "include",
+      });
+      const data = (await res.json()) as {
+        week?: string;
+        rows?: Row[];
+        note?: string;
+      };
+      if (meta) {
+        meta.textContent = data.week
+          ? `Week ${data.week} · daily pack`
+          : data.note || "Leaderboard";
+      }
+      const rows = data.rows || [];
+      if (!list) return;
+      list.innerHTML = "";
+      if (!rows.length) {
+        if (empty) empty.hidden = false;
+        return;
+      }
+      if (empty) empty.hidden = true;
+      rows.forEach((r, i) => {
+        const li = document.createElement("li");
+        li.className = "lb-row";
+        li.innerHTML = `<span class="lb-rank">${i + 1}</span>
+          <span class="lb-name"></span>
+          <span class="lb-time"></span>`;
+        li.querySelector(".lb-name")!.textContent =
+          r.display_name || "Player";
+        li.querySelector(".lb-time")!.textContent =
+          typeof r.best_time_ms === "number"
+            ? formatTime(r.best_time_ms)
+            : "—";
+        list.appendChild(li);
+      });
+    } catch {
+      if (meta) meta.textContent = "Leaderboard unavailable (API/DB not ready).";
+      if (empty) empty.hidden = false;
+    }
+  }
+
+  load();
+  document.addEventListener("astro:page-load", load);
+</script>
+
+<style>
+  .lb-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid var(--border);
+    border-radius: 0.65rem;
+    overflow: hidden;
+  }
+  .lb-row {
+    display: grid;
+    grid-template-columns: 2.5rem 1fr auto;
+    gap: 0.5rem;
+    padding: 0.65rem 0.85rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.9375rem;
+  }
+  .lb-row:last-child {
+    border-bottom: 0;
+  }
+  .lb-rank {
+    font-weight: 700;
+    color: var(--muted-foreground);
+  }
+  .lb-name {
+    font-weight: 600;
+  }
+  .lb-time {
+    font-variant-numeric: tabular-nums;
+    font-weight: 650;
+  }
+</style>

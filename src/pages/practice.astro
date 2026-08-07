@@ -1,0 +1,209 @@
+---
+/**
+ * Endless practice — 100k bank IDs per pack (deterministic generation).
+ * Query: ?pack=daily&id=12345
+ * Without id: client asks /api/practice/next then reloads with id.
+ */
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import config from "@/config";
+import {
+  generatePracticePuzzle,
+  isValidBankId,
+  PRACTICE_BANK_SIZE,
+} from "@/lib/puzzle/practiceBank";
+import type { WordlistFile } from "@/lib/puzzle/types";
+import dailyList from "../../wordlists/packs/daily.json";
+import natureList from "../../wordlists/packs/nature.json";
+import citiesList from "../../wordlists/packs/cities.json";
+import historyList from "../../wordlists/packs/history.json";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const lists: Record<string, WordlistFile> = {
+  daily: dailyList as WordlistFile,
+  nature: natureList as WordlistFile,
+  cities: citiesList as WordlistFile,
+  history: historyList as WordlistFile,
+};
+
+const packParam = Astro.url.searchParams.get("pack") || "daily";
+const pack = lists[packParam] ? packParam : "daily";
+const idParam = Number(Astro.url.searchParams.get("id"));
+const bankId = isValidBankId(idParam) ? idParam : null;
+
+let puzzleJson: string | undefined;
+let genError: string | undefined;
+if (bankId != null) {
+  try {
+    const puzzle = generatePracticePuzzle(lists[pack]!, { bankId });
+    puzzleJson = JSON.stringify(puzzle);
+  } catch (e) {
+    genError = e instanceof Error ? e.message : "Generation failed";
+  }
+}
+
+const title = `Practice Word Search | ${config.site.title}`;
+const description = `Unlimited practice — ${PRACTICE_BANK_SIZE.toLocaleString()} puzzles per theme. Sign in with Google to track clears for leaderboards.`;
+---
+
+<Layout {title} {description}>
+  <Header />
+  <main class="prac mx-auto max-w-lg px-4 py-6">
+    <header class="mb-4">
+      <h1 class="text-xl font-bold">Practice</h1>
+      <p class="text-muted-foreground mt-1 text-sm leading-relaxed">
+        Endless mode (not one-per-day). Bank size:
+        <strong>{PRACTICE_BANK_SIZE.toLocaleString()}</strong> IDs per theme.
+        Sign in so completed IDs sync and stay unique on your account.
+      </p>
+    </header>
+
+    <form class="prac-bar mb-4 flex flex-wrap items-end gap-3" method="get">
+      <label class="prac-field">
+        <span class="prac-label">Theme</span>
+        <select name="pack" class="prac-input" id="prac-pack">
+          <option value="daily" selected={pack === "daily"}>General</option>
+          <option value="nature" selected={pack === "nature"}>Nature</option>
+          <option value="cities" selected={pack === "cities"}>Cities</option>
+          <option value="history" selected={pack === "history"}>History</option>
+        </select>
+      </label>
+      <button type="button" class="prac-btn" id="prac-next" data-pack={pack}>
+        {bankId ? "Next puzzle" : "Start"}
+      </button>
+      {
+        bankId != null && (
+          <p class="text-muted-foreground text-sm">
+            Puzzle <strong>#{bankId}</strong>
+          </p>
+        )
+      }
+    </form>
+
+    <p id="prac-status" class="text-muted-foreground mb-3 text-sm" aria-live="polite">
+      {
+        bankId == null
+          ? "Pick a theme and press Start."
+          : genError
+            ? genError
+            : `Practice #${bankId} of ${PRACTICE_BANK_SIZE.toLocaleString()}`
+      }
+    </p>
+
+    {
+      puzzleJson && bankId != null && !genError && (
+        <WordSearchGame
+          puzzleJson={puzzleJson}
+          packId={pack}
+          playKind="practice"
+          practiceBankId={bankId}
+        />
+      )
+    }
+
+    <p class="text-muted-foreground mt-6 text-sm">
+      <a class="text-accent font-semibold" href={getRelativeLocaleUrl(locale, "")}
+        >Today’s daily</a
+      >
+      ·
+      <a
+        class="text-accent font-semibold"
+        href={getRelativeLocaleUrl(locale, "leaderboard")}>Leaderboard</a
+      >
+      ·
+      <a class="text-accent font-semibold" href="/api/auth/google">Sign in with Google</a>
+    </p>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  const BANK = 100_000;
+
+  async function goNext(pack: string) {
+    const status = document.getElementById("prac-status");
+    if (status) status.textContent = "Finding a free puzzle…";
+    let id = 1 + Math.floor(Math.random() * BANK);
+    try {
+      const res = await fetch(
+        `/api/practice/next?pack=${encodeURIComponent(pack)}`,
+        { credentials: "include" }
+      );
+      if (res.ok) {
+        const data = (await res.json()) as {
+          bankId: number | null;
+          exhausted?: boolean;
+        };
+        if (data.exhausted || data.bankId == null) {
+          if (status) {
+            status.textContent =
+              "Practice bank cleared for this theme on your account.";
+          }
+          return;
+        }
+        id = data.bankId;
+      }
+    } catch {
+      /* random id */
+    }
+    const url = new URL(location.href);
+    url.searchParams.set("pack", pack);
+    url.searchParams.set("id", String(id));
+    location.assign(url.pathname + "?" + url.searchParams.toString());
+  }
+
+  function boot() {
+    const btn = document.getElementById("prac-next");
+    const packEl = document.getElementById(
+      "prac-pack"
+    ) as HTMLSelectElement | null;
+    btn?.addEventListener("click", () => {
+      void goNext(packEl?.value || "daily");
+    });
+    // Auto-start when landing without id
+    const params = new URLSearchParams(location.search);
+    if (!params.get("id")) {
+      void goNext(packEl?.value || params.get("pack") || "daily");
+    }
+  }
+
+  boot();
+  document.addEventListener("astro:page-load", boot);
+</script>
+
+<style>
+  .prac-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .prac-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted-foreground);
+  }
+  .prac-input {
+    min-height: 2.4rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 0.45rem;
+    border: 1px solid var(--border);
+    background: var(--background);
+    font: inherit;
+  }
+  .prac-btn {
+    min-height: 2.4rem;
+    padding: 0.4rem 1rem;
+    border-radius: 0.45rem;
+    border: 0;
+    background: var(--accent);
+    color: #fff;
+    font: inherit;
+    font-weight: 650;
+    cursor: pointer;
+  }
+</style>
