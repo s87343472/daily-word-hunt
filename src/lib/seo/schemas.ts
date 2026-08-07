@@ -2,37 +2,69 @@ import config from "@/config";
 
 const siteUrl = config.site.url.replace(/\/?$/, "/");
 
+/** Public identity links for entity consolidation (GEO sameAs). */
+const SAME_AS = [
+  "https://github.com/s87343472/daily-word-hunt",
+];
+
 export function absoluteUrl(path = ""): string {
   if (/^https?:\/\//i.test(path)) return path;
   const clean = path.replace(/^\//, "");
   return `${siteUrl}${clean}`;
 }
 
-export function webSiteSchema() {
+export function organizationSchema() {
   return {
-    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${siteUrl}#organization`,
+    name: config.site.author,
+    url: siteUrl,
+    sameAs: SAME_AS,
+  };
+}
+
+export function personAuthorSchema() {
+  return {
+    "@type": "Person",
+    "@id": `${siteUrl}#author`,
+    name: config.site.author,
+    url: siteUrl,
+    sameAs: SAME_AS,
+    worksFor: { "@id": `${siteUrl}#organization` },
+  };
+}
+
+export function webSiteSchema(withContext = true) {
+  const node = {
     "@type": "WebSite",
+    "@id": `${siteUrl}#website`,
     name: config.site.title,
     url: siteUrl,
     description: config.site.description,
     inLanguage: config.site.lang ?? "en",
-    publisher: {
-      "@type": "Organization",
-      name: config.site.author,
-      url: siteUrl,
-    },
+    publisher: { "@id": `${siteUrl}#organization` },
+    author: { "@id": `${siteUrl}#author` },
   };
+  return withContext
+    ? { "@context": "https://schema.org", ...node }
+    : node;
 }
 
-export function webApplicationSchema() {
-  return {
-    "@context": "https://schema.org",
+export function webApplicationSchema(
+  opts?: {
+    datePublished?: string;
+    dateModified?: string;
+  },
+  withContext = true
+) {
+  const node = {
     "@type": "WebApplication",
+    "@id": `${siteUrl}#app`,
     name: config.site.title,
     url: siteUrl,
     applicationCategory: "GameApplication",
     operatingSystem: "Any",
-    browserRequirements: "Requires JavaScript",
+    browserRequirements: "Requires JavaScript. Works best in modern browsers.",
     offers: {
       "@type": "Offer",
       price: "0",
@@ -40,6 +72,56 @@ export function webApplicationSchema() {
     },
     description: config.site.description,
     inLanguage: config.site.lang ?? "en",
+    author: { "@id": `${siteUrl}#author` },
+    publisher: { "@id": `${siteUrl}#organization` },
+    datePublished: opts?.datePublished,
+    dateModified: opts?.dateModified,
+  };
+  return withContext
+    ? { "@context": "https://schema.org", ...node }
+    : node;
+}
+
+/** Home landing page provenance for AI citation trust. */
+export function homeWebPageSchema(opts: {
+  title: string;
+  description: string;
+  datePublished: string;
+  dateModified: string;
+}) {
+  return {
+    "@type": "WebPage",
+    "@id": `${siteUrl}#webpage`,
+    url: siteUrl,
+    name: opts.title,
+    description: opts.description,
+    inLanguage: config.site.lang ?? "en",
+    isPartOf: { "@id": `${siteUrl}#website` },
+    about: { "@id": `${siteUrl}#app` },
+    author: { "@id": `${siteUrl}#author` },
+    publisher: { "@id": `${siteUrl}#organization` },
+    datePublished: opts.datePublished,
+    dateModified: opts.dateModified,
+    mainEntity: { "@id": `${siteUrl}#app` },
+  };
+}
+
+/** Graph bundle for the home page (one script, linked entities). */
+export function homeJsonLdGraph(opts: {
+  title: string;
+  description: string;
+  datePublished: string;
+  dateModified: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      organizationSchema(),
+      personAuthorSchema(),
+      webSiteSchema(false),
+      webApplicationSchema(opts, false),
+      homeWebPageSchema(opts),
+    ],
   };
 }
 
@@ -112,7 +194,6 @@ export function dailyPuzzleSchema(opts: {
   title: string;
   description: string;
   words: string[];
-  /** Path relative to site root, e.g. packs/nature/2026-08-07/ */
   path?: string;
 }) {
   return {
@@ -122,6 +203,9 @@ export function dailyPuzzleSchema(opts: {
     description: opts.description,
     url: absoluteUrl(opts.path ?? `daily/${opts.date}/`),
     datePublished: opts.date,
+    dateModified: opts.date,
+    author: personAuthorSchema(),
+    publisher: organizationSchema(),
     isPartOf: {
       "@type": "WebSite",
       name: config.site.title,

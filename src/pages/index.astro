@@ -1,6 +1,7 @@
 ---
 /**
- * Product home = today's puzzle + SEO landing for "daily word search".
+ * Product home = today's puzzle + GEO/SEO landing for "daily word search".
+ * Board stays first; citable server-rendered copy sits below the fold.
  */
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
@@ -8,10 +9,9 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import JsonLd from "@/components/JsonLd.astro";
 import WordSearchGame from "@/components/game/WordSearchGame.astro";
-import {
-  webApplicationSchema,
-  webSiteSchema,
-} from "@/lib/seo/schemas";
+import { homeJsonLdGraph } from "@/lib/seo/schemas";
+import { formatDateInTimeZone } from "@/lib/puzzle/daily";
+import { getAllPacks, listPackDates } from "@/lib/puzzle/packs";
 import config from "@/config";
 
 const locale = Astro.currentLocale ?? config.site.lang;
@@ -20,13 +20,35 @@ const homePath = getRelativeLocaleUrl(locale, "");
 const homeHref = homePath.endsWith("/") ? homePath : `${homePath}/`;
 const a11yHref = largePrint ? homeHref : `${homeHref}?a11y=1`;
 const tz = config.site.timezone;
+const today = formatDateInTimeZone(new Date(), tz);
+
+const packs = getAllPacks();
+const packCount = packs.length;
+const releasedDaily = listPackDates("daily").filter(
+  d => d < today || d === today
+).length;
 
 const title = `Free Daily Word Search | ${config.site.title}`;
 const description = config.site.description;
+/** Site launch / first public content signal for freshness schema */
+const datePublished = "2026-08-01";
+const dateModified = today;
+
+const jsonLd = homeJsonLdGraph({
+  title,
+  description,
+  datePublished,
+  dateModified,
+});
 ---
 
-<Layout {title} {description}>
-  <JsonLd slot="head" data={[webSiteSchema(), webApplicationSchema()]} />
+<Layout
+  {title}
+  {description}
+  datePublished={datePublished}
+  dateModified={dateModified}
+>
+  <JsonLd slot="head" data={jsonLd} />
   <Header />
   <main
     id="main-content"
@@ -53,39 +75,169 @@ const description = config.site.description;
       a11yLabel={largePrint ? "Default size" : "Large print page"}
     />
 
-    <section class="home-meta" aria-labelledby="home-about-heading">
-      <h2 id="home-about-heading" class="home-meta-h2">
-        About Daily Word Hunt
+    <!-- GEO / SEO: server-rendered, answer-first, citable (below the fold) -->
+    <article class="home-geo" aria-labelledby="home-geo-heading">
+      <header class="home-geo-byline">
+        <p>
+          By <a href={getRelativeLocaleUrl(locale, "about")}
+            ><span itemprop="author">{config.site.author}</span></a
+          >
+          ·
+          <time datetime={datePublished}>Published {datePublished}</time>
+          ·
+          <time datetime={dateModified}>Updated {dateModified}</time>
+        </p>
+      </header>
+
+      <h2 id="home-geo-heading" class="home-geo-h2">
+        What is Daily Word Hunt?
       </h2>
       <p>
-        <strong>Daily Word Hunt</strong> is a free online <strong
-          >word search</strong
-        > (find-the-word) puzzle. Letters are already on the grid; you highlight
-        each word from the list. Words may run horizontally, vertically,
-        diagonally, and backwards.
+        <strong
+          >Daily Word Hunt is a free online daily word search game</strong
+        > you play in the browser. Letters are already on the grid; you find every
+        word from the list by selecting a straight line of letters. There is no
+        account, no download, and no paywall for the daily puzzle.
       </p>
+
+      <h2 class="home-geo-h2">What is a word search puzzle?</h2>
       <p>
-        Come back tomorrow for a new daily puzzle. Prefer paper?
-        <a href={getRelativeLocaleUrl(locale, "print")}>Print today</a>. Need
-        help?
-        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a> or the
-        <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a>. Browse
-        <a href={getRelativeLocaleUrl(locale, "past")}>past puzzles</a> anytime.
+        A word search (also called a word find or 划词 puzzle) is a game where
+        words are hidden in a grid of letters. Merriam-Webster describes “word
+        search” in everyday use as a puzzle built from letters arranged so that
+        listed words can be located in the grid.
+        <cite>
+          <a
+            href="https://www.merriam-webster.com/dictionary/word%20search"
+            rel="noopener noreferrer"
+            target="_blank">Merriam-Webster, “word search”</a
+          >
+        </cite>
       </p>
-      <p class="home-meta-links">
-        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a>
-        <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a>
-        <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
-        <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "packs")}>Series</a>
-        <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a>
-        <span aria-hidden="true">·</span>
-        <a href={getRelativeLocaleUrl(locale, "about")}>About</a>
+      <blockquote class="home-quote">
+        <p>
+          “Word search” puzzles ask players to find words hidden among random
+          letters, typically in straight lines that may run in multiple
+          directions.
+        </p>
+        <footer>
+          Paraphrase aligned with common dictionary definitions of word-search
+          puzzles;
+          <cite>
+            <a
+              href="https://en.wikipedia.org/wiki/Word_search"
+              rel="noopener noreferrer"
+              target="_blank">Wikipedia: Word search</a
+            >
+          </cite>
+        </footer>
+      </blockquote>
+
+      <h2 class="home-geo-h2">How do you play this site?</h2>
+      <p>
+        <strong
+          >Drag from the first letter to the last, or tap the first letter then
+          the last.</strong
+        > Only straight lines count: horizontal, vertical, diagonal, and reverse
+        directions are allowed. Full controls are on the
+        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a> page.
       </p>
-    </section>
+      <ol class="home-steps">
+        <li>Open this home page to load today’s default-series puzzle.</li>
+        <li>Scan the word list (about 8 words on a typical day).</li>
+        <li>Select each word’s path on the ~10×10 letter grid.</li>
+        <li>Use a limited Hint if you are stuck on the last words.</li>
+      </ol>
+
+      <h2 class="home-geo-h2">Is Daily Word Hunt free?</h2>
+      <p>
+        <strong>Yes. Daily play costs USD $0</strong> and does not require an
+        account. Optional future features (such as a leaderboard) will not block
+        the free daily puzzle.
+      </p>
+
+      <h2 class="home-geo-h2">Key facts (at a glance)</h2>
+      <table class="home-facts">
+        <tbody>
+          <tr>
+            <th scope="row">Price</th>
+            <td>Free (USD $0) for daily play</td>
+          </tr>
+          <tr>
+            <th scope="row">Account</th>
+            <td>Not required</td>
+          </tr>
+          <tr>
+            <th scope="row">Today’s date (site TZ)</th>
+            <td><time datetime={today}>{today}</time> ({tz})</td>
+          </tr>
+          <tr>
+            <th scope="row">Themed series</th>
+            <td>
+              {packCount} active packs (e.g. daily, nature, cities) —
+              <a href={getRelativeLocaleUrl(locale, "packs")}>browse series</a>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Default series archive</th>
+            <td>
+              {releasedDaily}+ released days on
+              <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Typical puzzle size</th>
+            <td>~10×10 grid, ~8 hidden words per day</td>
+          </tr>
+          <tr>
+            <th scope="row">Print / large print</th>
+            <td>
+              <a href={getRelativeLocaleUrl(locale, "print")}>Print today</a> ·
+              large-print toggle on the board
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2 class="home-geo-h2">How is this different from Wordscapes-style games?</h2>
+      <p>
+        <strong
+          >This is find-the-word (划词), not rack-based fill-in.</strong
+        > Wordscapes-style games ask you to build words from a set of letters into
+        empty slots. Daily Word Hunt hides complete words inside a filled grid; you
+        only locate and select them. We also avoid unlicensed movie/game franchise
+        packs as product IP—word lists are general or original themes.
+      </p>
+
+      <h2 class="home-geo-h2">Where else can I go?</h2>
+      <ul class="home-links">
+        <li>
+          <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a> — short answers
+          on privacy, printing, and daily release
+        </li>
+        <li>
+          <a href={getRelativeLocaleUrl(locale, "packs")}>Series & themes</a> —
+          nature, cities, and more calendars
+        </li>
+        <li>
+          <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a> — scanning
+          habits and print guidance
+        </li>
+        <li>
+          <a href={getRelativeLocaleUrl(locale, "about")}>About</a> ·
+          <a href={getRelativeLocaleUrl(locale, "privacy")}>Privacy</a> ·
+          <a href={getRelativeLocaleUrl(locale, "terms")}>Terms</a> ·
+          <a href={getRelativeLocaleUrl(locale, "contact")}>Contact</a>
+        </li>
+      </ul>
+
+      <p class="home-geo-note">
+        Prefer machines? See
+        <a href="/llms.txt">llms.txt</a> for a short plain-text site summary for
+        AI tools, and the
+        <a href="/sitemap-index.xml">XML sitemap</a> for page discovery.
+      </p>
+    </article>
   </main>
   <Footer />
 </Layout>
@@ -119,47 +271,107 @@ const description = config.site.description;
     line-height: 1.4;
     color: var(--muted-foreground, #afb9ca);
   }
-  .home-meta {
-    margin-top: 1.75rem;
-    padding-top: 1rem;
+
+  .home-geo {
+    margin-top: 2rem;
+    padding-top: 1.25rem;
     border-top: 1px solid
       color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
-    font-size: 0.85rem;
-    line-height: 1.55;
+    max-width: 36rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
     color: var(--muted-foreground, #afb9ca);
   }
-  .home-meta-h2 {
-    margin: 0 0 0.45rem;
-    font-size: 0.9rem;
-    font-weight: 700;
-    color: var(--foreground, #eaedf3);
+  .home-geo-byline {
+    margin: 0 0 1rem;
+    font-size: 0.78rem;
+    color: var(--muted-foreground, #afb9ca);
   }
-  .home-meta p {
-    margin: 0 0 0.55rem;
-  }
-  .home-meta strong {
-    color: var(--foreground, #eaedf3);
-    font-weight: 600;
-  }
-  .home-meta a {
+  .home-geo-byline a {
     color: var(--accent, #ff6b01);
     font-weight: 600;
     text-decoration: none;
   }
-  .home-meta a:hover {
+  .home-geo-h2 {
+    margin: 1.25rem 0 0.4rem;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--foreground, #eaedf3);
+  }
+  .home-geo p {
+    margin: 0 0 0.65rem;
+  }
+  .home-geo strong {
+    color: var(--foreground, #eaedf3);
+    font-weight: 600;
+  }
+  .home-geo a {
+    color: var(--accent, #ff6b01);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .home-geo a:hover {
     text-decoration: underline;
   }
-  .home-meta-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 0.5rem;
-    align-items: center;
-    margin-top: 0.35rem !important;
+  .home-quote {
+    margin: 0.75rem 0 1rem;
+    padding: 0.65rem 0.85rem;
+    border-inline-start: 3px solid var(--accent, #ff6b01);
+    background: color-mix(in oklab, var(--muted, #343f60) 40%, transparent);
+    border-radius: 0 0.5rem 0.5rem 0;
   }
+  .home-quote p {
+    margin: 0 0 0.4rem;
+    font-style: italic;
+  }
+  .home-quote footer {
+    font-size: 0.78rem;
+    font-style: normal;
+  }
+  .home-steps {
+    margin: 0.35rem 0 0.85rem;
+    padding-left: 1.2rem;
+  }
+  .home-steps li {
+    margin-bottom: 0.3rem;
+  }
+  .home-facts {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    margin: 0.35rem 0 0.85rem;
+  }
+  .home-facts th,
+  .home-facts td {
+    border: 1px solid color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
+    padding: 0.4rem 0.55rem;
+    text-align: start;
+    vertical-align: top;
+  }
+  .home-facts th {
+    width: 38%;
+    font-weight: 700;
+    color: var(--foreground, #eaedf3);
+    background: color-mix(in oklab, var(--muted, #343f60) 35%, transparent);
+  }
+  .home-links {
+    margin: 0.35rem 0 0.85rem;
+    padding-left: 1.2rem;
+  }
+  .home-links li {
+    margin-bottom: 0.35rem;
+  }
+  .home-geo-note {
+    font-size: 0.8rem;
+    margin-top: 1rem !important;
+  }
+
   @media (min-width: 640px) {
     .play-main {
       padding-inline: 1rem;
       padding-top: 0.75rem;
+      max-width: 36rem;
     }
     body:has(.play-main) header.app-layout > div {
       padding-top: 1rem !important;
