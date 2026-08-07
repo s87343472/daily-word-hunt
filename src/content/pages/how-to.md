@@ -43,7 +43,7 @@ Only **straight lines** — no bends or zigzags.
 ## Accessibility
 
 - **Large print** — toggle on the puzzle page for bigger letters on screen.
-- **Print pack** — open [Print](/print), choose how many sheets (4–12), grid size, and theme, then **Generate pack** → **Print all pages**. One random worksheet per A4 page — built for classrooms, not just “today’s” puzzle.
+- **Print pack** — open [Print](/print), type how many pages you want (1–30), pick theme/grid, then **Generate pack** → **Print all pages**. Words stay unique while you remain on the page.
 
 ## Stuck?
 

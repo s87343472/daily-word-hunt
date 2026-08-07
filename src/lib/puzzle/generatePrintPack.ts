@@ -1,12 +1,15 @@
 /**
  * Client-safe random print-pack generation (browser or Node).
  * Uses @blex41/word-search — same engine as offline calendar puzzles.
+ *
+ * Uniqueness: never reuses a word across sheets in one pack, and callers
+ * can pass excludeWords so a browser session stays non-repeating until leave.
  */
 import WordSearch from "@blex41/word-search";
 import type { Cell, Puzzle, PuzzleWord, WordlistFile } from "./types";
 
 export type PrintPackOptions = {
-  /** How many worksheets */
+  /** How many worksheets the user asked for (1–30) */
   count: number;
   /** Grid edge length (10 | 12 | 15) */
   size: number;
@@ -14,14 +17,28 @@ export type PrintPackOptions = {
   wordsPerSheet: number;
   packTitle?: string;
   packId?: string;
+  /**
+   * Words already used this session (uppercase). They will not appear again
+   * until the user leaves the page or resets the session pool.
+   */
+  excludeWords?: Iterable<string>;
 };
 
 export type PrintPackResult = {
   sheets: Puzzle[];
+  /** Words placed on these sheets (uppercase) */
   usedWords: string[];
   size: number;
   wordsPerSheet: number;
+  /** True if we returned fewer sheets than requested (pool exhausted) */
+  truncated: boolean;
+  /** How many more sheets were requested but not possible without reuse */
+  shortfall: number;
+  /** Unused words still available in pool after this pack (for UI) */
+  remainingInPool: number;
 };
+
+type Entry = { word: string; gloss: string };
 
 function normalizeWord(w: string): string {
   return String(w).replace(/[^a-zA-Z]/g, "").toUpperCase();
@@ -56,11 +73,11 @@ function randomSeed(): number {
 }
 
 /**
- * Build one puzzle from an explicit word subset.
- * Retries with slightly different subsets if placement is thin.
+ * Build one puzzle from candidates that are already unique to this sheet.
+ * Only words that actually get placed are considered “used”.
  */
 function generateSheet(
-  entries: { word: string; gloss: string }[],
+  entries: Entry[],
   opts: {
     id: string;
     size: number;
@@ -70,17 +87,15 @@ function generateSheet(
     sheetIndex: number;
   }
 ): Puzzle {
-  const dictionary = entries.map(e => normalizeWord(e.word)).filter(Boolean);
-  const glossByWord = new Map(
-    entries.map(e => [normalizeWord(e.word), e.gloss])
-  );
+  const dictionary = entries.map(e => e.word).filter(Boolean);
+  const glossByWord = new Map(entries.map(e => [e.word, e.gloss]));
 
   let best: {
     grid: string[][];
     words: PuzzleWord[];
   } | null = null;
 
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < 5; attempt++) {
     const dict =
       attempt === 0
         ? dictionary
@@ -136,14 +151,16 @@ function generateSheet(
 }
 
 /**
- * Draw a random multi-sheet print pack from a wordlist.
- * Prefers non-overlapping words across sheets when the pool is large enough.
+ * Draw a random multi-sheet print pack.
+ * Words never repeat across sheets. Words in excludeWords are skipped entirely.
+ * If the unique pool runs out, returns fewer sheets (truncated=true) instead of
+ * reusing words.
  */
 export function generatePrintPack(
   wordlist: WordlistFile,
   options: PrintPackOptions
 ): PrintPackResult {
-  const count = Math.min(20, Math.max(1, Math.floor(options.count)));
+  const requested = Math.min(30, Math.max(1, Math.floor(options.count)));
   const size = [8, 10, 12, 15].includes(options.size) ? options.size : 10;
   const wordsPerSheet = Math.min(
     20,
@@ -152,53 +169,139 @@ export function generatePrintPack(
   const packId = options.packId || wordlist.pack || "print";
   const packTitle = options.packTitle || wordlist.title || "Word Search";
 
-  const pool = wordlist.words
+  const excluded = new Set(
+    [...(options.excludeWords ?? [])].map(normalizeWord).filter(Boolean)
+  );
+
+  const pool: Entry[] = wordlist.words
     .map(w => ({
       word: normalizeWord(w.word),
       gloss: w.gloss || "",
     }))
-    .filter(w => w.word.length >= 3 && w.word.length <= size);
+    .filter(
+      w =>
+        w.word.length >= 3 &&
+        w.word.length <= size &&
+        !excluded.has(w.word)
+    );
 
-  if (pool.length < wordsPerSheet) {
+  // Dedupe pool by word form
+  const seen = new Set<string>();
+  const uniquePool: Entry[] = [];
+  for (const e of pool) {
+    if (seen.has(e.word)) continue;
+    seen.add(e.word);
+    uniquePool.push(e);
+  }
+
+  if (uniquePool.length < 4) {
     throw new Error(
-      `Word pool too small for ${wordsPerSheet} words on a ${size}×${size} grid.`
+      "Not enough unused words left in this theme for a new pack. Reset the session pool or pick another theme."
     );
   }
 
   const rand = mulberry32(randomSeed());
-  const deck = shuffle(pool, rand);
+  /** Mutable remaining deck — only unused words */
+  let remaining = shuffle(uniquePool, rand);
   const sheets: Puzzle[] = [];
   const usedWords: string[] = [];
-  let cursor = 0;
+  const usedSet = new Set<string>();
 
-  for (let i = 0; i < count; i++) {
-    let slice: typeof pool;
-    if (cursor + wordsPerSheet <= deck.length) {
-      slice = deck.slice(cursor, cursor + wordsPerSheet);
-      cursor += wordsPerSheet;
-    } else {
-      // Pool exhausted — reshuffle remainder + full deck for more sheets
-      slice = shuffle(pool, rand).slice(0, wordsPerSheet);
+  let sheetIndex = 0;
+  while (sheetIndex < requested) {
+    // Need at least a few unused words to attempt a sheet
+    const available = remaining.filter(e => !usedSet.has(e.word));
+    if (available.length < 4) break;
+
+    const target = Math.min(wordsPerSheet, available.length);
+    // Primary slice + extras only from still-unused words (helps placer fit)
+    const primary = available.slice(0, target);
+    const extras = available.slice(target, target + Math.min(16, target * 2));
+    const candidates = [...primary, ...extras];
+
+    let sheet: Puzzle;
+    try {
+      sheet = generateSheet(candidates, {
+        id: `print-${packId}-${Date.now().toString(36)}-${sheetIndex + 1}`,
+        size,
+        maxWords: target,
+        packId,
+        title: packTitle,
+        sheetIndex: sheetIndex + 1,
+      });
+    } catch {
+      // If placement fails, drop the hardest (longest) candidates and retry once
+      const shorter = candidates
+        .slice()
+        .sort((a, b) => a.word.length - b.word.length)
+        .slice(0, Math.max(4, target - 1));
+      if (shorter.length < 4) break;
+      try {
+        sheet = generateSheet(shorter, {
+          id: `print-${packId}-${Date.now().toString(36)}-${sheetIndex + 1}`,
+          size,
+          maxWords: Math.min(target, shorter.length),
+          packId,
+          title: packTitle,
+          sheetIndex: sheetIndex + 1,
+        });
+      } catch {
+        break;
+      }
     }
 
-    // Extra candidates help the placer when some words won't fit
-    const extras = shuffle(
-      pool.filter(p => !slice.some(s => s.word === p.word)),
-      rand
-    ).slice(0, Math.min(12, wordsPerSheet));
-    const candidates = [...slice, ...extras];
+    // Guard: never accept a sheet that reuses a word already in this pack/session
+    const placed = sheet.words.map(w => w.word.toUpperCase());
+    const overlap = placed.filter(w => usedSet.has(w) || excluded.has(w));
+    if (overlap.length > 0) {
+      // Filter to unique-only words; if grid still has only unique paths, rebuild word list
+      const uniquePlaced = placed.filter(
+        w => !usedSet.has(w) && !excluded.has(w)
+      );
+      if (uniquePlaced.length < 4) {
+        // Can't keep this sheet without duplicates — stop rather than reuse
+        break;
+      }
+      // Rebuild sheet metadata with only unique words (grid still valid for those paths)
+      sheet = {
+        ...sheet,
+        words: sheet.words.filter(w => uniquePlaced.includes(w.word.toUpperCase())),
+      };
+    }
 
-    const sheet = generateSheet(candidates, {
-      id: `print-${packId}-${Date.now().toString(36)}-${i + 1}`,
-      size,
-      maxWords: wordsPerSheet,
-      packId,
-      title: packTitle,
-      sheetIndex: i + 1,
+    // Final uniqueness enforce
+    const finalWords = sheet.words.filter(w => {
+      const u = w.word.toUpperCase();
+      return !usedSet.has(u) && !excluded.has(u);
     });
+    if (finalWords.length < 4) break;
+
+    sheet = { ...sheet, words: finalWords };
     sheets.push(sheet);
-    for (const w of sheet.words) usedWords.push(w.word);
+    sheetIndex++;
+
+    for (const w of finalWords) {
+      const u = w.word.toUpperCase();
+      usedSet.add(u);
+      usedWords.push(u);
+    }
+    remaining = remaining.filter(e => !usedSet.has(e.word));
   }
 
-  return { sheets, usedWords, size, wordsPerSheet };
+  if (sheets.length === 0) {
+    throw new Error(
+      "Could not build any unique sheets. Reset the session pool or choose a larger theme."
+    );
+  }
+
+  const shortfall = Math.max(0, requested - sheets.length);
+  return {
+    sheets,
+    usedWords,
+    size,
+    wordsPerSheet,
+    truncated: shortfall > 0,
+    shortfall,
+    remainingInPool: remaining.filter(e => !usedSet.has(e.word)).length,
+  };
 }

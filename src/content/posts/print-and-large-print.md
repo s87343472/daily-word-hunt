@@ -18,9 +18,10 @@ Daily Word Hunt is built for calm screen play, but paper and larger type are fir
 Most people printing for class or home don’t want a single daily page — they want a **stack**.
 
 1. Open [Print](/print).
-2. Choose **theme**, **number of sheets** (4–12), **grid size**, and **words per sheet**.
-3. Click **Generate pack** — we randomly place words from that theme’s pool (you don’t have to inspect every page).
-4. Click **Print all pages** (or Cmd/Ctrl+P). Each worksheet is one **A4** page with grid + word list.
+2. Type **exactly how many pages** you want (1–30) — no fixed default batch size.
+3. Choose **theme**, **grid size**, and **words per sheet**.
+4. Click **Generate pack** — random worksheets from that theme’s pool. Words never repeat within the pack, or again while you stay on the page.
+5. Click **Print all pages** (or Cmd/Ctrl+P). Use **Reset word pool** only if you want reuse in this session.
 
 ### Grid size on A4
 

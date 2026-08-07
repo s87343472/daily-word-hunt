@@ -17,9 +17,10 @@ const packOptions = [
     <header class="pp-controls-head">
       <h1 id="pp-controls-title" class="pp-h1">Print pack</h1>
       <p class="pp-lead">
-        Teachers and parents usually need a <strong>batch</strong>, not one daily
-        page. Pick how many sheets, generate a random pack from our word pools,
-        then print — one puzzle per A4 page.
+        You choose <strong>exactly how many pages</strong> to print (1–30). We
+        generate that many random worksheets — one per A4 page. Words never
+        repeat across sheets, and while you stay on this page, later packs also
+        avoid words already used.
       </p>
     </header>
 
@@ -36,14 +37,20 @@ const packOptions = [
       </label>
 
       <label class="pp-field">
-        <span class="pp-label">Sheets</span>
-        <select name="count" data-pp-count class="pp-input">
-          <option value="4">4 pages</option>
-          <option value="6" selected>6 pages</option>
-          <option value="8">8 pages</option>
-          <option value="10">10 pages</option>
-          <option value="12">12 pages</option>
-        </select>
+        <span class="pp-label">Pages to print</span>
+        <input
+          type="number"
+          name="count"
+          data-pp-count
+          class="pp-input"
+          min="1"
+          max="30"
+          step="1"
+          inputmode="numeric"
+          placeholder="e.g. 3"
+          required
+        />
+        <span class="pp-field-hint">Type any number from 1 to 30 — no default pack size.</span>
       </label>
 
       <label class="pp-field">
@@ -77,11 +84,18 @@ const packOptions = [
         >
           Print all pages
         </button>
+        <button type="button" class="pp-btn pp-btn--ghost" data-pp-reset-pool>
+          Reset word pool
+        </button>
       </div>
     </form>
 
+    <p class="pp-session no-print" data-pp-session aria-live="polite">
+      Session: no words used yet. Leaving this page clears the pool.
+    </p>
+
     <p class="pp-status" data-pp-status aria-live="polite">
-      Choose options and generate a pack. Nothing prints until you click Print.
+      Enter how many pages you want, then generate. Nothing prints until you click Print.
     </p>
 
     <aside class="pp-a4-note" aria-label="A4 sizing notes">
@@ -165,6 +179,18 @@ const packOptions = [
     },
   ];
 
+  /** Session-scoped: words used while this tab stays on the print page */
+  const sessionUsedByPack = new Map<string, Set<string>>();
+
+  function getSessionUsed(packId: string): Set<string> {
+    let s = sessionUsedByPack.get(packId);
+    if (!s) {
+      s = new Set();
+      sessionUsedByPack.set(packId, s);
+    }
+    return s;
+  }
+
   function sheetHtml(puzzle: Puzzle, index: number, total: number): string {
     const rows = puzzle.grid
       .map(
@@ -221,26 +247,90 @@ const packOptions = [
       .replace(/"/g, "&quot;");
   }
 
+  function assertNoDuplicateWords(sheets: Puzzle[]): void {
+    const seen = new Set<string>();
+    for (const sheet of sheets) {
+      for (const w of sheet.words) {
+        const u = w.word.toUpperCase();
+        if (seen.has(u)) {
+          throw new Error(`Duplicate word in pack: ${u}`);
+        }
+        seen.add(u);
+      }
+    }
+  }
+
+  function updateSessionLabel(
+    el: HTMLElement | null,
+    packId: string,
+    remainingHint?: number
+  ) {
+    if (!el) return;
+    const n = getSessionUsed(packId).size;
+    if (n === 0) {
+      el.textContent =
+        "Session: no words used yet. Leaving this page clears the pool.";
+      return;
+    }
+    const rem =
+      typeof remainingHint === "number"
+        ? ` · ~${remainingHint} still available in this theme`
+        : "";
+    el.textContent = `Session: ${n} unique words already used (won’t repeat until you leave or reset)${rem}.`;
+  }
+
   function initRoot(root: HTMLElement) {
     if (root.dataset.wired === "1") return;
     root.dataset.wired = "1";
 
     const form = root.querySelector<HTMLFormElement>("[data-pp-form]");
     const status = root.querySelector<HTMLElement>("[data-pp-status]");
+    const sessionEl = root.querySelector<HTMLElement>("[data-pp-session]");
     const summary = root.querySelector<HTMLElement>("[data-pp-summary]");
     const summaryText = root.querySelector<HTMLElement>("[data-pp-summary-text]");
     const sheetsEl = root.querySelector<HTMLElement>("[data-pp-sheets]");
     const printBtn = root.querySelector<HTMLButtonElement>("[data-pp-print]");
     const genBtn = root.querySelector<HTMLButtonElement>("[data-pp-generate]");
+    const resetBtn = root.querySelector<HTMLButtonElement>("[data-pp-reset-pool]");
+    const packSelect = root.querySelector<HTMLSelectElement>("[data-pp-pack]");
+    const countInput = root.querySelector<HTMLInputElement>("[data-pp-count]");
+
+    const refreshSession = () => {
+      const packId = packSelect?.value || "daily";
+      updateSessionLabel(sessionEl, packId);
+    };
+    packSelect?.addEventListener("change", refreshSession);
+    refreshSession();
+
+    resetBtn?.addEventListener("click", () => {
+      const packId = packSelect?.value || "daily";
+      sessionUsedByPack.set(packId, new Set());
+      updateSessionLabel(sessionEl, packId);
+      if (status) {
+        status.textContent =
+          "Word pool reset for this theme. You can generate fresh packs that may reuse earlier words.";
+      }
+    });
 
     form?.addEventListener("submit", e => {
       e.preventDefault();
-      const packId =
-        root.querySelector<HTMLSelectElement>("[data-pp-pack]")?.value ||
-        "daily";
-      const count = Number(
-        root.querySelector<HTMLSelectElement>("[data-pp-count]")?.value || 6
-      );
+      const packId = packSelect?.value || "daily";
+      const rawCount = countInput?.value?.trim() ?? "";
+      if (!rawCount) {
+        if (status) {
+          status.textContent = "Enter how many pages you want to print (1–30).";
+        }
+        countInput?.focus();
+        return;
+      }
+      const count = Math.floor(Number(rawCount));
+      if (!Number.isFinite(count) || count < 1 || count > 30) {
+        if (status) {
+          status.textContent = "Pages must be a whole number from 1 to 30.";
+        }
+        countInput?.focus();
+        return;
+      }
       const size = Number(
         root.querySelector<HTMLSelectElement>("[data-pp-size]")?.value || 10
       );
@@ -257,13 +347,20 @@ const packOptions = [
 
       requestAnimationFrame(() => {
         try {
+          const exclude = getSessionUsed(pack.id);
           const result = generatePrintPack(pack.list, {
             count,
             size,
             wordsPerSheet,
             packId: pack.id,
             packTitle: pack.title,
+            excludeWords: exclude,
           });
+
+          assertNoDuplicateWords(result.sheets);
+
+          // Commit session usage only after a successful unique pack
+          for (const w of result.usedWords) exclude.add(w);
 
           sheetsEl.innerHTML = result.sheets
             .map((s, i) => sheetHtml(s, i + 1, result.sheets.length))
@@ -272,12 +369,20 @@ const packOptions = [
           root.dataset.ready = "1";
           if (printBtn) printBtn.disabled = false;
           if (summary) summary.hidden = false;
-          if (summaryText) {
-            summaryText.textContent = `${result.sheets.length} worksheets · ${result.size}×${result.size} · ~${result.wordsPerSheet} words each · theme “${pack.title}”. Print will output ${result.sheets.length} A4 pages.`;
+
+          let summaryMsg = `${result.sheets.length} page${result.sheets.length === 1 ? "" : "s"} ready · ${result.size}×${result.size} · theme “${pack.title}”. No repeated words in this pack.`;
+          if (result.truncated) {
+            summaryMsg += ` (You asked for ${count}; only ${result.sheets.length} unique sheets fit the remaining word pool.)`;
           }
+          summaryMsg += ` Print outputs exactly these ${result.sheets.length} A4 page${result.sheets.length === 1 ? "" : "s"}.`;
+          if (summaryText) summaryText.textContent = summaryMsg;
+
           if (status) {
-            status.textContent = `Pack ready (${result.sheets.length} pages). Click “Print all pages”.`;
+            status.textContent = result.truncated
+              ? `Pack ready with ${result.sheets.length} unique page(s) — pool ran short of ${result.shortfall}. Reset pool or pick another theme for more.`
+              : `Pack ready (${result.sheets.length} page${result.sheets.length === 1 ? "" : "s"}). Click “Print all pages”.`;
           }
+          updateSessionLabel(sessionEl, pack.id, result.remainingInPool);
           sheetsEl.dataset.count = String(result.sheets.length);
         } catch (err) {
           const msg =
@@ -286,6 +391,7 @@ const packOptions = [
           if (summary) summary.hidden = true;
           sheetsEl.innerHTML = "";
           root.dataset.ready = "0";
+          if (printBtn) printBtn.disabled = true;
         } finally {
           if (genBtn) genBtn.disabled = false;
         }
@@ -424,10 +530,33 @@ const packOptions = [
     color: var(--background, #fff);
   }
 
+  .pp-btn--ghost {
+    background: transparent;
+    color: var(--foreground, #111);
+    border-color: var(--border, #ccc);
+  }
+
+  .pp-field-hint {
+    font-size: 0.72rem;
+    color: var(--muted-foreground, #666);
+    line-height: 1.35;
+  }
+
+  .pp-session {
+    margin: 0.65rem 0 0;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--muted-foreground, #555);
+  }
+
   .pp-status {
-    margin: 0.75rem 0 0;
+    margin: 0.45rem 0 0;
     font-size: 0.85rem;
     color: var(--muted-foreground, #555);
+  }
+
+  input.pp-input[type="number"] {
+    max-width: 12rem;
   }
 
   .pp-a4-note {

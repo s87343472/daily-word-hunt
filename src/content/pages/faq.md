@@ -45,7 +45,7 @@ A bigger letter size for easier reading. Toggle it under the puzzle or use the l
 
 ### Can I print puzzles?
 
-Yes — open **[Print](/print)** to generate a **random pack** (4–12 worksheets), then **Print all pages**. Each sheet is one A4 page with a letter grid and word list. 10×10 uses large letters; 12×12 and 15×15 are denser.
+Yes — open **[Print](/print)**, type **how many pages** you want (1–30), generate a random pack, then **Print all pages**. Each sheet is one A4 page. Words do not repeat across sheets, or across packs, until you leave the page or reset the word pool.
 
 ## Content & themes
 
