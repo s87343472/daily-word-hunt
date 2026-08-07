@@ -4,8 +4,9 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://words.sagasu.art/",
     title: "Daily Word Hunt",
+    // Keep 140–160 chars for SERP snippet tools (spaces count).
     description:
-      "Free daily word search in your browser. New puzzle every day — drag or tap to find the words. Print and large print supported.",
+      "Free daily word search puzzle online. New grid every day—drag or tap to find the words. No account required. Print & large print supported.",
     author: "Daily Word Hunt",
     profile: "https://words.sagasu.art/",
     ogImage: "default-og.jpg",

@@ -101,6 +101,7 @@ const jsonLd = homeJsonLdGraph({
       </p>
 
       <h2 class="home-geo-h2">What is a word search puzzle?</h2>
+      <h3 class="home-geo-h3">Dictionary definition</h3>
       <p>
         A word search (also called a word find or 划词 puzzle) is a game where
         words are hidden in a grid of letters. Merriam-Webster describes “word
@@ -114,6 +115,7 @@ const jsonLd = homeJsonLdGraph({
           >
         </cite>
       </p>
+      <h3 class="home-geo-h3">How word searches usually work</h3>
       <blockquote class="home-quote">
         <p>
           “Word search” puzzles ask players to find words hidden among random
@@ -138,10 +140,24 @@ const jsonLd = homeJsonLdGraph({
         <strong
           >Drag from the first letter to the last, or tap the first letter then
           the last.</strong
-        > Only straight lines count: horizontal, vertical, diagonal, and reverse
-        directions are allowed. Full controls are on the
+        > Only straight lines count. Full controls are on the
         <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a> page.
       </p>
+      <h3 class="home-geo-h3">Drag selection</h3>
+      <p>
+        Press on the first letter, slide through neighboring cells to the last
+        letter, then release. The path must be a straight line.
+      </p>
+      <h3 class="home-geo-h3">Tap-then-tap selection</h3>
+      <p>
+        Tap the first letter, then tap the last letter. Useful on phones when
+        drag overshoots.
+      </p>
+      <h3 class="home-geo-h3">Allowed directions</h3>
+      <p>
+        Horizontal, vertical, diagonal, and reverse are allowed—no bent paths.
+      </p>
+      <h3 class="home-geo-h3">Typical session steps</h3>
       <ol class="home-steps">
         <li>Open this home page to load today’s default-series puzzle.</li>
         <li>Scan the word list (about 8 words on a typical day).</li>
@@ -157,6 +173,7 @@ const jsonLd = homeJsonLdGraph({
       </p>
 
       <h2 class="home-geo-h2">Key facts (at a glance)</h2>
+      <h3 class="home-geo-h3">Pricing, account, and today’s date</h3>
       <table class="home-facts">
         <tbody>
           <tr>
@@ -171,6 +188,11 @@ const jsonLd = homeJsonLdGraph({
             <th scope="row">Today’s date (site TZ)</th>
             <td><time datetime={today}>{today}</time> ({tz})</td>
           </tr>
+        </tbody>
+      </table>
+      <h3 class="home-geo-h3">Series, archive, and accessibility</h3>
+      <table class="home-facts">
+        <tbody>
           <tr>
             <th scope="row">Themed series</th>
             <td>
@@ -200,16 +222,23 @@ const jsonLd = homeJsonLdGraph({
       </table>
 
       <h2 class="home-geo-h2">How is this different from Wordscapes-style games?</h2>
+      <h3 class="home-geo-h3">Find-the-word vs fill-in</h3>
       <p>
         <strong
           >This is find-the-word (划词), not rack-based fill-in.</strong
         > Wordscapes-style games ask you to build words from a set of letters into
         empty slots. Daily Word Hunt hides complete words inside a filled grid; you
-        only locate and select them. We also avoid unlicensed movie/game franchise
-        packs as product IP—word lists are general or original themes.
+        only locate and select them.
+      </p>
+      <h3 class="home-geo-h3">Content and IP approach</h3>
+      <p>
+        We avoid unlicensed movie/game franchise packs as product IP—word lists
+        are general vocabulary or original themes you can browse under
+        <a href={getRelativeLocaleUrl(locale, "packs")}>Series</a>.
       </p>
 
       <h2 class="home-geo-h2">Where else can I go?</h2>
+      <h3 class="home-geo-h3">Help and series</h3>
       <ul class="home-links">
         <li>
           <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a> — short answers
@@ -223,6 +252,9 @@ const jsonLd = homeJsonLdGraph({
           <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a> — scanning
           habits and print guidance
         </li>
+      </ul>
+      <h3 class="home-geo-h3">About and legal</h3>
+      <ul class="home-links">
         <li>
           <a href={getRelativeLocaleUrl(locale, "about")}>About</a> ·
           <a href={getRelativeLocaleUrl(locale, "privacy")}>Privacy</a> ·
@@ -297,6 +329,13 @@ const jsonLd = homeJsonLdGraph({
     font-size: 1rem;
     font-weight: 700;
     line-height: 1.3;
+    color: var(--foreground, #eaedf3);
+  }
+  .home-geo-h3 {
+    margin: 0.85rem 0 0.3rem;
+    font-size: 0.92rem;
+    font-weight: 700;
+    line-height: 1.35;
     color: var(--foreground, #eaedf3);
   }
   .home-geo p {
