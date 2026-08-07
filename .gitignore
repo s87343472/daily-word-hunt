@@ -31,3 +31,6 @@ public/pagefind
 
 # docker compose
 compose.override.yaml
+
+# Impeccable / local harness skills (install with npx impeccable install)
+.grok/

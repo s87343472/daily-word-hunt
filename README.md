@@ -79,6 +79,14 @@ Actions → **Generate pack puzzles** → Run workflow (or daily cron UTC 11:00)
 Canonical host: **`https://words.sagasu.art/`** (set in `astro-paper.config.ts`).  
 Cloudflare Pages project may still have a `*.pages.dev` URL; prefer the custom domain for links, sitemap, and Search Console.
 
+## UI / design review (optional)
+
+```bash
+npx impeccable install --providers=grok --scope=project
+# then in your agent: design context lives in PRODUCT.md
+# CLI scan: node path/to/impeccable detect dist/index.html
+```
+
 ## Project docs
 
 | File | Contents |

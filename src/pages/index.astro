@@ -1,7 +1,7 @@
 ---
 /**
- * Product home = today's puzzle + GEO/SEO landing for "daily word search".
- * Board stays first; citable server-rendered copy sits below the fold.
+ * Home: operate-first word search, then a readable GEO/SEO article.
+ * Layout thesis: board leads; tools support; explainer is a separate reading surface.
  */
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
@@ -30,7 +30,6 @@ const releasedDaily = listPackDates("daily").filter(
 
 const title = `Free Daily Word Search | ${config.site.title}`;
 const description = config.site.description;
-/** Site launch / first public content signal for freshness schema */
 const datePublished = "2026-08-01";
 const dateModified = today;
 
@@ -40,6 +39,17 @@ const jsonLd = homeJsonLdGraph({
   datePublished,
   dateModified,
 });
+
+const howTo = getRelativeLocaleUrl(locale, "how-to");
+const packsUrl = getRelativeLocaleUrl(locale, "packs");
+const pastUrl = getRelativeLocaleUrl(locale, "past");
+const printUrl = getRelativeLocaleUrl(locale, "print");
+const faqUrl = getRelativeLocaleUrl(locale, "faq");
+const aboutUrl = getRelativeLocaleUrl(locale, "about");
+const postsUrl = getRelativeLocaleUrl(locale, "posts");
+const privacyUrl = getRelativeLocaleUrl(locale, "privacy");
+const termsUrl = getRelativeLocaleUrl(locale, "terms");
+const contactUrl = getRelativeLocaleUrl(locale, "contact");
 ---
 
 <Layout
@@ -50,38 +60,60 @@ const jsonLd = homeJsonLdGraph({
 >
   <JsonLd slot="head" data={jsonLd} />
   <Header />
+
   <main
     id="main-content"
-    class="play-main"
+    class="home"
     data-layout="index"
     data-home-path={homePath}
   >
-    <header class="home-seo-head">
-      <h1 class="home-h1">Free daily word search</h1>
-      <p class="home-lead">
-        Play today’s free browser word search — drag or tap to find every word.
-        New puzzle each day. No account required.
-      </p>
-    </header>
+    <!-- 1. Operate: play surface -->
+    <section class="home-play" aria-labelledby="home-title">
+      <div class="home-play-bar">
+        <div class="home-play-id">
+          <h1 id="home-title" class="home-title">Free daily word search</h1>
+          <p class="home-sub">
+            Drag or tap letters to find every word. New puzzle each day. No
+            account.
+          </p>
+        </div>
+        <p class="home-date">
+          <time datetime={today}>{today}</time>
+          <span class="home-date-tz">{tz}</span>
+        </p>
+      </div>
 
-    <WordSearchGame
-      daily
-      packId="daily"
-      timezone={tz}
-      fallbackUrl="/puzzles/sample.json"
-      largePrint={largePrint}
-      printHref={getRelativeLocaleUrl(locale, "print")}
-      a11yHref={a11yHref}
-      a11yLabel={largePrint ? "Default size" : "Large print page"}
-    />
+      <div class="home-stage">
+        <WordSearchGame
+          daily
+          packId="daily"
+          timezone={tz}
+          fallbackUrl="/puzzles/sample.json"
+          largePrint={largePrint}
+          printHref={printUrl}
+          a11yHref={a11yHref}
+          a11yLabel={largePrint ? "Default size" : "Large print page"}
+        />
+      </div>
 
-    <!-- GEO / SEO: server-rendered, answer-first, citable (below the fold) -->
-    <article class="home-geo" aria-labelledby="home-geo-heading">
-      <header class="home-geo-byline">
-        <p>
-          By <a href={getRelativeLocaleUrl(locale, "about")}
-            ><span itemprop="author">{config.site.author}</span></a
-          >
+      <nav class="home-tools" aria-label="Play tools">
+        <a href={howTo}>How to play</a>
+        <a href={packsUrl}>Series</a>
+        <a href={pastUrl}>Past days</a>
+        <a href={printUrl}>Print</a>
+        <a href={faqUrl}>FAQ</a>
+      </nav>
+    </section>
+
+    <!-- 2. Read: explainer (GEO/SEO), separate surface -->
+    <article class="home-read" aria-labelledby="home-read-title">
+      <header class="home-read-head">
+        <h2 id="home-read-title" class="home-read-title">
+          About this free word search
+        </h2>
+        <p class="home-byline">
+          By
+          <a href={aboutUrl}>{config.site.author}</a>
           ·
           <time datetime={datePublished}>Published {datePublished}</time>
           ·
@@ -89,335 +121,438 @@ const jsonLd = homeJsonLdGraph({
         </p>
       </header>
 
-      <h2 id="home-geo-heading" class="home-geo-h2">
-        What is Daily Word Hunt?
-      </h2>
-      <p>
-        <strong
-          >Daily Word Hunt is a free online daily word search game</strong
-        > you play in the browser. Letters are already on the grid; you find every
-        word from the list by selecting a straight line of letters. There is no
-        account, no download, and no paywall for the daily puzzle.
-      </p>
-
-      <h2 class="home-geo-h2">What is a word search puzzle?</h2>
-      <h3 class="home-geo-h3">Dictionary definition</h3>
-      <p>
-        A word search (also called a word find or 划词 puzzle) is a game where
-        words are hidden in a grid of letters. Merriam-Webster describes “word
-        search” in everyday use as a puzzle built from letters arranged so that
-        listed words can be located in the grid.
-        <cite>
-          <a
-            href="https://www.merriam-webster.com/dictionary/word%20search"
-            rel="noopener noreferrer"
-            target="_blank">Merriam-Webster, “word search”</a
-          >
-        </cite>
-      </p>
-      <h3 class="home-geo-h3">How word searches usually work</h3>
-      <blockquote class="home-quote">
+      <section class="home-block" aria-labelledby="q-what">
+        <h3 id="q-what" class="home-h3">What is Daily Word Hunt?</h3>
         <p>
-          “Word search” puzzles ask players to find words hidden among random
-          letters, typically in straight lines that may run in multiple
-          directions.
+          <strong>Daily Word Hunt is a free online daily word search game</strong>
+          in the browser. Letters are already on the grid; you find every word from
+          the list by selecting a straight line. No account, no download, no paywall
+          for the daily puzzle.
         </p>
-        <footer>
-          Paraphrase aligned with common dictionary definitions of word-search
-          puzzles;
+      </section>
+
+      <section class="home-block" aria-labelledby="q-def">
+        <h3 id="q-def" class="home-h3">What is a word search puzzle?</h3>
+        <p>
+          A word search (word find / 划词) hides listed words inside a grid of
+          letters. Merriam-Webster treats “word search” as a puzzle where words
+          are arranged among letters so players can locate them.
           <cite>
             <a
-              href="https://en.wikipedia.org/wiki/Word_search"
+              href="https://www.merriam-webster.com/dictionary/word%20search"
               rel="noopener noreferrer"
-              target="_blank">Wikipedia: Word search</a
+              target="_blank">Merriam-Webster</a
             >
           </cite>
-        </footer>
-      </blockquote>
+        </p>
+        <blockquote class="home-quote">
+          <p>
+            Word search puzzles ask players to find words hidden among letters,
+            usually in straight lines that can run in several directions.
+          </p>
+          <footer>
+            Common definition;
+            <cite>
+              <a
+                href="https://en.wikipedia.org/wiki/Word_search"
+                rel="noopener noreferrer"
+                target="_blank">Wikipedia: Word search</a
+              >
+            </cite>
+          </footer>
+        </blockquote>
+      </section>
 
-      <h2 class="home-geo-h2">How do you play this site?</h2>
-      <p>
-        <strong
-          >Drag from the first letter to the last, or tap the first letter then
-          the last.</strong
-        > Only straight lines count. Full controls are on the
-        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a> page.
-      </p>
-      <h3 class="home-geo-h3">Drag selection</h3>
-      <p>
-        Press on the first letter, slide through neighboring cells to the last
-        letter, then release. The path must be a straight line.
-      </p>
-      <h3 class="home-geo-h3">Tap-then-tap selection</h3>
-      <p>
-        Tap the first letter, then tap the last letter. Useful on phones when
-        drag overshoots.
-      </p>
-      <h3 class="home-geo-h3">Allowed directions</h3>
-      <p>
-        Horizontal, vertical, diagonal, and reverse are allowed—no bent paths.
-      </p>
-      <h3 class="home-geo-h3">Typical session steps</h3>
-      <ol class="home-steps">
-        <li>Open this home page to load today’s default-series puzzle.</li>
-        <li>Scan the word list (about 8 words on a typical day).</li>
-        <li>Select each word’s path on the ~10×10 letter grid.</li>
-        <li>Use a limited Hint if you are stuck on the last words.</li>
-      </ol>
+      <section class="home-block" aria-labelledby="q-how">
+        <h3 id="q-how" class="home-h3">How do you play on this site?</h3>
+        <p>
+          <strong>Drag first letter to last, or tap first then last.</strong>
+          Only straight lines count: horizontal, vertical, diagonal, and reverse.
+        </p>
+        <div class="home-split">
+          <div>
+            <h4 class="home-h4">Drag</h4>
+            <p>
+              Press the first letter, slide through cells to the last letter,
+              release.
+            </p>
+          </div>
+          <div>
+            <h4 class="home-h4">Tap then tap</h4>
+            <p>
+              Tap start, then end. Helpful on phones when drag overshoots.
+            </p>
+          </div>
+        </div>
+        <ol class="home-steps">
+          <li>Load today’s puzzle on this page.</li>
+          <li>Scan the list (about 8 words on a typical day).</li>
+          <li>Select each path on the ~10×10 grid.</li>
+          <li>Use a limited Hint for the last hard words.</li>
+        </ol>
+      </section>
 
-      <h2 class="home-geo-h2">Is Daily Word Hunt free?</h2>
-      <p>
-        <strong>Yes. Daily play costs USD $0</strong> and does not require an
-        account. Optional future features (such as a leaderboard) will not block
-        the free daily puzzle.
-      </p>
+      <section class="home-block" aria-labelledby="q-free">
+        <h3 id="q-free" class="home-h3">Is Daily Word Hunt free?</h3>
+        <p>
+          <strong>Yes. Daily play is USD $0</strong> and does not require an
+          account. Optional features later will not gate the free daily puzzle.
+        </p>
+      </section>
 
-      <h2 class="home-geo-h2">Key facts (at a glance)</h2>
-      <h3 class="home-geo-h3">Pricing, account, and today’s date</h3>
-      <table class="home-facts">
-        <tbody>
-          <tr>
-            <th scope="row">Price</th>
-            <td>Free (USD $0) for daily play</td>
-          </tr>
-          <tr>
-            <th scope="row">Account</th>
-            <td>Not required</td>
-          </tr>
-          <tr>
-            <th scope="row">Today’s date (site TZ)</th>
-            <td><time datetime={today}>{today}</time> ({tz})</td>
-          </tr>
-        </tbody>
-      </table>
-      <h3 class="home-geo-h3">Series, archive, and accessibility</h3>
-      <table class="home-facts">
-        <tbody>
-          <tr>
-            <th scope="row">Themed series</th>
-            <td>
-              {packCount} active packs (e.g. daily, nature, cities) —
-              <a href={getRelativeLocaleUrl(locale, "packs")}>browse series</a>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Default series archive</th>
-            <td>
-              {releasedDaily}+ released days on
-              <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Typical puzzle size</th>
-            <td>~10×10 grid, ~8 hidden words per day</td>
-          </tr>
-          <tr>
-            <th scope="row">Print / large print</th>
-            <td>
-              <a href={getRelativeLocaleUrl(locale, "print")}>Print today</a> ·
-              large-print toggle on the board
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <section class="home-block" aria-labelledby="q-facts">
+        <h3 id="q-facts" class="home-h3">Key facts</h3>
+        <dl class="home-facts">
+          <div>
+            <dt>Price</dt>
+            <dd>Free (USD $0)</dd>
+          </div>
+          <div>
+            <dt>Account</dt>
+            <dd>Not required</dd>
+          </div>
+          <div>
+            <dt>Today (site TZ)</dt>
+            <dd>
+              <time datetime={today}>{today}</time>
+              <span class="home-muted"> · {tz}</span>
+            </dd>
+          </div>
+          <div>
+            <dt>Series</dt>
+            <dd>
+              {packCount} packs ·
+              <a href={packsUrl}>browse</a>
+            </dd>
+          </div>
+          <div>
+            <dt>Archive</dt>
+            <dd>
+              {releasedDaily}+ days ·
+              <a href={pastUrl}>past puzzles</a>
+            </dd>
+          </div>
+          <div>
+            <dt>Typical size</dt>
+            <dd>~10×10 grid, ~8 words</dd>
+          </div>
+          <div>
+            <dt>Print</dt>
+            <dd>
+              <a href={printUrl}>Print today</a>
+              · large-print toggle on the board
+            </dd>
+          </div>
+        </dl>
+      </section>
 
-      <h2 class="home-geo-h2">How is this different from Wordscapes-style games?</h2>
-      <h3 class="home-geo-h3">Find-the-word vs fill-in</h3>
-      <p>
-        <strong
-          >This is find-the-word (划词), not rack-based fill-in.</strong
-        > Wordscapes-style games ask you to build words from a set of letters into
-        empty slots. Daily Word Hunt hides complete words inside a filled grid; you
-        only locate and select them.
-      </p>
-      <h3 class="home-geo-h3">Content and IP approach</h3>
-      <p>
-        We avoid unlicensed movie/game franchise packs as product IP—word lists
-        are general vocabulary or original themes you can browse under
-        <a href={getRelativeLocaleUrl(locale, "packs")}>Series</a>.
-      </p>
+      <section class="home-block" aria-labelledby="q-diff">
+        <h3 id="q-diff" class="home-h3">
+          How is this different from Wordscapes-style games?
+        </h3>
+        <p>
+          <strong>This is find-the-word (划词), not rack fill-in.</strong>
+          Fill games build words from letter racks into empty slots. Here words
+          are already in the grid; you only find and select them. Word lists use
+          general or original themes, not unlicensed franchise packs.
+        </p>
+      </section>
 
-      <h2 class="home-geo-h2">Where else can I go?</h2>
-      <h3 class="home-geo-h3">Help and series</h3>
-      <ul class="home-links">
-        <li>
-          <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a> — short answers
-          on privacy, printing, and daily release
-        </li>
-        <li>
-          <a href={getRelativeLocaleUrl(locale, "packs")}>Series & themes</a> —
-          nature, cities, and more calendars
-        </li>
-        <li>
-          <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a> — scanning
-          habits and print guidance
-        </li>
-      </ul>
-      <h3 class="home-geo-h3">About and legal</h3>
-      <ul class="home-links">
-        <li>
-          <a href={getRelativeLocaleUrl(locale, "about")}>About</a> ·
-          <a href={getRelativeLocaleUrl(locale, "privacy")}>Privacy</a> ·
-          <a href={getRelativeLocaleUrl(locale, "terms")}>Terms</a> ·
-          <a href={getRelativeLocaleUrl(locale, "contact")}>Contact</a>
-        </li>
-      </ul>
-
-      <p class="home-geo-note">
-        Prefer machines? See
-        <a href="/llms.txt">llms.txt</a> for a short plain-text site summary for
-        AI tools, and the
-        <a href="/sitemap-index.xml">XML sitemap</a> for page discovery.
-      </p>
+      <section class="home-block" aria-labelledby="q-more">
+        <h3 id="q-more" class="home-h3">More pages</h3>
+        <ul class="home-more">
+          <li><a href={faqUrl}>FAQ</a></li>
+          <li><a href={packsUrl}>Series and themes</a></li>
+          <li><a href={postsUrl}>Tips</a></li>
+          <li><a href={aboutUrl}>About</a></li>
+          <li><a href={privacyUrl}>Privacy</a></li>
+          <li><a href={termsUrl}>Terms</a></li>
+          <li><a href={contactUrl}>Contact</a></li>
+          <li><a href="/llms.txt">llms.txt</a></li>
+        </ul>
+      </section>
     </article>
   </main>
+
   <Footer />
 </Layout>
 
 <style is:global>
-  .play-main {
+  /* —— layout shell —— */
+  .home {
+    --home-pad: 0.75rem;
+    --home-gap: 1rem;
+    --home-max: 28rem;
+    --home-read-max: 40rem;
     width: 100%;
-    max-width: 32rem;
     margin-inline: auto;
-    padding-inline: 0.75rem;
+    padding-inline: var(--home-pad);
     padding-top: 0.35rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 2.5rem;
   }
-  body:has(.play-main) header.app-layout > div {
+  body:has(.home) header.app-layout > div {
     padding-top: 0.55rem !important;
     padding-bottom: 0.55rem !important;
   }
-  .home-seo-head {
-    margin-bottom: 0.45rem;
+
+  /* —— play surface (primary) —— */
+  .home-play {
+    max-width: var(--home-max);
+    margin-inline: auto;
   }
-  .home-h1 {
+  .home-play-bar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.65rem;
+  }
+  .home-play-id {
+    min-width: 0;
+    flex: 1;
+  }
+  .home-title {
     margin: 0;
-    font-size: 1.05rem;
+    font-size: 1.375rem;
     font-weight: 700;
-    line-height: 1.25;
-    color: var(--foreground, #eaedf3);
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: var(--foreground);
   }
-  .home-lead {
-    margin: 0.2rem 0 0;
-    font-size: 0.8rem;
+  .home-sub {
+    margin: 0.3rem 0 0;
+    font-size: 0.875rem;
     line-height: 1.4;
-    color: var(--muted-foreground, #afb9ca);
+    color: var(--muted-foreground);
+  }
+  .home-date {
+    flex-shrink: 0;
+    margin: 0;
+    padding: 0.3rem 0.55rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--muted);
+    font-size: 0.75rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.25;
+    text-align: end;
+    color: var(--foreground);
+  }
+  .home-date-tz {
+    display: block;
+    margin-top: 0.1rem;
+    font-size: 0.65rem;
+    font-weight: 600;
+    color: var(--muted-foreground);
+  }
+  .home-stage {
+    /* board owns attention; game component is full width of this column */
+  }
+  .home-stage .ws {
+    max-width: none;
+  }
+  .home-tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.85rem;
+    justify-content: center;
+  }
+  .home-tools a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--muted);
+    color: var(--foreground);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .home-tools a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
-  .home-geo {
-    margin-top: 2rem;
-    padding-top: 1.25rem;
-    border-top: 1px solid
-      color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
-    max-width: 36rem;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: var(--muted-foreground, #afb9ca);
-  }
-  .home-geo-byline {
-    margin: 0 0 1rem;
-    font-size: 0.78rem;
-    color: var(--muted-foreground, #afb9ca);
-  }
-  .home-geo-byline a {
-    color: var(--accent, #ff6b01);
-    font-weight: 600;
-    text-decoration: none;
-  }
-  .home-geo-h2 {
-    margin: 1.25rem 0 0.4rem;
+  /* —— reading surface (secondary) —— */
+  .home-read {
+    max-width: var(--home-read-max);
+    margin: 2.25rem auto 0;
+    padding: 1.25rem 1rem 1.5rem;
+    border-radius: 0.85rem;
+    border: 1px solid var(--border);
+    background: var(--background);
+    color: var(--foreground);
     font-size: 1rem;
+    line-height: 1.65;
+  }
+  .home-read-head {
+    margin-bottom: 1.1rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .home-read-title {
+    margin: 0;
+    font-size: 1.25rem;
     font-weight: 700;
-    line-height: 1.3;
-    color: var(--foreground, #eaedf3);
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+    color: var(--foreground);
   }
-  .home-geo-h3 {
-    margin: 0.85rem 0 0.3rem;
-    font-size: 0.92rem;
-    font-weight: 700;
-    line-height: 1.35;
-    color: var(--foreground, #eaedf3);
+  .home-byline {
+    margin: 0.4rem 0 0;
+    font-size: 0.8125rem;
+    line-height: 1.4;
+    color: var(--muted-foreground);
   }
-  .home-geo p {
-    margin: 0 0 0.65rem;
-  }
-  .home-geo strong {
-    color: var(--foreground, #eaedf3);
-    font-weight: 600;
-  }
-  .home-geo a {
-    color: var(--accent, #ff6b01);
+  .home-byline a {
+    color: var(--accent);
     font-weight: 600;
     text-decoration: none;
   }
-  .home-geo a:hover {
+  .home-byline a:hover {
     text-decoration: underline;
   }
+  .home-block {
+    margin: 0 0 1.35rem;
+  }
+  .home-block:last-child {
+    margin-bottom: 0;
+  }
+  .home-h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.0625rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--foreground);
+  }
+  .home-h4 {
+    margin: 0 0 0.25rem;
+    font-size: 0.9375rem;
+    font-weight: 700;
+    color: var(--foreground);
+  }
+  .home-block p {
+    margin: 0 0 0.6rem;
+    color: var(--foreground);
+  }
+  .home-block p:last-child {
+    margin-bottom: 0;
+  }
+  .home-block strong {
+    font-weight: 700;
+  }
+  .home-block a {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .home-muted {
+    color: var(--muted-foreground);
+  }
   .home-quote {
-    margin: 0.75rem 0 1rem;
-    padding: 0.65rem 0.85rem;
-    border-inline-start: 3px solid var(--accent, #ff6b01);
-    background: color-mix(in oklab, var(--muted, #343f60) 40%, transparent);
-    border-radius: 0 0.5rem 0.5rem 0;
+    margin: 0.65rem 0 0;
+    padding: 0.7rem 0.85rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--muted);
   }
   .home-quote p {
     margin: 0 0 0.4rem;
     font-style: italic;
+    color: var(--foreground);
   }
   .home-quote footer {
-    font-size: 0.78rem;
+    font-size: 0.8125rem;
     font-style: normal;
+    color: var(--muted-foreground);
+  }
+  .home-split {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0.65rem 0;
+  }
+  .home-split > div {
+    padding: 0.65rem 0.75rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--muted);
+  }
+  .home-split p {
+    margin: 0;
+    font-size: 0.9375rem;
+    color: var(--foreground);
   }
   .home-steps {
-    margin: 0.35rem 0 0.85rem;
-    padding-left: 1.2rem;
+    margin: 0.55rem 0 0;
+    padding-left: 1.25rem;
+    color: var(--foreground);
   }
   .home-steps li {
     margin-bottom: 0.3rem;
   }
   .home-facts {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.85rem;
-    margin: 0.35rem 0 0.85rem;
+    margin: 0.35rem 0 0;
+    display: grid;
+    gap: 0.45rem;
   }
-  .home-facts th,
-  .home-facts td {
-    border: 1px solid color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
-    padding: 0.4rem 0.55rem;
-    text-align: start;
-    vertical-align: top;
+  .home-facts > div {
+    display: grid;
+    grid-template-columns: 7.5rem 1fr;
+    gap: 0.5rem 0.75rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border);
   }
-  .home-facts th {
-    width: 38%;
+  .home-facts > div:last-child {
+    border-bottom: none;
+  }
+  .home-facts dt {
+    margin: 0;
+    font-size: 0.8125rem;
     font-weight: 700;
-    color: var(--foreground, #eaedf3);
-    background: color-mix(in oklab, var(--muted, #343f60) 35%, transparent);
+    color: var(--muted-foreground);
   }
-  .home-links {
-    margin: 0.35rem 0 0.85rem;
-    padding-left: 1.2rem;
+  .home-facts dd {
+    margin: 0;
+    font-size: 0.9375rem;
+    color: var(--foreground);
   }
-  .home-links li {
-    margin-bottom: 0.35rem;
+  .home-more {
+    list-style: none;
+    margin: 0.35rem 0 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.85rem;
   }
-  .home-geo-note {
-    font-size: 0.8rem;
-    margin-top: 1rem !important;
+  .home-more a {
+    font-size: 0.9375rem;
   }
 
   @media (min-width: 640px) {
-    .play-main {
-      padding-inline: 1rem;
-      padding-top: 0.75rem;
-      max-width: 36rem;
+    .home {
+      --home-pad: 1rem;
+      padding-top: 0.65rem;
     }
-    body:has(.play-main) header.app-layout > div {
+    body:has(.home) header.app-layout > div {
       padding-top: 1rem !important;
       padding-bottom: 1rem !important;
     }
-    .home-h1 {
-      font-size: 1.15rem;
+    .home-title {
+      font-size: 1.5rem;
+    }
+    .home-read {
+      padding: 1.5rem 1.35rem 1.75rem;
+    }
+    .home-split {
+      grid-template-columns: 1fr 1fr;
+    }
+    .home-facts > div {
+      grid-template-columns: 8.5rem 1fr;
     }
   }
 </style>
