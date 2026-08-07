@@ -36,8 +36,17 @@ const socialImageURL = new URL(ogImage, Astro.site ?? Astro.url);
 const lang = Astro.currentLocale ?? site.lang;
 const rssHref = getRelativeLocaleUrl(lang, "rss.xml");
 const siteOrigin = new URL(site.url).origin;
-/** Baked at build time — must appear in static HTML for GA installer detection */
-const gaId = PUBLIC_GA_MEASUREMENT_ID?.trim() || "";
+/**
+ * GA4 measurement ID (public by design — always visible in page source).
+ * Prefer env at build; fall back to production ID so CF mis-scoped env
+ * cannot leave head empty and fail Google installer detection.
+ */
+const gaId =
+  PUBLIC_GA_MEASUREMENT_ID?.trim() ||
+  (typeof import.meta.env.PUBLIC_GA_MEASUREMENT_ID === "string"
+    ? import.meta.env.PUBLIC_GA_MEASUREMENT_ID.trim()
+    : "") ||
+  "G-SZMGNMBD0Z";
 ---
 
 <!doctype html>
