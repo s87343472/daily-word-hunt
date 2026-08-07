@@ -66,15 +66,20 @@ Your choice is stored in **localStorage** under a site-specific key (not used as
 | Category | Default | Purpose |
 |----------|---------|---------|
 | **Necessary** | Always on | Theme preference, storing your consent choice, basic site function |
-| **Analytics** | **Off** until you opt in | Aggregate traffic / product improvement — only loaded if you allow it |
+| **Analytics cookies** | Off until you opt in | Full GA4 cookies for detailed reports (sources, journeys) |
+| **Basic measurement (Consent Mode)** | On when GA is configured | Google **cookieless pings** while `analytics_storage` is denied — for approximate traffic volume / modeling, not full profiles |
 
 ### 3.3 What we may use
 
 - **Essential** browser storage for theme or UI preferences  
 - **Hosting / CDN** technical logs required to deliver the site  
-- **Optional analytics** scripts or beacons — **only after opt-in**. When configured, we may load **Plausible** (`PUBLIC_PLAUSIBLE_DOMAIN`) and/or **Google Analytics 4** (`PUBLIC_GA_MEASUREMENT_ID`). Neither loads until you accept analytics.
+- **Google Analytics 4** (`PUBLIC_GA_MEASUREMENT_ID`) via **Google Consent Mode (Advanced-style)**:  
+  - The gtag library may load on each visit.  
+  - Until you accept analytics cookies, storage stays **denied** and Google may receive **cookieless, non-identifying pings** (basic volume signals).  
+  - After you accept, `analytics_storage` is **granted** and normal analytics cookies may be used.  
+- **Plausible** (`PUBLIC_PLAUSIBLE_DOMAIN`), if configured: cookieless aggregate pageviews.
 
-We do not use play as a vehicle to track you across unrelated third-party sites. Analytics remain **denied** until you accept.
+We do not use play to sell personal data or to track you across unrelated third-party sites for advertising.
 
 ## 4. How we use information
 

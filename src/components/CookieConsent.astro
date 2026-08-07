@@ -26,8 +26,9 @@ const privacyHref = getRelativeLocaleUrl(locale, "privacy");
         <p id="cc-banner-title" class="cc-title">Cookies & privacy</p>
         <p id="cc-banner-desc" class="cc-desc">
           We use necessary storage so the site works (for example theme).
-          Optional <strong>analytics</strong> (Plausible and/or Google Analytics,
-          when configured) stay <strong>off</strong> until you accept.
+          <strong>Basic visit stats</strong> use Google Consent Mode (no analytics
+          cookies until you accept). Accepting enables full analytics cookies for
+          richer reports.
           <a class="cc-link" href={privacyHref}>Privacy Policy</a>
         </p>
       </div>
@@ -85,10 +86,12 @@ const privacyHref = getRelativeLocaleUrl(locale, "privacy");
         <li class="cc-cat">
           <div class="cc-cat-row">
             <div>
-              <p class="cc-cat-name">Analytics</p>
+              <p class="cc-cat-name">Analytics cookies</p>
               <p class="cc-cat-desc">
-                Anonymous or aggregated usage stats (page views, referrers). Not
-                used to sell your data. <strong>Default: off.</strong>
+                Full Google Analytics cookies for detailed reports. Without this,
+                we still send cookieless basic pings (Consent Mode) so we can see
+                rough traffic volume—not personalized profiles.
+                <strong>Default: off for cookies.</strong>
               </p>
             </div>
             <label class="cc-switch">

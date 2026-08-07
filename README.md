@@ -96,23 +96,21 @@ npx impeccable install --providers=grok --scope=project
 
 ## Analytics (opt-in only)
 
-Scripts load **only** after the visitor accepts analytics in the cookie banner (not on Reject).
+**Google Consent Mode (Advanced-style):**
 
-**Cloudflare Pages** → project → **Settings** → **Environment variables** → Production (+ Preview if you want):
+| Visitor choice | What happens |
+|----------------|--------------|
+| No choice yet / **Reject** | gtag loads; `analytics_storage=denied` → **cookieless pings** (basic volume in GA) |
+| **Accept** analytics | `analytics_storage=granted` → full GA cookies + richer reports |
+
+**Cloudflare Pages** → **Settings** → **Environment variables** (Production):
 
 | Name | Value |
 |------|--------|
 | `PUBLIC_GA_MEASUREMENT_ID` | `G-SZMGNMBD0Z` |
+| `PUBLIC_PLAUSIBLE_DOMAIN` | `words.sagasu.art` (optional) |
 
-Optional:
-
-```bash
-PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art
-```
-
-Then **redeploy** (env vars are baked in at build time for Astro `PUBLIC_*`).
-
-Local: copy `.env.example` → `.env` and restart `pnpm dev`.
+Then **redeploy**. Local: copy `.env.example` → `.env`.
 
 ## Local progress
 
