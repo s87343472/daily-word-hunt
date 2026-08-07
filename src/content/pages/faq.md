@@ -43,9 +43,9 @@ It helps you find a remaining word (limited uses per puzzle). Use them for the l
 
 A bigger letter size for easier reading. Toggle it under the puzzle or use the large-print link in the tools row.
 
-### Can I print the puzzle?
+### Can I print puzzles?
 
-Yes — open **[Print](/print)** for a clean worksheet (grid + word list), then tap **Print** or use Cmd/Ctrl+P.
+Yes — open **[Print](/print)** to generate a **random pack** (4–12 worksheets), then **Print all pages**. Each sheet is one A4 page with a letter grid and word list. 10×10 uses large letters; 12×12 and 15×15 are denser.
 
 ## Content & themes
 

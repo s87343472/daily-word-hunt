@@ -43,7 +43,7 @@ Only **straight lines** — no bends or zigzags.
 ## Accessibility
 
 - **Large print** — toggle on the puzzle page for bigger letters on screen.
-- **Print** — open [Print](/print) for a clean worksheet (grid + word list). Tap **Print** for one-click browser print, or use Cmd/Ctrl+P. Site chrome is hidden on paper.
+- **Print pack** — open [Print](/print), choose how many sheets (4–12), grid size, and theme, then **Generate pack** → **Print all pages**. One random worksheet per A4 page — built for classrooms, not just “today’s” puzzle.
 
 ## Stuck?
 

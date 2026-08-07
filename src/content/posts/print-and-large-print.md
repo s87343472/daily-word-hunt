@@ -13,12 +13,24 @@ description: How to print today’s word search or enlarge the board for easier 
 
 Daily Word Hunt is built for calm screen play, but paper and larger type are first-class too.
 
-## Print today’s puzzle
+## Print a pack (batch worksheets)
 
-1. Open [Print](/print) — you get a **worksheet** layout (title, letter grid, word list), not the interactive game.
-2. Tap **Print** for one-click browser print, or use **Cmd/Ctrl + P**.
-3. Site header, footer, and toolbar stay off the page; only the worksheet prints.
-4. Optional: `/print?date=YYYY-MM-DD` for a past daily (on or before today).
+Most people printing for class or home don’t want a single daily page — they want a **stack**.
+
+1. Open [Print](/print).
+2. Choose **theme**, **number of sheets** (4–12), **grid size**, and **words per sheet**.
+3. Click **Generate pack** — we randomly place words from that theme’s pool (you don’t have to inspect every page).
+4. Click **Print all pages** (or Cmd/Ctrl+P). Each worksheet is one **A4** page with grid + word list.
+
+### Grid size on A4
+
+| Size | On A4 | Best for |
+|------|--------|----------|
+| **10×10** | Large letters (~14&nbsp;mm cells) | Kids / clear classroom copies |
+| **12×12** | Still readable | Mixed ages |
+| **15×15** | Tighter type | Older kids / challenge |
+
+Interactive play on the home page stays **10×10** for the daily game; print packs can go larger.
 
 Tip: choose “background graphics” if your browser strips letter cell colors and you want them.
 

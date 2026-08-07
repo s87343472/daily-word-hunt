@@ -1,0 +1,779 @@
+---
+/**
+ * Random multi-sheet print pack: generate N worksheets → print all pages.
+ * Screen = controls + pack summary; paper = one clean A4 sheet per puzzle.
+ */
+const packOptions = [
+  { id: "daily", label: "General (Daily pool)" },
+  { id: "nature", label: "Nature" },
+  { id: "cities", label: "Cities & places" },
+  { id: "history", label: "History" },
+] as const;
+---
+
+<div class="pp" data-pp-root>
+  <!-- Screen controls only -->
+  <section class="pp-controls no-print" aria-labelledby="pp-controls-title">
+    <header class="pp-controls-head">
+      <h1 id="pp-controls-title" class="pp-h1">Print pack</h1>
+      <p class="pp-lead">
+        Teachers and parents usually need a <strong>batch</strong>, not one daily
+        page. Pick how many sheets, generate a random pack from our word pools,
+        then print — one puzzle per A4 page.
+      </p>
+    </header>
+
+    <form class="pp-form" data-pp-form>
+      <label class="pp-field">
+        <span class="pp-label">Theme</span>
+        <select name="pack" data-pp-pack class="pp-input">
+          {
+            packOptions.map(p => (
+              <option value={p.id}>{p.label}</option>
+            ))
+          }
+        </select>
+      </label>
+
+      <label class="pp-field">
+        <span class="pp-label">Sheets</span>
+        <select name="count" data-pp-count class="pp-input">
+          <option value="4">4 pages</option>
+          <option value="6" selected>6 pages</option>
+          <option value="8">8 pages</option>
+          <option value="10">10 pages</option>
+          <option value="12">12 pages</option>
+        </select>
+      </label>
+
+      <label class="pp-field">
+        <span class="pp-label">Grid (A4 clarity)</span>
+        <select name="size" data-pp-size class="pp-input">
+          <option value="10" selected>10×10 — large letters, best for kids</option>
+          <option value="12">12×12 — still clear, denser</option>
+          <option value="15">15×15 — harder, smaller type</option>
+        </select>
+      </label>
+
+      <label class="pp-field">
+        <span class="pp-label">Words per sheet</span>
+        <select name="words" data-pp-words class="pp-input">
+          <option value="6">6 words</option>
+          <option value="8" selected>8 words</option>
+          <option value="10">10 words</option>
+          <option value="12">12 words</option>
+        </select>
+      </label>
+
+      <div class="pp-actions">
+        <button type="submit" class="pp-btn pp-btn--primary" data-pp-generate>
+          Generate pack
+        </button>
+        <button
+          type="button"
+          class="pp-btn pp-btn--accent"
+          data-pp-print
+          disabled
+        >
+          Print all pages
+        </button>
+      </div>
+    </form>
+
+    <p class="pp-status" data-pp-status aria-live="polite">
+      Choose options and generate a pack. Nothing prints until you click Print.
+    </p>
+
+    <aside class="pp-a4-note" aria-label="A4 sizing notes">
+      <p class="pp-a4-title">A4 readability</p>
+      <ul class="pp-a4-list">
+        <li>
+          <strong>10×10</strong> on one A4 page uses large cells (~12–14&nbsp;mm) —
+          clear for most classrooms.
+        </li>
+        <li>
+          <strong>12×12</strong> still fine; <strong>15×15</strong> is tighter
+          (better for older kids / teens).
+        </li>
+        <li>
+          Print dialog: paper <strong>A4</strong>, margins default, background
+          graphics on if letters look faint.
+        </li>
+      </ul>
+    </aside>
+  </section>
+
+  <!-- Pack summary (screen) -->
+  <section class="pp-summary no-print" data-pp-summary hidden>
+    <h2 class="pp-h2">Pack ready</h2>
+    <p class="pp-summary-text" data-pp-summary-text></p>
+    <p class="pp-summary-hint">
+      You don’t need to review every sheet. Printing sends
+      <strong>all pages</strong> to the printer (page breaks included).
+    </p>
+    <details class="pp-preview-toggle">
+      <summary>Preview sheets on screen</summary>
+      <p class="pp-preview-note">
+        Scroll the worksheets below. Paper layout matches print.
+      </p>
+    </details>
+  </section>
+
+  <!-- Sheets: multi-page via break-after -->
+  <div class="pp-sheets" data-pp-sheets aria-live="polite"></div>
+</div>
+
+<script>
+  import { generatePrintPack } from "@/lib/puzzle/generatePrintPack";
+  import type { Puzzle, WordlistFile } from "@/lib/puzzle/types";
+  import dailyList from "../../../wordlists/packs/daily.json";
+  import natureList from "../../../wordlists/packs/nature.json";
+  import citiesList from "../../../wordlists/packs/cities.json";
+  import historyList from "../../../wordlists/packs/history.json";
+
+  type PackPayload = {
+    id: string;
+    label: string;
+    title: string;
+    list: WordlistFile;
+  };
+
+  const PACKS: PackPayload[] = [
+    {
+      id: "daily",
+      label: "General",
+      title: (dailyList as WordlistFile).title,
+      list: dailyList as WordlistFile,
+    },
+    {
+      id: "nature",
+      label: "Nature",
+      title: (natureList as WordlistFile).title,
+      list: natureList as WordlistFile,
+    },
+    {
+      id: "cities",
+      label: "Cities",
+      title: (citiesList as WordlistFile).title,
+      list: citiesList as WordlistFile,
+    },
+    {
+      id: "history",
+      label: "History",
+      title: (historyList as WordlistFile).title,
+      list: historyList as WordlistFile,
+    },
+  ];
+
+  function sheetHtml(puzzle: Puzzle, index: number, total: number): string {
+    const rows = puzzle.grid
+      .map(
+        row =>
+          `<tr>${row.map(ch => `<td>${escapeHtml(String(ch))}</td>`).join("")}</tr>`
+      )
+      .join("");
+    const words = puzzle.words
+      .map(w => `<li>${escapeHtml(w.word.toUpperCase())}</li>`)
+      .join("");
+    const sizeLabel = `${puzzle.rows}×${puzzle.cols}`;
+    return `
+<article class="pp-sheet" data-pp-sheet>
+  <header class="pp-sheet-head">
+    <p class="pp-brand">Daily Word Hunt · Print pack</p>
+    <h2 class="pp-sheet-title">${escapeHtml(puzzle.title || `Sheet ${index}`)}</h2>
+    <p class="pp-sheet-meta">
+      Sheet ${index} of ${total}
+      <span class="pp-meta-sep" aria-hidden="true">·</span>
+      ${sizeLabel}
+      <span class="pp-meta-sep" aria-hidden="true">·</span>
+      ${puzzle.words.length} words
+      <span class="pp-meta-sep" aria-hidden="true">·</span>
+      words.sagasu.art
+    </p>
+    <p class="pp-instructions">
+      Find each word in the grid. Words may run in any direction, including
+      diagonals and backwards. Circle or highlight as you go.
+    </p>
+  </header>
+  <div class="pp-body" data-size="${puzzle.rows}">
+    <div class="pp-grid-wrap">
+      <table class="pp-grid" role="grid" aria-label="Letter grid sheet ${index}">
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+    <section class="pp-words" aria-label="Word list sheet ${index}">
+      <h3 class="pp-words-title">Word list <span class="pp-words-count">(${puzzle.words.length})</span></h3>
+      <ul class="pp-word-list">${words}</ul>
+    </section>
+  </div>
+  <footer class="pp-sheet-foot">
+    <span>Free printable · Non-commercial classroom use OK</span>
+    <span>p.${index}/${total}</span>
+  </footer>
+</article>`;
+  }
+
+  function escapeHtml(s: string): string {
+    return s
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function initRoot(root: HTMLElement) {
+    if (root.dataset.wired === "1") return;
+    root.dataset.wired = "1";
+
+    const form = root.querySelector<HTMLFormElement>("[data-pp-form]");
+    const status = root.querySelector<HTMLElement>("[data-pp-status]");
+    const summary = root.querySelector<HTMLElement>("[data-pp-summary]");
+    const summaryText = root.querySelector<HTMLElement>("[data-pp-summary-text]");
+    const sheetsEl = root.querySelector<HTMLElement>("[data-pp-sheets]");
+    const printBtn = root.querySelector<HTMLButtonElement>("[data-pp-print]");
+    const genBtn = root.querySelector<HTMLButtonElement>("[data-pp-generate]");
+
+    form?.addEventListener("submit", e => {
+      e.preventDefault();
+      const packId =
+        root.querySelector<HTMLSelectElement>("[data-pp-pack]")?.value ||
+        "daily";
+      const count = Number(
+        root.querySelector<HTMLSelectElement>("[data-pp-count]")?.value || 6
+      );
+      const size = Number(
+        root.querySelector<HTMLSelectElement>("[data-pp-size]")?.value || 10
+      );
+      const wordsPerSheet = Number(
+        root.querySelector<HTMLSelectElement>("[data-pp-words]")?.value || 8
+      );
+
+      const pack = PACKS.find(p => p.id === packId) ?? PACKS[0];
+      if (!pack || !sheetsEl) return;
+
+      if (status) status.textContent = "Generating pack…";
+      if (genBtn) genBtn.disabled = true;
+      if (printBtn) printBtn.disabled = true;
+
+      requestAnimationFrame(() => {
+        try {
+          const result = generatePrintPack(pack.list, {
+            count,
+            size,
+            wordsPerSheet,
+            packId: pack.id,
+            packTitle: pack.title,
+          });
+
+          sheetsEl.innerHTML = result.sheets
+            .map((s, i) => sheetHtml(s, i + 1, result.sheets.length))
+            .join("");
+
+          root.dataset.ready = "1";
+          if (printBtn) printBtn.disabled = false;
+          if (summary) summary.hidden = false;
+          if (summaryText) {
+            summaryText.textContent = `${result.sheets.length} worksheets · ${result.size}×${result.size} · ~${result.wordsPerSheet} words each · theme “${pack.title}”. Print will output ${result.sheets.length} A4 pages.`;
+          }
+          if (status) {
+            status.textContent = `Pack ready (${result.sheets.length} pages). Click “Print all pages”.`;
+          }
+          sheetsEl.dataset.count = String(result.sheets.length);
+        } catch (err) {
+          const msg =
+            err instanceof Error ? err.message : "Generation failed.";
+          if (status) status.textContent = msg;
+          if (summary) summary.hidden = true;
+          sheetsEl.innerHTML = "";
+          root.dataset.ready = "0";
+        } finally {
+          if (genBtn) genBtn.disabled = false;
+        }
+      });
+    });
+
+    printBtn?.addEventListener("click", () => {
+      if (root.dataset.ready !== "1") return;
+      window.print();
+    });
+  }
+
+  function boot() {
+    document
+      .querySelectorAll<HTMLElement>("[data-pp-root]")
+      .forEach(initRoot);
+  }
+
+  boot();
+  document.addEventListener("astro:page-load", boot);
+</script>
+
+<style is:global>
+  .pp {
+    --pp-ink: #111;
+    --pp-muted: #444;
+    --pp-line: #1a1a1a;
+    --pp-paper: #fff;
+    --pp-accent: var(--accent, #0b57d0);
+    width: 100%;
+    max-width: 42rem;
+    margin-inline: auto;
+  }
+
+  .pp-h1 {
+    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 750;
+    color: var(--foreground, #111);
+  }
+
+  .pp-h2 {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+    font-weight: 700;
+  }
+
+  .pp-lead {
+    margin: 0.45rem 0 0;
+    font-size: 0.9rem;
+    line-height: 1.55;
+    color: var(--muted-foreground, #555);
+  }
+
+  .pp-controls {
+    margin-bottom: 1.25rem;
+  }
+
+  .pp-form {
+    display: grid;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--border, #ddd);
+    border-radius: 0.75rem;
+    background: var(--background, #fff);
+  }
+
+  @media (min-width: 540px) {
+    .pp-form {
+      grid-template-columns: 1fr 1fr;
+    }
+    .pp-actions {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .pp-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .pp-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--muted-foreground, #666);
+  }
+
+  .pp-input {
+    min-height: 2.5rem;
+    padding: 0.4rem 0.55rem;
+    border-radius: 0.45rem;
+    border: 1px solid var(--border, #ccc);
+    background: var(--background, #fff);
+    color: var(--foreground, #111);
+    font: inherit;
+    font-size: 0.9375rem;
+  }
+
+  .pp-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.25rem;
+  }
+
+  .pp-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.6rem;
+    padding: 0.5rem 1.1rem;
+    border-radius: 0.5rem;
+    font-size: 0.9375rem;
+    font-weight: 650;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .pp-btn:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
+
+  .pp-btn--primary {
+    background: var(--pp-accent);
+    color: #fff;
+  }
+
+  .pp-btn--accent {
+    background: var(--foreground, #111);
+    color: var(--background, #fff);
+  }
+
+  .pp-status {
+    margin: 0.75rem 0 0;
+    font-size: 0.85rem;
+    color: var(--muted-foreground, #555);
+  }
+
+  .pp-a4-note {
+    margin-top: 1rem;
+    padding: 0.75rem 0.9rem;
+    border-radius: 0.55rem;
+    background: var(--muted, #f3f3f3);
+    border: 1px solid var(--border, #e5e5e5);
+  }
+
+  .pp-a4-title {
+    margin: 0 0 0.35rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+
+  .pp-a4-list {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.8rem;
+    line-height: 1.45;
+    color: var(--muted-foreground, #555);
+  }
+
+  .pp-summary {
+    margin: 0 0 1rem;
+    padding: 0.85rem 1rem;
+    border-radius: 0.65rem;
+    border: 1px solid var(--border, #ddd);
+    background: color-mix(in oklab, var(--pp-accent) 8%, transparent);
+  }
+
+  .pp-summary-text {
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  .pp-summary-hint {
+    margin: 0.4rem 0 0;
+    font-size: 0.8rem;
+    color: var(--muted-foreground, #555);
+  }
+
+  .pp-preview-toggle {
+    margin-top: 0.55rem;
+    font-size: 0.85rem;
+  }
+
+  .pp-preview-note {
+    margin: 0.35rem 0 0;
+    font-size: 0.8rem;
+    color: var(--muted-foreground, #666);
+  }
+
+  .pp-sheets {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .pp-sheet {
+    background: var(--pp-paper);
+    color: var(--pp-ink);
+    border: 1px solid var(--border, #ddd);
+    border-radius: 0.65rem;
+    padding: 1.15rem 1rem 0.9rem;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 4%);
+  }
+
+  .pp-sheet-head {
+    text-align: center;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 2px solid var(--pp-line);
+  }
+
+  .pp-brand {
+    margin: 0;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--pp-muted);
+  }
+
+  .pp-sheet-title {
+    margin: 0.2rem 0 0;
+    font-size: 1.2rem;
+    font-weight: 750;
+    color: var(--pp-ink);
+  }
+
+  .pp-sheet-meta {
+    margin: 0.35rem 0 0;
+    font-size: 0.78rem;
+    color: var(--pp-muted);
+  }
+
+  .pp-meta-sep {
+    margin: 0 0.3rem;
+  }
+
+  .pp-instructions {
+    margin: 0.55rem auto 0;
+    max-width: 28rem;
+    font-size: 0.78rem;
+    line-height: 1.4;
+    color: var(--pp-muted);
+  }
+
+  .pp-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .pp-grid-wrap {
+    display: flex;
+    justify-content: center;
+  }
+
+  .pp-grid {
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: clamp(0.85rem, 2.8vw, 1.2rem);
+    line-height: 1;
+  }
+
+  .pp-grid td {
+    width: 1.85rem;
+    height: 1.85rem;
+    text-align: center;
+    vertical-align: middle;
+    border: 1.5px solid var(--pp-line);
+    font-weight: 700;
+    color: var(--pp-ink);
+    background: #fff;
+  }
+
+  .pp-body[data-size="12"] .pp-grid td {
+    width: 1.55rem;
+    height: 1.55rem;
+  }
+
+  .pp-body[data-size="15"] .pp-grid td {
+    width: 1.25rem;
+    height: 1.25rem;
+    font-size: 0.85em;
+  }
+
+  .pp-words-title {
+    margin: 0 0 0.4rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.25rem;
+  }
+
+  .pp-words-count {
+    font-weight: 600;
+    color: var(--pp-muted);
+  }
+
+  .pp-word-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.3rem 0.85rem;
+    font-size: 0.92rem;
+    font-weight: 650;
+    letter-spacing: 0.04em;
+  }
+
+  .pp-word-list li {
+    padding: 0.12rem 0;
+    border-bottom: 1px dotted #ccc;
+  }
+
+  .pp-sheet-foot {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.35rem;
+    margin-top: 0.9rem;
+    padding-top: 0.45rem;
+    border-top: 1px solid #ccc;
+    font-size: 0.62rem;
+    color: var(--pp-muted);
+  }
+
+  @media (min-width: 480px) {
+    .pp-word-list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .pp-grid td {
+      width: 2.05rem;
+      height: 2.05rem;
+    }
+    .pp-body[data-size="12"] .pp-grid td {
+      width: 1.7rem;
+      height: 1.7rem;
+    }
+    .pp-body[data-size="15"] .pp-grid td {
+      width: 1.35rem;
+      height: 1.35rem;
+    }
+  }
+
+  @media print {
+    @page {
+      size: A4 portrait;
+      margin: 10mm 12mm;
+    }
+
+    html,
+    body {
+      background: #fff !important;
+      color: #000 !important;
+    }
+
+    header.app-layout,
+    footer.app-layout,
+    footer,
+    .no-print,
+    #skip-to-content,
+    .cc,
+    [data-cookie-consent] {
+      display: none !important;
+    }
+
+    .pp {
+      max-width: none;
+    }
+
+    .pp-sheets {
+      gap: 0;
+      display: block;
+    }
+
+    .pp-sheet {
+      border: none !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      background: #fff !important;
+      color: #000 !important;
+      break-after: page;
+      page-break-after: always;
+      min-height: 260mm;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .pp-sheet:last-child {
+      break-after: auto;
+      page-break-after: auto;
+    }
+
+    .pp-sheet-head {
+      border-bottom-color: #000 !important;
+      margin-bottom: 6mm;
+      padding-bottom: 3mm;
+    }
+
+    .pp-sheet-title {
+      font-size: 16pt;
+      color: #000 !important;
+    }
+
+    .pp-brand,
+    .pp-sheet-meta,
+    .pp-instructions,
+    .pp-sheet-foot,
+    .pp-words-count {
+      color: #333 !important;
+    }
+
+    .pp-instructions {
+      font-size: 9pt;
+    }
+
+    .pp-body {
+      flex: 1;
+      gap: 6mm;
+      justify-content: flex-start;
+    }
+
+    .pp-grid {
+      font-size: 14pt;
+    }
+
+    /* 10×10 on A4 ≈ 14mm cells → ~140mm grid — classroom clear */
+    .pp-grid td {
+      width: 14mm;
+      height: 14mm;
+      border-color: #000 !important;
+      background: #fff !important;
+      color: #000 !important;
+      font-size: 14pt;
+      font-weight: 700;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .pp-body[data-size="12"] .pp-grid {
+      font-size: 11pt;
+    }
+    .pp-body[data-size="12"] .pp-grid td {
+      width: 11.5mm;
+      height: 11.5mm;
+      font-size: 11pt;
+    }
+
+    .pp-body[data-size="15"] .pp-grid {
+      font-size: 9pt;
+    }
+    .pp-body[data-size="15"] .pp-grid td {
+      width: 9mm;
+      height: 9mm;
+      font-size: 9pt;
+    }
+
+    .pp-words-title {
+      font-size: 11pt;
+      color: #000 !important;
+      border-bottom-color: #000 !important;
+    }
+
+    .pp-word-list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      font-size: 11pt;
+      gap: 1.5mm 5mm;
+      color: #000 !important;
+    }
+
+    .pp-word-list li {
+      border-bottom-color: #999 !important;
+    }
+
+    .pp-sheet-foot {
+      margin-top: auto;
+      padding-top: 3mm;
+      font-size: 8pt;
+    }
+  }
+</style>

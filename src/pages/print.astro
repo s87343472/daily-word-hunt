@@ -1,77 +1,33 @@
 ---
 /**
- * Printable worksheet for today’s daily puzzle (or ?date=YYYY-MM-DD).
- * Clean paper layout + one-click window.print() — not the interactive player.
+ * Print pack studio: randomly generate a batch of worksheets → multi-page A4 print.
+ * Not the interactive player; not “today only”.
  */
-import fs from "node:fs";
-import path from "node:path";
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import PrintWorksheet from "@/components/game/PrintWorksheet.astro";
-import {
-  formatDateInTimeZone,
-  isValidPuzzleDate,
-} from "@/lib/puzzle/daily";
-import { getDefaultPack } from "@/lib/puzzle/packs";
-import type { Puzzle } from "@/lib/puzzle/types";
+import PrintPack from "@/components/game/PrintPack.astro";
 import config from "@/config";
 
 const locale = Astro.currentLocale ?? config.site.lang;
-const tz = config.site.timezone;
-const pack = getDefaultPack();
-const today = formatDateInTimeZone(new Date(), tz);
-
-const dateParam = Astro.url.searchParams.get("date")?.trim() ?? "";
-const playDate =
-  dateParam && isValidPuzzleDate(dateParam) && dateParam <= today
-    ? dateParam
-    : "";
-
-/** Seed HTML with build-time (or requested) puzzle when the file exists */
-function loadPuzzleFile(isoDate: string): Puzzle | null {
-  const fsPath = path.join(
-    process.cwd(),
-    "public/puzzles",
-    pack.id,
-    `${isoDate}.json`
-  );
-  if (!fs.existsSync(fsPath)) return null;
-  try {
-    return JSON.parse(fs.readFileSync(fsPath, "utf8")) as Puzzle;
-  } catch {
-    return null;
-  }
-}
-
-const seedDate = playDate || today;
-const seed = loadPuzzleFile(seedDate);
-
-const titleDate = playDate || "Today";
-const title = `Printable Word Search ${titleDate} | ${config.site.title}`;
-const description = playDate
-  ? `Print the free word search for ${playDate}. Clean worksheet — grid and word list ready for paper.`
-  : "Print today’s free word search. Clean worksheet layout with grid and word list — one-click print, no account.";
-
-const playHref = playDate
-  ? getRelativeLocaleUrl(locale, `daily/${playDate}`)
-  : getRelativeLocaleUrl(locale, "");
+const title = `Printable Word Search Pack | ${config.site.title}`;
+const description =
+  "Generate a free batch of random word search worksheets and print them on A4 — 4 to 12 pages, 10×10 or larger grids. No account required.";
 ---
 
 <Layout {title} {description}>
   <div class="no-print">
     <Header />
   </div>
-  <main class="pw-page">
-    <PrintWorksheet
-      packId={pack.id}
-      timezone={tz}
-      playDate={playDate}
-      fallbackUrl="/puzzles/sample.json"
-      seed={seed}
-      playHref={playHref}
-    />
+  <main class="pp-page">
+    <p class="pp-play-link no-print">
+      Prefer today’s interactive puzzle?
+      <a href={getRelativeLocaleUrl(locale, "")}>Play today</a>
+      ·
+      <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a>
+    </p>
+    <PrintPack />
   </main>
   <div class="no-print">
     <Footer />
@@ -79,15 +35,27 @@ const playHref = playDate
 </Layout>
 
 <style>
-  .pw-page {
+  .pp-page {
     width: 100%;
-    max-width: 42rem;
+    max-width: 44rem;
     margin-inline: auto;
     padding: 1rem 1rem 2.5rem;
   }
 
+  .pp-play-link {
+    margin: 0 0 0.85rem;
+    font-size: 0.85rem;
+    color: var(--muted-foreground);
+  }
+
+  .pp-play-link a {
+    color: var(--accent);
+    font-weight: 600;
+    text-underline-offset: 2px;
+  }
+
   @media print {
-    .pw-page {
+    .pp-page {
       max-width: none;
       padding: 0;
       margin: 0;
