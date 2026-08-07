@@ -14,9 +14,9 @@ We read messages about:
 
 ### Email
 
-**General & privacy:** replace with your real inbox (e.g. a mailbox on `sagasu.art` or GitHub issues).
+**Support & privacy:** [support@sagasu.art](mailto:support@sagasu.art)
 
-> Site: [words.sagasu.art](https://words.sagasu.art/). Update this page when you have a public contact email.
+Site: [words.sagasu.art](https://words.sagasu.art/)
 
 ### What to include
 
@@ -26,7 +26,7 @@ We read messages about:
 
 ### Response time
 
-This project is early. Replies may be slow or batch-processed. For legal notices, put **Privacy** or **Legal** in the subject line.
+This project is early. Replies may be slow or batch-processed. For legal or privacy notices, put **Privacy** or **Legal** in the subject line.
 
 ### Prefer self-serve?
 

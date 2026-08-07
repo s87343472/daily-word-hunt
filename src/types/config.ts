@@ -19,6 +19,8 @@ interface SiteConfig {
   dir?: "ltr" | "rtl" | "auto";
   /** Google Search Console verification meta tag value */
   googleVerification?: string;
+  /** Public support email, e.g. support@example.com */
+  contactEmail?: string;
 }
 
 interface PostsConfig {

@@ -3,16 +3,18 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://words.sagasu.art/",
+    /** Product name — keep stable for SEO/brand; domain is words.sagasu.art */
     title: "Daily Word Hunt",
     // Keep 140–160 chars for SERP snippet tools (spaces count).
     description:
-      "Free daily word search puzzle online. A new grid every day—drag or tap to find the words. No account required. Print & large print supported.",
+      "Free daily word search puzzle online. A new grid every day—drag or tap to find the words. No account required. Print packs & large print supported.",
     author: "Daily Word Hunt",
     profile: "https://words.sagasu.art/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "America/New_York",
     dir: "ltr",
+    contactEmail: "support@sagasu.art",
   },
   posts: {
     perPage: 6,
@@ -32,6 +34,11 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github", url: "https://github.com/s87343472/daily-word-hunt" },
+    {
+      name: "mail",
+      url: "mailto:support@sagasu.art",
+      linkTitle: "Email Daily Word Hunt support",
+    },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },

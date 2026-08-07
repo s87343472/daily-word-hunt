@@ -124,7 +124,7 @@ We may update this policy as the product changes (for example, if we launch scor
 
 ## 11. Contact
 
-For privacy questions, use the email on the [Contact](/contact) page and put **Privacy** in the subject line.
+For privacy questions, email **[support@sagasu.art](mailto:support@sagasu.art)** (put **Privacy** in the subject line) or see [Contact](/contact).
 
 ---
 

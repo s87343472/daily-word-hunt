@@ -36,9 +36,10 @@ Optional archive links exist for sharing a specific day; the main product is alw
 
 | Now | Later |
 |-----|--------|
-| Daily puzzle on the home page | Themed packs (history, nature, …) |
-| Print + large print | Optional weekly leaderboard |
-| Tips & how-to pages | More languages / word lists |
+| Daily puzzle on the home page | Optional weekly leaderboard |
+| Themed series (nature, cities, history) | More languages / word lists |
+| Print packs (random multi-page A4) + large print | Answer keys for print packs |
+| Tips, how-to, FAQ | Deeper analytics funnels |
 
 ## Legal & help
 
@@ -48,9 +49,10 @@ Optional archive links exist for sharing a specific day; the main product is alw
 
 ## Contact
 
-See the **[Contact](/contact)** page for email and what to include in a bug report.
+**Email:** [support@sagasu.art](mailto:support@sagasu.art)  
+See **[Contact](/contact)** for what to include in a bug report.
 
-Public site: [words.sagasu.art](https://words.sagasu.art/). Contact details: [Contact](/contact).
+Public site: [words.sagasu.art](https://words.sagasu.art/).
 
 ## Feedback
 
