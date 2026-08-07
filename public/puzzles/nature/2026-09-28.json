@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-09-28",
+  "playDate": "2026-09-28",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "B",
+      "T",
+      "S",
+      "U",
+      "T",
+      "O",
+      "L",
+      "S",
+      "U"
+    ],
+    [
+      "H",
+      "C",
+      "E",
+      "D",
+      "A",
+      "R",
+      "D",
+      "C",
+      "N",
+      "P"
+    ],
+    [
+      "M",
+      "I",
+      "U",
+      "B",
+      "H",
+      "X",
+      "K",
+      "D",
+      "U",
+      "W"
+    ],
+    [
+      "B",
+      "T",
+      "L",
+      "M",
+      "J",
+      "S",
+      "E",
+      "P",
+      "L",
+      "H"
+    ],
+    [
+      "X",
+      "T",
+      "G",
+      "L",
+      "T",
+      "R",
+      "T",
+      "Z",
+      "U",
+      "A"
+    ],
+    [
+      "S",
+      "V",
+      "N",
+      "L",
+      "S",
+      "N",
+      "I",
+      "K",
+      "G",
+      "L"
+    ],
+    [
+      "K",
+      "L",
+      "C",
+      "T",
+      "W",
+      "I",
+      "N",
+      "D",
+      "B",
+      "E"
+    ],
+    [
+      "J",
+      "E",
+      "O",
+      "N",
+      "I",
+      "F",
+      "D",
+      "R",
+      "R",
+      "E"
+    ],
+    [
+      "F",
+      "R",
+      "L",
+      "E",
+      "L",
+      "P",
+      "W",
+      "X",
+      "A",
+      "A"
+    ],
+    [
+      "Y",
+      "J",
+      "M",
+      "P",
+      "T",
+      "F",
+      "X",
+      "D",
+      "W",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "UNDERSTORY",
+      "gloss": "Vegetation under the forest canopy.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.778Z"
+}

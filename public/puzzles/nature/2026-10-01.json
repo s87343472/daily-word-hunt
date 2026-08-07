@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-10-01",
+  "playDate": "2026-10-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "M",
+      "S",
+      "W",
+      "U",
+      "G",
+      "D",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "Y",
+      "V",
+      "K",
+      "E",
+      "H",
+      "Y",
+      "R",
+      "B",
+      "L",
+      "G"
+    ],
+    [
+      "S",
+      "J",
+      "R",
+      "A",
+      "A",
+      "T",
+      "I",
+      "E",
+      "V",
+      "R"
+    ],
+    [
+      "N",
+      "X",
+      "F",
+      "A",
+      "F",
+      "S",
+      "J",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "O",
+      "C",
+      "I",
+      "V",
+      "O",
+      "F",
+      "M",
+      "N"
+    ],
+    [
+      "B",
+      "F",
+      "S",
+      "I",
+      "W",
+      "N",
+      "I",
+      "N",
+      "Y",
+      "I"
+    ],
+    [
+      "F",
+      "N",
+      "S",
+      "X",
+      "O",
+      "E",
+      "B",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "Q",
+      "H",
+      "I",
+      "N",
+      "L",
+      "Z",
+      "C",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "K",
+      "H",
+      "L",
+      "D",
+      "I",
+      "Z",
+      "Y",
+      "Y",
+      "W",
+      "V"
+    ],
+    [
+      "U",
+      "Q",
+      "A",
+      "L",
+      "P",
+      "I",
+      "N",
+      "E",
+      "Y",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPINE",
+      "gloss": "Relating to high mountains.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.781Z"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-12-31",
+  "playDate": "2026-12-31",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "A",
+      "I",
+      "A",
+      "D",
+      "S",
+      "N",
+      "Q",
+      "Y",
+      "C"
+    ],
+    [
+      "O",
+      "A",
+      "X",
+      "V",
+      "S",
+      "O",
+      "N",
+      "A",
+      "F",
+      "Z"
+    ],
+    [
+      "P",
+      "W",
+      "D",
+      "T",
+      "O",
+      "Z",
+      "U",
+      "Q",
+      "O",
+      "A"
+    ],
+    [
+      "U",
+      "H",
+      "R",
+      "G",
+      "U",
+      "T",
+      "Q",
+      "F",
+      "R",
+      "B"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "Z",
+      "U",
+      "R",
+      "L",
+      "C",
+      "E",
+      "B"
+    ],
+    [
+      "A",
+      "L",
+      "W",
+      "M",
+      "X",
+      "O",
+      "T",
+      "P",
+      "S",
+      "B"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "L",
+      "C",
+      "V",
+      "J",
+      "L",
+      "T",
+      "J"
+    ],
+    [
+      "L",
+      "Z",
+      "H",
+      "K",
+      "O",
+      "K",
+      "Y",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "I",
+      "F",
+      "N",
+      "I",
+      "A",
+      "Z",
+      "G",
+      "I",
+      "G",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FOREST",
+      "gloss": "A large area covered with trees.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.865Z"
+}

@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-10-02",
+  "playDate": "2026-10-02",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "P",
+      "D",
+      "F",
+      "S",
+      "Q",
+      "G",
+      "S",
+      "W",
+      "W"
+    ],
+    [
+      "O",
+      "O",
+      "L",
+      "H",
+      "M",
+      "P",
+      "J",
+      "P",
+      "D",
+      "F"
+    ],
+    [
+      "N",
+      "S",
+      "A",
+      "A",
+      "D",
+      "T",
+      "M",
+      "D",
+      "E",
+      "P"
+    ],
+    [
+      "H",
+      "G",
+      "D",
+      "M",
+      "I",
+      "A",
+      "W",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "R",
+      "X",
+      "R",
+      "W",
+      "N",
+      "R",
+      "X",
+      "O",
+      "A"
+    ],
+    [
+      "Z",
+      "R",
+      "H",
+      "S",
+      "B",
+      "S",
+      "S",
+      "Q",
+      "T",
+      "N"
+    ],
+    [
+      "I",
+      "T",
+      "S",
+      "O",
+      "P",
+      "M",
+      "O",
+      "C",
+      "U",
+      "K"
+    ],
+    [
+      "M",
+      "L",
+      "S",
+      "E",
+      "E",
+      "Y",
+      "S",
+      "Z",
+      "S",
+      "T"
+    ],
+    [
+      "H",
+      "T",
+      "S",
+      "E",
+      "N",
+      "L",
+      "Q",
+      "D",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "Q",
+      "B",
+      "I",
+      "G",
+      "L",
+      "Q",
+      "J",
+      "K",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.782Z"
+}

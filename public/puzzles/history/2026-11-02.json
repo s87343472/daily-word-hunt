@@ -1,0 +1,405 @@
+{
+  "id": "history-2026-11-02",
+  "playDate": "2026-11-02",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "F",
+      "O",
+      "R",
+      "T",
+      "R",
+      "E",
+      "S",
+      "S",
+      "U"
+    ],
+    [
+      "N",
+      "Y",
+      "C",
+      "A",
+      "R",
+      "C",
+      "O",
+      "M",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "A",
+      "C",
+      "Y",
+      "P",
+      "F",
+      "C",
+      "F"
+    ],
+    [
+      "Y",
+      "F",
+      "A",
+      "Y",
+      "E",
+      "G",
+      "C",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "F",
+      "Y",
+      "K",
+      "S",
+      "F",
+      "A",
+      "E",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "M",
+      "T",
+      "A",
+      "M",
+      "R",
+      "N",
+      "U",
+      "A",
+      "N"
+    ],
+    [
+      "G",
+      "W",
+      "K",
+      "A",
+      "I",
+      "U",
+      "S",
+      "M",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "P",
+      "G",
+      "E",
+      "V",
+      "U",
+      "T",
+      "O",
+      "I"
+    ],
+    [
+      "M",
+      "U",
+      "G",
+      "I",
+      "Z",
+      "R",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "J",
+      "U",
+      "T",
+      "S",
+      "W",
+      "T",
+      "T",
+      "Z",
+      "O",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DEMOCRACY",
+      "gloss": "Government by the people.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FORTRESS",
+      "gloss": "A strong military fort.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FORUM",
+      "gloss": "A public square in ancient Rome.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.211Z"
+}

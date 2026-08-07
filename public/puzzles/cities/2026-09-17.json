@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-09-17",
+  "playDate": "2026-09-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "Z",
+      "D",
+      "L",
+      "S",
+      "U",
+      "N",
+      "F",
+      "I",
+      "K"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "A",
+      "S",
+      "U",
+      "B",
+      "U",
+      "R",
+      "B"
+    ],
+    [
+      "J",
+      "J",
+      "B",
+      "R",
+      "O",
+      "W",
+      "J",
+      "O",
+      "Y",
+      "C"
+    ],
+    [
+      "W",
+      "E",
+      "M",
+      "L",
+      "O",
+      "R",
+      "F",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "D",
+      "Q",
+      "M",
+      "A",
+      "E",
+      "T",
+      "G",
+      "Z",
+      "T",
+      "Y"
+    ],
+    [
+      "X",
+      "E",
+      "H",
+      "T",
+      "L",
+      "C",
+      "C",
+      "N",
+      "Z",
+      "Z"
+    ],
+    [
+      "D",
+      "M",
+      "I",
+      "C",
+      "M",
+      "L",
+      "A",
+      "A",
+      "I",
+      "H"
+    ],
+    [
+      "T",
+      "U",
+      "Z",
+      "B",
+      "J",
+      "Z",
+      "L",
+      "R",
+      "F",
+      "R"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "M",
+      "M",
+      "U",
+      "T",
+      "E",
+      "P",
+      "D"
+    ],
+    [
+      "D",
+      "N",
+      "W",
+      "O",
+      "T",
+      "E",
+      "M",
+      "O",
+      "H",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COMMUTE",
+      "gloss": "Regular travel between home and work.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HOMETOWN",
+      "gloss": "The town where someone grew up.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.933Z"
+}

@@ -1,0 +1,361 @@
+{
+  "id": "nature-2026-12-22",
+  "playDate": "2026-12-22",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "B",
+      "M",
+      "G",
+      "Y",
+      "D",
+      "D",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "N",
+      "F",
+      "T",
+      "I",
+      "N",
+      "W",
+      "F",
+      "Q",
+      "A",
+      "V"
+    ],
+    [
+      "O",
+      "S",
+      "R",
+      "W",
+      "I",
+      "T",
+      "H",
+      "D",
+      "L",
+      "O"
+    ],
+    [
+      "W",
+      "I",
+      "A",
+      "T",
+      "Z",
+      "H",
+      "A",
+      "N",
+      "D",
+      "D"
+    ],
+    [
+      "F",
+      "J",
+      "I",
+      "O",
+      "A",
+      "I",
+      "R",
+      "H",
+      "W",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "L",
+      "T",
+      "X",
+      "S",
+      "V",
+      "C",
+      "C",
+      "Z"
+    ],
+    [
+      "A",
+      "D",
+      "R",
+      "T",
+      "V",
+      "T",
+      "E",
+      "F",
+      "J",
+      "B"
+    ],
+    [
+      "K",
+      "V",
+      "L",
+      "N",
+      "C",
+      "L",
+      "S",
+      "L",
+      "A",
+      "V"
+    ],
+    [
+      "E",
+      "E",
+      "D",
+      "V",
+      "O",
+      "E",
+      "T",
+      "R",
+      "H",
+      "H"
+    ],
+    [
+      "B",
+      "J",
+      "E",
+      "N",
+      "T",
+      "Y",
+      "K",
+      "E",
+      "Z",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.856Z"
+}

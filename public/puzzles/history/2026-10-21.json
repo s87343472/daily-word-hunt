@@ -1,0 +1,409 @@
+{
+  "id": "history-2026-10-21",
+  "playDate": "2026-10-21",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "G",
+      "S",
+      "K",
+      "H",
+      "W",
+      "N",
+      "Y",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "W",
+      "E",
+      "I",
+      "V",
+      "F",
+      "M",
+      "J",
+      "I",
+      "N"
+    ],
+    [
+      "P",
+      "U",
+      "L",
+      "T",
+      "E",
+      "T",
+      "Q",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "B",
+      "S",
+      "U",
+      "W",
+      "G",
+      "Z",
+      "W",
+      "E",
+      "M"
+    ],
+    [
+      "E",
+      "H",
+      "D",
+      "Z",
+      "B",
+      "E",
+      "E",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "K",
+      "Q",
+      "Q",
+      "E",
+      "G",
+      "H",
+      "L"
+    ],
+    [
+      "L",
+      "G",
+      "I",
+      "G",
+      "V",
+      "D",
+      "M",
+      "A",
+      "M",
+      "T"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "E",
+      "A",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "T"
+    ],
+    [
+      "T",
+      "P",
+      "C",
+      "I",
+      "T",
+      "A",
+      "D",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E",
+      "S",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SIEGE",
+      "gloss": "A military blockade of a place.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.196Z"
+}

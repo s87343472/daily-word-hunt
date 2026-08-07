@@ -1,0 +1,416 @@
+{
+  "id": "history-2026-12-19",
+  "playDate": "2026-12-19",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "R",
+      "T",
+      "L",
+      "R",
+      "N",
+      "T",
+      "O",
+      "W",
+      "B",
+      "F",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "F",
+      "K",
+      "E",
+      "E",
+      "J",
+      "G",
+      "V",
+      "V",
+      "W"
+    ],
+    [
+      "Y",
+      "I",
+      "F",
+      "E",
+      "X",
+      "U",
+      "H",
+      "V",
+      "K",
+      "X",
+      "Y"
+    ],
+    [
+      "R",
+      "M",
+      "E",
+      "O",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "L",
+      "O",
+      "O",
+      "G",
+      "R",
+      "M",
+      "P",
+      "N",
+      "M",
+      "E",
+      "B"
+    ],
+    [
+      "A",
+      "N",
+      "H",
+      "O",
+      "E",
+      "M",
+      "I",
+      "F",
+      "L",
+      "H",
+      "S"
+    ],
+    [
+      "V",
+      "A",
+      "H",
+      "T",
+      "A",
+      "U",
+      "A",
+      "B",
+      "K",
+      "D",
+      "Q"
+    ],
+    [
+      "A",
+      "R",
+      "W",
+      "R",
+      "R",
+      "N",
+      "A",
+      "T",
+      "R",
+      "W",
+      "L"
+    ],
+    [
+      "C",
+      "C",
+      "S",
+      "T",
+      "C",
+      "T",
+      "W",
+      "G",
+      "I",
+      "H",
+      "D"
+    ],
+    [
+      "M",
+      "H",
+      "R",
+      "S",
+      "Q",
+      "U",
+      "P",
+      "B",
+      "F",
+      "O",
+      "I"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "C",
+      "L",
+      "E",
+      "S",
+      "L",
+      "O",
+      "L",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAVALRY",
+      "gloss": "Soldiers who fight on horseback.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "REFORMATION",
+      "gloss": "A 16th-century religious movement.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SIEGE",
+      "gloss": "A military blockade of a place.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.277Z"
+}

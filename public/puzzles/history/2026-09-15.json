@@ -1,0 +1,420 @@
+{
+  "id": "history-2026-09-15",
+  "playDate": "2026-09-15",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "R",
+      "E",
+      "F",
+      "O",
+      "R",
+      "M",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "D",
+      "I",
+      "G",
+      "V",
+      "Z",
+      "E",
+      "P",
+      "Z",
+      "A",
+      "V"
+    ],
+    [
+      "U",
+      "O",
+      "T",
+      "N",
+      "B",
+      "W",
+      "A",
+      "H",
+      "P",
+      "D",
+      "N"
+    ],
+    [
+      "R",
+      "Y",
+      "C",
+      "A",
+      "L",
+      "E",
+      "N",
+      "D",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "Y",
+      "A",
+      "R",
+      "M",
+      "I",
+      "S",
+      "T",
+      "I",
+      "C",
+      "E",
+      "W"
+    ],
+    [
+      "P",
+      "I",
+      "W",
+      "M",
+      "C",
+      "I",
+      "J",
+      "V",
+      "Q",
+      "P",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "F",
+      "L",
+      "B",
+      "Y",
+      "G",
+      "C",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "P",
+      "W",
+      "R",
+      "U",
+      "C",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "V"
+    ],
+    [
+      "L",
+      "D",
+      "O",
+      "O",
+      "M",
+      "O",
+      "I",
+      "I",
+      "S",
+      "C",
+      "Y"
+    ],
+    [
+      "Z",
+      "E",
+      "X",
+      "G",
+      "W",
+      "O",
+      "I",
+      "A",
+      "J",
+      "C",
+      "M"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "J",
+      "M",
+      "S",
+      "Q",
+      "N",
+      "Y",
+      "X",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REFORMATION",
+      "gloss": "A 16th-century religious movement.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.145Z"
+}

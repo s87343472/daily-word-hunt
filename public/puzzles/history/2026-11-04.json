@@ -1,0 +1,437 @@
+{
+  "id": "history-2026-11-04",
+  "playDate": "2026-11-04",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "T",
+      "C",
+      "J",
+      "A",
+      "D",
+      "R",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "H",
+      "M",
+      "W",
+      "U",
+      "J",
+      "O",
+      "D",
+      "N"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "U",
+      "N",
+      "H",
+      "N",
+      "I",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      "O",
+      "E",
+      "P",
+      "J",
+      "P",
+      "T",
+      "C",
+      "M"
+    ],
+    [
+      "F",
+      "A",
+      "N",
+      "B",
+      "E",
+      "K",
+      "A",
+      "A",
+      "E",
+      "D"
+    ],
+    [
+      "F",
+      "I",
+      "I",
+      "D",
+      "H",
+      "G",
+      "R",
+      "G",
+      "D",
+      "N"
+    ],
+    [
+      "R",
+      "L",
+      "C",
+      "L",
+      "X",
+      "A",
+      "W",
+      "I",
+      "Q",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "L",
+      "E",
+      "V",
+      "N",
+      "R",
+      "R",
+      "N",
+      "M"
+    ],
+    [
+      "G",
+      "A",
+      "E",
+      "A",
+      "Q",
+      "H",
+      "F",
+      "R",
+      "X",
+      "A"
+    ],
+    [
+      "E",
+      "P",
+      "N",
+      "N",
+      "K",
+      "K",
+      "M",
+      "I",
+      "H",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMENDMENT",
+      "gloss": "A formal change to a law or constitution.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CHRONICLE",
+      "gloss": "A written record of events.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "IRRIGATION",
+      "gloss": "Supplying water to land for crops.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PARLIAMENT",
+      "gloss": "A legislature of elected members.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RUNE",
+      "gloss": "A letter of an ancient alphabet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.215Z"
+}

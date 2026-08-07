@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-11-19",
+  "playDate": "2026-11-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "E",
+      "B",
+      "M",
+      "A",
+      "P",
+      "H",
+      "R",
+      "G",
+      "R"
+    ],
+    [
+      "O",
+      "Y",
+      "S",
+      "I",
+      "A",
+      "D",
+      "L",
+      "N",
+      "O",
+      "B"
+    ],
+    [
+      "L",
+      "C",
+      "T",
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "B",
+      "K",
+      "R",
+      "S",
+      "O",
+      "W",
+      "U",
+      "A",
+      "N",
+      "B"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "I",
+      "A",
+      "K",
+      "Q",
+      "W",
+      "R",
+      "K"
+    ],
+    [
+      "G",
+      "Y",
+      "N",
+      "O",
+      "C",
+      "L",
+      "H",
+      "N",
+      "S",
+      "F"
+    ],
+    [
+      "E",
+      "L",
+      "G",
+      "E",
+      "C",
+      "K",
+      "M",
+      "F",
+      "F",
+      "M"
+    ],
+    [
+      "Z",
+      "X",
+      "X",
+      "D",
+      "J",
+      "H",
+      "E",
+      "O",
+      "D",
+      "U"
+    ],
+    [
+      "R",
+      "X",
+      "I",
+      "D",
+      "Z",
+      "A",
+      "E",
+      "T",
+      "N",
+      "Y"
+    ],
+    [
+      "I",
+      "I",
+      "W",
+      "Y",
+      "B",
+      "K",
+      "J",
+      "T",
+      "N",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.826Z"
+}

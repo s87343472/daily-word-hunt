@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-12-30",
+  "playDate": "2026-12-30",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "Z",
+      "B",
+      "R",
+      "E",
+      "F",
+      "X",
+      "C",
+      "C",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "G",
+      "Y",
+      "A",
+      "L",
+      "N",
+      "P",
+      "F",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "P",
+      "M",
+      "B",
+      "W",
+      "A",
+      "F"
+    ],
+    [
+      "I",
+      "W",
+      "W",
+      "G",
+      "N",
+      "A",
+      "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "C",
+      "N",
+      "I",
+      "A",
+      "R",
+      "Z",
+      "S",
+      "T",
+      "G",
+      "N"
+    ],
+    [
+      "U",
+      "H",
+      "H",
+      "F",
+      "U",
+      "J",
+      "I",
+      "S",
+      "Q",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "Y",
+      "R",
+      "B",
+      "X",
+      "V",
+      "K",
+      "H",
+      "R"
+    ],
+    [
+      "A",
+      "U",
+      "E",
+      "A",
+      "E",
+      "Y",
+      "S",
+      "C",
+      "P",
+      "T"
+    ],
+    [
+      "R",
+      "S",
+      "U",
+      "H",
+      "E",
+      "G",
+      "H",
+      "N",
+      "Z",
+      "A"
+    ],
+    [
+      "K",
+      "E",
+      "W",
+      "W",
+      "E",
+      "O",
+      "O",
+      "M",
+      "Y",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping roadway connection.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHARFAGE",
+      "gloss": "Space or fees at a wharf.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.067Z"
+}

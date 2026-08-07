@@ -1,0 +1,349 @@
+{
+  "id": "nature-2026-10-31",
+  "playDate": "2026-10-31",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "D",
+      "T",
+      "Z",
+      "G",
+      "G",
+      "R",
+      "G",
+      "Y",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "R",
+      "T",
+      "I",
+      "O",
+      "V"
+    ],
+    [
+      "P",
+      "F",
+      "Y",
+      "P",
+      "R",
+      "E",
+      "E",
+      "F",
+      "Y",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "Y",
+      "O",
+      "N",
+      "G",
+      "Z",
+      "S",
+      "V",
+      "B"
+    ],
+    [
+      "E",
+      "L",
+      "T",
+      "N",
+      "S",
+      "P",
+      "F",
+      "R",
+      "G",
+      "F"
+    ],
+    [
+      "B",
+      "Y",
+      "M",
+      "D",
+      "M",
+      "C",
+      "E",
+      "R",
+      "G",
+      "Y"
+    ],
+    [
+      "M",
+      "Z",
+      "P",
+      "J",
+      "G",
+      "S",
+      "K",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "V",
+      "X",
+      "S",
+      "A",
+      "N",
+      "D",
+      "W",
+      "S",
+      "K",
+      "L"
+    ],
+    [
+      "K",
+      "N",
+      "S",
+      "O",
+      "I",
+      "B",
+      "O",
+      "E",
+      "C",
+      "K"
+    ],
+    [
+      "Y",
+      "R",
+      "C",
+      "G",
+      "T",
+      "M",
+      "I",
+      "M",
+      "M",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.810Z"
+}

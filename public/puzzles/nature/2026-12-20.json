@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-12-20",
+  "playDate": "2026-12-20",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "K",
+      "S",
+      "K",
+      "P",
+      "B",
+      "Q",
+      "R",
+      "P",
+      "X"
+    ],
+    [
+      "S",
+      "L",
+      "D",
+      "A",
+      "T",
+      "W",
+      "E",
+      "X",
+      "I",
+      "Q"
+    ],
+    [
+      "T",
+      "L",
+      "A",
+      "O",
+      "L",
+      "H",
+      "X",
+      "C",
+      "Z",
+      "Y"
+    ],
+    [
+      "P",
+      "L",
+      "R",
+      "T",
+      "T",
+      "M",
+      "R",
+      "E",
+      "T",
+      "Y"
+    ],
+    [
+      "G",
+      "N",
+      "Q",
+      "A",
+      "S",
+      "I",
+      "O",
+      "B",
+      "S",
+      "S"
+    ],
+    [
+      "G",
+      "J",
+      "E",
+      "C",
+      "C",
+      "Y",
+      "T",
+      "N",
+      "N",
+      "W"
+    ],
+    [
+      "O",
+      "H",
+      "F",
+      "K",
+      "O",
+      "K",
+      "R",
+      "I",
+      "H",
+      "H"
+    ],
+    [
+      "B",
+      "V",
+      "E",
+      "Z",
+      "Y",
+      "A",
+      "A",
+      "C",
+      "I",
+      "H"
+    ],
+    [
+      "Q",
+      "T",
+      "F",
+      "J",
+      "O",
+      "L",
+      "K",
+      "V",
+      "A",
+      "Q"
+    ],
+    [
+      "T",
+      "Z",
+      "O",
+      "R",
+      "P",
+      "G",
+      "E",
+      "F",
+      "X",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.854Z"
+}

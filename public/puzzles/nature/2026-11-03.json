@@ -1,0 +1,361 @@
+{
+  "id": "nature-2026-11-03",
+  "playDate": "2026-11-03",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "O",
+      "W",
+      "M",
+      "A",
+      "B",
+      "G",
+      "X",
+      "N",
+      "U"
+    ],
+    [
+      "H",
+      "X",
+      "D",
+      "X",
+      "A",
+      "T",
+      "G",
+      "H",
+      "T",
+      "R"
+    ],
+    [
+      "O",
+      "M",
+      "R",
+      "C",
+      "M",
+      "O",
+      "E",
+      "Y",
+      "K",
+      "V"
+    ],
+    [
+      "R",
+      "R",
+      "A",
+      "A",
+      "G",
+      "H",
+      "L",
+      "A",
+      "X",
+      "B"
+    ],
+    [
+      "N",
+      "O",
+      "H",
+      "N",
+      "N",
+      "S",
+      "E",
+      "S",
+      "E",
+      "F"
+    ],
+    [
+      "B",
+      "T",
+      "C",
+      "O",
+      "B",
+      "R",
+      "M",
+      "B",
+      "E",
+      "P"
+    ],
+    [
+      "W",
+      "S",
+      "R",
+      "P",
+      "B",
+      "B",
+      "R",
+      "E",
+      "O",
+      "L"
+    ],
+    [
+      "C",
+      "Y",
+      "O",
+      "Y",
+      "F",
+      "J",
+      "E",
+      "P",
+      "L",
+      "L"
+    ],
+    [
+      "K",
+      "Q",
+      "A",
+      "T",
+      "V",
+      "G",
+      "P",
+      "A",
+      "Z",
+      "P"
+    ],
+    [
+      "F",
+      "D",
+      "M",
+      "W",
+      "D",
+      "Y",
+      "V",
+      "Y",
+      "K",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.813Z"
+}

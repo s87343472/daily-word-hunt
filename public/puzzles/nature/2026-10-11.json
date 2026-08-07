@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-10-11",
+  "playDate": "2026-10-11",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "U",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M",
+      "V",
+      "A"
+    ],
+    [
+      "L",
+      "L",
+      "N",
+      "D",
+      "R",
+      "U",
+      "C",
+      "C",
+      "D",
+      "L"
+    ],
+    [
+      "H",
+      "Z",
+      "R",
+      "O",
+      "I",
+      "Y",
+      "P",
+      "G",
+      "U",
+      "I"
+    ],
+    [
+      "Q",
+      "E",
+      "Z",
+      "G",
+      "Z",
+      "S",
+      "N",
+      "H",
+      "N",
+      "L"
+    ],
+    [
+      "H",
+      "L",
+      "Q",
+      "V",
+      "D",
+      "I",
+      "L",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "M",
+      "E",
+      "R",
+      "L",
+      "P",
+      "R",
+      "A",
+      "V",
+      "C"
+    ],
+    [
+      "E",
+      "X",
+      "D",
+      "D",
+      "P",
+      "O",
+      "X",
+      "O",
+      "N",
+      "Z"
+    ],
+    [
+      "K",
+      "H",
+      "E",
+      "V",
+      "W",
+      "Y",
+      "N",
+      "T",
+      "H",
+      "D"
+    ],
+    [
+      "M",
+      "E",
+      "E",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "S",
+      "I",
+      "D",
+      "D",
+      "T",
+      "Z",
+      "U",
+      "T",
+      "K",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FIREFLY",
+      "gloss": "An insect that glows at night.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.790Z"
+}

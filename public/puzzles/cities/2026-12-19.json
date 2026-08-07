@@ -1,0 +1,425 @@
+{
+  "id": "cities-2026-12-19",
+  "playDate": "2026-12-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "L",
+      "Q",
+      "T",
+      "M",
+      "C",
+      "P",
+      "R",
+      "L",
+      "T"
+    ],
+    [
+      "L",
+      "Y",
+      "B",
+      "F",
+      "E",
+      "M",
+      "A",
+      "J",
+      "I",
+      "O"
+    ],
+    [
+      "Q",
+      "P",
+      "E",
+      "M",
+      "N",
+      "F",
+      "S",
+      "H",
+      "G",
+      "W"
+    ],
+    [
+      "U",
+      "I",
+      "E",
+      "L",
+      "I",
+      "E",
+      "S",
+      "X",
+      "H",
+      "E"
+    ],
+    [
+      "T",
+      "V",
+      "I",
+      "L",
+      "L",
+      "A",
+      "P",
+      "Y",
+      "T",
+      "R"
+    ],
+    [
+      "U",
+      "H",
+      "X",
+      "A",
+      "R",
+      "O",
+      "O",
+      "M",
+      "H",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "R",
+      "N",
+      "E",
+      "V",
+      "R",
+      "T",
+      "O",
+      "L"
+    ],
+    [
+      "R",
+      "S",
+      "Y",
+      "E",
+      "W",
+      "G",
+      "T",
+      "T",
+      "U",
+      "O"
+    ],
+    [
+      "E",
+      "H",
+      "X",
+      "R",
+      "O",
+      "V",
+      "U",
+      "T",
+      "S",
+      "C"
+    ],
+    [
+      "T",
+      "C",
+      "T",
+      "A",
+      "P",
+      "Y",
+      "Q",
+      "C",
+      "E",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIGHTHOUSE",
+      "gloss": "A tower with a light to guide ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PASSPORT",
+      "gloss": "An official travel document.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TOWERBLOCK",
+      "gloss": "A tall residential building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A streetcar or wheeled cart.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VILLA",
+      "gloss": "A large free-standing house.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.054Z"
+}

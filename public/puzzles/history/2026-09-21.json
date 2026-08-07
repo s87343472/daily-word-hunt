@@ -1,0 +1,425 @@
+{
+  "id": "history-2026-09-21",
+  "playDate": "2026-09-21",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "J",
+      "E",
+      "O",
+      "Q",
+      "H",
+      "K",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "N",
+      "S",
+      "H",
+      "X",
+      "Z",
+      "V",
+      "E",
+      "S",
+      "C",
+      "C"
+    ],
+    [
+      "T",
+      "M",
+      "T",
+      "A",
+      "H",
+      "B",
+      "Z",
+      "C",
+      "B",
+      "U"
+    ],
+    [
+      "L",
+      "C",
+      "P",
+      "R",
+      "A",
+      "I",
+      "O",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "N",
+      "A",
+      "H",
+      "A",
+      "M",
+      "B",
+      "N",
+      "A",
+      "P"
+    ],
+    [
+      "N",
+      "H",
+      "P",
+      "F",
+      "P",
+      "T",
+      "C",
+      "I",
+      "Y",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "G",
+      "A",
+      "I",
+      "I",
+      "E",
+      "F",
+      "T",
+      "U"
+    ],
+    [
+      "A",
+      "Y",
+      "S",
+      "I",
+      "E",
+      "T",
+      "C",
+      "G",
+      "X",
+      "R"
+    ],
+    [
+      "G",
+      "S",
+      "N",
+      "N",
+      "N",
+      "L",
+      "R",
+      "Q",
+      "Y",
+      "E"
+    ],
+    [
+      "D",
+      "G",
+      "T",
+      "I",
+      "C",
+      "K",
+      "B",
+      "A",
+      "U",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPHABET",
+      "gloss": "A set of letters used in writing.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.152Z"
+}

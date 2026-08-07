@@ -1,0 +1,341 @@
+{
+  "id": "nature-2026-12-09",
+  "playDate": "2026-12-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "G",
+      "W",
+      "K",
+      "Y",
+      "D",
+      "T",
+      "U",
+      "E",
+      "C"
+    ],
+    [
+      "B",
+      "R",
+      "C",
+      "E",
+      "W",
+      "M",
+      "O",
+      "Q",
+      "F",
+      "I"
+    ],
+    [
+      "G",
+      "O",
+      "U",
+      "Y",
+      "I",
+      "N",
+      "X",
+      "U",
+      "V",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "U",
+      "Z",
+      "A",
+      "P",
+      "A",
+      "C",
+      "K",
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B",
+      "L",
+      "J",
+      "O",
+      "B"
+    ],
+    [
+      "B",
+      "L",
+      "L",
+      "V",
+      "N",
+      "E",
+      "F",
+      "A",
+      "T",
+      "K"
+    ],
+    [
+      "V",
+      "O",
+      "D",
+      "O",
+      "F",
+      "E",
+      "M",
+      "F",
+      "I",
+      "Q"
+    ],
+    [
+      "V",
+      "I",
+      "K",
+      "J",
+      "T",
+      "I",
+      "N",
+      "U",
+      "M",
+      "V"
+    ],
+    [
+      "L",
+      "W",
+      "F",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      "Q",
+      "I"
+    ],
+    [
+      "H",
+      "N",
+      "L",
+      "A",
+      "V",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.844Z"
+}

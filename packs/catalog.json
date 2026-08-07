@@ -15,7 +15,7 @@
       "size": 10,
       "wordsPerDay": 8,
       "dedupeDays": 30,
-      "horizonDays": 21
+      "horizonDays": 150
     },
     {
       "id": "nature",
@@ -30,7 +30,7 @@
       "size": 10,
       "wordsPerDay": 8,
       "dedupeDays": 30,
-      "horizonDays": 21
+      "horizonDays": 150
     },
     {
       "id": "cities",
@@ -45,7 +45,7 @@
       "size": 10,
       "wordsPerDay": 8,
       "dedupeDays": 30,
-      "horizonDays": 21
+      "horizonDays": 150
     },
     {
       "id": "history",
@@ -60,7 +60,7 @@
       "size": 10,
       "wordsPerDay": 8,
       "dedupeDays": 30,
-      "horizonDays": 21
+      "horizonDays": 150
     }
   ]
 }

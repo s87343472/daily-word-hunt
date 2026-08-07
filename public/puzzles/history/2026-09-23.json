@@ -1,0 +1,417 @@
+{
+  "id": "history-2026-09-23",
+  "playDate": "2026-09-23",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "Z",
+      "J",
+      "E",
+      "B",
+      "W",
+      "M",
+      "C",
+      "M",
+      "H"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "U",
+      "G",
+      "N",
+      "A",
+      "L",
+      "E",
+      "P"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "K",
+      "R",
+      "O",
+      "A",
+      "D",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "L",
+      "G",
+      "P",
+      "X",
+      "M",
+      "P",
+      "F",
+      "I",
+      "R"
+    ],
+    [
+      "B",
+      "Z",
+      "I",
+      "A",
+      "Y",
+      "H",
+      "H",
+      "O",
+      "C",
+      "G"
+    ],
+    [
+      "Q",
+      "A",
+      "A",
+      "C",
+      "A",
+      "T",
+      "U",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "O",
+      "E",
+      "T",
+      "R",
+      "N",
+      "Q",
+      "X",
+      "U",
+      "N",
+      "L"
+    ],
+    [
+      "T",
+      "X",
+      "A",
+      "T",
+      "T",
+      "U",
+      "J",
+      "M",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "D",
+      "D",
+      "L",
+      "H",
+      "O",
+      "Y",
+      "F",
+      "T"
+    ],
+    [
+      "H",
+      "J",
+      "W",
+      "N",
+      "Z",
+      "E",
+      "Y",
+      "C",
+      "P",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FORUM",
+      "gloss": "A public square in ancient Rome.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SILKROAD",
+      "gloss": "Historic trade routes across Asia.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.154Z"
+}

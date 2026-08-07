@@ -1,0 +1,432 @@
+{
+  "id": "history-2026-10-06",
+  "playDate": "2026-10-06",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "D",
+      "E",
+      "C",
+      "L",
+      "A",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "P",
+      "H",
+      "A",
+      "B",
+      "E",
+      "T",
+      "Y",
+      "W"
+    ],
+    [
+      "C",
+      "C",
+      "B",
+      "D",
+      "N",
+      "N",
+      "L",
+      "W",
+      "E",
+      "J",
+      "K"
+    ],
+    [
+      "F",
+      "A",
+      "F",
+      "E",
+      "G",
+      "O",
+      "T",
+      "H",
+      "I",
+      "C",
+      "L"
+    ],
+    [
+      "S",
+      "C",
+      "T",
+      "N",
+      "A",
+      "J",
+      "S",
+      "N",
+      "K",
+      "U",
+      "R"
+    ],
+    [
+      "K",
+      "R",
+      "I",
+      "H",
+      "G",
+      "T",
+      "E",
+      "M",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "A",
+      "E",
+      "K",
+      "I",
+      "B",
+      "P",
+      "N",
+      "C"
+    ],
+    [
+      "A",
+      "V",
+      "B",
+      "J",
+      "S",
+      "D",
+      "X",
+      "L",
+      "S",
+      "O",
+      "Z"
+    ],
+    [
+      "V",
+      "O",
+      "R",
+      "S",
+      "X",
+      "O",
+      "R",
+      "I",
+      "U",
+      "T",
+      "V"
+    ],
+    [
+      "Y",
+      "L",
+      "R",
+      "G",
+      "W",
+      "I",
+      "M",
+      "A",
+      "W",
+      "V",
+      "A"
+    ],
+    [
+      "K",
+      "T",
+      "K",
+      "A",
+      "M",
+      "O",
+      "P",
+      "J",
+      "L",
+      "V",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPHABET",
+      "gloss": "A set of letters used in writing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "GOTHIC",
+      "gloss": "A medieval architectural style.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.176Z"
+}

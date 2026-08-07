@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-11-07",
+  "playDate": "2026-11-07",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "V",
+      "E",
+      "E",
+      "B",
+      "I",
+      "U",
+      "P",
+      "U",
+      "R"
+    ],
+    [
+      "P",
+      "W",
+      "Y",
+      "L",
+      "B",
+      "X",
+      "L",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "O",
+      "K",
+      "W",
+      "P",
+      "A",
+      "W",
+      "A",
+      "N",
+      "J"
+    ],
+    [
+      "R",
+      "T",
+      "S",
+      "F",
+      "Z",
+      "P",
+      "Z",
+      "R",
+      "Z",
+      "G"
+    ],
+    [
+      "T",
+      "S",
+      "I",
+      "A",
+      "I",
+      "A",
+      "E",
+      "K",
+      "K",
+      "K"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "F",
+      "B",
+      "Z",
+      "U",
+      "T",
+      "Q",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "E",
+      "P",
+      "X",
+      "E",
+      "U",
+      "W",
+      "S",
+      "Z"
+    ],
+    [
+      "N",
+      "H",
+      "B",
+      "C",
+      "I",
+      "T",
+      "I",
+      "Z",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "T",
+      "S",
+      "I",
+      "R",
+      "U",
+      "O",
+      "T"
+    ],
+    [
+      "M",
+      "D",
+      "O",
+      "W",
+      "N",
+      "T",
+      "O",
+      "W",
+      "N",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DOWNTOWN",
+      "gloss": "The central business area of a city.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "OBELISK",
+      "gloss": "A tall four-sided stone pillar.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLAZA",
+      "gloss": "A public open square.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STEPPLE",
+      "gloss": "A church tower with a spire.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TOURIST",
+      "gloss": "A person visiting a place for pleasure.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.001Z"
+}

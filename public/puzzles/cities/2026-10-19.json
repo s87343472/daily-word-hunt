@@ -1,0 +1,381 @@
+{
+  "id": "cities-2026-10-19",
+  "playDate": "2026-10-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "I",
+      "G",
+      "H",
+      "W",
+      "A",
+      "Y",
+      "A",
+      "K",
+      "U"
+    ],
+    [
+      "Z",
+      "D",
+      "X",
+      "U",
+      "B",
+      "E",
+      "Y",
+      "P",
+      "K",
+      "U"
+    ],
+    [
+      "Q",
+      "D",
+      "N",
+      "F",
+      "T",
+      "G",
+      "A",
+      "R",
+      "M",
+      "S"
+    ],
+    [
+      "G",
+      "F",
+      "C",
+      "I",
+      "U",
+      "L",
+      "A",
+      "R",
+      "U",
+      "F"
+    ],
+    [
+      "G",
+      "M",
+      "U",
+      "D",
+      "A",
+      "P",
+      "O",
+      "B",
+      "M",
+      "W"
+    ],
+    [
+      "Y",
+      "S",
+      "A",
+      "C",
+      "B",
+      "F",
+      "U",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "Q",
+      "P",
+      "E",
+      "O",
+      "T",
+      "R",
+      "L",
+      "T",
+      "B",
+      "A"
+    ],
+    [
+      "R",
+      "T",
+      "N",
+      "A",
+      "B",
+      "L",
+      "M",
+      "T",
+      "R",
+      "U"
+    ],
+    [
+      "J",
+      "Q",
+      "L",
+      "I",
+      "U",
+      "J",
+      "Q",
+      "K",
+      "V",
+      "X"
+    ],
+    [
+      "B",
+      "P",
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "V",
+      "E",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A place storing historical records.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HIGHWAY",
+      "gloss": "A main public road.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLATFORM",
+      "gloss": "A raised area beside railway tracks.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUBURBIA",
+      "gloss": "Suburban residential areas.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.972Z"
+}

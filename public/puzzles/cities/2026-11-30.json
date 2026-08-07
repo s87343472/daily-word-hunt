@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-11-30",
+  "playDate": "2026-11-30",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "O",
+      "S",
+      "V",
+      "C",
+      "K",
+      "V",
+      "P",
+      "C",
+      "Z"
+    ],
+    [
+      "I",
+      "L",
+      "D",
+      "M",
+      "G",
+      "F",
+      "O",
+      "A",
+      "N",
+      "Q"
+    ],
+    [
+      "H",
+      "C",
+      "A",
+      "U",
+      "B",
+      "T",
+      "T",
+      "O",
+      "L",
+      "R"
+    ],
+    [
+      "E",
+      "M",
+      "R",
+      "N",
+      "F",
+      "T",
+      "I",
+      "D",
+      "V",
+      "S"
+    ],
+    [
+      "L",
+      "T",
+      "G",
+      "O",
+      "I",
+      "T",
+      "N",
+      "I",
+      "K",
+      "N"
+    ],
+    [
+      "I",
+      "U",
+      "O",
+      "C",
+      "S",
+      "M",
+      "H",
+      "Y",
+      "L",
+      "R"
+    ],
+    [
+      "P",
+      "R",
+      "X",
+      "A",
+      "I",
+      "S",
+      "R",
+      "Y",
+      "W",
+      "E"
+    ],
+    [
+      "A",
+      "Z",
+      "B",
+      "T",
+      "W",
+      "I",
+      "I",
+      "E",
+      "Q",
+      "V"
+    ],
+    [
+      "D",
+      "E",
+      "E",
+      "S",
+      "S",
+      "C",
+      "K",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "Q",
+      "T",
+      "O",
+      "E",
+      "D",
+      "D",
+      "K",
+      "G",
+      "G",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATTIC",
+      "gloss": "A room just under the roof.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CROSSING",
+      "gloss": "A place where roads or paths cross.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SKYRISE",
+      "gloss": "A very tall building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TERMINAL",
+      "gloss": "A station at the end of a transport line.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.029Z"
+}

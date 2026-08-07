@@ -14,8 +14,8 @@
     "sync": "astro sync",
     "astro": "astro",
     "gen:puzzle": "node scripts/gen-puzzle.mjs",
-    "gen:packs": "node scripts/gen-puzzle.mjs --all-packs --horizon 21",
-    "gen:daily": "node scripts/gen-puzzle.mjs --pack daily --horizon 21",
+    "gen:packs": "node scripts/gen-puzzle.mjs --all-packs --horizon 150",
+    "gen:daily": "node scripts/gen-puzzle.mjs --pack daily --horizon 150",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
     "lint": "eslint ."

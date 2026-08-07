@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-11-12",
+  "playDate": "2026-11-12",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "L",
+      "G",
+      "U",
+      "X",
+      "H",
+      "I",
+      "D",
+      "T",
+      "L"
+    ],
+    [
+      "R",
+      "C",
+      "T",
+      "E",
+      "C",
+      "J",
+      "Y",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "H",
+      "Y",
+      "V",
+      "K",
+      "O",
+      "K",
+      "A",
+      "D",
+      "H",
+      "I"
+    ],
+    [
+      "A",
+      "F",
+      "E",
+      "A",
+      "C",
+      "O",
+      "E",
+      "H",
+      "C",
+      "G"
+    ],
+    [
+      "B",
+      "P",
+      "L",
+      "L",
+      "C",
+      "L",
+      "O",
+      "E",
+      "N",
+      "H"
+    ],
+    [
+      "I",
+      "X",
+      "V",
+      "X",
+      "T",
+      "H",
+      "D",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "T",
+      "P",
+      "B",
+      "A",
+      "J",
+      "I",
+      "I",
+      "O",
+      "L",
+      "F"
+    ],
+    [
+      "A",
+      "L",
+      "G",
+      "R",
+      "E",
+      "J",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "X",
+      "J",
+      "L",
+      "L",
+      "E",
+      "H",
+      "S",
+      "V",
+      "L"
+    ],
+    [
+      "D",
+      "C",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D",
+      "A",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HABITAT",
+      "gloss": "The natural home of a plant or animal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.821Z"
+}

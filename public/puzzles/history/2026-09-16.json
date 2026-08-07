@@ -1,0 +1,405 @@
+{
+  "id": "history-2026-09-16",
+  "playDate": "2026-09-16",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "X",
+      "U",
+      "Y",
+      "J",
+      "M",
+      "N",
+      "A",
+      "M",
+      "C"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "I",
+      "O",
+      "N",
+      "F",
+      "S",
+      "A",
+      "N"
+    ],
+    [
+      "F",
+      "T",
+      "K",
+      "I",
+      "A",
+      "N",
+      "R",
+      "T",
+      "R",
+      "L"
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "C",
+      "S",
+      "T",
+      "O",
+      "R",
+      "K",
+      "H"
+    ],
+    [
+      "Z",
+      "Y",
+      "E",
+      "M",
+      "R",
+      "P",
+      "N",
+      "O",
+      "E",
+      "P"
+    ],
+    [
+      "N",
+      "Q",
+      "K",
+      "E",
+      "P",
+      "X",
+      "T",
+      "L",
+      "T",
+      "W"
+    ],
+    [
+      "H",
+      "X",
+      "A",
+      "B",
+      "T",
+      "L",
+      "I",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "Z",
+      "X",
+      "F",
+      "G",
+      "E",
+      "B",
+      "N",
+      "D"
+    ],
+    [
+      "Y",
+      "S",
+      "X",
+      "X",
+      "X",
+      "D",
+      "R",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "I",
+      "A",
+      "N",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASTROLABE",
+      "gloss": "An instrument for navigation by stars.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.146Z"
+}

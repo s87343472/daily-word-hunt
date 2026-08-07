@@ -1,0 +1,393 @@
+{
+  "id": "history-2026-11-18",
+  "playDate": "2026-11-18",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "H",
+      "M",
+      "L",
+      "U",
+      "E",
+      "S",
+      "J",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      "I",
+      "P",
+      "E",
+      "B",
+      "F",
+      "T",
+      "T",
+      "S",
+      "C"
+    ],
+    [
+      "A",
+      "S",
+      "F",
+      "K",
+      "D",
+      "E",
+      "R",
+      "E",
+      "C",
+      "N"
+    ],
+    [
+      "H",
+      "T",
+      "E",
+      "R",
+      "O",
+      "I",
+      "W",
+      "L",
+      "H",
+      "Y"
+    ],
+    [
+      "A",
+      "O",
+      "L",
+      "B",
+      "R",
+      "A",
+      "E",
+      "W",
+      "O",
+      "J"
+    ],
+    [
+      "S",
+      "R",
+      "T",
+      "K",
+      "A",
+      "F",
+      "Y",
+      "V",
+      "L",
+      "J"
+    ],
+    [
+      "W",
+      "I",
+      "S",
+      "V",
+      "C",
+      "J",
+      "L",
+      "V",
+      "A",
+      "U"
+    ],
+    [
+      "O",
+      "A",
+      "A",
+      "H",
+      "L",
+      "C",
+      "F",
+      "E",
+      "R",
+      "L"
+    ],
+    [
+      "R",
+      "N",
+      "C",
+      "C",
+      "E",
+      "J",
+      "C",
+      "E",
+      "E",
+      "U"
+    ],
+    [
+      "D",
+      "T",
+      "E",
+      "K",
+      "R",
+      "A",
+      "M",
+      "E",
+      "G",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MEDIEVAL",
+      "gloss": "Relating to the Middle Ages.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SCHOLAR",
+      "gloss": "A person devoted to study.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.234Z"
+}

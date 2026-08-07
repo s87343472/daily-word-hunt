@@ -1,0 +1,437 @@
+{
+  "id": "history-2026-11-09",
+  "playDate": "2026-11-09",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "H",
+      "I",
+      "L",
+      "O",
+      "S",
+      "O",
+      "P",
+      "H",
+      "Y"
+    ],
+    [
+      "C",
+      "U",
+      "T",
+      "F",
+      "O",
+      "R",
+      "S",
+      "E",
+      "D",
+      "C"
+    ],
+    [
+      "A",
+      "E",
+      "E",
+      "U",
+      "W",
+      "X",
+      "S",
+      "E",
+      "U",
+      "I"
+    ],
+    [
+      "T",
+      "P",
+      "L",
+      "G",
+      "D",
+      "O",
+      "M",
+      "P",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "O",
+      "E",
+      "V",
+      "A",
+      "O",
+      "D",
+      "G",
+      "R",
+      "B"
+    ],
+    [
+      "P",
+      "C",
+      "G",
+      "H",
+      "C",
+      "R",
+      "A",
+      "U",
+      "S",
+      "U"
+    ],
+    [
+      "U",
+      "H",
+      "R",
+      "R",
+      "X",
+      "Y",
+      "F",
+      "K",
+      "K",
+      "P"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "R",
+      "O",
+      "A",
+      "T",
+      "F",
+      "F",
+      "E"
+    ],
+    [
+      "T",
+      "C",
+      "P",
+      "V",
+      "O",
+      "G",
+      "H",
+      "B",
+      "U",
+      "R"
+    ],
+    [
+      "Y",
+      "X",
+      "H",
+      "B",
+      "D",
+      "M",
+      "V",
+      "V",
+      "B",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CATAPULT",
+      "gloss": "A machine for hurling large objects.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DEMOCRACY",
+      "gloss": "Government by the people.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EPOCH",
+      "gloss": "A notable period in history.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.221Z"
+}

@@ -1,0 +1,361 @@
+{
+  "id": "nature-2026-09-24",
+  "playDate": "2026-09-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "Y",
+      "N",
+      "N",
+      "Z",
+      "R",
+      "Q",
+      "T",
+      "H",
+      "N"
+    ],
+    [
+      "Y",
+      "L",
+      "P",
+      "A",
+      "X",
+      "E",
+      "O",
+      "W",
+      "M",
+      "I"
+    ],
+    [
+      "Q",
+      "C",
+      "B",
+      "I",
+      "T",
+      "O",
+      "D",
+      "S",
+      "G",
+      "T"
+    ],
+    [
+      "G",
+      "L",
+      "F",
+      "R",
+      "H",
+      "U",
+      "Y",
+      "U",
+      "E",
+      "B"
+    ],
+    [
+      "P",
+      "E",
+      "L",
+      "B",
+      "A",
+      "Y",
+      "R",
+      "G",
+      "G",
+      "J"
+    ],
+    [
+      "W",
+      "A",
+      "I",
+      "J",
+      "I",
+      "M",
+      "E",
+      "E",
+      "T",
+      "W"
+    ],
+    [
+      "V",
+      "R",
+      "N",
+      "W",
+      "N",
+      "N",
+      "I",
+      "N",
+      "I",
+      "X"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "H",
+      "O",
+      "H",
+      "D",
+      "V",
+      "Z",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "U",
+      "T",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D"
+    ],
+    [
+      "Z",
+      "G",
+      "S",
+      "U",
+      "R",
+      "Z",
+      "X",
+      "L",
+      "N",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NATURE",
+      "gloss": "The physical world not made by humans.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.774Z"
+}

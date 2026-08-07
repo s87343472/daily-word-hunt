@@ -1,0 +1,436 @@
+{
+  "id": "history-2026-10-05",
+  "playDate": "2026-10-05",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "J",
+      "A",
+      "D",
+      "M",
+      "O",
+      "N",
+      "A",
+      "R",
+      "C",
+      "H",
+      "D"
+    ],
+    [
+      "P",
+      "H",
+      "I",
+      "L",
+      "O",
+      "S",
+      "O",
+      "P",
+      "H",
+      "Y",
+      "T"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "I",
+      "C",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "Q",
+      "C",
+      "K",
+      "I",
+      "U",
+      "Z",
+      "K",
+      "T",
+      "G",
+      "G",
+      "L"
+    ],
+    [
+      "C",
+      "P",
+      "I",
+      "H",
+      "L",
+      "T",
+      "B",
+      "V",
+      "G",
+      "Q",
+      "E"
+    ],
+    [
+      "V",
+      "U",
+      "T",
+      "H",
+      "E",
+      "N",
+      "I",
+      "M",
+      "A",
+      "F",
+      "G"
+    ],
+    [
+      "P",
+      "V",
+      "U",
+      "I",
+      "T",
+      "R",
+      "U",
+      "I",
+      "N",
+      "G",
+      "R"
+    ],
+    [
+      "M",
+      "S",
+      "L",
+      "K",
+      "N",
+      "O",
+      "A",
+      "A",
+      "K",
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "R",
+      "F",
+      "Z",
+      "A",
+      "K",
+      "G",
+      "G",
+      "K",
+      "K",
+      "P"
+    ],
+    [
+      "W",
+      "A",
+      "V",
+      "Z",
+      "V",
+      "W",
+      "P",
+      "N",
+      "N",
+      "L",
+      "H"
+    ],
+    [
+      "C",
+      "Q",
+      "Y",
+      "H",
+      "Y",
+      "M",
+      "Z",
+      "I",
+      "Y",
+      "D",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AGRICULTURE",
+      "gloss": "The practice of farming.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "FAMINE",
+      "gloss": "Extreme shortage of food.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GOTHIC",
+      "gloss": "A medieval architectural style.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 9,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.174Z"
+}

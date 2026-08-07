@@ -1,0 +1,409 @@
+{
+  "id": "history-2026-10-04",
+  "playDate": "2026-10-04",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      "S",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "A",
+      "D",
+      "E",
+      "H",
+      "Y",
+      "C",
+      "T"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "S",
+      "U",
+      "S",
+      "D",
+      "P",
+      "N",
+      "C"
+    ],
+    [
+      "C",
+      "C",
+      "R",
+      "U",
+      "S",
+      "A",
+      "D",
+      "E",
+      "Y",
+      "U"
+    ],
+    [
+      "B",
+      "U",
+      "Y",
+      "C",
+      "U",
+      "O",
+      "M",
+      "C",
+      "Z",
+      "L"
+    ],
+    [
+      "E",
+      "Y",
+      "R",
+      "V",
+      "A",
+      "D",
+      "N",
+      "E",
+      "V",
+      "T"
+    ],
+    [
+      "F",
+      "Z",
+      "O",
+      "A",
+      "N",
+      "S",
+      "B",
+      "G",
+      "F",
+      "U"
+    ],
+    [
+      "L",
+      "F",
+      "V",
+      "E",
+      "T",
+      "Q",
+      "T",
+      "L",
+      "Z",
+      "R"
+    ],
+    [
+      "W",
+      "C",
+      "M",
+      "U",
+      "R",
+      "O",
+      "J",
+      "L",
+      "R",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "R",
+      "A",
+      "R",
+      "R",
+      "U",
+      "E",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMENDMENT",
+      "gloss": "A formal change to a law or constitution.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ANCESTOR",
+      "gloss": "A person from whom one is descended.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.173Z"
+}

@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-09-30",
+  "playDate": "2026-09-30",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "R",
+      "E",
+      "Y",
+      "K",
+      "C",
+      "W",
+      "U",
+      "K",
+      "C"
+    ],
+    [
+      "V",
+      "K",
+      "T",
+      "E",
+      "D",
+      "O",
+      "S",
+      "L",
+      "U",
+      "T"
+    ],
+    [
+      "M",
+      "K",
+      "G",
+      "L",
+      "K",
+      "I",
+      "V",
+      "Y",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "L",
+      "S",
+      "U",
+      "E",
+      "S",
+      "L",
+      "W"
+    ],
+    [
+      "W",
+      "J",
+      "R",
+      "A",
+      "G",
+      "B",
+      "N",
+      "A",
+      "M",
+      "I"
+    ],
+    [
+      "Y",
+      "H",
+      "G",
+      "V",
+      "F",
+      "U",
+      "D",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "L",
+      "D",
+      "E",
+      "Y",
+      "S",
+      "I",
+      "L",
+      "S",
+      "G",
+      "T"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "F",
+      "T",
+      "L",
+      "U",
+      "K",
+      "M",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "B",
+      "I",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      "M",
+      "D",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.780Z"
+}

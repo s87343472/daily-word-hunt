@@ -1,0 +1,413 @@
+{
+  "id": "history-2026-12-23",
+  "playDate": "2026-12-23",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "U",
+      "S",
+      "W",
+      "J",
+      "O",
+      "Z",
+      "X",
+      "A",
+      "F"
+    ],
+    [
+      "E",
+      "C",
+      "I",
+      "S",
+      "D",
+      "B",
+      "D",
+      "X",
+      "W",
+      "Q"
+    ],
+    [
+      "V",
+      "T",
+      "O",
+      "H",
+      "A",
+      "R",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "O",
+      "L",
+      "S",
+      "N",
+      "O",
+      "P",
+      "N",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      "O",
+      "G",
+      "F",
+      "G",
+      "I",
+      "M",
+      "H",
+      "M",
+      "N"
+    ],
+    [
+      "U",
+      "V",
+      "F",
+      "O",
+      "E",
+      "R",
+      "A",
+      "O",
+      "I",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "U",
+      "F",
+      "U",
+      "S",
+      "E",
+      "S",
+      "C",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "K",
+      "U",
+      "N",
+      "G",
+      "E",
+      "S",
+      "G",
+      "O"
+    ],
+    [
+      "O",
+      "D",
+      "J",
+      "P",
+      "L",
+      "L",
+      "I",
+      "M",
+      "S",
+      "C"
+    ],
+    [
+      "N",
+      "Y",
+      "R",
+      "E",
+      "T",
+      "S",
+      "A",
+      "N",
+      "O",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CONGRESS",
+      "gloss": "A national legislative body.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MONASTERY",
+      "gloss": "A community of monks.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.282Z"
+}

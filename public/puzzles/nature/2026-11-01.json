@@ -1,0 +1,365 @@
+{
+  "id": "nature-2026-11-01",
+  "playDate": "2026-11-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "V",
+      "M",
+      "I",
+      "V",
+      "E",
+      "N",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "Q",
+      "M",
+      "R",
+      "S",
+      "T",
+      "O",
+      "V",
+      "C",
+      "J",
+      "K"
+    ],
+    [
+      "S",
+      "T",
+      "G",
+      "Y",
+      "S",
+      "E",
+      "P",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "X",
+      "W",
+      "N",
+      "A",
+      "Y",
+      "L",
+      "S",
+      "O",
+      "C",
+      "X"
+    ],
+    [
+      "V",
+      "P",
+      "E",
+      "E",
+      "E",
+      "I",
+      "B",
+      "N",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "C",
+      "K",
+      "R",
+      "N",
+      "N",
+      "W",
+      "U",
+      "A"
+    ],
+    [
+      "L",
+      "X",
+      "E",
+      "B",
+      "I",
+      "R",
+      "C",
+      "D",
+      "W",
+      "S"
+    ],
+    [
+      "L",
+      "U",
+      "X",
+      "A",
+      "B",
+      "H",
+      "U",
+      "E",
+      "W",
+      "H"
+    ],
+    [
+      "E",
+      "W",
+      "R",
+      "S",
+      "R",
+      "D",
+      "V",
+      "C",
+      "G",
+      "W"
+    ],
+    [
+      "Y",
+      "M",
+      "L",
+      "G",
+      "O",
+      "R",
+      "G",
+      "E",
+      "O",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.811Z"
+}

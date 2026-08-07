@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-10-23",
+  "playDate": "2026-10-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "K",
+      "Q",
+      "Z",
+      "Y",
+      "F",
+      "P",
+      "E",
+      "D",
+      "B"
+    ],
+    [
+      "I",
+      "B",
+      "X",
+      "A",
+      "L",
+      "F",
+      "Q",
+      "P",
+      "R",
+      "D"
+    ],
+    [
+      "B",
+      "Q",
+      "B",
+      "A",
+      "T",
+      "Y",
+      "J",
+      "U",
+      "A",
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "D",
+      "A",
+      "F",
+      "S",
+      "L",
+      "D",
+      "G",
+      "Y"
+    ],
+    [
+      "I",
+      "I",
+      "Z",
+      "E",
+      "I",
+      "A",
+      "O",
+      "M",
+      "O",
+      "J"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "E",
+      "L",
+      "N",
+      "L",
+      "R",
+      "N",
+      "K"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "C",
+      "E",
+      "E",
+      "B",
+      "F",
+      "F",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "B",
+      "N",
+      "J",
+      "R",
+      "D",
+      "M",
+      "L",
+      "Y"
+    ],
+    [
+      "P",
+      "S",
+      "K",
+      "B",
+      "E",
+      "D",
+      "B",
+      "A",
+      "Y",
+      "M"
+    ],
+    [
+      "Y",
+      "E",
+      "E",
+      "N",
+      "F",
+      "D",
+      "B",
+      "O",
+      "R",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DEN",
+      "gloss": "A wild animal’s hidden home.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.802Z"
+}

@@ -1,0 +1,417 @@
+{
+  "id": "cities-2026-11-11",
+  "playDate": "2026-11-11",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "X",
+      "P",
+      "E",
+      "D",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "Q",
+      "M",
+      "S",
+      "P",
+      "L",
+      "K",
+      "R",
+      "E",
+      "B"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "P",
+      "I",
+      "K",
+      "L",
+      "U",
+      "N",
+      "B"
+    ],
+    [
+      "J",
+      "I",
+      "K",
+      "H",
+      "E",
+      "V",
+      "A",
+      "O",
+      "I",
+      "U"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "C",
+      "R",
+      "K",
+      "W",
+      "H",
+      "L",
+      "S"
+    ],
+    [
+      "D",
+      "N",
+      "P",
+      "L",
+      "I",
+      "E",
+      "S",
+      "H",
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "A",
+      "U",
+      "O",
+      "O",
+      "T",
+      "S",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "X",
+      "N",
+      "B",
+      "O",
+      "R",
+      "O",
+      "U",
+      "W",
+      "O"
+    ],
+    [
+      "Q",
+      "W",
+      "N",
+      "B",
+      "I",
+      "C",
+      "R",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "S",
+      "G",
+      "C",
+      "Y",
+      "S",
+      "K",
+      "C",
+      "U",
+      "P",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUSSTOP",
+      "gloss": "A place where buses pick up passengers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CROSSWALK",
+      "gloss": "A marked place to cross a street.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TICKET",
+      "gloss": "A pass for travel or entry.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.008Z"
+}

@@ -1,0 +1,401 @@
+{
+  "id": "history-2026-10-15",
+  "playDate": "2026-10-15",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "M",
+      "Z",
+      "M",
+      "N",
+      "W",
+      "O",
+      "L",
+      "P",
+      "R"
+    ],
+    [
+      "O",
+      "W",
+      "X",
+      "A",
+      "M",
+      "M",
+      "R",
+      "X",
+      "O",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "N",
+      "K",
+      "E",
+      "P",
+      "H",
+      "K",
+      "L"
+    ],
+    [
+      "A",
+      "J",
+      "U",
+      "U",
+      "P",
+      "D",
+      "D",
+      "V",
+      "O",
+      "O"
+    ],
+    [
+      "I",
+      "W",
+      "K",
+      "S",
+      "L",
+      "I",
+      "Z",
+      "V",
+      "T",
+      "H"
+    ],
+    [
+      "D",
+      "M",
+      "M",
+      "C",
+      "S",
+      "E",
+      "R",
+      "R",
+      "N",
+      "C"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "R",
+      "C",
+      "V",
+      "S",
+      "A",
+      "Z",
+      "S"
+    ],
+    [
+      "L",
+      "U",
+      "V",
+      "I",
+      "W",
+      "A",
+      "Q",
+      "L",
+      "T",
+      "V"
+    ],
+    [
+      "G",
+      "U",
+      "N",
+      "P",
+      "L",
+      "L",
+      "I",
+      "M",
+      "M",
+      "E"
+    ],
+    [
+      "A",
+      "Z",
+      "L",
+      "T",
+      "A",
+      "D",
+      "A",
+      "M",
+      "R",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GLADIATOR",
+      "gloss": "A fighter in ancient Roman arenas.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MANUSCRIPT",
+      "gloss": "A handwritten document.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MEDIEVAL",
+      "gloss": "Relating to the Middle Ages.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SCHOLAR",
+      "gloss": "A person devoted to study.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.189Z"
+}

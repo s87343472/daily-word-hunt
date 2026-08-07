@@ -1,0 +1,433 @@
+{
+  "id": "cities-2026-09-23",
+  "playDate": "2026-09-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "C",
+      "N",
+      "I",
+      "V",
+      "O",
+      "R",
+      "P",
+      "W",
+      "Q"
+    ],
+    [
+      "C",
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "Y",
+      "Y",
+      "J",
+      "R"
+    ],
+    [
+      "O",
+      "F",
+      "U",
+      "N",
+      "I",
+      "C",
+      "U",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "N",
+      "G",
+      "Q",
+      "S",
+      "F",
+      "X",
+      "N",
+      "Y",
+      "Q"
+    ],
+    [
+      "C",
+      "O",
+      "X",
+      "S",
+      "B",
+      "U",
+      "T",
+      "Z",
+      "Z",
+      "U"
+    ],
+    [
+      "O",
+      "I",
+      "X",
+      "F",
+      "U",
+      "R",
+      "L",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "T",
+      "P",
+      "O",
+      "U",
+      "K",
+      "Z",
+      "A",
+      "Y",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "U",
+      "O",
+      "T",
+      "D",
+      "I",
+      "C",
+      "T",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "V",
+      "H",
+      "V",
+      "P",
+      "U",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "B",
+      "O",
+      "U",
+      "L",
+      "E",
+      "V",
+      "A",
+      "R",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BOULEVARD",
+      "gloss": "A broad city street often tree-lined.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CONSULATE",
+      "gloss": "An office that helps citizens abroad.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COUNTY",
+      "gloss": "A territorial division within a country.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COURT",
+      "gloss": "An area for ball games; also a law court.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.939Z"
+}

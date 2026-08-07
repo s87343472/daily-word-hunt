@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-11-21",
+  "playDate": "2026-11-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "H",
+      "U",
+      "N",
+      "J",
+      "D",
+      "S",
+      "L",
+      "O",
+      "E"
+    ],
+    [
+      "L",
+      "N",
+      "G",
+      "H",
+      "K",
+      "Q",
+      "I",
+      "K",
+      "L",
+      "L"
+    ],
+    [
+      "F",
+      "B",
+      "O",
+      "P",
+      "A",
+      "S",
+      "T",
+      "T",
+      "O",
+      "I"
+    ],
+    [
+      "F",
+      "E",
+      "Q",
+      "W",
+      "S",
+      "R",
+      "S",
+      "N",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "D",
+      "R",
+      "O",
+      "F",
+      "I",
+      "V",
+      "P",
+      "M",
+      "R"
+    ],
+    [
+      "J",
+      "G",
+      "F",
+      "N",
+      "H",
+      "L",
+      "E",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "N",
+      "S",
+      "O",
+      "T",
+      "X",
+      "G",
+      "A",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "M",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "Z",
+      "K",
+      "K",
+      "T"
+    ],
+    [
+      "Z",
+      "U",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "Y",
+      "E",
+      "S"
+    ],
+    [
+      "Q",
+      "N",
+      "Y",
+      "P",
+      "B",
+      "I",
+      "O",
+      "P",
+      "X",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.828Z"
+}

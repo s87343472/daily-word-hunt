@@ -1,0 +1,433 @@
+{
+  "id": "history-2026-12-16",
+  "playDate": "2026-12-16",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "N",
+      "R",
+      "C",
+      "E",
+      "N",
+      "S",
+      "U",
+      "S",
+      "K"
+    ],
+    [
+      "O",
+      "L",
+      "J",
+      "S",
+      "X",
+      "A",
+      "B",
+      "G",
+      "Z",
+      "N"
+    ],
+    [
+      "D",
+      "A",
+      "A",
+      "U",
+      "P",
+      "O",
+      "B",
+      "U",
+      "H",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "D",
+      "R",
+      "E",
+      "C",
+      "H",
+      "M",
+      "B",
+      "B"
+    ],
+    [
+      "S",
+      "C",
+      "Y",
+      "G",
+      "D",
+      "S",
+      "A",
+      "S",
+      "X",
+      "F"
+    ],
+    [
+      "S",
+      "H",
+      "N",
+      "E",
+      "I",
+      "E",
+      "V",
+      "H",
+      "L",
+      "C"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "R",
+      "T",
+      "R",
+      "H",
+      "N",
+      "U",
+      "F"
+    ],
+    [
+      "B",
+      "V",
+      "S",
+      "Y",
+      "I",
+      "F",
+      "T",
+      "T",
+      "F",
+      "N"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "B",
+      "O",
+      "E",
+      "N",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "K",
+      "Y",
+      "C",
+      "N",
+      "E",
+      "B",
+      "T",
+      "P",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FRESCO",
+      "gloss": "A painting on wet plaster.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.273Z"
+}

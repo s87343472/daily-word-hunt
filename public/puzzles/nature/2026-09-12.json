@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-09-12",
+  "playDate": "2026-09-12",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "M",
+      "R",
+      "L",
+      "I",
+      "O",
+      "S",
+      "K",
+      "Z",
+      "D"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "I",
+      "E",
+      "V"
+    ],
+    [
+      "M",
+      "F",
+      "I",
+      "C",
+      "K",
+      "M",
+      "G",
+      "J",
+      "T",
+      "Z"
+    ],
+    [
+      "Z",
+      "L",
+      "Q",
+      "S",
+      "P",
+      "U",
+      "Q",
+      "Z",
+      "J",
+      "E"
+    ],
+    [
+      "X",
+      "I",
+      "C",
+      "G",
+      "L",
+      "M",
+      "H",
+      "U",
+      "H",
+      "Z"
+    ],
+    [
+      "N",
+      "N",
+      "A",
+      "B",
+      "Q",
+      "E",
+      "A",
+      "A",
+      "D",
+      "B"
+    ],
+    [
+      "H",
+      "T",
+      "Q",
+      "G",
+      "Z",
+      "V",
+      "A",
+      "W",
+      "N",
+      "T"
+    ],
+    [
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "G",
+      "N",
+      "F",
+      "S",
+      "V"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C",
+      "X",
+      "Y",
+      "D"
+    ],
+    [
+      "F",
+      "W",
+      "U",
+      "R",
+      "A",
+      "V",
+      "I",
+      "N",
+      "E",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCTIC",
+      "gloss": "Relating to the North Pole region.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RAVINE",
+      "gloss": "A deep narrow gorge.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SOIL",
+      "gloss": "The upper layer of earth where plants grow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.763Z"
+}

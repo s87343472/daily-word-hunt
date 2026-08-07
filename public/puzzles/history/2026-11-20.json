@@ -1,0 +1,429 @@
+{
+  "id": "history-2026-11-20",
+  "playDate": "2026-11-20",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "C",
+      "L",
+      "S",
+      "S",
+      "E",
+      "R",
+      "P",
+      "M",
+      "E"
+    ],
+    [
+      "Y",
+      "I",
+      "O",
+      "Q",
+      "M",
+      "N",
+      "H",
+      "S",
+      "A",
+      "X"
+    ],
+    [
+      "C",
+      "F",
+      "N",
+      "C",
+      "R",
+      "A",
+      "S",
+      "H",
+      "N",
+      "P"
+    ],
+    [
+      "S",
+      "K",
+      "W",
+      "E",
+      "R",
+      "E",
+      "L",
+      "A",
+      "U",
+      "E"
+    ],
+    [
+      "V",
+      "V",
+      "D",
+      "V",
+      "R",
+      "B",
+      "I",
+      "R",
+      "S",
+      "D"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      "G",
+      "K",
+      "H",
+      "B",
+      "B",
+      "C",
+      "I"
+    ],
+    [
+      "M",
+      "S",
+      "N",
+      "Q",
+      "V",
+      "V",
+      "R",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "T",
+      "O",
+      "Y",
+      "H",
+      "Z",
+      "V",
+      "A",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "C",
+      "V",
+      "N",
+      "J",
+      "A",
+      "N",
+      "R",
+      "H",
+      "P",
+      "O"
+    ],
+    [
+      "Z",
+      "T",
+      "N",
+      "G",
+      "R",
+      "L",
+      "Y",
+      "M",
+      "T",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CONGRESS",
+      "gloss": "A national legislative body.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MANUSCRIPT",
+      "gloss": "A handwritten document.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.236Z"
+}

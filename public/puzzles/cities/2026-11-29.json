@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-11-29",
+  "playDate": "2026-11-29",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "V",
+      "D",
+      "E",
+      "N",
+      "I",
+      "L",
+      "Y",
+      "K",
+      "S"
+    ],
+    [
+      "I",
+      "C",
+      "O",
+      "N",
+      "C",
+      "O",
+      "U",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "S",
+      "B",
+      "J",
+      "Q",
+      "I",
+      "B",
+      "V",
+      "T",
+      "S"
+    ],
+    [
+      "E",
+      "S",
+      "N",
+      "R",
+      "E",
+      "E",
+      "K",
+      "L",
+      "Y",
+      "U"
+    ],
+    [
+      "C",
+      "A",
+      "G",
+      "S",
+      "T",
+      "N",
+      "G",
+      "N",
+      "Q",
+      "O"
+    ],
+    [
+      "T",
+      "P",
+      "C",
+      "G",
+      "X",
+      "A",
+      "W",
+      "D",
+      "D",
+      "H"
+    ],
+    [
+      "I",
+      "Y",
+      "V",
+      "Z",
+      "A",
+      "L",
+      "D",
+      "N",
+      "K",
+      "N"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "N",
+      "X",
+      "B",
+      "O",
+      "W",
+      "S",
+      "W"
+    ],
+    [
+      "N",
+      "R",
+      "J",
+      "P",
+      "A",
+      "C",
+      "L",
+      "D",
+      "F",
+      "O"
+    ],
+    [
+      "S",
+      "S",
+      "Q",
+      "O",
+      "Y",
+      "D",
+      "L",
+      "E",
+      "T",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONDO",
+      "gloss": "A privately owned apartment unit.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.028Z"
+}

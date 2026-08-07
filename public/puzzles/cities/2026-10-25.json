@@ -1,0 +1,417 @@
+{
+  "id": "cities-2026-10-25",
+  "playDate": "2026-10-25",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "V",
+      "P",
+      "N",
+      "G",
+      "T",
+      "A",
+      "H",
+      "D",
+      "C"
+    ],
+    [
+      "X",
+      "N",
+      "K",
+      "R",
+      "M",
+      "F",
+      "J",
+      "R",
+      "J",
+      "C"
+    ],
+    [
+      "E",
+      "J",
+      "I",
+      "C",
+      "O",
+      "N",
+      "A",
+      "F",
+      "R",
+      "Z"
+    ],
+    [
+      "S",
+      "H",
+      "X",
+      "V",
+      "A",
+      "V",
+      "T",
+      "X",
+      "E",
+      "K"
+    ],
+    [
+      "X",
+      "F",
+      "E",
+      "U",
+      "E",
+      "R",
+      "I",
+      "I",
+      "A",
+      "G"
+    ],
+    [
+      "P",
+      "L",
+      "R",
+      "L",
+      "A",
+      "R",
+      "T",
+      "N",
+      "A",
+      "P"
+    ],
+    [
+      "M",
+      "C",
+      "U",
+      "F",
+      "I",
+      "F",
+      "S",
+      "B",
+      "C",
+      "S"
+    ],
+    [
+      "J",
+      "O",
+      "F",
+      "I",
+      "E",
+      "P",
+      "L",
+      "I",
+      "W",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "O",
+      "W",
+      "K",
+      "E",
+      "A",
+      "E",
+      "T",
+      "Q"
+    ],
+    [
+      "C",
+      "U",
+      "S",
+      "T",
+      "O",
+      "M",
+      "S",
+      "D",
+      "T",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULEVARD",
+      "gloss": "A broad city street often tree-lined.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CUSTOMS",
+      "gloss": "Officials who check goods entering a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path for running or racing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRAFFIC",
+      "gloss": "Vehicles moving on a road.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher education.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.980Z"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "cities-2026-09-10",
+  "playDate": "2026-09-10",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "J",
+      "U",
+      "N",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "Q",
+      "D",
+      "C",
+      "K",
+      "Y",
+      "U",
+      "M",
+      "I",
+      "N",
+      "R"
+    ],
+    [
+      "R",
+      "V",
+      "I",
+      "L",
+      "L",
+      "A",
+      "W",
+      "Q",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "F",
+      "S",
+      "R",
+      "E",
+      "Y",
+      "O",
+      "F",
+      "H"
+    ],
+    [
+      "Z",
+      "G",
+      "S",
+      "M",
+      "T",
+      "U",
+      "W",
+      "W",
+      "H",
+      "I"
+    ],
+    [
+      "F",
+      "H",
+      "V",
+      "H",
+      "A",
+      "R",
+      "B",
+      "A",
+      "L",
+      "V"
+    ],
+    [
+      "U",
+      "W",
+      "C",
+      "Q",
+      "H",
+      "P",
+      "I",
+      "N",
+      "O",
+      "E"
+    ],
+    [
+      "Q",
+      "N",
+      "J",
+      "I",
+      "Y",
+      "O",
+      "Q",
+      "C",
+      "F",
+      "S"
+    ],
+    [
+      "B",
+      "B",
+      "Q",
+      "L",
+      "Y",
+      "E",
+      "U",
+      "I",
+      "T",
+      "N"
+    ],
+    [
+      "B",
+      "W",
+      "Q",
+      "R",
+      "R",
+      "Q",
+      "M",
+      "R",
+      "R",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A place storing historical records.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DISTRICT",
+      "gloss": "An area of a city with a particular character.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FOYER",
+      "gloss": "An entrance area in a building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "JUNCTION",
+      "gloss": "A place where roads meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOFT",
+      "gloss": "An open upper-level living space.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VILLA",
+      "gloss": "A large free-standing house.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.924Z"
+}

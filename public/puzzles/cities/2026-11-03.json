@@ -1,0 +1,389 @@
+{
+  "id": "cities-2026-11-03",
+  "playDate": "2026-11-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "C",
+      "E",
+      "W",
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "Y"
+    ],
+    [
+      "O",
+      "C",
+      "V",
+      "S",
+      "H",
+      "L",
+      "J",
+      "T",
+      "S",
+      "B"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "P",
+      "I",
+      "A",
+      "D",
+      "A",
+      "D",
+      "M"
+    ],
+    [
+      "Y",
+      "Q",
+      "E",
+      "L",
+      "A",
+      "R",
+      "R",
+      "W",
+      "F",
+      "P"
+    ],
+    [
+      "R",
+      "K",
+      "U",
+      "Z",
+      "C",
+      "V",
+      "H",
+      "F",
+      "O",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "J",
+      "A",
+      "A",
+      "S",
+      "I",
+      "G",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "V",
+      "E",
+      "G",
+      "R",
+      "G",
+      "G",
+      "A",
+      "I",
+      "X"
+    ],
+    [
+      "B",
+      "H",
+      "F",
+      "T",
+      "E",
+      "I",
+      "R",
+      "E",
+      "H",
+      "H"
+    ],
+    [
+      "I",
+      "H",
+      "G",
+      "M",
+      "I",
+      "A",
+      "U",
+      "D",
+      "C",
+      "B"
+    ],
+    [
+      "L",
+      "S",
+      "I",
+      "V",
+      "P",
+      "D",
+      "N",
+      "M",
+      "E",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COUNTY",
+      "gloss": "A territorial division within a country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GAZEBO",
+      "gloss": "An open garden shelter.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HIGHRISE",
+      "gloss": "A tall multi-story building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books for borrowing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.996Z"
+}

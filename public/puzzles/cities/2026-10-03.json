@@ -1,0 +1,393 @@
+{
+  "id": "cities-2026-10-03",
+  "playDate": "2026-10-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "X",
+      "T",
+      "F",
+      "L",
+      "D",
+      "H",
+      "C",
+      "P",
+      "A"
+    ],
+    [
+      "Y",
+      "Z",
+      "Z",
+      "T",
+      "R",
+      "K",
+      "A",
+      "E",
+      "W",
+      "P"
+    ],
+    [
+      "J",
+      "O",
+      "T",
+      "V",
+      "C",
+      "A",
+      "D",
+      "M",
+      "A",
+      "A"
+    ],
+    [
+      "Z",
+      "O",
+      "O",
+      "O",
+      "Q",
+      "A",
+      "H",
+      "A",
+      "Q",
+      "R"
+    ],
+    [
+      "X",
+      "T",
+      "L",
+      "Y",
+      "R",
+      "J",
+      "D",
+      "W",
+      "U",
+      "T"
+    ],
+    [
+      "A",
+      "B",
+      "S",
+      "A",
+      "I",
+      "M",
+      "H",
+      "I",
+      "A",
+      "M"
+    ],
+    [
+      "D",
+      "P",
+      "P",
+      "D",
+      "W",
+      "V",
+      "B",
+      "L",
+      "R",
+      "E"
+    ],
+    [
+      "Y",
+      "R",
+      "A",
+      "R",
+      "E",
+      "N",
+      "I",
+      "T",
+      "I",
+      "N"
+    ],
+    [
+      "B",
+      "Q",
+      "M",
+      "Y",
+      "D",
+      "E",
+      "A",
+      "I",
+      "U",
+      "T"
+    ],
+    [
+      "V",
+      "Y",
+      "R",
+      "A",
+      "R",
+      "B",
+      "I",
+      "L",
+      "M",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ITINERARY",
+      "gloss": "A planned route or schedule of travel.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books for borrowing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.953Z"
+}

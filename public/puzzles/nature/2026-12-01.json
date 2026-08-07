@@ -1,0 +1,341 @@
+{
+  "id": "nature-2026-12-01",
+  "playDate": "2026-12-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "V",
+      "V",
+      "H",
+      "P",
+      "T",
+      "T",
+      "A",
+      "A",
+      "P"
+    ],
+    [
+      "B",
+      "J",
+      "U",
+      "O",
+      "U",
+      "Z",
+      "A",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "G",
+      "U",
+      "N",
+      "O",
+      "W",
+      "Y",
+      "D",
+      "A",
+      "M",
+      "S"
+    ],
+    [
+      "R",
+      "D",
+      "R",
+      "K",
+      "V",
+      "N",
+      "K",
+      "S",
+      "Q",
+      "C"
+    ],
+    [
+      "E",
+      "P",
+      "V",
+      "H",
+      "U",
+      "Y",
+      "Y",
+      "X",
+      "Z",
+      "L"
+    ],
+    [
+      "S",
+      "G",
+      "Y",
+      "T",
+      "H",
+      "L",
+      "L",
+      "I",
+      "H",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "Y",
+      "P",
+      "D",
+      "Z",
+      "K",
+      "P",
+      "Z",
+      "Y"
+    ],
+    [
+      "N",
+      "O",
+      "D",
+      "D",
+      "U",
+      "G",
+      "Y",
+      "O",
+      "X",
+      "K"
+    ],
+    [
+      "T",
+      "V",
+      "P",
+      "P",
+      "O",
+      "U",
+      "U",
+      "D",
+      "F",
+      "M"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      "F",
+      "M",
+      "O",
+      "S",
+      "S",
+      "Y",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.836Z"
+}

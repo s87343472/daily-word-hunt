@@ -1,0 +1,401 @@
+{
+  "id": "cities-2026-10-14",
+  "playDate": "2026-10-14",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "E",
+      "A",
+      "I",
+      "W",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "Y",
+      "P",
+      "D",
+      "I",
+      "Z",
+      "E",
+      "L"
+    ],
+    [
+      "M",
+      "L",
+      "Y",
+      "E",
+      "M",
+      "X",
+      "R",
+      "K",
+      "D",
+      "A"
+    ],
+    [
+      "W",
+      "C",
+      "V",
+      "L",
+      "C",
+      "T",
+      "F",
+      "A",
+      "I",
+      "C"
+    ],
+    [
+      "Q",
+      "D",
+      "D",
+      "L",
+      "W",
+      "H",
+      "I",
+      "R",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "K",
+      "U",
+      "O",
+      "T",
+      "R",
+      "E",
+      "S",
+      "R",
+      "L"
+    ],
+    [
+      "L",
+      "R",
+      "X",
+      "R",
+      "L",
+      "D",
+      "L",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "N",
+      "C",
+      "E",
+      "T",
+      "Z",
+      "X",
+      "D",
+      "S",
+      "V",
+      "J"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "N",
+      "C",
+      "I",
+      "L",
+      "J",
+      "I",
+      "M"
+    ],
+    [
+      "M",
+      "U",
+      "I",
+      "D",
+      "A",
+      "T",
+      "S",
+      "C",
+      "R",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRFIELD",
+      "gloss": "An area for aircraft takeoff and landing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that governs a local area.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOCAL",
+      "gloss": "A person who lives in an area.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RIVERSIDE",
+      "gloss": "Land along a river.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STADIUM",
+      "gloss": "A large sports arena.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A streetcar or wheeled cart.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.967Z"
+}

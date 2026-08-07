@@ -1,0 +1,365 @@
+{
+  "id": "nature-2026-11-08",
+  "playDate": "2026-11-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "B",
+      "E",
+      "T",
+      "W",
+      "W",
+      "Q",
+      "Q",
+      "T",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "W",
+      "H",
+      "E",
+      "R",
+      "V",
+      "S",
+      "Z",
+      "B"
+    ],
+    [
+      "V",
+      "M",
+      "D",
+      "N",
+      "Y",
+      "N",
+      "E",
+      "F",
+      "L",
+      "T"
+    ],
+    [
+      "W",
+      "F",
+      "A",
+      "A",
+      "M",
+      "V",
+      "C",
+      "O",
+      "N",
+      "R"
+    ],
+    [
+      "Z",
+      "V",
+      "V",
+      "R",
+      "R",
+      "Y",
+      "O",
+      "X",
+      "B",
+      "O"
+    ],
+    [
+      "Y",
+      "X",
+      "O",
+      "A",
+      "S",
+      "M",
+      "L",
+      "L",
+      "H",
+      "P"
+    ],
+    [
+      "D",
+      "V",
+      "H",
+      "Q",
+      "C",
+      "H",
+      "O",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "M",
+      "R",
+      "E",
+      "Y",
+      "C",
+      "G",
+      "G",
+      "D",
+      "G",
+      "C"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "L",
+      "Y",
+      "Z",
+      "C",
+      "R"
+    ],
+    [
+      "D",
+      "Q",
+      "T",
+      "R",
+      "A",
+      "T",
+      "C",
+      "E",
+      "N",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.817Z"
+}

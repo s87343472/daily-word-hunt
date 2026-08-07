@@ -1,0 +1,353 @@
+{
+  "id": "nature-2026-11-09",
+  "playDate": "2026-11-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "W",
+      "I",
+      "L",
+      "D",
+      "L",
+      "I",
+      "F",
+      "E",
+      "Z"
+    ],
+    [
+      "Y",
+      "H",
+      "I",
+      "H",
+      "P",
+      "K",
+      "M",
+      "S",
+      "G",
+      "H"
+    ],
+    [
+      "E",
+      "M",
+      "R",
+      "P",
+      "F",
+      "O",
+      "J",
+      "R",
+      "W",
+      "U"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "L",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "R"
+    ],
+    [
+      "H",
+      "U",
+      "S",
+      "A",
+      "V",
+      "B",
+      "N",
+      "R",
+      "S",
+      "N"
+    ],
+    [
+      "U",
+      "L",
+      "N",
+      "N",
+      "X",
+      "W",
+      "J",
+      "O",
+      "G",
+      "O"
+    ],
+    [
+      "V",
+      "C",
+      "O",
+      "K",
+      "M",
+      "L",
+      "P",
+      "A",
+      "W",
+      "O"
+    ],
+    [
+      "G",
+      "H",
+      "N",
+      "T",
+      "M",
+      "L",
+      "L",
+      "R",
+      "F",
+      "U"
+    ],
+    [
+      "U",
+      "E",
+      "N",
+      "O",
+      "E",
+      "L",
+      "P",
+      "A",
+      "M",
+      "I"
+    ],
+    [
+      "F",
+      "D",
+      "B",
+      "N",
+      "D",
+      "K",
+      "U",
+      "W",
+      "J",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower with showy blooms.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.818Z"
+}

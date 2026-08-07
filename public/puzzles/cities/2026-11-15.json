@@ -1,0 +1,393 @@
+{
+  "id": "cities-2026-11-15",
+  "playDate": "2026-11-15",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "Q",
+      "A",
+      "R",
+      "U",
+      "P",
+      "T",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "W",
+      "C",
+      "K",
+      "N",
+      "A",
+      "L",
+      "J",
+      "T",
+      "C",
+      "O"
+    ],
+    [
+      "U",
+      "V",
+      "K",
+      "F",
+      "E",
+      "Y",
+      "O",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "F",
+      "U",
+      "V",
+      "W",
+      "R",
+      "L",
+      "C",
+      "M",
+      "C"
+    ],
+    [
+      "A",
+      "H",
+      "Y",
+      "X",
+      "I",
+      "L",
+      "A",
+      "G",
+      "A",
+      "F"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "D",
+      "E",
+      "H",
+      "T",
+      "A",
+      "C",
+      "L"
+    ],
+    [
+      "N",
+      "E",
+      "J",
+      "G",
+      "T",
+      "D",
+      "K",
+      "R",
+      "P",
+      "G"
+    ],
+    [
+      "G",
+      "X",
+      "E",
+      "U",
+      "C",
+      "K",
+      "H",
+      "D",
+      "M",
+      "H"
+    ],
+    [
+      "E",
+      "C",
+      "I",
+      "N",
+      "R",
+      "O",
+      "C",
+      "E",
+      "H",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "N",
+      "C",
+      "I",
+      "L",
+      "N",
+      "Z",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COLLEGE",
+      "gloss": "A school for higher education.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CORNICE",
+      "gloss": "A decorative molding at the top of a wall.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that governs a local area.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LOCAL",
+      "gloss": "A person who lives in an area.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.013Z"
+}

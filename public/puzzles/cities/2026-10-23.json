@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-10-23",
+  "playDate": "2026-10-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "R",
+      "E",
+      "F",
+      "S",
+      "N",
+      "A",
+      "R",
+      "T",
+      "C"
+    ],
+    [
+      "P",
+      "H",
+      "A",
+      "R",
+      "M",
+      "A",
+      "C",
+      "Y",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "M",
+      "I",
+      "D",
+      "T",
+      "O",
+      "W",
+      "N",
+      "H",
+      "L"
+    ],
+    [
+      "B",
+      "E",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "G",
+      "U"
+    ],
+    [
+      "N",
+      "V",
+      "T",
+      "Y",
+      "G",
+      "P",
+      "L",
+      "N",
+      "D",
+      "M"
+    ],
+    [
+      "H",
+      "O",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "I",
+      "T",
+      "G",
+      "N"
+    ],
+    [
+      "F",
+      "S",
+      "I",
+      "C",
+      "O",
+      "K",
+      "V",
+      "A",
+      "S",
+      "B"
+    ],
+    [
+      "R",
+      "N",
+      "M",
+      "G",
+      "R",
+      "W",
+      "Q",
+      "X",
+      "A",
+      "T"
+    ],
+    [
+      "Q",
+      "P",
+      "L",
+      "A",
+      "E",
+      "Z",
+      "A",
+      "Y",
+      "S",
+      "H"
+    ],
+    [
+      "Y",
+      "S",
+      "P",
+      "Y",
+      "W",
+      "R",
+      "T",
+      "U",
+      "L",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "METRO",
+      "gloss": "An urban rail system.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MIDTOWN",
+      "gloss": "The middle area of a large city.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PARKING",
+      "gloss": "A place to leave vehicles.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PHARMACY",
+      "gloss": "A shop that sells medicines.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.977Z"
+}

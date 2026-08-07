@@ -1,0 +1,409 @@
+{
+  "id": "history-2026-10-24",
+  "playDate": "2026-10-24",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "S",
+      "V",
+      "F",
+      "H",
+      "R",
+      "G",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "Y",
+      "B",
+      "Z",
+      "C",
+      "N",
+      "W",
+      "B"
+    ],
+    [
+      "A",
+      "F",
+      "X",
+      "R",
+      "C",
+      "A",
+      "I",
+      "M",
+      "A",
+      "K"
+    ],
+    [
+      "N",
+      "Y",
+      "P",
+      "H",
+      "A",
+      "C",
+      "T",
+      "E",
+      "L",
+      "Y"
+    ],
+    [
+      "G",
+      "Z",
+      "A",
+      "L",
+      "I",
+      "T",
+      "F",
+      "T",
+      "L",
+      "Y"
+    ],
+    [
+      "U",
+      "S",
+      "R",
+      "D",
+      "A",
+      "B",
+      "E",
+      "R",
+      "L",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "K",
+      "F",
+      "G",
+      "I",
+      "G",
+      "F",
+      "E"
+    ],
+    [
+      "G",
+      "M",
+      "M",
+      "B",
+      "K",
+      "L",
+      "U",
+      "T",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "Q",
+      "U",
+      "Q",
+      "Y",
+      "S",
+      "O",
+      "E",
+      "V",
+      "H"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      "V",
+      "E",
+      "R",
+      "Y",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.200Z"
+}

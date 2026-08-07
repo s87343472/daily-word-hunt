@@ -1,0 +1,425 @@
+{
+  "id": "history-2026-11-13",
+  "playDate": "2026-11-13",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "U",
+      "T",
+      "A",
+      "W",
+      "G",
+      "W",
+      "O",
+      "C",
+      "D"
+    ],
+    [
+      "B",
+      "F",
+      "A",
+      "E",
+      "N",
+      "Z",
+      "K",
+      "U",
+      "X",
+      "E"
+    ],
+    [
+      "S",
+      "D",
+      "B",
+      "X",
+      "O",
+      "I",
+      "C",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "Z",
+      "P",
+      "L",
+      "S",
+      "U",
+      "S",
+      "N",
+      "E",
+      "C",
+      "C"
+    ],
+    [
+      "Y",
+      "G",
+      "E",
+      "T",
+      "A",
+      "R",
+      "T",
+      "S",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "T",
+      "A",
+      "P",
+      "U",
+      "L",
+      "T",
+      "C",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "H",
+      "A",
+      "R",
+      "A",
+      "O",
+      "H",
+      "D"
+    ],
+    [
+      "H",
+      "U",
+      "G",
+      "Q",
+      "I",
+      "G",
+      "J",
+      "Y",
+      "W",
+      "A"
+    ],
+    [
+      "J",
+      "D",
+      "Y",
+      "N",
+      "A",
+      "S",
+      "T",
+      "Y",
+      "T",
+      "N"
+    ],
+    [
+      "S",
+      "U",
+      "F",
+      "F",
+      "R",
+      "A",
+      "G",
+      "E",
+      "R",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CATAPULT",
+      "gloss": "A machine for hurling large objects.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DESCENDANT",
+      "gloss": "A person descended from an ancestor.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.226Z"
+}

@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-11-22",
+  "playDate": "2026-11-22",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "W",
+      "Q",
+      "S",
+      "D",
+      "H",
+      "G",
+      "I",
+      "H",
+      "M"
+    ],
+    [
+      "R",
+      "C",
+      "I",
+      "J",
+      "U",
+      "A",
+      "K",
+      "C",
+      "S",
+      "U"
+    ],
+    [
+      "Y",
+      "O",
+      "C",
+      "L",
+      "S",
+      "M",
+      "N",
+      "K",
+      "M",
+      "T"
+    ],
+    [
+      "C",
+      "M",
+      "N",
+      "Y",
+      "L",
+      "A",
+      "M",
+      "T",
+      "D",
+      "H"
+    ],
+    [
+      "P",
+      "P",
+      "T",
+      "O",
+      "R",
+      "O",
+      "J",
+      "I",
+      "H",
+      "U"
+    ],
+    [
+      "O",
+      "O",
+      "B",
+      "B",
+      "A",
+      "B",
+      "W",
+      "F",
+      "T",
+      "N"
+    ],
+    [
+      "G",
+      "S",
+      "R",
+      "E",
+      "I",
+      "C",
+      "A",
+      "L",
+      "G",
+      "D"
+    ],
+    [
+      "K",
+      "T",
+      "R",
+      "Y",
+      "T",
+      "C",
+      "I",
+      "V",
+      "Q",
+      "E"
+    ],
+    [
+      "M",
+      "M",
+      "P",
+      "F",
+      "F",
+      "I",
+      "L",
+      "C",
+      "K",
+      "R"
+    ],
+    [
+      "O",
+      "J",
+      "U",
+      "N",
+      "G",
+      "L",
+      "E",
+      "I",
+      "B",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "gloss": "The sound that follows lightning.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.829Z"
+}

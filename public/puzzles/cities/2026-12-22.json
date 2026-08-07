@@ -1,0 +1,437 @@
+{
+  "id": "cities-2026-12-22",
+  "playDate": "2026-12-22",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "E",
+      "B",
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      "Y",
+      "L"
+    ],
+    [
+      "U",
+      "D",
+      "E",
+      "U",
+      "X",
+      "M",
+      "O",
+      "P",
+      "A",
+      "H"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "A",
+      "N",
+      "T",
+      "O",
+      "R",
+      "I",
+      "Y"
+    ],
+    [
+      "Q",
+      "N",
+      "Z",
+      "Y",
+      "A",
+      "H",
+      "D",
+      "P",
+      "Y",
+      "I"
+    ],
+    [
+      "J",
+      "N",
+      "Y",
+      "V",
+      "S",
+      "E",
+      "S",
+      "C",
+      "U",
+      "C"
+    ],
+    [
+      "T",
+      "O",
+      "E",
+      "K",
+      "H",
+      "H",
+      "B",
+      "O",
+      "T",
+      "M"
+    ],
+    [
+      "J",
+      "L",
+      "R",
+      "T",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T",
+      "B"
+    ],
+    [
+      "E",
+      "O",
+      "A",
+      "E",
+      "D",
+      "K",
+      "H",
+      "X",
+      "T",
+      "Y"
+    ],
+    [
+      "W",
+      "C",
+      "B",
+      "A",
+      "S",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "W",
+      "A",
+      "R",
+      "E",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAKERY",
+      "gloss": "A place that makes and sells bread.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BASEMENT",
+      "gloss": "The floor of a building below ground.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COLONNADE",
+      "gloss": "A row of columns.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TICKET",
+      "gloss": "A pass for travel or entry.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WORKSHOP",
+      "gloss": "A room or building for making things.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.057Z"
+}

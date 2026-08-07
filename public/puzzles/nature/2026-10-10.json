@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-10-10",
+  "playDate": "2026-10-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "U",
+      "R",
+      "H",
+      "I",
+      "W",
+      "W",
+      "G",
+      "O",
+      "F"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "K",
+      "O",
+      "R",
+      "G",
+      "Q",
+      "N",
+      "V"
+    ],
+    [
+      "Y",
+      "M",
+      "A",
+      "R",
+      "Z",
+      "Q",
+      "I",
+      "M",
+      "O",
+      "O"
+    ],
+    [
+      "Q",
+      "V",
+      "R",
+      "P",
+      "C",
+      "N",
+      "O",
+      "S",
+      "R",
+      "L"
+    ],
+    [
+      "H",
+      "U",
+      "G",
+      "X",
+      "W",
+      "O",
+      "S",
+      "G",
+      "W",
+      "C"
+    ],
+    [
+      "B",
+      "K",
+      "J",
+      "K",
+      "N",
+      "Y",
+      "A",
+      "Y",
+      "U",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      "S",
+      "B",
+      "G",
+      "N",
+      "N",
+      "A",
+      "Z",
+      "N"
+    ],
+    [
+      "B",
+      "C",
+      "E",
+      "O",
+      "K",
+      "A",
+      "D",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "W",
+      "A",
+      "B",
+      "Q",
+      "G",
+      "C",
+      "A",
+      "W",
+      "K",
+      "D"
+    ],
+    [
+      "M",
+      "K",
+      "M",
+      "O",
+      "S",
+      "S",
+      "Y",
+      "V",
+      "J",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower with showy blooms.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.789Z"
+}

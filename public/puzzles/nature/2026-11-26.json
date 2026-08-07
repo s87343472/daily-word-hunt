@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-11-26",
+  "playDate": "2026-11-26",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "T",
+      "W",
+      "W",
+      "Y",
+      "T",
+      "P",
+      "T",
+      "Z",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "I",
+      "I",
+      "L",
+      "D",
+      "V",
+      "Z",
+      "N",
+      "P"
+    ],
+    [
+      "M",
+      "K",
+      "R",
+      "D",
+      "N",
+      "U",
+      "Z",
+      "O",
+      "H",
+      "U"
+    ],
+    [
+      "S",
+      "V",
+      "O",
+      "A",
+      "E",
+      "G",
+      "O",
+      "T",
+      "P",
+      "B"
+    ],
+    [
+      "R",
+      "K",
+      "C",
+      "K",
+      "G",
+      "G",
+      "O",
+      "M",
+      "V",
+      "E"
+    ],
+    [
+      "W",
+      "C",
+      "E",
+      "B",
+      "A",
+      "O",
+      "R",
+      "P",
+      "E",
+      "A"
+    ],
+    [
+      "X",
+      "R",
+      "A",
+      "L",
+      "Y",
+      "T",
+      "N",
+      "N",
+      "I",
+      "V"
+    ],
+    [
+      "P",
+      "J",
+      "N",
+      "R",
+      "E",
+      "L",
+      "O",
+      "F",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "P",
+      "A",
+      "C",
+      "K",
+      "T",
+      "T",
+      "T",
+      "L",
+      "R"
+    ],
+    [
+      "V",
+      "J",
+      "N",
+      "H",
+      "S",
+      "H",
+      "Y",
+      "N",
+      "R",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "OCEAN",
+      "gloss": "A vast body of salt water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.832Z"
+}

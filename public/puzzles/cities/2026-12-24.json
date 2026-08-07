@@ -1,0 +1,413 @@
+{
+  "id": "cities-2026-12-24",
+  "playDate": "2026-12-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "R",
+      "E",
+      "T",
+      "U",
+      "M",
+      "M",
+      "O",
+      "C",
+      "M"
+    ],
+    [
+      "N",
+      "T",
+      "P",
+      "Q",
+      "G",
+      "W",
+      "F",
+      "I",
+      "U",
+      "Y"
+    ],
+    [
+      "A",
+      "B",
+      "L",
+      "E",
+      "Q",
+      "R",
+      "B",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "J",
+      "A",
+      "H",
+      "B",
+      "W",
+      "D",
+      "W",
+      "E",
+      "X"
+    ],
+    [
+      "S",
+      "M",
+      "T",
+      "O",
+      "Y",
+      "A",
+      "H",
+      "C",
+      "K",
+      "U"
+    ],
+    [
+      "S",
+      "C",
+      "F",
+      "K",
+      "T",
+      "G",
+      "I",
+      "M",
+      "M",
+      "S"
+    ],
+    [
+      "W",
+      "E",
+      "O",
+      "S",
+      "I",
+      "F",
+      "D",
+      "O",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      "H",
+      "F",
+      "B",
+      "J",
+      "A",
+      "Y",
+      "V"
+    ],
+    [
+      "N",
+      "X",
+      "M",
+      "O",
+      "H",
+      "Z",
+      "J",
+      "T",
+      "L",
+      "T"
+    ],
+    [
+      "L",
+      "S",
+      "U",
+      "B",
+      "U",
+      "R",
+      "B",
+      "I",
+      "A",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMMUTER",
+      "gloss": "A person who travels daily to work.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HIGHWAY",
+      "gloss": "A main public road.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OFFICE",
+      "gloss": "A room or building for work.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLATFORM",
+      "gloss": "A raised area beside railway tracks.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STADIUM",
+      "gloss": "A large sports arena.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUBURBIA",
+      "gloss": "Suburban residential areas.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.059Z"
+}

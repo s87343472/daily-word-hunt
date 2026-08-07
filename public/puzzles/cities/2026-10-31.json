@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-10-31",
+  "playDate": "2026-10-31",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "V",
+      "E",
+      "D",
+      "I",
+      "S",
+      "L",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "A",
+      "R",
+      "R",
+      "E",
+      "T",
+      "Z",
+      "T"
+    ],
+    [
+      "F",
+      "Z",
+      "Y",
+      "H",
+      "S",
+      "R",
+      "B",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "P",
+      "R",
+      "E",
+      "G",
+      "J",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "M",
+      "U",
+      "D",
+      "K",
+      "A",
+      "O",
+      "Q",
+      "C",
+      "R"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "N",
+      "V",
+      "C",
+      "F",
+      "H",
+      "L",
+      "T"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "E",
+      "T",
+      "U",
+      "Q",
+      "O",
+      "N",
+      "S"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "S",
+      "C",
+      "A",
+      "W",
+      "C",
+      "R",
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "O",
+      "E",
+      "M",
+      "O",
+      "I",
+      "U",
+      "O",
+      "T"
+    ],
+    [
+      "E",
+      "P",
+      "P",
+      "I",
+      "D",
+      "K",
+      "R",
+      "N",
+      "Q",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVENUE",
+      "gloss": "A wide road in a city.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HILLSIDE",
+      "gloss": "The side of a hill in a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "POSTCODE",
+      "gloss": "A code for a postal area.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STREET",
+      "gloss": "A public road in a city or town.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.991Z"
+}

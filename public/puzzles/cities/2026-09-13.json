@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-09-13",
+  "playDate": "2026-09-13",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "V",
+      "V",
+      "X",
+      "M",
+      "A",
+      "A",
+      "D",
+      "M",
+      "S"
+    ],
+    [
+      "P",
+      "T",
+      "C",
+      "F",
+      "S",
+      "H",
+      "I",
+      "J",
+      "O",
+      "B"
+    ],
+    [
+      "A",
+      "A",
+      "U",
+      "X",
+      "P",
+      "P",
+      "R",
+      "T",
+      "N",
+      "Q"
+    ],
+    [
+      "L",
+      "D",
+      "R",
+      "C",
+      "D",
+      "E",
+      "F",
+      "V",
+      "U",
+      "K"
+    ],
+    [
+      "A",
+      "C",
+      "B",
+      "E",
+      "G",
+      "Y",
+      "I",
+      "Z",
+      "M",
+      "Z"
+    ],
+    [
+      "C",
+      "Q",
+      "B",
+      "D",
+      "N",
+      "L",
+      "E",
+      "U",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "X",
+      "I",
+      "R",
+      "M",
+      "A",
+      "L",
+      "L",
+      "N",
+      "Y"
+    ],
+    [
+      "X",
+      "R",
+      "J",
+      "R",
+      "Q",
+      "V",
+      "D",
+      "Z",
+      "T",
+      "U"
+    ],
+    [
+      "B",
+      "W",
+      "A",
+      "R",
+      "E",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "W",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRFIELD",
+      "gloss": "An area for aircraft takeoff and landing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MONUMENT",
+      "gloss": "A structure built to remember a person or event.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.928Z"
+}

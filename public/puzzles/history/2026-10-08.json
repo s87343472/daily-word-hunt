@@ -1,0 +1,385 @@
+{
+  "id": "history-2026-10-08",
+  "playDate": "2026-10-08",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "T",
+      "W",
+      "E",
+      "O",
+      "S",
+      "E",
+      "Y",
+      "U",
+      "L"
+    ],
+    [
+      "P",
+      "R",
+      "U",
+      "D",
+      "N",
+      "H",
+      "O",
+      "B",
+      "N",
+      "F"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "C",
+      "J",
+      "I",
+      "I",
+      "I",
+      "A",
+      "J"
+    ],
+    [
+      "A",
+      "D",
+      "W",
+      "O",
+      "U",
+      "C",
+      "M",
+      "K",
+      "X",
+      "V"
+    ],
+    [
+      "C",
+      "E",
+      "V",
+      "I",
+      "R",
+      "V",
+      "G",
+      "A",
+      "P",
+      "L"
+    ],
+    [
+      "E",
+      "U",
+      "P",
+      "N",
+      "Y",
+      "V",
+      "B",
+      "K",
+      "F",
+      "R"
+    ],
+    [
+      "Y",
+      "G",
+      "O",
+      "L",
+      "A",
+      "E",
+      "N",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "M",
+      "O",
+      "C",
+      "R",
+      "A",
+      "C",
+      "Y",
+      "Z"
+    ],
+    [
+      "F",
+      "A",
+      "R",
+      "T",
+      "I",
+      "F",
+      "A",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "X",
+      "D",
+      "E",
+      "X",
+      "S",
+      "Y",
+      "T",
+      "J",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DEMOCRACY",
+      "gloss": "Government by the people.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FAMINE",
+      "gloss": "Extreme shortage of food.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRADE",
+      "gloss": "The exchange of goods.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.178Z"
+}

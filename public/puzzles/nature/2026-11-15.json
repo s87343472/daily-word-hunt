@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-11-15",
+  "playDate": "2026-11-15",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "Y",
+      "M",
+      "W",
+      "H",
+      "A",
+      "L",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "R",
+      "R",
+      "P",
+      "O",
+      "W",
+      "N",
+      "B",
+      "V",
+      "N",
+      "W"
+    ],
+    [
+      "Z",
+      "O",
+      "A",
+      "Z",
+      "O",
+      "S",
+      "J",
+      "N",
+      "I",
+      "G"
+    ],
+    [
+      "B",
+      "T",
+      "T",
+      "H",
+      "P",
+      "N",
+      "X",
+      "M",
+      "V",
+      "J"
+    ],
+    [
+      "N",
+      "S",
+      "H",
+      "F",
+      "E",
+      "L",
+      "B",
+      "L",
+      "H",
+      "Y"
+    ],
+    [
+      "R",
+      "R",
+      "O",
+      "F",
+      "T",
+      "A",
+      "H",
+      "E",
+      "G",
+      "F"
+    ],
+    [
+      "L",
+      "E",
+      "R",
+      "R",
+      "A",
+      "R",
+      "H",
+      "X",
+      "A",
+      "E"
+    ],
+    [
+      "O",
+      "D",
+      "N",
+      "E",
+      "L",
+      "O",
+      "D",
+      "K",
+      "B",
+      "M"
+    ],
+    [
+      "F",
+      "N",
+      "Q",
+      "N",
+      "H",
+      "C",
+      "F",
+      "M",
+      "I",
+      "J"
+    ],
+    [
+      "T",
+      "U",
+      "Z",
+      "F",
+      "R",
+      "A",
+      "V",
+      "I",
+      "N",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RAVINE",
+      "gloss": "A deep narrow gorge.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "UNDERSTORY",
+      "gloss": "Vegetation under the forest canopy.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.823Z"
+}

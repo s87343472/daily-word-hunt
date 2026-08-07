@@ -1,0 +1,417 @@
+{
+  "id": "cities-2026-12-23",
+  "playDate": "2026-12-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "A",
+      "N",
+      "Z",
+      "H",
+      "B",
+      "D",
+      "P",
+      "L",
+      "W"
+    ],
+    [
+      "B",
+      "M",
+      "S",
+      "W",
+      "R",
+      "M",
+      "R",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "S",
+      "P",
+      "D",
+      "U",
+      "I",
+      "I",
+      "A",
+      "H",
+      "D",
+      "O"
+    ],
+    [
+      "X",
+      "T",
+      "B",
+      "I",
+      "B",
+      "H",
+      "W",
+      "O",
+      "D",
+      "O"
+    ],
+    [
+      "K",
+      "U",
+      "E",
+      "R",
+      "N",
+      "P",
+      "B",
+      "S",
+      "R",
+      "B"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "W",
+      "A",
+      "Q",
+      "R",
+      "P",
+      "E",
+      "E"
+    ],
+    [
+      "L",
+      "C",
+      "O",
+      "L",
+      "C",
+      "A",
+      "I",
+      "I",
+      "S",
+      "D"
+    ],
+    [
+      "B",
+      "T",
+      "A",
+      "F",
+      "S",
+      "Z",
+      "D",
+      "T",
+      "S",
+      "I"
+    ],
+    [
+      "T",
+      "C",
+      "L",
+      "F",
+      "X",
+      "K",
+      "G",
+      "A",
+      "F",
+      "U"
+    ],
+    [
+      "E",
+      "M",
+      "V",
+      "R",
+      "L",
+      "S",
+      "E",
+      "L",
+      "Q",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.058Z"
+}

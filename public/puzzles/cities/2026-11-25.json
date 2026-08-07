@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-11-25",
+  "playDate": "2026-11-25",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "K",
+      "Y",
+      "S",
+      "C",
+      "R",
+      "A",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "S",
+      "D",
+      "O",
+      "E",
+      "L",
+      "F",
+      "N",
+      "L"
+    ],
+    [
+      "O",
+      "J",
+      "J",
+      "I",
+      "P",
+      "Q",
+      "N",
+      "Z",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "F",
+      "L",
+      "G",
+      "D",
+      "R",
+      "G",
+      "L",
+      "J",
+      "P"
+    ],
+    [
+      "T",
+      "H",
+      "C",
+      "L",
+      "T",
+      "E",
+      "L",
+      "I",
+      "M",
+      "W"
+    ],
+    [
+      "S",
+      "R",
+      "U",
+      "I",
+      "O",
+      "E",
+      "W",
+      "Q",
+      "P",
+      "V"
+    ],
+    [
+      "I",
+      "K",
+      "X",
+      "R",
+      "Y",
+      "T",
+      "D",
+      "A",
+      "O",
+      "S"
+    ],
+    [
+      "B",
+      "E",
+      "Y",
+      "W",
+      "X",
+      "C",
+      "N",
+      "X",
+      "L",
+      "F"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
+      "F",
+      "E",
+      "R",
+      "I",
+      "K"
+    ],
+    [
+      "D",
+      "Y",
+      "T",
+      "N",
+      "E",
+      "M",
+      "U",
+      "N",
+      "O",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLEYWAY",
+      "gloss": "A narrow path between buildings.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BISTRO",
+      "gloss": "A small informal restaurant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MONUMENT",
+      "gloss": "A structure built to remember a person or event.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SIDEWALK",
+      "gloss": "A paved path for pedestrians.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SKYSCRAPER",
+      "gloss": "A very tall building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.023Z"
+}

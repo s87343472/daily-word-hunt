@@ -1,0 +1,397 @@
+{
+  "id": "history-2026-12-08",
+  "playDate": "2026-12-08",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "F",
+      "R",
+      "W",
+      "U",
+      "T",
+      "U",
+      "L",
+      "X",
+      "E"
+    ],
+    [
+      "D",
+      "T",
+      "S",
+      "O",
+      "U",
+      "R",
+      "C",
+      "E",
+      "J",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "N",
+      "I",
+      "I",
+      "B",
+      "U",
+      "I",
+      "V"
+    ],
+    [
+      "P",
+      "E",
+      "Y",
+      "G",
+      "Y",
+      "A",
+      "K",
+      "X",
+      "T",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "Y",
+      "R",
+      "L",
+      "Z",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "O",
+      "S",
+      "W",
+      "E",
+      "M",
+      "O",
+      "C",
+      "D",
+      "U",
+      "T"
+    ],
+    [
+      "M",
+      "U",
+      "B",
+      "V",
+      "T",
+      "T",
+      "F",
+      "S",
+      "E",
+      "I"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "V",
+      "E",
+      "G",
+      "I",
+      "H"
+    ],
+    [
+      "C",
+      "E",
+      "C",
+      "C",
+      "J",
+      "U",
+      "M",
+      "Y",
+      "K",
+      "U"
+    ],
+    [
+      "Y",
+      "T",
+      "S",
+      "E",
+      "M",
+      "Z",
+      "S",
+      "O",
+      "Q",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRIAL",
+      "gloss": "A formal examination of evidence in court.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.259Z"
+}

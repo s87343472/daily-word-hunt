@@ -1,0 +1,424 @@
+{
+  "id": "cities-2026-11-24",
+  "playDate": "2026-11-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "D",
+      "D",
+      "W",
+      "M",
+      "A",
+      "P",
+      "X",
+      "Q",
+      "U",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "U",
+      "Q",
+      "F",
+      "O",
+      "E",
+      "P",
+      "Y",
+      "D",
+      "G"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "P",
+      "I",
+      "E",
+      "L",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "Z",
+      "G",
+      "O",
+      "N",
+      "J",
+      "N",
+      "E",
+      "M",
+      "C"
+    ],
+    [
+      "I",
+      "B",
+      "O",
+      "B",
+      "O",
+      "R",
+      "A",
+      "R",
+      "U",
+      "G",
+      "D"
+    ],
+    [
+      "N",
+      "O",
+      "X",
+      "L",
+      "L",
+      "L",
+      "T",
+      "I",
+      "S",
+      "R",
+      "V"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "J",
+      "P",
+      "H",
+      "R",
+      "P",
+      "M",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "S",
+      "T",
+      "S",
+      "H",
+      "T",
+      "I",
+      "R",
+      "U",
+      "G",
+      "L"
+    ],
+    [
+      "I",
+      "I",
+      "E",
+      "R",
+      "A",
+      "R",
+      "U",
+      "Y",
+      "D",
+      "I",
+      "S"
+    ],
+    [
+      "O",
+      "D",
+      "W",
+      "Y",
+      "E",
+      "I",
+      "W",
+      "H",
+      "A",
+      "O",
+      "D"
+    ],
+    [
+      "N",
+      "E",
+      "F",
+      "F",
+      "H",
+      "Y",
+      "Z",
+      "G",
+      "Z",
+      "N",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATRIUM",
+      "gloss": "A large open central space in a building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DESTINATION",
+      "gloss": "The place someone is going to.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "HARBORSIDE",
+      "gloss": "The area beside a harbor.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PORT",
+      "gloss": "A town with a harbor for ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.022Z"
+}

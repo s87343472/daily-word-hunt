@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-09-10",
+  "playDate": "2026-09-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "S",
+      "Z",
+      "P",
+      "L",
+      "V",
+      "N",
+      "L",
+      "C",
+      "G"
+    ],
+    [
+      "Y",
+      "U",
+      "G",
+      "E",
+      "A",
+      "I",
+      "P",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "L",
+      "H",
+      "K",
+      "N",
+      "Q",
+      "S",
+      "L",
+      "T",
+      "N",
+      "U"
+    ],
+    [
+      "F",
+      "X",
+      "E",
+      "I",
+      "I",
+      "B",
+      "T",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "E",
+      "N",
+      "O",
+      "R",
+      "R",
+      "L",
+      "L",
+      "U",
+      "C",
+      "K"
+    ],
+    [
+      "R",
+      "C",
+      "Q",
+      "A",
+      "D",
+      "S",
+      "D",
+      "I",
+      "R",
+      "M"
+    ],
+    [
+      "I",
+      "W",
+      "M",
+      "V",
+      "I",
+      "P",
+      "O",
+      "E",
+      "I",
+      "E"
+    ],
+    [
+      "F",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "H"
+    ],
+    [
+      "Z",
+      "L",
+      "M",
+      "F",
+      "A",
+      "W",
+      "A",
+      "P",
+      "C",
+      "S"
+    ],
+    [
+      "D",
+      "R",
+      "K",
+      "X",
+      "N",
+      "R",
+      "I",
+      "E",
+      "N",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIREFLY",
+      "gloss": "An insect that glows at night.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PASTURE",
+      "gloss": "Land covered with grass for grazing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.761Z"
+}

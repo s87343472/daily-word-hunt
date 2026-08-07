@@ -1,0 +1,317 @@
+{
+  "id": "nature-2026-10-16",
+  "playDate": "2026-10-16",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "K",
+      "G",
+      "E",
+      "O",
+      "D",
+      "E",
+      "L",
+      "D",
+      "H"
+    ],
+    [
+      "O",
+      "W",
+      "R",
+      "F",
+      "B",
+      "N",
+      "I",
+      "D",
+      "A",
+      "N"
+    ],
+    [
+      "V",
+      "Y",
+      "L",
+      "O",
+      "N",
+      "L",
+      "C",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "I",
+      "C",
+      "V",
+      "C",
+      "Y",
+      "U",
+      "A",
+      "H",
+      "T",
+      "N"
+    ],
+    [
+      "V",
+      "Z",
+      "V",
+      "W",
+      "L",
+      "G",
+      "N",
+      "Q",
+      "W",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "H",
+      "I",
+      "Q",
+      "I",
+      "P",
+      "C",
+      "Z",
+      "N"
+    ],
+    [
+      "X",
+      "A",
+      "L",
+      "N",
+      "F",
+      "V",
+      "F",
+      "O",
+      "C",
+      "S"
+    ],
+    [
+      "Z",
+      "B",
+      "D",
+      "D",
+      "U",
+      "Y",
+      "S",
+      "F",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "G",
+      "E",
+      "E",
+      "Z",
+      "A",
+      "I",
+      "S",
+      "D"
+    ],
+    [
+      "G",
+      "D",
+      "G",
+      "O",
+      "C",
+      "K",
+      "P",
+      "L",
+      "C",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GEODE",
+      "gloss": "A rock cavity lined with crystals.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.795Z"
+}

@@ -1,0 +1,421 @@
+{
+  "id": "history-2026-10-14",
+  "playDate": "2026-10-14",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "P",
+      "Y",
+      "L",
+      "G",
+      "O",
+      "R",
+      "E",
+      "I",
+      "H"
+    ],
+    [
+      "S",
+      "U",
+      "J",
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "T",
+      "C"
+    ],
+    [
+      "C",
+      "P",
+      "U",
+      "T",
+      "G",
+      "G",
+      "M",
+      "K",
+      "M",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "S",
+      "W",
+      "F",
+      "I",
+      "Y",
+      "O",
+      "J",
+      "P"
+    ],
+    [
+      "L",
+      "J",
+      "T",
+      "U",
+      "K",
+      "H",
+      "D",
+      "H",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "Q",
+      "I",
+      "G",
+      "N",
+      "E",
+      "P",
+      "Z",
+      "M",
+      "D"
+    ],
+    [
+      "T",
+      "X",
+      "C",
+      "P",
+      "R",
+      "D",
+      "U",
+      "Y",
+      "Z",
+      "D"
+    ],
+    [
+      "U",
+      "R",
+      "E",
+      "N",
+      "D",
+      "T",
+      "U",
+      "U",
+      "N",
+      "L"
+    ],
+    [
+      "R",
+      "P",
+      "A",
+      "P",
+      "Y",
+      "R",
+      "U",
+      "S",
+      "L",
+      "U"
+    ],
+    [
+      "E",
+      "N",
+      "O",
+      "I",
+      "R",
+      "U",
+      "T",
+      "N",
+      "E",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EPOCH",
+      "gloss": "A notable period in history.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.187Z"
+}

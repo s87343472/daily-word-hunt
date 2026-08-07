@@ -1,0 +1,429 @@
+{
+  "id": "history-2026-09-07",
+  "playDate": "2026-09-07",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "R",
+      "A",
+      "M",
+      "I",
+      "R",
+      "P",
+      "R",
+      "K",
+      "A"
+    ],
+    [
+      "B",
+      "D",
+      "R",
+      "D",
+      "Q",
+      "F",
+      "N",
+      "I",
+      "G",
+      "N"
+    ],
+    [
+      "T",
+      "Q",
+      "W",
+      "M",
+      "G",
+      "R",
+      "N",
+      "W",
+      "S",
+      "F"
+    ],
+    [
+      "E",
+      "P",
+      "L",
+      "V",
+      "E",
+      "G",
+      "S",
+      "T",
+      "C",
+      "V"
+    ],
+    [
+      "M",
+      "V",
+      "Z",
+      "D",
+      "D",
+      "F",
+      "A",
+      "T",
+      "F",
+      "K"
+    ],
+    [
+      "P",
+      "N",
+      "O",
+      "O",
+      "P",
+      "L",
+      "A",
+      "X",
+      "D",
+      "I"
+    ],
+    [
+      "L",
+      "M",
+      "M",
+      "S",
+      "C",
+      "I",
+      "T",
+      "C",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "L",
+      "A",
+      "B",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "L",
+      "I",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "E",
+      "A",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASTROLABE",
+      "gloss": "An instrument for navigation by stars.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "KINGDOM",
+      "gloss": "A country ruled by a king or queen.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PARLIAMENT",
+      "gloss": "A legislature of elected members.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PRIMARY",
+      "gloss": "An original historical source.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.127Z"
+}

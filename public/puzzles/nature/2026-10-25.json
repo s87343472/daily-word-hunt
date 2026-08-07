@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-10-25",
+  "playDate": "2026-10-25",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "E",
+      "B",
+      "M",
+      "R",
+      "C",
+      "J",
+      "J",
+      "T",
+      "B"
+    ],
+    [
+      "A",
+      "W",
+      "S",
+      "T",
+      "N",
+      "I",
+      "L",
+      "F",
+      "D",
+      "V"
+    ],
+    [
+      "R",
+      "O",
+      "H",
+      "I",
+      "I",
+      "A",
+      "C",
+      "O",
+      "A",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "A",
+      "I",
+      "R",
+      "D",
+      "R",
+      "X",
+      "Y",
+      "D"
+    ],
+    [
+      "L",
+      "D",
+      "N",
+      "E",
+      "V",
+      "N",
+      "H",
+      "X",
+      "B",
+      "I"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "B",
+      "Y",
+      "E",
+      "U",
+      "Q",
+      "R",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "K",
+      "P",
+      "D",
+      "P",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "V",
+      "N",
+      "U",
+      "F",
+      "I",
+      "J",
+      "M",
+      "T",
+      "A",
+      "E"
+    ],
+    [
+      "V",
+      "D",
+      "R",
+      "C",
+      "T",
+      "J",
+      "W",
+      "I",
+      "K",
+      "Z"
+    ],
+    [
+      "N",
+      "N",
+      "E",
+      "R",
+      "W",
+      "H",
+      "N",
+      "Z",
+      "M",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NATURE",
+      "gloss": "The physical world not made by humans.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.804Z"
+}

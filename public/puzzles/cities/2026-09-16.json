@@ -1,0 +1,385 @@
+{
+  "id": "cities-2026-09-16",
+  "playDate": "2026-09-16",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "M",
+      "F",
+      "M",
+      "R",
+      "G",
+      "F",
+      "K",
+      "P",
+      "N"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "E",
+      "T",
+      "U",
+      "M",
+      "M",
+      "O",
+      "C"
+    ],
+    [
+      "U",
+      "Z",
+      "G",
+      "T",
+      "O",
+      "X",
+      "H",
+      "K",
+      "B",
+      "Q"
+    ],
+    [
+      "O",
+      "Z",
+      "N",
+      "B",
+      "V",
+      "P",
+      "Z",
+      "O",
+      "Z",
+      "G"
+    ],
+    [
+      "H",
+      "A",
+      "I",
+      "N",
+      "D",
+      "C",
+      "A",
+      "F",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "N",
+      "N",
+      "P",
+      "A",
+      "R",
+      "K",
+      "M",
+      "L",
+      "P"
+    ],
+    [
+      "H",
+      "I",
+      "G",
+      "W",
+      "Y",
+      "C",
+      "L",
+      "B",
+      "M",
+      "H"
+    ],
+    [
+      "G",
+      "N",
+      "F",
+      "C",
+      "S",
+      "F",
+      "Z",
+      "L",
+      "T",
+      "V"
+    ],
+    [
+      "I",
+      "E",
+      "F",
+      "S",
+      "M",
+      "U",
+      "Q",
+      "N",
+      "O",
+      "F"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "E",
+      "R",
+      "P",
+      "A",
+      "S",
+      "S",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COMMUTER",
+      "gloss": "A person who travels daily to work.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "INN",
+      "gloss": "A small hotel, often in the countryside.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIGHTHOUSE",
+      "gloss": "A tower with a light to guide ships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MEZZANINE",
+      "gloss": "A partial floor between main floors.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OVERPASS",
+      "gloss": "A bridge carrying one road over another.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.932Z"
+}

@@ -1,0 +1,413 @@
+{
+  "id": "cities-2026-11-02",
+  "playDate": "2026-11-02",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "E",
+      "W",
+      "C",
+      "K",
+      "A",
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "X",
+      "U",
+      "E",
+      "R",
+      "L",
+      "E",
+      "Q",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "W",
+      "U",
+      "V",
+      "E",
+      "V",
+      "L",
+      "O",
+      "R"
+    ],
+    [
+      "G",
+      "W",
+      "E",
+      "S",
+      "D",
+      "P",
+      "Y",
+      "L",
+      "Q",
+      "A"
+    ],
+    [
+      "N",
+      "M",
+      "Z",
+      "S",
+      "S",
+      "O",
+      "E",
+      "A",
+      "D",
+      "M"
+    ],
+    [
+      "P",
+      "I",
+      "A",
+      "D",
+      "O",
+      "E",
+      "S",
+      "R",
+      "T",
+      "D"
+    ],
+    [
+      "O",
+      "Z",
+      "U",
+      "R",
+      "U",
+      "R",
+      "R",
+      "W",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "G",
+      "C",
+      "N",
+      "K",
+      "R",
+      "T",
+      "P",
+      "V",
+      "A"
+    ],
+    [
+      "T",
+      "G",
+      "X",
+      "U",
+      "C",
+      "E",
+      "Q",
+      "Q",
+      "X",
+      "L"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "F",
+      "F",
+      "I",
+      "T",
+      "I",
+      "Y",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EXPRESSWAY",
+      "gloss": "A high-speed divided highway.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANDMARK",
+      "gloss": "A feature that is easily recognized.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place where goods are bought and sold.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SIGNPOST",
+      "gloss": "A post with directional signs.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.995Z"
+}

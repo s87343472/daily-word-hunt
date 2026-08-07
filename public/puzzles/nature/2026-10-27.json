@@ -1,0 +1,365 @@
+{
+  "id": "nature-2026-10-27",
+  "playDate": "2026-10-27",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "N",
+      "K",
+      "D",
+      "C",
+      "Q",
+      "Z",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "T",
+      "T",
+      "X",
+      "Y",
+      "L",
+      "R",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "R",
+      "H",
+      "S",
+      "O",
+      "Q",
+      "E",
+      "L",
+      "P",
+      "J",
+      "T"
+    ],
+    [
+      "I",
+      "G",
+      "P",
+      "P",
+      "E",
+      "T",
+      "S",
+      "J",
+      "M",
+      "I"
+    ],
+    [
+      "Z",
+      "I",
+      "V",
+      "K",
+      "R",
+      "P",
+      "M",
+      "Y",
+      "F",
+      "D"
+    ],
+    [
+      "O",
+      "L",
+      "Q",
+      "U",
+      "Y",
+      "O",
+      "X",
+      "M",
+      "Z",
+      "A"
+    ],
+    [
+      "N",
+      "R",
+      "T",
+      "F",
+      "V",
+      "Y",
+      "U",
+      "C",
+      "J",
+      "L"
+    ],
+    [
+      "Q",
+      "A",
+      "Z",
+      "N",
+      "I",
+      "S",
+      "T",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "T",
+      "N",
+      "U",
+      "U",
+      "L",
+      "H",
+      "K",
+      "O",
+      "A"
+    ],
+    [
+      "K",
+      "S",
+      "N",
+      "H",
+      "O",
+      "W",
+      "L",
+      "Y",
+      "F",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.806Z"
+}

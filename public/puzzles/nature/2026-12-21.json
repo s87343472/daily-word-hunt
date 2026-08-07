@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-12-21",
+  "playDate": "2026-12-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "C",
+      "P",
+      "R",
+      "N",
+      "S",
+      "O",
+      "D",
+      "E",
+      "G"
+    ],
+    [
+      "T",
+      "L",
+      "Z",
+      "S",
+      "T",
+      "U",
+      "G",
+      "P",
+      "L",
+      "K"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "R",
+      "O",
+      "O",
+      "T",
+      "C",
+      "U",
+      "N"
+    ],
+    [
+      "D",
+      "L",
+      "U",
+      "N",
+      "M",
+      "C",
+      "T",
+      "N",
+      "W",
+      "C"
+    ],
+    [
+      "O",
+      "C",
+      "B",
+      "N",
+      "D",
+      "A",
+      "G",
+      "X",
+      "B",
+      "V"
+    ],
+    [
+      "L",
+      "X",
+      "F",
+      "B",
+      "K",
+      "S",
+      "E",
+      "W",
+      "X",
+      "X"
+    ],
+    [
+      "P",
+      "Q",
+      "N",
+      "C",
+      "E",
+      "G",
+      "C",
+      "R",
+      "N",
+      "Q"
+    ],
+    [
+      "H",
+      "O",
+      "H",
+      "R",
+      "P",
+      "P",
+      "X",
+      "A",
+      "T",
+      "B"
+    ],
+    [
+      "I",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "Z",
+      "P",
+      "P",
+      "S"
+    ],
+    [
+      "N",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "D",
+      "W",
+      "Y",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.855Z"
+}

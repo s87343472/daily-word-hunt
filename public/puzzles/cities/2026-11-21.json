@@ -1,0 +1,373 @@
+{
+  "id": "cities-2026-11-21",
+  "playDate": "2026-11-21",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "P",
+      "G",
+      "C",
+      "T",
+      "D",
+      "J",
+      "F",
+      "M",
+      "Y"
+    ],
+    [
+      "J",
+      "J",
+      "U",
+      "P",
+      "A",
+      "L",
+      "A",
+      "C",
+      "E",
+      "Y"
+    ],
+    [
+      "W",
+      "A",
+      "I",
+      "A",
+      "R",
+      "E",
+      "V",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "T",
+      "C",
+      "D",
+      "V",
+      "X",
+      "V",
+      "N",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "H",
+      "G",
+      "E",
+      "D",
+      "T",
+      "H",
+      "F",
+      "R",
+      "A",
+      "W"
+    ],
+    [
+      "U",
+      "T",
+      "B",
+      "A",
+      "R",
+      "A",
+      "V",
+      "S",
+      "W",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "O",
+      "M",
+      "C",
+      "E",
+      "X",
+      "B",
+      "H",
+      "C"
+    ],
+    [
+      "L",
+      "U",
+      "O",
+      "O",
+      "Y",
+      "V",
+      "S",
+      "T",
+      "G",
+      "G"
+    ],
+    [
+      "A",
+      "B",
+      "K",
+      "A",
+      "O",
+      "U",
+      "B",
+      "S",
+      "I",
+      "D"
+    ],
+    [
+      "M",
+      "P",
+      "T",
+      "T",
+      "E",
+      "H",
+      "Y",
+      "X",
+      "H",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DRIVER",
+      "gloss": "A person who drives a vehicle.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HIGHWAY",
+      "gloss": "A main public road.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.018Z"
+}

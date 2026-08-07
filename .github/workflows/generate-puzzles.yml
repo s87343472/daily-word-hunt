@@ -11,7 +11,7 @@ on:
       horizon:
         description: "Days ahead to ensure (including today)"
         required: false
-        default: "21"
+        default: "150"
       force:
         description: "Overwrite existing puzzles (true/false)"
         required: false
@@ -53,7 +53,7 @@ jobs:
 
       - name: Generate puzzles for all calendar packs
         env:
-          HORIZON: ${{ github.event.inputs.horizon || '21' }}
+          HORIZON: ${{ github.event.inputs.horizon || '150' }}
           FORCE: ${{ github.event.inputs.force || 'false' }}
         run: |
           set -euo pipefail

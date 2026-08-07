@@ -1,0 +1,401 @@
+{
+  "id": "history-2026-10-29",
+  "playDate": "2026-10-29",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "R",
+      "K",
+      "E",
+      "V",
+      "L",
+      "L",
+      "A",
+      "W",
+      "I"
+    ],
+    [
+      "P",
+      "H",
+      "O",
+      "P",
+      "H",
+      "A",
+      "R",
+      "A",
+      "O",
+      "H"
+    ],
+    [
+      "Y",
+      "O",
+      "P",
+      "T",
+      "P",
+      "F",
+      "B",
+      "L",
+      "L",
+      "B"
+    ],
+    [
+      "L",
+      "J",
+      "T",
+      "A",
+      "A",
+      "I",
+      "W",
+      "X",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "R",
+      "M",
+      "N",
+      "R",
+      "I",
+      "R",
+      "K",
+      "X",
+      "T"
+    ],
+    [
+      "L",
+      "L",
+      "U",
+      "P",
+      "E",
+      "G",
+      "D",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "T",
+      "D",
+      "S",
+      "P",
+      "Z",
+      "I",
+      "E",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "Y",
+      "H",
+      "K",
+      "Q",
+      "V",
+      "H",
+      "C",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "Z",
+      "E",
+      "D",
+      "R",
+      "W",
+      "W",
+      "N",
+      "E",
+      "G"
+    ],
+    [
+      "M",
+      "R",
+      "T",
+      "S",
+      "R",
+      "G",
+      "R",
+      "U",
+      "A",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GLADIATOR",
+      "gloss": "A fighter in ancient Roman arenas.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MUSKET",
+      "gloss": "An early type of gun.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.206Z"
+}

@@ -1,0 +1,333 @@
+{
+  "id": "nature-2026-09-29",
+  "playDate": "2026-09-29",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "S",
+      "N",
+      "F",
+      "C",
+      "R",
+      "R",
+      "V",
+      "V",
+      "C"
+    ],
+    [
+      "G",
+      "E",
+      "P",
+      "E",
+      "P",
+      "Z",
+      "E",
+      "N",
+      "M",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "G",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "W",
+      "Z",
+      "R",
+      "W",
+      "E",
+      "K",
+      "B",
+      "A",
+      "F",
+      "E"
+    ],
+    [
+      "J",
+      "K",
+      "E",
+      "L",
+      "L",
+      "S",
+      "A",
+      "H",
+      "H",
+      "S"
+    ],
+    [
+      "X",
+      "W",
+      "M",
+      "L",
+      "V",
+      "R",
+      "I",
+      "E",
+      "N",
+      "Y"
+    ],
+    [
+      "G",
+      "K",
+      "E",
+      "X",
+      "I",
+      "I",
+      "V",
+      "N",
+      "B",
+      "M"
+    ],
+    [
+      "R",
+      "H",
+      "Y",
+      "A",
+      "N",
+      "D",
+      "N",
+      "Q",
+      "J",
+      "A"
+    ],
+    [
+      "S",
+      "F",
+      "U",
+      "S",
+      "E",
+      "G",
+      "H",
+      "U",
+      "Y",
+      "O"
+    ],
+    [
+      "U",
+      "Y",
+      "K",
+      "B",
+      "H",
+      "E",
+      "U",
+      "L",
+      "G",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.778Z"
+}

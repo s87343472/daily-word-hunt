@@ -1,0 +1,405 @@
+{
+  "id": "history-2026-10-07",
+  "playDate": "2026-10-07",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "G",
+      "S",
+      "E",
+      "C",
+      "N",
+      "E",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "Y",
+      "V",
+      "N",
+      "C",
+      "W",
+      "P",
+      "S",
+      "V",
+      "F",
+      "T"
+    ],
+    [
+      "X",
+      "P",
+      "M",
+      "B",
+      "K",
+      "S",
+      "F",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "Q",
+      "U",
+      "L",
+      "A",
+      "E",
+      "M",
+      "O",
+      "L",
+      "J",
+      "M"
+    ],
+    [
+      "I",
+      "M",
+      "R",
+      "R",
+      "R",
+      "O",
+      "B",
+      "P",
+      "P",
+      "P"
+    ],
+    [
+      "J",
+      "X",
+      "P",
+      "O",
+      "T",
+      "A",
+      "R",
+      "D",
+      "Q",
+      "E"
+    ],
+    [
+      "Q",
+      "M",
+      "F",
+      "Q",
+      "T",
+      "I",
+      "Q",
+      "I",
+      "X",
+      "R"
+    ],
+    [
+      "E",
+      "E",
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M",
+      "H",
+      "O"
+    ],
+    [
+      "R",
+      "R",
+      "O",
+      "E",
+      "T",
+      "L",
+      "B",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "V",
+      "E",
+      "N",
+      "T",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.177Z"
+}

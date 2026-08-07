@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-10-24",
+  "playDate": "2026-10-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "A",
+      "T",
+      "L",
+      "E",
+      "D",
+      "S",
+      "G",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "A",
+      "E",
+      "T",
+      "A",
+      "L",
+      "P",
+      "C",
+      "M",
+      "Z"
+    ],
+    [
+      "H",
+      "W",
+      "T",
+      "L",
+      "A",
+      "T",
+      "E",
+      "P",
+      "G",
+      "F"
+    ],
+    [
+      "O",
+      "K",
+      "E",
+      "E",
+      "I",
+      "K",
+      "V",
+      "K",
+      "W",
+      "R"
+    ],
+    [
+      "M",
+      "K",
+      "R",
+      "L",
+      "R",
+      "V",
+      "Y",
+      "Y",
+      "I",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "L",
+      "B",
+      "G",
+      "F",
+      "W",
+      "B",
+      "O",
+      "H"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "R",
+      "E",
+      "A",
+      "A",
+      "P",
+      "Z",
+      "T"
+    ],
+    [
+      "Z",
+      "A",
+      "E",
+      "D",
+      "Q",
+      "A",
+      "E",
+      "L",
+      "Y",
+      "A"
+    ],
+    [
+      "F",
+      "P",
+      "Q",
+      "C",
+      "V",
+      "S",
+      "C",
+      "G",
+      "L",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "S",
+      "O",
+      "G",
+      "M",
+      "H",
+      "H",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OCEAN",
+      "gloss": "A vast body of salt water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.803Z"
+}

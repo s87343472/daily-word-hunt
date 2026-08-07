@@ -1,0 +1,373 @@
+{
+  "id": "cities-2026-12-09",
+  "playDate": "2026-12-09",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "P",
+      "B",
+      "M",
+      "G",
+      "Z",
+      "Y",
+      "H",
+      "C",
+      "N"
+    ],
+    [
+      "I",
+      "L",
+      "L",
+      "F",
+      "L",
+      "H",
+      "S",
+      "A",
+      "R",
+      "B"
+    ],
+    [
+      "F",
+      "N",
+      "C",
+      "A",
+      "R",
+      "S",
+      "I",
+      "Q",
+      "Y",
+      "E"
+    ],
+    [
+      "W",
+      "V",
+      "L",
+      "B",
+      "Z",
+      "Q",
+      "G",
+      "U",
+      "H",
+      "N"
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      "G",
+      "Z",
+      "A",
+      "N",
+      "A",
+      "K",
+      "C"
+    ],
+    [
+      "H",
+      "D",
+      "C",
+      "M",
+      "L",
+      "O",
+      "P",
+      "R",
+      "M",
+      "H"
+    ],
+    [
+      "R",
+      "K",
+      "K",
+      "Q",
+      "F",
+      "A",
+      "O",
+      "I",
+      "Y",
+      "E"
+    ],
+    [
+      "B",
+      "G",
+      "P",
+      "M",
+      "S",
+      "L",
+      "S",
+      "U",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "E",
+      "W",
+      "O",
+      "T",
+      "M",
+      "J",
+      "F"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "V",
+      "I",
+      "N",
+      "C",
+      "E",
+      "M",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BENCH",
+      "gloss": "A long seat for several people.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLAZA",
+      "gloss": "A public open square.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SIGNPOST",
+      "gloss": "A post with directional signs.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.041Z"
+}

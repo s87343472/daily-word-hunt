@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-10-15",
+  "playDate": "2026-10-15",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "H",
+      "A",
+      "G",
+      "U",
+      "E",
+      "F",
+      "J",
+      "S",
+      "P"
+    ],
+    [
+      "E",
+      "I",
+      "S",
+      "V",
+      "S",
+      "P",
+      "X",
+      "F",
+      "O",
+      "I"
+    ],
+    [
+      "L",
+      "Z",
+      "M",
+      "P",
+      "T",
+      "I",
+      "T",
+      "R",
+      "Y",
+      "C"
+    ],
+    [
+      "E",
+      "T",
+      "Q",
+      "E",
+      "S",
+      "U",
+      "T",
+      "O",
+      "L",
+      "Y"
+    ],
+    [
+      "V",
+      "K",
+      "A",
+      "K",
+      "T",
+      "I",
+      "R",
+      "W",
+      "W",
+      "N"
+    ],
+    [
+      "A",
+      "E",
+      "V",
+      "X",
+      "C",
+      "A",
+      "O",
+      "R",
+      "J",
+      "N"
+    ],
+    [
+      "T",
+      "H",
+      "F",
+      "O",
+      "I",
+      "C",
+      "B",
+      "V",
+      "E",
+      "F"
+    ],
+    [
+      "O",
+      "J",
+      "K",
+      "B",
+      "L",
+      "O",
+      "E",
+      "L",
+      "U",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "D",
+      "U",
+      "T",
+      "S",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PORTICO",
+      "gloss": "A porch with columns.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TIMETABLE",
+      "gloss": "A schedule of arrivals and departures.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOWERBLOCK",
+      "gloss": "A tall residential building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.968Z"
+}

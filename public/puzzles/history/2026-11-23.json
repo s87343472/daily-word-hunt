@@ -1,0 +1,437 @@
+{
+  "id": "history-2026-11-23",
+  "playDate": "2026-11-23",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "U",
+      "T",
+      "I",
+      "A",
+      "R",
+      "T",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "A",
+      "H",
+      "G",
+      "R",
+      "E",
+      "L",
+      "I",
+      "C",
+      "Z"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "E",
+      "I",
+      "B",
+      "F",
+      "J",
+      "F",
+      "A"
+    ],
+    [
+      "T",
+      "T",
+      "L",
+      "N",
+      "W",
+      "A",
+      "E",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "L",
+      "I",
+      "P",
+      "E",
+      "B",
+      "L",
+      "U",
+      "Y",
+      "T",
+      "P"
+    ],
+    [
+      "E",
+      "F",
+      "H",
+      "A",
+      "J",
+      "O",
+      "D",
+      "Z",
+      "Q",
+      "C"
+    ],
+    [
+      "M",
+      "A",
+      "A",
+      "L",
+      "N",
+      "R",
+      "A",
+      "L",
+      "W",
+      "X"
+    ],
+    [
+      "E",
+      "C",
+      "B",
+      "O",
+      "R",
+      "T",
+      "L",
+      "Z",
+      "N",
+      "H"
+    ],
+    [
+      "N",
+      "T",
+      "E",
+      "G",
+      "Q",
+      "S",
+      "N",
+      "V",
+      "S",
+      "R"
+    ],
+    [
+      "T",
+      "L",
+      "T",
+      "Y",
+      "R",
+      "A",
+      "V",
+      "K",
+      "N",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPHABET",
+      "gloss": "A set of letters used in writing.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ASTROLABE",
+      "gloss": "An instrument for navigation by stars.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.239Z"
+}

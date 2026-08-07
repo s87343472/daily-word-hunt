@@ -1,0 +1,389 @@
+{
+  "id": "history-2026-11-11",
+  "playDate": "2026-11-11",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "B",
+      "D",
+      "P",
+      "N",
+      "A",
+      "L",
+      "E",
+      "G",
+      "K"
+    ],
+    [
+      "A",
+      "O",
+      "A",
+      "Y",
+      "R",
+      "O",
+      "B",
+      "T",
+      "W",
+      "B"
+    ],
+    [
+      "P",
+      "R",
+      "T",
+      "R",
+      "F",
+      "G",
+      "N",
+      "A",
+      "X",
+      "U"
+    ],
+    [
+      "I",
+      "C",
+      "M",
+      "C",
+      "O",
+      "Q",
+      "Y",
+      "N",
+      "P",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "J",
+      "I",
+      "G",
+      "Q",
+      "R",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "X",
+      "S",
+      "S",
+      "U",
+      "S",
+      "X",
+      "C"
+    ],
+    [
+      "R",
+      "O",
+      "Q",
+      "Z",
+      "N",
+      "T",
+      "J",
+      "E",
+      "C",
+      "D"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "J",
+      "X",
+      "O",
+      "I",
+      "Z",
+      "Y",
+      "T"
+    ],
+    [
+      "M",
+      "Y",
+      "Z",
+      "A",
+      "A",
+      "B",
+      "Z",
+      "C",
+      "Z",
+      "J"
+    ],
+    [
+      "D",
+      "D",
+      "L",
+      "E",
+      "I",
+      "H",
+      "S",
+      "N",
+      "E",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PILGRIM",
+      "gloss": "A person traveling for religious reasons.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHIELD",
+      "gloss": "A protective armor plate.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.224Z"
+}

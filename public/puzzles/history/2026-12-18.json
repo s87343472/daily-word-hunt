@@ -1,0 +1,441 @@
+{
+  "id": "history-2026-12-18",
+  "playDate": "2026-12-18",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "E",
+      "L",
+      "A",
+      "N",
+      "G",
+      "U",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "Z",
+      "M",
+      "M",
+      "P",
+      "O",
+      "H",
+      "P",
+      "R",
+      "V",
+      "Z"
+    ],
+    [
+      "G",
+      "W",
+      "G",
+      "P",
+      "Y",
+      "L",
+      "A",
+      "I",
+      "C",
+      "T"
+    ],
+    [
+      "U",
+      "B",
+      "B",
+      "D",
+      "R",
+      "O",
+      "W",
+      "D",
+      "M",
+      "E"
+    ],
+    [
+      "Y",
+      "G",
+      "O",
+      "L",
+      "A",
+      "E",
+      "N",
+      "E",
+      "G",
+      "H"
+    ],
+    [
+      "K",
+      "Z",
+      "T",
+      "R",
+      "E",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "A",
+      "V",
+      "A",
+      "N",
+      "S",
+      "M",
+      "Z"
+    ],
+    [
+      "D",
+      "Y",
+      "N",
+      "A",
+      "S",
+      "T",
+      "Y",
+      "L",
+      "Z",
+      "Q"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "D",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "E",
+      "C",
+      "N",
+      "A",
+      "I",
+      "L",
+      "L",
+      "A",
+      "K",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DESCENDANT",
+      "gloss": "A person descended from an ancestor.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.276Z"
+}

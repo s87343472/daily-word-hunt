@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-12-17",
+  "playDate": "2026-12-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "H",
+      "U",
+      "R",
+      "T",
+      "P",
+      "F",
+      "K",
+      "F",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "A",
+      "P",
+      "R",
+      "X",
+      "S",
+      "I",
+      "U",
+      "J"
+    ],
+    [
+      "L",
+      "M",
+      "N",
+      "I",
+      "C",
+      "U",
+      "C",
+      "M",
+      "N",
+      "Q"
+    ],
+    [
+      "A",
+      "P",
+      "H",
+      "D",
+      "J",
+      "Y",
+      "M",
+      "F",
+      "C",
+      "C"
+    ],
+    [
+      "N",
+      "C",
+      "B",
+      "Z",
+      "S",
+      "I",
+      "I",
+      "H",
+      "E",
+      "U"
+    ],
+    [
+      "K",
+      "S",
+      "U",
+      "U",
+      "T",
+      "C",
+      "E",
+      "L",
+      "J",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "Q",
+      "F",
+      "R",
+      "A",
+      "C",
+      "B",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "J",
+      "Z",
+      "O",
+      "I",
+      "A",
+      "P",
+      "J",
+      "E"
+    ],
+    [
+      "N",
+      "I",
+      "N",
+      "N",
+      "M",
+      "M",
+      "Z",
+      "U",
+      "E",
+      "N"
+    ],
+    [
+      "Q",
+      "L",
+      "V",
+      "C",
+      "A",
+      "T",
+      "U",
+      "O",
+      "Q",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.852Z"
+}

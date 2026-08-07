@@ -1,0 +1,393 @@
+{
+  "id": "nature-2026-12-11",
+  "playDate": "2026-12-11",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "L",
+      "X",
+      "A",
+      "P",
+      "H",
+      "J",
+      "B",
+      "B",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "F",
+      "C",
+      "U",
+      "Z",
+      "H",
+      "P",
+      "G"
+    ],
+    [
+      "R",
+      "O",
+      "N",
+      "N",
+      "T",
+      "I",
+      "O",
+      "Q",
+      "U",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "R",
+      "S",
+      "D",
+      "N",
+      "P",
+      "W",
+      "A",
+      "T"
+    ],
+    [
+      "F",
+      "A",
+      "G",
+      "A",
+      "E",
+      "S",
+      "Q",
+      "O",
+      "V",
+      "Z"
+    ],
+    [
+      "E",
+      "K",
+      "X",
+      "Y",
+      "L",
+      "R",
+      "C",
+      "G",
+      "R",
+      "H"
+    ],
+    [
+      "M",
+      "E",
+      "B",
+      "I",
+      "K",
+      "R",
+      "V",
+      "A",
+      "F",
+      "T"
+    ],
+    [
+      "K",
+      "E",
+      "C",
+      "F",
+      "S",
+      "Y",
+      "E",
+      "E",
+      "P",
+      "I"
+    ],
+    [
+      "E",
+      "S",
+      "M",
+      "P",
+      "S",
+      "L",
+      "E",
+      "E",
+      "H",
+      "E"
+    ],
+    [
+      "H",
+      "J",
+      "J",
+      "L",
+      "E",
+      "R",
+      "E",
+      "V",
+      "F",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.845Z"
+}

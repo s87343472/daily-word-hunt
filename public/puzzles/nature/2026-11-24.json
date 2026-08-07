@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-11-24",
+  "playDate": "2026-11-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "K",
+      "Y",
+      "M",
+      "D",
+      "B",
+      "H",
+      "I",
+      "W",
+      "D"
+    ],
+    [
+      "F",
+      "O",
+      "U",
+      "H",
+      "O",
+      "A",
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "S",
+      "K",
+      "S",
+      "B",
+      "F",
+      "D",
+      "S"
+    ],
+    [
+      "Q",
+      "Z",
+      "A",
+      "S",
+      "A",
+      "X",
+      "S",
+      "M",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "F",
+      "I",
+      "T",
+      "E",
+      "N",
+      "K",
+      "O",
+      "A",
+      "R"
+    ],
+    [
+      "W",
+      "E",
+      "B",
+      "J",
+      "H",
+      "R",
+      "D",
+      "R",
+      "L",
+      "T"
+    ],
+    [
+      "M",
+      "J",
+      "L",
+      "K",
+      "J",
+      "E",
+      "V",
+      "I",
+      "D",
+      "B"
+    ],
+    [
+      "S",
+      "S",
+      "X",
+      "L",
+      "E",
+      "S",
+      "R",
+      "E",
+      "O",
+      "T"
+    ],
+    [
+      "M",
+      "W",
+      "O",
+      "M",
+      "O",
+      "L",
+      "K",
+      "I",
+      "O",
+      "G"
+    ],
+    [
+      "G",
+      "Q",
+      "L",
+      "I",
+      "J",
+      "P",
+      "P",
+      "N",
+      "W",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.830Z"
+}

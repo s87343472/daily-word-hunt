@@ -1,0 +1,425 @@
+{
+  "id": "cities-2026-09-19",
+  "playDate": "2026-09-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "B",
+      "O",
+      "R",
+      "O",
+      "U",
+      "G",
+      "H",
+      "B",
+      "H"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "N",
+      "E",
+      "S",
+      "S",
+      "A",
+      "P",
+      "D"
+    ],
+    [
+      "T",
+      "M",
+      "O",
+      "A",
+      "T",
+      "G",
+      "Z",
+      "H",
+      "V",
+      "R"
+    ],
+    [
+      "R",
+      "P",
+      "R",
+      "X",
+      "F",
+      "G",
+      "C",
+      "Y",
+      "A",
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "Z",
+      "C",
+      "A",
+      "M",
+      "E",
+      "G",
+      "X",
+      "V"
+    ],
+    [
+      "N",
+      "H",
+      "O",
+      "E",
+      "Q",
+      "A",
+      "V",
+      "U",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "K",
+      "D",
+      "F",
+      "C",
+      "E",
+      "I",
+      "L",
+      "P",
+      "R"
+    ],
+    [
+      "F",
+      "N",
+      "H",
+      "I",
+      "L",
+      "L",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "P",
+      "R",
+      "O",
+      "M",
+      "E",
+      "N",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "W",
+      "A",
+      "L",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOARDWALK",
+      "gloss": "A wooden walkway along a beach.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DRIVER",
+      "gloss": "A person who drives a vehicle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HILLSIDE",
+      "gloss": "The side of a hill in a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.935Z"
+}

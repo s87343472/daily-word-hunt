@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-09-26",
+  "playDate": "2026-09-26",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "E",
+      "M",
+      "L",
+      "A",
+      "U",
+      "T",
+      "U",
+      "M",
+      "N"
+    ],
+    [
+      "D",
+      "L",
+      "V",
+      "J",
+      "G",
+      "C",
+      "G",
+      "K",
+      "J",
+      "N"
+    ],
+    [
+      "Y",
+      "B",
+      "H",
+      "R",
+      "F",
+      "A",
+      "C",
+      "S",
+      "E",
+      "Z"
+    ],
+    [
+      "Q",
+      "R",
+      "N",
+      "W",
+      "E",
+      "O",
+      "R",
+      "D",
+      "Y",
+      "E"
+    ],
+    [
+      "O",
+      "V",
+      "C",
+      "X",
+      "L",
+      "S",
+      "D",
+      "D",
+      "B",
+      "T"
+    ],
+    [
+      "L",
+      "L",
+      "O",
+      "F",
+      "T",
+      "S",
+      "N",
+      "Y",
+      "E",
+      "F"
+    ],
+    [
+      "N",
+      "C",
+      "N",
+      "S",
+      "W",
+      "B",
+      "V",
+      "O",
+      "B",
+      "N"
+    ],
+    [
+      "X",
+      "F",
+      "O",
+      "P",
+      "F",
+      "N",
+      "M",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "E",
+      "Z",
+      "E",
+      "Z",
+      "Z",
+      "G",
+      "D"
+    ],
+    [
+      "F",
+      "S",
+      "A",
+      "V",
+      "A",
+      "N",
+      "N",
+      "A",
+      "Y",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DEN",
+      "gloss": "A wild animal’s hidden home.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SAVANNA",
+      "gloss": "A grassy plain with scattered trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.776Z"
+}

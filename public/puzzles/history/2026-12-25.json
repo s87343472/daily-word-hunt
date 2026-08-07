@@ -1,0 +1,401 @@
+{
+  "id": "history-2026-12-25",
+  "playDate": "2026-12-25",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "T",
+      "R",
+      "F",
+      "W",
+      "M",
+      "Y",
+      "S",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "S",
+      "W",
+      "R",
+      "H",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "C",
+      "R",
+      "B",
+      "A",
+      "G",
+      "G",
+      "J",
+      "O",
+      "E"
+    ],
+    [
+      "O",
+      "K",
+      "U",
+      "R",
+      "L",
+      "R",
+      "M",
+      "R",
+      "Q",
+      "E"
+    ],
+    [
+      "Q",
+      "X",
+      "B",
+      "L",
+      "A",
+      "E",
+      "A",
+      "Z",
+      "K",
+      "L"
+    ],
+    [
+      "H",
+      "I",
+      "R",
+      "T",
+      "T",
+      "C",
+      "T",
+      "Y",
+      "J",
+      "F"
+    ],
+    [
+      "L",
+      "Q",
+      "I",
+      "I",
+      "L",
+      "U",
+      "Q",
+      "N",
+      "X",
+      "K"
+    ],
+    [
+      "T",
+      "O",
+      "M",
+      "E",
+      "N",
+      "L",
+      "R",
+      "F",
+      "B",
+      "V"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "G",
+      "A",
+      "C",
+      "Y",
+      "E",
+      "K",
+      "X"
+    ],
+    [
+      "L",
+      "A",
+      "L",
+      "L",
+      "I",
+      "A",
+      "N",
+      "C",
+      "E",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MIGRATION",
+      "gloss": "Movement of people from one place to another.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.285Z"
+}

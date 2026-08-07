@@ -1,0 +1,413 @@
+{
+  "id": "history-2026-09-29",
+  "playDate": "2026-09-29",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "L",
+      "T",
+      "R",
+      "E",
+      "L",
+      "I",
+      "C",
+      "S",
+      "A"
+    ],
+    [
+      "L",
+      "R",
+      "Y",
+      "L",
+      "N",
+      "A",
+      "C",
+      "P",
+      "R",
+      "K"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "B",
+      "U",
+      "D",
+      "E",
+      "T",
+      "D",
+      "L"
+    ],
+    [
+      "L",
+      "O",
+      "Q",
+      "E",
+      "V",
+      "P",
+      "I",
+      "G",
+      "H",
+      "E"
+    ],
+    [
+      "L",
+      "N",
+      "R",
+      "M",
+      "N",
+      "F",
+      "A",
+      "K",
+      "C",
+      "Q"
+    ],
+    [
+      "I",
+      "A",
+      "V",
+      "Z",
+      "A",
+      "O",
+      "E",
+      "T",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "C",
+      "S",
+      "A",
+      "I",
+      "S",
+      "A",
+      "G"
+    ],
+    [
+      "N",
+      "C",
+      "T",
+      "G",
+      "S",
+      "F",
+      "Z",
+      "P",
+      "N",
+      "C"
+    ],
+    [
+      "C",
+      "H",
+      "Q",
+      "F",
+      "O",
+      "Q",
+      "P",
+      "S",
+      "O",
+      "J"
+    ],
+    [
+      "E",
+      "Y",
+      "T",
+      "H",
+      "G",
+      "I",
+      "N",
+      "K",
+      "M",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ARTIFACT",
+      "gloss": "An object made by humans long ago.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CATAPULT",
+      "gloss": "A machine for hurling large objects.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MONARCHY",
+      "gloss": "Rule by a monarch.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.165Z"
+}

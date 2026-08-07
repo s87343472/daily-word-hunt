@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-12-05",
+  "playDate": "2026-12-05",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "H",
+      "H",
+      "L",
+      "T",
+      "U",
+      "N",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "P",
+      "O",
+      "N",
+      "L",
+      "W",
+      "Y",
+      "E",
+      "M",
+      "L"
+    ],
+    [
+      "L",
+      "E",
+      "P",
+      "N",
+      "S",
+      "A",
+      "L",
+      "H",
+      "U",
+      "V"
+    ],
+    [
+      "D",
+      "T",
+      "K",
+      "M",
+      "E",
+      "A",
+      "B",
+      "T",
+      "J",
+      "I"
+    ],
+    [
+      "I",
+      "A",
+      "R",
+      "T",
+      "A",
+      "Y",
+      "N",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "F",
+      "L",
+      "D",
+      "B",
+      "G",
+      "W",
+      "B",
+      "D",
+      "F",
+      "I"
+    ],
+    [
+      "Q",
+      "X",
+      "B",
+      "R",
+      "J",
+      "D",
+      "S",
+      "E",
+      "J",
+      "F"
+    ],
+    [
+      "B",
+      "O",
+      "J",
+      "T",
+      "U",
+      "N",
+      "A",
+      "J",
+      "E",
+      "G"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "N",
+      "E",
+      "N",
+      "I",
+      "P",
+      "Q",
+      "V"
+    ],
+    [
+      "K",
+      "I",
+      "E",
+      "L",
+      "M",
+      "I",
+      "S",
+      "T",
+      "E",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.840Z"
+}

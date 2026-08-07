@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-12-24",
+  "playDate": "2026-12-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "R",
+      "Q",
+      "T",
+      "O",
+      "F",
+      "K",
+      "L",
+      "K",
+      "F"
+    ],
+    [
+      "L",
+      "M",
+      "W",
+      "I",
+      "L",
+      "L",
+      "O",
+      "W",
+      "R",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "M",
+      "W",
+      "G",
+      "N",
+      "R",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "L",
+      "R",
+      "I",
+      "A",
+      "E",
+      "Y",
+      "S",
+      "S",
+      "U",
+      "Y"
+    ],
+    [
+      "B",
+      "W",
+      "A",
+      "F",
+      "K",
+      "T",
+      "E",
+      "O",
+      "T",
+      "P"
+    ],
+    [
+      "J",
+      "Q",
+      "B",
+      "I",
+      "N",
+      "R",
+      "L",
+      "I",
+      "O",
+      "J"
+    ],
+    [
+      "M",
+      "B",
+      "Z",
+      "S",
+      "R",
+      "C",
+      "I",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "D",
+      "G",
+      "M",
+      "H",
+      "I",
+      "S",
+      "V",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "Q",
+      "H",
+      "F",
+      "X",
+      "K",
+      "E",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "O",
+      "P",
+      "M",
+      "O",
+      "C",
+      "C",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.858Z"
+}

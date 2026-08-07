@@ -1,0 +1,381 @@
+{
+  "id": "cities-2026-10-01",
+  "playDate": "2026-10-01",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "N",
+      "L",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "Y"
+    ],
+    [
+      "G",
+      "O",
+      "J",
+      "O",
+      "C",
+      "P",
+      "Y",
+      "U",
+      "A",
+      "X"
+    ],
+    [
+      "D",
+      "R",
+      "W",
+      "Q",
+      "B",
+      "Z",
+      "A",
+      "W",
+      "C",
+      "Q"
+    ],
+    [
+      "C",
+      "G",
+      "K",
+      "N",
+      "X",
+      "B",
+      "S",
+      "T",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "D",
+      "N",
+      "C",
+      "T",
+      "S",
+      "Y",
+      "R",
+      "I",
+      "J"
+    ],
+    [
+      "M",
+      "N",
+      "N",
+      "I",
+      "E",
+      "O",
+      "G",
+      "V",
+      "C",
+      "O"
+    ],
+    [
+      "P",
+      "T",
+      "D",
+      "R",
+      "N",
+      "U",
+      "W",
+      "L",
+      "R",
+      "A"
+    ],
+    [
+      "U",
+      "A",
+      "P",
+      "J",
+      "Y",
+      "O",
+      "P",
+      "N",
+      "F",
+      "D"
+    ],
+    [
+      "S",
+      "X",
+      "D",
+      "E",
+      "S",
+      "C",
+      "Z",
+      "T",
+      "E",
+      "I"
+    ],
+    [
+      "E",
+      "P",
+      "A",
+      "S",
+      "I",
+      "V",
+      "H",
+      "A",
+      "A",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DOWNTOWN",
+      "gloss": "The central business area of a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EXPRESSWAY",
+      "gloss": "A high-speed divided highway.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.951Z"
+}

@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-09-21",
+  "playDate": "2026-09-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "Z",
+      "H",
+      "P",
+      "N",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "O",
+      "F",
+      "V",
+      "V",
+      "B",
+      "O",
+      "H",
+      "H",
+      "C",
+      "P"
+    ],
+    [
+      "P",
+      "F",
+      "E",
+      "R",
+      "A",
+      "E",
+      "O",
+      "J",
+      "R",
+      "B"
+    ],
+    [
+      "M",
+      "R",
+      "O",
+      "E",
+      "L",
+      "H",
+      "O",
+      "K",
+      "R",
+      "N"
+    ],
+    [
+      "B",
+      "O",
+      "A",
+      "G",
+      "R",
+      "P",
+      "T",
+      "A",
+      "L",
+      "B"
+    ],
+    [
+      "K",
+      "W",
+      "N",
+      "I",
+      "I",
+      "L",
+      "N",
+      "U",
+      "Z",
+      "B"
+    ],
+    [
+      "R",
+      "U",
+      "K",
+      "U",
+      "R",
+      "C",
+      "A",
+      "G",
+      "I",
+      "N"
+    ],
+    [
+      "J",
+      "M",
+      "Q",
+      "K",
+      "H",
+      "I",
+      "E",
+      "R",
+      "U",
+      "U"
+    ],
+    [
+      "L",
+      "Z",
+      "E",
+      "W",
+      "R",
+      "I",
+      "E",
+      "Z",
+      "O",
+      "U"
+    ],
+    [
+      "P",
+      "V",
+      "E",
+      "S",
+      "I",
+      "R",
+      "N",
+      "U",
+      "S",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.771Z"
+}

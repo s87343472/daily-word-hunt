@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-10-09",
+  "playDate": "2026-10-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "J",
+      "S",
+      "D",
+      "O",
+      "L",
+      "P",
+      "H",
+      "I",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "E",
+      "A",
+      "U",
+      "V",
+      "T",
+      "K",
+      "T",
+      "L"
+    ],
+    [
+      "R",
+      "U",
+      "S",
+      "D",
+      "V",
+      "Z",
+      "W",
+      "H",
+      "B",
+      "G"
+    ],
+    [
+      "E",
+      "J",
+      "K",
+      "E",
+      "E",
+      "A",
+      "G",
+      "G",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "H",
+      "S",
+      "I",
+      "N",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "F",
+      "W",
+      "I",
+      "D",
+      "L",
+      "V",
+      "R",
+      "N",
+      "M",
+      "M"
+    ],
+    [
+      "Y",
+      "C",
+      "Q",
+      "R",
+      "G",
+      "A",
+      "Z",
+      "L",
+      "A",
+      "C"
+    ],
+    [
+      "P",
+      "A",
+      "A",
+      "R",
+      "E",
+      "W",
+      "N",
+      "A",
+      "S",
+      "Q"
+    ],
+    [
+      "S",
+      "T",
+      "L",
+      "L",
+      "F",
+      "B",
+      "T",
+      "O",
+      "L",
+      "P"
+    ],
+    [
+      "S",
+      "K",
+      "C",
+      "C",
+      "J",
+      "S",
+      "V",
+      "D",
+      "R",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SAVANNA",
+      "gloss": "A grassy plain with scattered trees.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.788Z"
+}

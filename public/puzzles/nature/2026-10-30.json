@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-10-30",
+  "playDate": "2026-10-30",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "R",
+      "O",
+      "T",
+      "S",
+      "R",
+      "E",
+      "D",
+      "N",
+      "U"
+    ],
+    [
+      "B",
+      "Q",
+      "X",
+      "D",
+      "U",
+      "N",
+      "O",
+      "S",
+      "I",
+      "I"
+    ],
+    [
+      "A",
+      "O",
+      "H",
+      "L",
+      "I",
+      "N",
+      "K",
+      "F",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "X",
+      "N",
+      "V",
+      "I",
+      "G",
+      "D",
+      "H",
+      "Z",
+      "X"
+    ],
+    [
+      "R",
+      "U",
+      "N",
+      "D",
+      "E",
+      "A",
+      "E",
+      "R",
+      "K",
+      "H"
+    ],
+    [
+      "C",
+      "H",
+      "C",
+      "J",
+      "A",
+      "L",
+      "R",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "H",
+      "U",
+      "N",
+      "L",
+      "O",
+      "E",
+      "R",
+      "D",
+      "Z"
+    ],
+    [
+      "N",
+      "I",
+      "S",
+      "E",
+      "R",
+      "B",
+      "U",
+      "D",
+      "Z",
+      "C"
+    ],
+    [
+      "P",
+      "L",
+      "R",
+      "O",
+      "D",
+      "W",
+      "H",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "J",
+      "L",
+      "W",
+      "P",
+      "Z",
+      "Y",
+      "K",
+      "X",
+      "J",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "UNDERSTORY",
+      "gloss": "Vegetation under the forest canopy.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.809Z"
+}

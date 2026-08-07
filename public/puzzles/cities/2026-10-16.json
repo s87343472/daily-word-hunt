@@ -1,0 +1,385 @@
+{
+  "id": "cities-2026-10-16",
+  "playDate": "2026-10-16",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "X",
+      "V",
+      "O",
+      "Y",
+      "A",
+      "G",
+      "E",
+      "C",
+      "S"
+    ],
+    [
+      "Z",
+      "M",
+      "K",
+      "H",
+      "X",
+      "I",
+      "N",
+      "B",
+      "E",
+      "I"
+    ],
+    [
+      "N",
+      "M",
+      "P",
+      "S",
+      "U",
+      "I",
+      "P",
+      "V",
+      "R",
+      "D"
+    ],
+    [
+      "R",
+      "T",
+      "A",
+      "L",
+      "L",
+      "I",
+      "V",
+      "W",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "R",
+      "T",
+      "E",
+      "Q",
+      "X",
+      "R",
+      "V",
+      "U",
+      "W"
+    ],
+    [
+      "A",
+      "Z",
+      "P",
+      "R",
+      "X",
+      "K",
+      "D",
+      "S",
+      "Q",
+      "A"
+    ],
+    [
+      "K",
+      "I",
+      "G",
+      "W",
+      "O",
+      "W",
+      "H",
+      "S",
+      "S",
+      "L"
+    ],
+    [
+      "P",
+      "R",
+      "B",
+      "V",
+      "C",
+      "P",
+      "S",
+      "A",
+      "G",
+      "K"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "E",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "E",
+      "K",
+      "S",
+      "A",
+      "C",
+      "U",
+      "R",
+      "B",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PIPELINE",
+      "gloss": "A long pipe for oil or gas.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PORT",
+      "gloss": "A town with a harbor for ships.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SIDEWALK",
+      "gloss": "A paved path for pedestrians.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VILLA",
+      "gloss": "A large free-standing house.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.968Z"
+}

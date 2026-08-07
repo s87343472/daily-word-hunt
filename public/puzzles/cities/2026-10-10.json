@@ -1,0 +1,401 @@
+{
+  "id": "cities-2026-10-10",
+  "playDate": "2026-10-10",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "B",
+      "H",
+      "R",
+      "M",
+      "P",
+      "P",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "U",
+      "I",
+      "L",
+      "E",
+      "S",
+      "E",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "F",
+      "S",
+      "T",
+      "X",
+      "O",
+      "R",
+      "R"
+    ],
+    [
+      "Y",
+      "G",
+      "L",
+      "R",
+      "R",
+      "H",
+      "O",
+      "F",
+      "M",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "D",
+      "E",
+      "H",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      "L",
+      "R",
+      "E",
+      "Q",
+      "K",
+      "U",
+      "I",
+      "C",
+      "L"
+    ],
+    [
+      "O",
+      "O",
+      "J",
+      "W",
+      "F",
+      "W",
+      "N",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "U",
+      "W",
+      "Q",
+      "A",
+      "N",
+      "R",
+      "N",
+      "J",
+      "J",
+      "H"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "Y",
+      "O",
+      "L",
+      "E",
+      "L",
+      "A",
+      "J"
+    ],
+    [
+      "D",
+      "Y",
+      "I",
+      "C",
+      "S",
+      "J",
+      "L",
+      "G",
+      "U",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUNGALOW",
+      "gloss": "A low house with a wide porch.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CORNICE",
+      "gloss": "A decorative molding at the top of a wall.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SEWER",
+      "gloss": "An underground drain for waste water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.962Z"
+}

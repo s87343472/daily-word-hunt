@@ -1,0 +1,429 @@
+{
+  "id": "cities-2026-12-14",
+  "playDate": "2026-12-14",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "O",
+      "T",
+      "S",
+      "S",
+      "U",
+      "B",
+      "S",
+      "V",
+      "E"
+    ],
+    [
+      "R",
+      "L",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L",
+      "N",
+      "S"
+    ],
+    [
+      "F",
+      "U",
+      "A",
+      "G",
+      "F",
+      "F",
+      "C",
+      "O",
+      "E",
+      "U"
+    ],
+    [
+      "E",
+      "D",
+      "S",
+      "Y",
+      "A",
+      "Q",
+      "P",
+      "D",
+      "M",
+      "O"
+    ],
+    [
+      "S",
+      "R",
+      "D",
+      "H",
+      "G",
+      "F",
+      "A",
+      "M",
+      "D",
+      "H"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "F",
+      "H",
+      "R",
+      "N",
+      "Y",
+      "M",
+      "T"
+    ],
+    [
+      "I",
+      "C",
+      "X",
+      "W",
+      "A",
+      "O",
+      "O",
+      "D",
+      "N",
+      "N"
+    ],
+    [
+      "V",
+      "P",
+      "N",
+      "P",
+      "N",
+      "Z",
+      "U",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "C",
+      "L",
+      "D",
+      "W",
+      "G",
+      "R",
+      "N",
+      "P"
+    ],
+    [
+      "L",
+      "S",
+      "S",
+      "T",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUSSTOP",
+      "gloss": "A place where buses pick up passengers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PENTHOUSE",
+      "gloss": "An apartment on the top floor.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.049Z"
+}

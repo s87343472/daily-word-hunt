@@ -1,0 +1,413 @@
+{
+  "id": "cities-2026-11-19",
+  "playDate": "2026-11-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "P",
+      "W",
+      "R",
+      "E",
+      "T",
+      "A",
+      "E",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "M",
+      "E",
+      "Z",
+      "Z",
+      "A",
+      "N",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "P",
+      "A",
+      "R",
+      "K",
+      "I",
+      "I",
+      "H",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "Z",
+      "F",
+      "T",
+      "N",
+      "I",
+      "S",
+      "M",
+      "E"
+    ],
+    [
+      "S",
+      "F",
+      "J",
+      "Z",
+      "X",
+      "A",
+      "L",
+      "K",
+      "R",
+      "U"
+    ],
+    [
+      "S",
+      "O",
+      "G",
+      "H",
+      "A",
+      "M",
+      "O",
+      "A",
+      "H",
+      "V"
+    ],
+    [
+      "W",
+      "Y",
+      "C",
+      "T",
+      "I",
+      "L",
+      "U",
+      "K",
+      "E",
+      "Y"
+    ],
+    [
+      "E",
+      "E",
+      "D",
+      "K",
+      "H",
+      "Q",
+      "A",
+      "S",
+      "K",
+      "P"
+    ],
+    [
+      "N",
+      "R",
+      "R",
+      "O",
+      "S",
+      "F",
+      "G",
+      "P",
+      "W",
+      "N"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "U",
+      "S",
+      "T",
+      "R",
+      "A",
+      "D",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALUSTRADE",
+      "gloss": "A railing supported by balusters.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FOYER",
+      "gloss": "An entrance area in a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MEZZANINE",
+      "gloss": "A partial floor between main floors.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.017Z"
+}

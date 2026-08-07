@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-12-28",
+  "playDate": "2026-12-28",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "K",
+      "U",
+      "B",
+      "J",
+      "W",
+      "K",
+      "E",
+      "S",
+      "M"
+    ],
+    [
+      "Z",
+      "O",
+      "J",
+      "I",
+      "V",
+      "N",
+      "T",
+      "K",
+      "E",
+      "M"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "T",
+      "U",
+      "R",
+      "G",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "Y",
+      "E",
+      "N",
+      "O",
+      "T",
+      "S",
+      "S",
+      "E",
+      "U"
+    ],
+    [
+      "C",
+      "N",
+      "Q",
+      "U",
+      "S",
+      "X",
+      "S",
+      "I",
+      "F",
+      "N"
+    ],
+    [
+      "F",
+      "E",
+      "T",
+      "D",
+      "K",
+      "O",
+      "M",
+      "Z",
+      "J",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "E",
+      "Y",
+      "L",
+      "F",
+      "U",
+      "Z",
+      "Z",
+      "I"
+    ],
+    [
+      "N",
+      "T",
+      "V",
+      "B",
+      "G",
+      "G",
+      "L",
+      "T",
+      "K",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "I",
+      "M",
+      "Q",
+      "L",
+      "C",
+      "Z",
+      "O",
+      "E"
+    ],
+    [
+      "M",
+      "R",
+      "H",
+      "S",
+      "I",
+      "G",
+      "H",
+      "A",
+      "C",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.862Z"
+}

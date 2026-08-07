@@ -1,0 +1,401 @@
+{
+  "id": "history-2026-11-26",
+  "playDate": "2026-11-26",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "Q",
+      "K",
+      "J",
+      "E",
+      "B",
+      "N",
+      "V",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "P",
+      "Y",
+      "Y",
+      "U",
+      "T",
+      "V",
+      "D",
+      "U",
+      "P"
+    ],
+    [
+      "D",
+      "N",
+      "L",
+      "R",
+      "B",
+      "S",
+      "L",
+      "D",
+      "L",
+      "I"
+    ],
+    [
+      "I",
+      "T",
+      "J",
+      "A",
+      "T",
+      "E",
+      "T",
+      "E",
+      "Q",
+      "O"
+    ],
+    [
+      "C",
+      "V",
+      "D",
+      "O",
+      "G",
+      "S",
+      "F",
+      "I",
+      "C",
+      "N"
+    ],
+    [
+      "I",
+      "G",
+      "J",
+      "I",
+      "X",
+      "U",
+      "U",
+      "T",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "O",
+      "O",
+      "R",
+      "Y",
+      "E",
+      "D",
+      "M",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "C",
+      "Q",
+      "C",
+      "L",
+      "I",
+      "Y",
+      "N",
+      "R"
+    ],
+    [
+      "O",
+      "R",
+      "R",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "F",
+      "I"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "I",
+      "B",
+      "I",
+      "H",
+      "X",
+      "E",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRY",
+      "gloss": "Large-scale manufacturing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.245Z"
+}

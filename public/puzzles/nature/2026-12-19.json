@@ -1,0 +1,325 @@
+{
+  "id": "nature-2026-12-19",
+  "playDate": "2026-12-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "Y",
+      "S",
+      "T",
+      "O",
+      "O",
+      "B",
+      "J",
+      "D",
+      "V"
+    ],
+    [
+      "R",
+      "F",
+      "T",
+      "P",
+      "P",
+      "A",
+      "W",
+      "U",
+      "G",
+      "Z"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "P",
+      "F",
+      "A",
+      "B",
+      "R",
+      "J",
+      "T"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "H",
+      "R",
+      "A",
+      "W",
+      "L",
+      "S",
+      "D"
+    ],
+    [
+      "K",
+      "B",
+      "Y",
+      "O",
+      "W",
+      "E",
+      "W",
+      "J",
+      "C",
+      "T"
+    ],
+    [
+      "Z",
+      "G",
+      "N",
+      "L",
+      "S",
+      "I",
+      "S",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "P",
+      "H",
+      "E",
+      "Q",
+      "I",
+      "A",
+      "I",
+      "Y",
+      "V",
+      "K"
+    ],
+    [
+      "Y",
+      "A",
+      "S",
+      "B",
+      "F",
+      "L",
+      "E",
+      "H",
+      "E",
+      "E"
+    ],
+    [
+      "X",
+      "K",
+      "T",
+      "L",
+      "A",
+      "B",
+      "Y",
+      "S",
+      "H",
+      "G"
+    ],
+    [
+      "E",
+      "V",
+      "R",
+      "H",
+      "M",
+      "C",
+      "P",
+      "O",
+      "O",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.853Z"
+}

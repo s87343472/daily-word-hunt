@@ -1,0 +1,428 @@
+{
+  "id": "history-2026-12-12",
+  "playDate": "2026-12-12",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "U",
+      "G",
+      "M",
+      "I",
+      "R",
+      "G",
+      "L",
+      "I",
+      "P",
+      "H",
+      "R"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "T",
+      "A",
+      "R",
+      "A",
+      "L",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "A",
+      "P",
+      "J",
+      "A",
+      "L",
+      "O",
+      "P",
+      "S",
+      "C",
+      "U"
+    ],
+    [
+      "T",
+      "R",
+      "P",
+      "I",
+      "L",
+      "T",
+      "E",
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "W",
+      "M",
+      "Y",
+      "I",
+      "R",
+      "A",
+      "N",
+      "N",
+      "C",
+      "K",
+      "W"
+    ],
+    [
+      "B",
+      "I",
+      "W",
+      "A",
+      "C",
+      "A",
+      "N",
+      "S",
+      "E",
+      "S",
+      "F"
+    ],
+    [
+      "R",
+      "S",
+      "E",
+      "E",
+      "T",
+      "O",
+      "T",
+      "D",
+      "R",
+      "O",
+      "B"
+    ],
+    [
+      "Y",
+      "T",
+      "T",
+      "E",
+      "N",
+      "J",
+      "A",
+      "E",
+      "Q",
+      "X",
+      "W"
+    ],
+    [
+      "C",
+      "I",
+      "M",
+      "Z",
+      "V",
+      "R",
+      "R",
+      "H",
+      "O",
+      "A",
+      "V"
+    ],
+    [
+      "U",
+      "C",
+      "H",
+      "O",
+      "T",
+      "R",
+      "C",
+      "J",
+      "I",
+      "S",
+      "N"
+    ],
+    [
+      "Y",
+      "E",
+      "U",
+      "B",
+      "U",
+      "T",
+      "G",
+      "C",
+      "U",
+      "E",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement.",
+      "path": [
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PILGRIM",
+      "gloss": "A person traveling for religious reasons.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TRADE",
+      "gloss": "The exchange of goods.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.265Z"
+}

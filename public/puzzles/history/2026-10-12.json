@@ -1,0 +1,464 @@
+{
+  "id": "history-2026-10-12",
+  "playDate": "2026-10-12",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "R",
+      "E",
+      "N",
+      "A",
+      "I",
+      "S",
+      "S",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "L",
+      "D",
+      "S",
+      "B",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "O",
+      "I",
+      "T",
+      "A",
+      "R",
+      "E",
+      "D",
+      "E",
+      "F"
+    ],
+    [
+      "Z",
+      "E",
+      "E",
+      "I",
+      "P",
+      "Z",
+      "J",
+      "A",
+      "K",
+      "R",
+      "W"
+    ],
+    [
+      "E",
+      "F",
+      "G",
+      "R",
+      "N",
+      "L",
+      "V",
+      "A",
+      "Z",
+      "H",
+      "B"
+    ],
+    [
+      "U",
+      "Y",
+      "M",
+      "A",
+      "U",
+      "D",
+      "O",
+      "Z",
+      "W",
+      "C",
+      "P"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "B",
+      "C",
+      "S",
+      "U",
+      "M",
+      "M",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "F",
+      "R",
+      "N",
+      "L",
+      "Y",
+      "A",
+      "S",
+      "A",
+      "H",
+      "S"
+    ],
+    [
+      "C",
+      "Q",
+      "C",
+      "G",
+      "U",
+      "D",
+      "A",
+      "E",
+      "T",
+      "C",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "F",
+      "O",
+      "R",
+      "M",
+      "Q",
+      "Y",
+      "R",
+      "R",
+      "Y"
+    ],
+    [
+      "K",
+      "R",
+      "J",
+      "I",
+      "F",
+      "L",
+      "M",
+      "L",
+      "G",
+      "T",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "FEDERATION",
+      "gloss": "A union of states under central power.",
+      "path": [
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRY",
+      "gloss": "Large-scale manufacturing.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RENAISSANCE",
+      "gloss": "A revival of art and learning in Europe.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.184Z"
+}

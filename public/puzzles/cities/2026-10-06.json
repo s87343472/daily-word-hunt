@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-10-06",
+  "playDate": "2026-10-06",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "S",
+      "A",
+      "P",
+      "R",
+      "E",
+      "D",
+      "N",
+      "U",
+      "B"
+    ],
+    [
+      "S",
+      "D",
+      "R",
+      "A",
+      "Y",
+      "T",
+      "R",
+      "U",
+      "O",
+      "C"
+    ],
+    [
+      "N",
+      "F",
+      "T",
+      "D",
+      "M",
+      "X",
+      "L",
+      "C",
+      "S",
+      "M"
+    ],
+    [
+      "B",
+      "F",
+      "R",
+      "I",
+      "G",
+      "U",
+      "I",
+      "M",
+      "C",
+      "Q"
+    ],
+    [
+      "G",
+      "G",
+      "V",
+      "E",
+      "C",
+      "T",
+      "S",
+      "H",
+      "K",
+      "A"
+    ],
+    [
+      "A",
+      "J",
+      "C",
+      "G",
+      "I",
+      "K",
+      "W",
+      "E",
+      "I",
+      "P"
+    ],
+    [
+      "R",
+      "U",
+      "D",
+      "Z",
+      "D",
+      "X",
+      "E",
+      "X",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "T",
+      "W",
+      "H",
+      "R",
+      "T",
+      "I",
+      "M"
+    ],
+    [
+      "G",
+      "N",
+      "M",
+      "O",
+      "N",
+      "O",
+      "R",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "E",
+      "P",
+      "L",
+      "A",
+      "Z",
+      "A",
+      "N",
+      "Z",
+      "G",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GARAGE",
+      "gloss": "A building for parking cars.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MONORAIL",
+      "gloss": "A railway with a single rail.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A building that displays collections.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLAZA",
+      "gloss": "A public open square.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TICKET",
+      "gloss": "A pass for travel or entry.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.956Z"
+}

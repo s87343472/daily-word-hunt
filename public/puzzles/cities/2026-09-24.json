@@ -1,0 +1,432 @@
+{
+  "id": "cities-2026-09-24",
+  "playDate": "2026-09-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "X",
+      "L",
+      "S",
+      "Y",
+      "B",
+      "K",
+      "O",
+      "V",
+      "C",
+      "W",
+      "E"
+    ],
+    [
+      "B",
+      "R",
+      "Q",
+      "O",
+      "C",
+      "F",
+      "Y",
+      "O",
+      "O",
+      "R",
+      "L"
+    ],
+    [
+      "W",
+      "H",
+      "Z",
+      "X",
+      "Q",
+      "R",
+      "N",
+      "R",
+      "E",
+      "M",
+      "Q"
+    ],
+    [
+      "G",
+      "C",
+      "I",
+      "R",
+      "B",
+      "C",
+      "K",
+      "W",
+      "Y",
+      "T",
+      "J"
+    ],
+    [
+      "U",
+      "H",
+      "P",
+      "G",
+      "R",
+      "S",
+      "O",
+      "U",
+      "L",
+      "V",
+      "Y"
+    ],
+    [
+      "L",
+      "L",
+      "T",
+      "E",
+      "H",
+      "T",
+      "D",
+      "A",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "T",
+      "O",
+      "L",
+      "R",
+      "H",
+      "J",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "N",
+      "E",
+      "P",
+      "T",
+      "G",
+      "P",
+      "I",
+      "B",
+      "Q",
+      "S",
+      "O"
+    ],
+    [
+      "E",
+      "M",
+      "Y",
+      "O",
+      "S",
+      "N",
+      "A",
+      "S",
+      "O",
+      "L",
+      "H"
+    ],
+    [
+      "T",
+      "Q",
+      "M",
+      "A",
+      "M",
+      "G",
+      "D",
+      "Z",
+      "E",
+      "M",
+      "H"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "O",
+      "R",
+      "M",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASPHALT",
+      "gloss": "A dark material used for road surfaces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONCRETE",
+      "gloss": "A building material of cement and aggregate.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIGHRISE",
+      "gloss": "A tall multi-story building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "INFORMATION",
+      "gloss": "A desk or place that provides help.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WORKSHOP",
+      "gloss": "A room or building for making things.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.941Z"
+}

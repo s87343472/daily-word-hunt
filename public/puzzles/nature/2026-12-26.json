@@ -1,0 +1,361 @@
+{
+  "id": "nature-2026-12-26",
+  "playDate": "2026-12-26",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "I",
+      "S",
+      "E",
+      "E",
+      "D",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "T",
+      "W",
+      "G",
+      "M",
+      "U",
+      "L",
+      "L",
+      "W",
+      "O",
+      "H"
+    ],
+    [
+      "O",
+      "A",
+      "X",
+      "N",
+      "E",
+      "A",
+      "H",
+      "J",
+      "S",
+      "B"
+    ],
+    [
+      "O",
+      "H",
+      "R",
+      "V",
+      "I",
+      "B",
+      "G",
+      "T",
+      "E",
+      "G"
+    ],
+    [
+      "H",
+      "B",
+      "O",
+      "M",
+      "I",
+      "R",
+      "V",
+      "V",
+      "L",
+      "H"
+    ],
+    [
+      "J",
+      "R",
+      "V",
+      "A",
+      "B",
+      "I",
+      "A",
+      "A",
+      "U",
+      "O"
+    ],
+    [
+      "G",
+      "K",
+      "C",
+      "N",
+      "N",
+      "C",
+      "C",
+      "E",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "E",
+      "Z",
+      "I",
+      "X",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "Z",
+      "I",
+      "Y",
+      "N",
+      "E",
+      "N",
+      "E",
+      "K",
+      "P",
+      "C"
+    ],
+    [
+      "I",
+      "Z",
+      "E",
+      "R",
+      "A",
+      "R",
+      "E",
+      "V",
+      "W",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.860Z"
+}

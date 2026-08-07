@@ -1,0 +1,393 @@
+{
+  "id": "cities-2026-12-27",
+  "playDate": "2026-12-27",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "T",
+      "L",
+      "K",
+      "X",
+      "Q",
+      "H",
+      "B",
+      "D",
+      "O"
+    ],
+    [
+      "I",
+      "A",
+      "O",
+      "A",
+      "W",
+      "T",
+      "A",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "D",
+      "X",
+      "I",
+      "L",
+      "K",
+      "V",
+      "A",
+      "D",
+      "D",
+      "S"
+    ],
+    [
+      "T",
+      "G",
+      "K",
+      "I",
+      "L",
+      "T",
+      "U",
+      "A",
+      "O",
+      "P"
+    ],
+    [
+      "O",
+      "I",
+      "B",
+      "L",
+      "S",
+      "T",
+      "C",
+      "T",
+      "S",
+      "L"
+    ],
+    [
+      "W",
+      "U",
+      "F",
+      "D",
+      "S",
+      "R",
+      "F",
+      "R",
+      "S",
+      "A"
+    ],
+    [
+      "N",
+      "V",
+      "N",
+      "C",
+      "A",
+      "Y",
+      "Q",
+      "I",
+      "V",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "A",
+      "L",
+      "M",
+      "Z",
+      "G",
+      "U",
+      "Y",
+      "A"
+    ],
+    [
+      "B",
+      "W",
+      "E",
+      "L",
+      "O",
+      "I",
+      "F",
+      "M",
+      "E",
+      "D"
+    ],
+    [
+      "V",
+      "R",
+      "K",
+      "S",
+      "U",
+      "I",
+      "T",
+      "E",
+      "H",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCADE",
+      "gloss": "A covered walk with shops.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ATRIUM",
+      "gloss": "A large open central space in a building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MIDTOWN",
+      "gloss": "The middle area of a large city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.063Z"
+}

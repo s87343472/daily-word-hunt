@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-09-21",
+  "playDate": "2026-09-21",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "M",
+      "P",
+      "A",
+      "R",
+      "T",
+      "X",
+      "R"
+    ],
+    [
+      "X",
+      "O",
+      "F",
+      "K",
+      "F",
+      "V",
+      "A",
+      "N",
+      "B",
+      "E"
+    ],
+    [
+      "I",
+      "Z",
+      "E",
+      "Y",
+      "Z",
+      "Q",
+      "T",
+      "I",
+      "G",
+      "G"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "M",
+      "P",
+      "G",
+      "M",
+      "H",
+      "M",
+      "I"
+    ],
+    [
+      "R",
+      "B",
+      "S",
+      "M",
+      "O",
+      "T",
+      "S",
+      "U",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "S",
+      "R",
+      "W",
+      "F",
+      "Y",
+      "U",
+      "R",
+      "N"
+    ],
+    [
+      "C",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "W",
+      "A",
+      "L",
+      "K"
+    ],
+    [
+      "K",
+      "H",
+      "E",
+      "O",
+      "C",
+      "I",
+      "I",
+      "C",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "I",
+      "N",
+      "A",
+      "L",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CUSTOMS",
+      "gloss": "Officials who check goods entering a country.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping roadway connection.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RAMPART",
+      "gloss": "A defensive wall of a fort.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RIVERWALK",
+      "gloss": "A path along a river in a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TERMINAL",
+      "gloss": "A station at the end of a transport line.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path for running or racing.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher education.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.938Z"
+}

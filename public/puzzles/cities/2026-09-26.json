@@ -1,0 +1,385 @@
+{
+  "id": "cities-2026-09-26",
+  "playDate": "2026-09-26",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "I",
+      "T",
+      "V",
+      "O",
+      "N",
+      "W",
+      "Y",
+      "T",
+      "W"
+    ],
+    [
+      "F",
+      "I",
+      "N",
+      "T",
+      "E",
+      "V",
+      "L",
+      "R",
+      "T",
+      "S"
+    ],
+    [
+      "T",
+      "T",
+      "C",
+      "N",
+      "N",
+      "C",
+      "E",
+      "E",
+      "G",
+      "R"
+    ],
+    [
+      "E",
+      "H",
+      "S",
+      "C",
+      "E",
+      "D",
+      "O",
+      "A",
+      "J",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "Z",
+      "I",
+      "R",
+      "R",
+      "Z",
+      "N",
+      "M",
+      "I"
+    ],
+    [
+      "M",
+      "T",
+      "Z",
+      "O",
+      "L",
+      "E",
+      "C",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "B",
+      "F",
+      "B",
+      "C",
+      "R",
+      "I",
+      "B",
+      "O"
+    ],
+    [
+      "H",
+      "I",
+      "I",
+      "O",
+      "U",
+      "K",
+      "Y",
+      "W",
+      "T",
+      "S"
+    ],
+    [
+      "Q",
+      "C",
+      "M",
+      "F",
+      "E",
+      "C",
+      "B",
+      "C",
+      "W",
+      "Y"
+    ],
+    [
+      "M",
+      "F",
+      "T",
+      "T",
+      "X",
+      "G",
+      "J",
+      "H",
+      "F",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATTIC",
+      "gloss": "A room just under the roof.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CONDO",
+      "gloss": "A privately owned apartment unit.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CYCLIST",
+      "gloss": "A person who rides a bicycle.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GAZEBO",
+      "gloss": "An open garden shelter.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HAMLET",
+      "gloss": "A very small village.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "INNERCITY",
+      "gloss": "The central older part of a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place where goods are bought and sold.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.945Z"
+}

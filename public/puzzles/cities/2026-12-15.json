@@ -1,0 +1,421 @@
+{
+  "id": "cities-2026-12-15",
+  "playDate": "2026-12-15",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "L",
+      "I",
+      "A",
+      "R",
+      "O",
+      "N",
+      "O",
+      "M",
+      "T",
+      "O"
+    ],
+    [
+      "P",
+      "L",
+      "I",
+      "S",
+      "H",
+      "G",
+      "A",
+      "S",
+      "Y",
+      "U"
+    ],
+    [
+      "I",
+      "T",
+      "J",
+      "U",
+      "E",
+      "R",
+      "O",
+      "A",
+      "J",
+      "N"
+    ],
+    [
+      "T",
+      "T",
+      "I",
+      "H",
+      "E",
+      "P",
+      "W",
+      "D",
+      "F",
+      "D"
+    ],
+    [
+      "C",
+      "G",
+      "V",
+      "P",
+      "M",
+      "E",
+      "S",
+      "P",
+      "F",
+      "A"
+    ],
+    [
+      "H",
+      "B",
+      "O",
+      "A",
+      "E",
+      "G",
+      "O",
+      "P",
+      "E",
+      "B"
+    ],
+    [
+      "B",
+      "C",
+      "L",
+      "R",
+      "U",
+      "H",
+      "B",
+      "G",
+      "T",
+      "O"
+    ],
+    [
+      "Q",
+      "I",
+      "F",
+      "M",
+      "H",
+      "L",
+      "A",
+      "X",
+      "I",
+      "U"
+    ],
+    [
+      "L",
+      "T",
+      "C",
+      "I",
+      "R",
+      "T",
+      "S",
+      "I",
+      "D",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DISTRICT",
+      "gloss": "An area of a city with a particular character.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LAMPOST",
+      "gloss": "A tall post with a light.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MONORAIL",
+      "gloss": "A railway with a single rail.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PITCH",
+      "gloss": "A sports field.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ROUNDABOUT",
+      "gloss": "A circular road junction.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.050Z"
+}

@@ -1,0 +1,468 @@
+{
+  "id": "history-2026-10-23",
+  "playDate": "2026-10-23",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "A",
+      "A",
+      "T",
+      "I",
+      "A",
+      "R",
+      "T",
+      "R",
+      "O",
+      "P",
+      "U"
+    ],
+    [
+      "G",
+      "W",
+      "M",
+      "K",
+      "F",
+      "Q",
+      "N",
+      "L",
+      "R",
+      "R",
+      "U"
+    ],
+    [
+      "R",
+      "C",
+      "N",
+      "Q",
+      "G",
+      "S",
+      "E",
+      "E",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "Q",
+      "O",
+      "Q",
+      "M",
+      "D",
+      "R",
+      "E",
+      "S",
+      "X",
+      "T"
+    ],
+    [
+      "C",
+      "U",
+      "Z",
+      "B",
+      "A",
+      "O",
+      "N",
+      "T",
+      "D",
+      "E",
+      "Y"
+    ],
+    [
+      "U",
+      "D",
+      "A",
+      "T",
+      "L",
+      "O",
+      "R",
+      "L",
+      "B",
+      "T",
+      "K"
+    ],
+    [
+      "L",
+      "N",
+      "I",
+      "P",
+      "I",
+      "O",
+      "F",
+      "A",
+      "S",
+      "H",
+      "R"
+    ],
+    [
+      "T",
+      "C",
+      "X",
+      "P",
+      "L",
+      "J",
+      "H",
+      "A",
+      "U",
+      "E",
+      "H"
+    ],
+    [
+      "U",
+      "E",
+      "X",
+      "A",
+      "H",
+      "P",
+      "N",
+      "V",
+      "E",
+      "V",
+      "F"
+    ],
+    [
+      "R",
+      "J",
+      "B",
+      "N",
+      "L",
+      "Y",
+      "S",
+      "U",
+      "U",
+      "U",
+      "V"
+    ],
+    [
+      "E",
+      "E",
+      "Z",
+      "A",
+      "D",
+      "Z",
+      "E",
+      "G",
+      "E",
+      "V",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AGRICULTURE",
+      "gloss": "The practice of farming.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ALPHABET",
+      "gloss": "A set of letters used in writing.",
+      "path": [
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "ASTROLABE",
+      "gloss": "An instrument for navigation by stars.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DYNASTY",
+      "gloss": "A line of rulers from the same family.",
+      "path": [
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.199Z"
+}

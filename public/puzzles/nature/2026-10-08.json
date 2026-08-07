@@ -1,0 +1,393 @@
+{
+  "id": "nature-2026-10-08",
+  "playDate": "2026-10-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "H",
+      "G",
+      "I",
+      "L",
+      "R",
+      "A",
+      "T",
+      "S",
+      "M"
+    ],
+    [
+      "E",
+      "E",
+      "P",
+      "A",
+      "S",
+      "T",
+      "G",
+      "N",
+      "T",
+      "H"
+    ],
+    [
+      "A",
+      "Q",
+      "F",
+      "W",
+      "B",
+      "J",
+      "O",
+      "A",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "K",
+      "J",
+      "L",
+      "C",
+      "W",
+      "M",
+      "E",
+      "G",
+      "W"
+    ],
+    [
+      "T",
+      "E",
+      "P",
+      "W",
+      "F",
+      "L",
+      "O",
+      "J",
+      "I",
+      "G"
+    ],
+    [
+      "L",
+      "J",
+      "C",
+      "L",
+      "R",
+      "I",
+      "O",
+      "B",
+      "L",
+      "T"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "T",
+      "X",
+      "Z",
+      "L",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "R",
+      "K",
+      "R",
+      "M",
+      "A",
+      "A",
+      "B",
+      "U",
+      "W",
+      "F"
+    ],
+    [
+      "E",
+      "K",
+      "X",
+      "Y",
+      "U",
+      "R",
+      "I",
+      "P",
+      "T",
+      "H"
+    ],
+    [
+      "V",
+      "H",
+      "Q",
+      "A",
+      "W",
+      "D",
+      "T",
+      "Q",
+      "R",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.788Z"
+}

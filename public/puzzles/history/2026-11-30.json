@@ -1,0 +1,405 @@
+{
+  "id": "history-2026-11-30",
+  "playDate": "2026-11-30",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "C",
+      "C",
+      "C",
+      "T",
+      "S",
+      "F",
+      "R",
+      "Y",
+      "F"
+    ],
+    [
+      "L",
+      "M",
+      "R",
+      "E",
+      "A",
+      "L",
+      "P",
+      "H",
+      "D",
+      "D"
+    ],
+    [
+      "E",
+      "I",
+      "P",
+      "U",
+      "U",
+      "R",
+      "C",
+      "E",
+      "F",
+      "V"
+    ],
+    [
+      "X",
+      "R",
+      "C",
+      "A",
+      "S",
+      "R",
+      "A",
+      "R",
+      "A",
+      "E"
+    ],
+    [
+      "P",
+      "P",
+      "G",
+      "N",
+      "A",
+      "A",
+      "E",
+      "V",
+      "C",
+      "R"
+    ],
+    [
+      "L",
+      "D",
+      "D",
+      "N",
+      "U",
+      "S",
+      "D",
+      "I",
+      "A",
+      "J"
+    ],
+    [
+      "O",
+      "S",
+      "O",
+      "L",
+      "C",
+      "O",
+      "T",
+      "E",
+      "D",
+      "N"
+    ],
+    [
+      "R",
+      "M",
+      "P",
+      "O",
+      "F",
+      "S",
+      "C",
+      "H",
+      "M",
+      "P"
+    ],
+    [
+      "E",
+      "T",
+      "U",
+      "F",
+      "U",
+      "F",
+      "P",
+      "B",
+      "X",
+      "E"
+    ],
+    [
+      "R",
+      "C",
+      "G",
+      "J",
+      "M",
+      "K",
+      "D",
+      "L",
+      "S",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FRESCO",
+      "gloss": "A painting on wet plaster.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MONARCHY",
+      "gloss": "Rule by a monarch.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.249Z"
+}

@@ -1,0 +1,460 @@
+{
+  "id": "cities-2026-10-26",
+  "playDate": "2026-10-26",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "A",
+      "M",
+      "P",
+      "E",
+      "M",
+      "B",
+      "A",
+      "S",
+      "S",
+      "Y",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "D",
+      "M",
+      "U",
+      "F",
+      "P",
+      "J",
+      "F",
+      "T"
+    ],
+    [
+      "L",
+      "R",
+      "K",
+      "S",
+      "A",
+      "P",
+      "W",
+      "F",
+      "Z",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "K",
+      "H",
+      "V",
+      "P",
+      "D",
+      "B",
+      "D",
+      "B",
+      "N",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "C",
+      "Z",
+      "Z",
+      "H",
+      "O",
+      "E",
+      "M",
+      "I",
+      "U"
+    ],
+    [
+      "I",
+      "T",
+      "H",
+      "E",
+      "C",
+      "A",
+      "A",
+      "L",
+      "N",
+      "C",
+      "S"
+    ],
+    [
+      "P",
+      "P",
+      "T",
+      "R",
+      "U",
+      "O",
+      "C",
+      "L",
+      "Z",
+      "U",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "X",
+      "Q",
+      "H",
+      "Q",
+      "F",
+      "T",
+      "L",
+      "O"
+    ],
+    [
+      "C",
+      "A",
+      "C",
+      "B",
+      "X",
+      "A",
+      "A",
+      "U",
+      "B",
+      "A",
+      "C"
+    ],
+    [
+      "R",
+      "C",
+      "O",
+      "N",
+      "C",
+      "R",
+      "E",
+      "T",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "D",
+      "K",
+      "P",
+      "G",
+      "Q",
+      "N",
+      "T",
+      "J",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASPHALT",
+      "gloss": "A dark material used for road surfaces.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CAPITAL",
+      "gloss": "The city where a government is based.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CONCRETE",
+      "gloss": "A building material of cement and aggregate.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CONSULATE",
+      "gloss": "An office that helps citizens abroad.",
+      "path": [
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 0,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "COURT",
+      "gloss": "An area for ball games; also a law court.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EMBASSY",
+      "gloss": "The office of a foreign country’s representatives.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKETPLACE",
+      "gloss": "An open area for buying and selling.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.982Z"
+}

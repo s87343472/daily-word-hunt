@@ -1,0 +1,397 @@
+{
+  "id": "history-2026-09-13",
+  "playDate": "2026-09-13",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "E",
+      "G",
+      "Y",
+      "M",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "A",
+      "M",
+      "R",
+      "A",
+      "P",
+      "J",
+      "G"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "P",
+      "N",
+      "F",
+      "N",
+      "B",
+      "V",
+      "F"
+    ],
+    [
+      "I",
+      "Q",
+      "C",
+      "T",
+      "W",
+      "D",
+      "E",
+      "S",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "E",
+      "A",
+      "X",
+      "V",
+      "A",
+      "W",
+      "U"
+    ],
+    [
+      "U",
+      "D",
+      "M",
+      "P",
+      "B",
+      "R",
+      "L",
+      "U",
+      "O",
+      "D"
+    ],
+    [
+      "T",
+      "Y",
+      "P",
+      "K",
+      "J",
+      "O",
+      "I",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "N",
+      "L",
+      "A",
+      "Q",
+      "H",
+      "R",
+      "T",
+      "P",
+      "P",
+      "L"
+    ],
+    [
+      "E",
+      "H",
+      "S",
+      "C",
+      "N",
+      "G",
+      "G",
+      "P",
+      "W",
+      "N"
+    ],
+    [
+      "C",
+      "Q",
+      "S",
+      "S",
+      "M",
+      "T",
+      "T",
+      "F",
+      "R",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCHOLAR",
+      "gloss": "A person devoted to study.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.142Z"
+}

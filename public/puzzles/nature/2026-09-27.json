@@ -1,0 +1,365 @@
+{
+  "id": "nature-2026-09-27",
+  "playDate": "2026-09-27",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Z",
+      "X",
+      "J",
+      "G",
+      "R",
+      "R",
+      "N",
+      "G",
+      "X"
+    ],
+    [
+      "W",
+      "F",
+      "L",
+      "F",
+      "R",
+      "H",
+      "I",
+      "F",
+      "O",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "U",
+      "V",
+      "O",
+      "H",
+      "M",
+      "K",
+      "P",
+      "X"
+    ],
+    [
+      "S",
+      "R",
+      "T",
+      "I",
+      "V",
+      "W",
+      "E",
+      "A",
+      "U",
+      "M"
+    ],
+    [
+      "F",
+      "P",
+      "S",
+      "L",
+      "E",
+      "U",
+      "C",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "L",
+      "R",
+      "H",
+      "A",
+      "S",
+      "J",
+      "O",
+      "O",
+      "U"
+    ],
+    [
+      "E",
+      "Y",
+      "N",
+      "O",
+      "D",
+      "N",
+      "U",
+      "G",
+      "Y",
+      "N"
+    ],
+    [
+      "I",
+      "S",
+      "A",
+      "N",
+      "U",
+      "S",
+      "D",
+      "Z",
+      "Z",
+      "D"
+    ],
+    [
+      "F",
+      "Q",
+      "A",
+      "B",
+      "E",
+      "T",
+      "K",
+      "Q",
+      "M",
+      "R"
+    ],
+    [
+      "W",
+      "L",
+      "Y",
+      "V",
+      "L",
+      "T",
+      "E",
+      "A",
+      "T",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.777Z"
+}

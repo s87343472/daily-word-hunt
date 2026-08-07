@@ -1,0 +1,337 @@
+{
+  "id": "nature-2026-11-18",
+  "playDate": "2026-11-18",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "S",
+      "F",
+      "T",
+      "H",
+      "I",
+      "V",
+      "E",
+      "H",
+      "K"
+    ],
+    [
+      "V",
+      "X",
+      "E",
+      "M",
+      "R",
+      "R",
+      "H",
+      "Z",
+      "R",
+      "W"
+    ],
+    [
+      "H",
+      "S",
+      "X",
+      "A",
+      "J",
+      "A",
+      "H",
+      "N",
+      "X",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "P",
+      "K",
+      "S",
+      "O",
+      "I",
+      "M",
+      "A",
+      "O"
+    ],
+    [
+      "Y",
+      "K",
+      "T",
+      "L",
+      "N",
+      "O",
+      "Z",
+      "L",
+      "C",
+      "Q"
+    ],
+    [
+      "D",
+      "S",
+      "C",
+      "P",
+      "A",
+      "W",
+      "N",
+      "E",
+      "T",
+      "G"
+    ],
+    [
+      "Y",
+      "C",
+      "S",
+      "A",
+      "N",
+      "I",
+      "M",
+      "E",
+      "Y",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "C",
+      "T",
+      "R",
+      "E",
+      "N",
+      "N",
+      "R",
+      "B"
+    ],
+    [
+      "G",
+      "T",
+      "P",
+      "O",
+      "L",
+      "T",
+      "S",
+      "S",
+      "S",
+      "B"
+    ],
+    [
+      "Z",
+      "W",
+      "C",
+      "H",
+      "I",
+      "R",
+      "P",
+      "T",
+      "I",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.826Z"
+}

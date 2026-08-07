@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-11-20",
+  "playDate": "2026-11-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "U",
+      "R",
+      "B",
+      "V",
+      "J",
+      "L",
+      "U",
+      "Y",
+      "E"
+    ],
+    [
+      "H",
+      "C",
+      "I",
+      "A",
+      "A",
+      "W",
+      "E",
+      "G",
+      "V",
+      "O"
+    ],
+    [
+      "J",
+      "A",
+      "N",
+      "K",
+      "A",
+      "I",
+      "H",
+      "I",
+      "Q",
+      "B"
+    ],
+    [
+      "S",
+      "B",
+      "G",
+      "E",
+      "I",
+      "X",
+      "H",
+      "V",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "R",
+      "R",
+      "H",
+      "C",
+      "Y",
+      "O",
+      "S",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "Y",
+      "R",
+      "L",
+      "K",
+      "Y",
+      "V",
+      "B"
+    ],
+    [
+      "C",
+      "C",
+      "A",
+      "A",
+      "Y",
+      "S",
+      "C",
+      "A",
+      "T",
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      "D",
+      "F",
+      "H",
+      "Q",
+      "D",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "U",
+      "O",
+      "Z",
+      "M",
+      "J",
+      "E",
+      "X",
+      "B"
+    ],
+    [
+      "M",
+      "P",
+      "P",
+      "T",
+      "I",
+      "B",
+      "J",
+      "Q",
+      "I",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A place storing historical records.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BAKERY",
+      "gloss": "A place that makes and sells bread.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "BOOKSHOP",
+      "gloss": "A store that sells books.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.017Z"
+}

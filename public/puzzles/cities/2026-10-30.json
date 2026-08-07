@@ -1,0 +1,393 @@
+{
+  "id": "cities-2026-10-30",
+  "playDate": "2026-10-30",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "E",
+      "G",
+      "A",
+      "T",
+      "T",
+      "O",
+      "C",
+      "Y",
+      "P"
+    ],
+    [
+      "T",
+      "Q",
+      "H",
+      "K",
+      "E",
+      "E",
+      "I",
+      "U",
+      "I",
+      "Y"
+    ],
+    [
+      "A",
+      "Q",
+      "U",
+      "O",
+      "J",
+      "J",
+      "O",
+      "W",
+      "T",
+      "N"
+    ],
+    [
+      "T",
+      "Z",
+      "F",
+      "C",
+      "S",
+      "K",
+      "C",
+      "N",
+      "K",
+      "O"
+    ],
+    [
+      "U",
+      "P",
+      "X",
+      "S",
+      "O",
+      "T",
+      "E",
+      "Q",
+      "I",
+      "C"
+    ],
+    [
+      "E",
+      "P",
+      "X",
+      "E",
+      "F",
+      "M",
+      "E",
+      "M",
+      "B",
+      "L"
+    ],
+    [
+      "K",
+      "R",
+      "Q",
+      "X",
+      "E",
+      "D",
+      "P",
+      "L",
+      "B",
+      "A"
+    ],
+    [
+      "V",
+      "U",
+      "S",
+      "V",
+      "L",
+      "A",
+      "N",
+      "A",
+      "C",
+      "B"
+    ],
+    [
+      "Q",
+      "X",
+      "A",
+      "J",
+      "J",
+      "E",
+      "Q",
+      "V",
+      "S",
+      "I"
+    ],
+    [
+      "M",
+      "P",
+      "Q",
+      "N",
+      "R",
+      "E",
+      "V",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CANAL",
+      "gloss": "An artificial waterway.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COTTAGE",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HOSTEL",
+      "gloss": "Inexpensive shared lodging.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PAVEMENT",
+      "gloss": "A hard road or walkway surface.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STATUE",
+      "gloss": "A carved or cast figure of a person or animal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.990Z"
+}

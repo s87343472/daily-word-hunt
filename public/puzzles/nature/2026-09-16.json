@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-09-16",
+  "playDate": "2026-09-16",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "W",
+      "G",
+      "C",
+      "R",
+      "B",
+      "O",
+      "X",
+      "F",
+      "S"
+    ],
+    [
+      "L",
+      "U",
+      "I",
+      "Z",
+      "I",
+      "A",
+      "B",
+      "P",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "R",
+      "N",
+      "C",
+      "N",
+      "V",
+      "Z",
+      "H",
+      "L"
+    ],
+    [
+      "I",
+      "P",
+      "O",
+      "S",
+      "T",
+      "A",
+      "C",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "N",
+      "S",
+      "Q",
+      "T",
+      "P",
+      "E",
+      "S",
+      "C",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "C",
+      "G",
+      "K",
+      "Q",
+      "R",
+      "U",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "V",
+      "S",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T",
+      "U"
+    ],
+    [
+      "G",
+      "R",
+      "N",
+      "V",
+      "D",
+      "T",
+      "A",
+      "K",
+      "X",
+      "E"
+    ],
+    [
+      "P",
+      "M",
+      "D",
+      "U",
+      "T",
+      "V",
+      "Z",
+      "L",
+      "W",
+      "I"
+    ],
+    [
+      "O",
+      "M",
+      "B",
+      "Y",
+      "F",
+      "Z",
+      "K",
+      "W",
+      "P",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.767Z"
+}

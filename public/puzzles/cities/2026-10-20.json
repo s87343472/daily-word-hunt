@@ -1,0 +1,381 @@
+{
+  "id": "cities-2026-10-20",
+  "playDate": "2026-10-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "P",
+      "B",
+      "O",
+      "R",
+      "O",
+      "U",
+      "G",
+      "H",
+      "V"
+    ],
+    [
+      "R",
+      "K",
+      "P",
+      "J",
+      "B",
+      "B",
+      "I",
+      "Q",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "I",
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      "Y",
+      "B",
+      "Z"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "R",
+      "S",
+      "I",
+      "V",
+      "R",
+      "K",
+      "H"
+    ],
+    [
+      "B",
+      "N",
+      "C",
+      "G",
+      "Z",
+      "S",
+      "U",
+      "O",
+      "B",
+      "J"
+    ],
+    [
+      "L",
+      "R",
+      "I",
+      "S",
+      "R",
+      "B",
+      "A",
+      "O",
+      "F",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "G",
+      "M",
+      "U",
+      "O",
+      "W",
+      "P",
+      "D",
+      "J"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "S",
+      "O",
+      "D",
+      "A",
+      "B",
+      "Y",
+      "B"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "S",
+      "R",
+      "A",
+      "K",
+      "D",
+      "O",
+      "B"
+    ],
+    [
+      "R",
+      "L",
+      "J",
+      "M",
+      "L",
+      "L",
+      "T",
+      "Y",
+      "U",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAKERY",
+      "gloss": "A place that makes and sells bread.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.973Z"
+}

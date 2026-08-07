@@ -1,0 +1,349 @@
+{
+  "id": "nature-2026-10-17",
+  "playDate": "2026-10-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "L",
+      "O",
+      "Z",
+      "E",
+      "A",
+      "R",
+      "J",
+      "O",
+      "Y"
+    ],
+    [
+      "C",
+      "B",
+      "U",
+      "D",
+      "V",
+      "G",
+      "A",
+      "T",
+      "E",
+      "U"
+    ],
+    [
+      "L",
+      "Q",
+      "D",
+      "V",
+      "A",
+      "F",
+      "V",
+      "E",
+      "M",
+      "H"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "M",
+      "C",
+      "O",
+      "E",
+      "R",
+      "Q",
+      "A"
+    ],
+    [
+      "C",
+      "T",
+      "A",
+      "K",
+      "E",
+      "H",
+      "N",
+      "A",
+      "R",
+      "B"
+    ],
+    [
+      "I",
+      "A",
+      "O",
+      "F",
+      "G",
+      "A",
+      "O",
+      "N",
+      "Y",
+      "I"
+    ],
+    [
+      "O",
+      "U",
+      "R",
+      "R",
+      "Y",
+      "X",
+      "D",
+      "B",
+      "W",
+      "T"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "L",
+      "M",
+      "O",
+      "N",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "S",
+      "N",
+      "R",
+      "B",
+      "W",
+      "L",
+      "P",
+      "B",
+      "W",
+      "T"
+    ],
+    [
+      "S",
+      "J",
+      "K",
+      "O",
+      "B",
+      "T",
+      "K",
+      "Y",
+      "G",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HABITAT",
+      "gloss": "The natural home of a plant or animal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.796Z"
+}

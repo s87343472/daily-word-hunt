@@ -1,0 +1,444 @@
+{
+  "id": "cities-2026-12-02",
+  "playDate": "2026-12-02",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "H",
+      "G",
+      "P",
+      "A",
+      "V",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T",
+      "C"
+    ],
+    [
+      "T",
+      "C",
+      "N",
+      "B",
+      "G",
+      "X",
+      "D",
+      "Y",
+      "V",
+      "I",
+      "E"
+    ],
+    [
+      "O",
+      "E",
+      "X",
+      "I",
+      "S",
+      "Y",
+      "V",
+      "W",
+      "N",
+      "J",
+      "U"
+    ],
+    [
+      "O",
+      "D",
+      "L",
+      "W",
+      "N",
+      "F",
+      "X",
+      "E",
+      "I",
+      "Z",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "P",
+      "S",
+      "Z",
+      "O",
+      "M",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "N",
+      "C",
+      "P",
+      "R",
+      "A",
+      "Z",
+      "Y",
+      "Z",
+      "C",
+      "T"
+    ],
+    [
+      "E",
+      "E",
+      "K",
+      "J",
+      "B",
+      "H",
+      "R",
+      "D",
+      "G",
+      "I",
+      "S"
+    ],
+    [
+      "K",
+      "M",
+      "T",
+      "W",
+      "J",
+      "P",
+      "K",
+      "U",
+      "Z",
+      "F",
+      "G"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "E",
+      "E",
+      "C",
+      "O",
+      "I",
+      "D",
+      "H",
+      "M"
+    ],
+    [
+      "I",
+      "R",
+      "P",
+      "C",
+      "U",
+      "S",
+      "T",
+      "O",
+      "M",
+      "S",
+      "X"
+    ],
+    [
+      "T",
+      "P",
+      "T",
+      "X",
+      "K",
+      "Y",
+      "A",
+      "W",
+      "B",
+      "U",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CINEMA",
+      "gloss": "A place for watching films.",
+      "path": [
+        {
+          "r": 0,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CUSTOMS",
+      "gloss": "Officials who check goods entering a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PAVEMENT",
+      "gloss": "A hard road or walkway surface.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STATUE",
+      "gloss": "A carved or cast figure of a person or animal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system.",
+      "path": [
+        {
+          "r": 10,
+          "c": 10
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TICKETBOOTH",
+      "gloss": "A small office that sells tickets.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.033Z"
+}

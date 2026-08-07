@@ -1,0 +1,413 @@
+{
+  "id": "cities-2026-10-29",
+  "playDate": "2026-10-29",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "L",
+      "Y",
+      "F",
+      "L",
+      "G",
+      "C",
+      "U",
+      "Y",
+      "D"
+    ],
+    [
+      "O",
+      "N",
+      "O",
+      "I",
+      "T",
+      "S",
+      "A",
+      "B",
+      "I",
+      "C"
+    ],
+    [
+      "W",
+      "M",
+      "C",
+      "K",
+      "O",
+      "I",
+      "O",
+      "R",
+      "O",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "N",
+      "C",
+      "H",
+      "D",
+      "E",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "N",
+      "T",
+      "O",
+      "Y",
+      "C",
+      "C",
+      "M",
+      "Q",
+      "Q"
+    ],
+    [
+      "O",
+      "S",
+      "S",
+      "D",
+      "T",
+      "O",
+      "B",
+      "J",
+      "H",
+      "F"
+    ],
+    [
+      "U",
+      "I",
+      "K",
+      "I",
+      "U",
+      "B",
+      "L",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "O",
+      "O",
+      "R",
+      "U",
+      "K",
+      "H",
+      "V",
+      "D",
+      "Q"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "Q",
+      "L",
+      "W",
+      "F",
+      "Z",
+      "X",
+      "X"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "R",
+      "O",
+      "O",
+      "F",
+      "T",
+      "O",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MANSION",
+      "gloss": "A large impressive house.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.989Z"
+}

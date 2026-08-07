@@ -1,0 +1,429 @@
+{
+  "id": "cities-2026-10-17",
+  "playDate": "2026-10-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "Z",
+      "S",
+      "T",
+      "F",
+      "Q",
+      "P",
+      "I",
+      "H",
+      "B"
+    ],
+    [
+      "C",
+      "G",
+      "O",
+      "H",
+      "H",
+      "O",
+      "T",
+      "E",
+      "L",
+      "S"
+    ],
+    [
+      "E",
+      "G",
+      "D",
+      "I",
+      "R",
+      "B",
+      "W",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "S",
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "D",
+      "N",
+      "A",
+      "T",
+      "S",
+      "D",
+      "N",
+      "A",
+      "B"
+    ],
+    [
+      "V",
+      "I",
+      "O",
+      "Z",
+      "Z",
+      "A",
+      "L",
+      "A",
+      "P",
+      "Y"
+    ],
+    [
+      "J",
+      "O",
+      "N",
+      "Q",
+      "M",
+      "G",
+      "B",
+      "R",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "G",
+      "M",
+      "N",
+      "U",
+      "H",
+      "J",
+      "I",
+      "I",
+      "W"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
+      "Z",
+      "A",
+      "N",
+      "I",
+      "N",
+      "E",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HOTEL",
+      "gloss": "A place that provides paid lodging.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "INN",
+      "gloss": "A small hotel, often in the countryside.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIGHTHOUSE",
+      "gloss": "A tower with a light to guide ships.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEZZANINE",
+      "gloss": "A partial floor between main floors.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PASSPORT",
+      "gloss": "An official travel document.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.970Z"
+}

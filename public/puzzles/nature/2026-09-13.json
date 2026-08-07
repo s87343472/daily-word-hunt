@@ -1,0 +1,333 @@
+{
+  "id": "nature-2026-09-13",
+  "playDate": "2026-09-13",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "N",
+      "G",
+      "B",
+      "R",
+      "F",
+      "A",
+      "M",
+      "U",
+      "T"
+    ],
+    [
+      "S",
+      "N",
+      "W",
+      "P",
+      "F",
+      "Z",
+      "V",
+      "X",
+      "S",
+      "I"
+    ],
+    [
+      "C",
+      "P",
+      "M",
+      "I",
+      "F",
+      "G",
+      "N",
+      "A",
+      "J",
+      "D"
+    ],
+    [
+      "O",
+      "B",
+      "L",
+      "A",
+      "W",
+      "P",
+      "O",
+      "N",
+      "H",
+      "W"
+    ],
+    [
+      "C",
+      "C",
+      "J",
+      "F",
+      "P",
+      "C",
+      "O",
+      "A",
+      "X",
+      "K"
+    ],
+    [
+      "R",
+      "G",
+      "G",
+      "Q",
+      "E",
+      "L",
+      "U",
+      "P",
+      "S",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "A",
+      "O",
+      "M",
+      "N",
+      "E",
+      "O",
+      "P",
+      "G"
+    ],
+    [
+      "Q",
+      "U",
+      "T",
+      "I",
+      "M",
+      "O",
+      "S",
+      "S",
+      "Q",
+      "Y"
+    ],
+    [
+      "D",
+      "V",
+      "V",
+      "T",
+      "E",
+      "L",
+      "A",
+      "C",
+      "S",
+      "W"
+    ],
+    [
+      "P",
+      "K",
+      "P",
+      "H",
+      "O",
+      "C",
+      "F",
+      "D",
+      "D",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A small plate on fish or reptiles.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.764Z"
+}

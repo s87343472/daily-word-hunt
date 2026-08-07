@@ -1,0 +1,429 @@
+{
+  "id": "cities-2026-09-14",
+  "playDate": "2026-09-14",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "E",
+      "L",
+      "E",
+      "V",
+      "A",
+      "T",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "F",
+      "B",
+      "J",
+      "E",
+      "G",
+      "A",
+      "Y",
+      "O",
+      "V",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "S",
+      "X",
+      "H",
+      "Z",
+      "D",
+      "B",
+      "W"
+    ],
+    [
+      "A",
+      "N",
+      "U",
+      "P",
+      "D",
+      "N",
+      "I",
+      "L",
+      "J",
+      "E"
+    ],
+    [
+      "S",
+      "D",
+      "R",
+      "L",
+      "B",
+      "P",
+      "Z",
+      "B",
+      "R",
+      "R"
+    ],
+    [
+      "S",
+      "S",
+      "N",
+      "A",
+      "M",
+      "I",
+      "F",
+      "G",
+      "I",
+      "B"
+    ],
+    [
+      "P",
+      "T",
+      "E",
+      "N",
+      "H",
+      "R",
+      "T",
+      "L",
+      "Y",
+      "L"
+    ],
+    [
+      "O",
+      "A",
+      "Y",
+      "A",
+      "D",
+      "V",
+      "A",
+      "E",
+      "D",
+      "O"
+    ],
+    [
+      "R",
+      "N",
+      "T",
+      "D",
+      "N",
+      "P",
+      "X",
+      "Q",
+      "I",
+      "C"
+    ],
+    [
+      "T",
+      "D",
+      "F",
+      "E",
+      "B",
+      "H",
+      "I",
+      "S",
+      "Q",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "JOURNEY",
+      "gloss": "Travel from one place to another.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PASSPORT",
+      "gloss": "An official travel document.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOWERBLOCK",
+      "gloss": "A tall residential building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.930Z"
+}

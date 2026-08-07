@@ -1,0 +1,401 @@
+{
+  "id": "cities-2026-12-04",
+  "playDate": "2026-12-04",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "N",
+      "H",
+      "I",
+      "G",
+      "H",
+      "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "U",
+      "I",
+      "T",
+      "C",
+      "A",
+      "S",
+      "E",
+      "C",
+      "L"
+    ],
+    [
+      "T",
+      "F",
+      "R",
+      "A",
+      "H",
+      "W",
+      "S",
+      "B",
+      "Q",
+      "X"
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "A",
+      "A",
+      "Z",
+      "M",
+      "A",
+      "Z",
+      "F"
+    ],
+    [
+      "X",
+      "L",
+      "L",
+      "V",
+      "I",
+      "D",
+      "A",
+      "L",
+      "M",
+      "L"
+    ],
+    [
+      "N",
+      "C",
+      "K",
+      "M",
+      "V",
+      "Z",
+      "R",
+      "C",
+      "M",
+      "E"
+    ],
+    [
+      "V",
+      "S",
+      "Y",
+      "C",
+      "A",
+      "V",
+      "K",
+      "O",
+      "B",
+      "V"
+    ],
+    [
+      "Q",
+      "M",
+      "Q",
+      "C",
+      "O",
+      "H",
+      "E",
+      "N",
+      "Q",
+      "L"
+    ],
+    [
+      "M",
+      "L",
+      "K",
+      "B",
+      "R",
+      "D",
+      "T",
+      "Y",
+      "V",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EXPRESSWAY",
+      "gloss": "A high-speed divided highway.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HAMLET",
+      "gloss": "A very small village.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HIGHRISE",
+      "gloss": "A tall multi-story building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place where goods are bought and sold.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUITCASE",
+      "gloss": "A case for carrying clothes while traveling.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.035Z"
+}

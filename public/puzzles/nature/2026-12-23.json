@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-12-23",
+  "playDate": "2026-12-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "P",
+      "E",
+      "T",
+      "A",
+      "L",
+      "E",
+      "K",
+      "A",
+      "L"
+    ],
+    [
+      "B",
+      "Z",
+      "L",
+      "O",
+      "B",
+      "M",
+      "I",
+      "M",
+      "L",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "N",
+      "L",
+      "F",
+      "N",
+      "N",
+      "A",
+      "H",
+      "X"
+    ],
+    [
+      "A",
+      "U",
+      "Z",
+      "L",
+      "E",
+      "E",
+      "O",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "J",
+      "E",
+      "H",
+      "N",
+      "B",
+      "R",
+      "U"
+    ],
+    [
+      "T",
+      "S",
+      "N",
+      "R",
+      "M",
+      "W",
+      "S",
+      "N",
+      "O",
+      "I"
+    ],
+    [
+      "A",
+      "E",
+      "G",
+      "P",
+      "Q",
+      "N",
+      "J",
+      "O",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "T",
+      "L",
+      "N",
+      "T",
+      "F",
+      "V",
+      "O",
+      "A",
+      "B"
+    ],
+    [
+      "P",
+      "S",
+      "H",
+      "U",
+      "S",
+      "U",
+      "N",
+      "M",
+      "C",
+      "M"
+    ],
+    [
+      "D",
+      "M",
+      "E",
+      "S",
+      "T",
+      "U",
+      "A",
+      "R",
+      "Y",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.858Z"
+}

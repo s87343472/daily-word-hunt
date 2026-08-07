@@ -1,0 +1,460 @@
+{
+  "id": "history-2026-11-06",
+  "playDate": "2026-11-06",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "T",
+      "W",
+      "O",
+      "I",
+      "C",
+      "F",
+      "L",
+      "X",
+      "Y",
+      "P",
+      "A"
+    ],
+    [
+      "C",
+      "B",
+      "G",
+      "O",
+      "V",
+      "E",
+      "O",
+      "C",
+      "H",
+      "N",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "I",
+      "X",
+      "D",
+      "Y",
+      "A",
+      "R",
+      "G",
+      "W",
+      "D"
+    ],
+    [
+      "I",
+      "N",
+      "L",
+      "A",
+      "L",
+      "M",
+      "J",
+      "C",
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "G",
+      "M",
+      "T",
+      "F",
+      "O",
+      "F",
+      "L",
+      "Y",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "D",
+      "I",
+      "W",
+      "L",
+      "Q",
+      "A",
+      "Q",
+      "A",
+      "X",
+      "K",
+      "Q"
+    ],
+    [
+      "C",
+      "Y",
+      "P",
+      "P",
+      "S",
+      "J",
+      "J",
+      "O",
+      "S",
+      "P",
+      "H"
+    ],
+    [
+      "B",
+      "I",
+      "E",
+      "T",
+      "R",
+      "E",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "D",
+      "V",
+      "R",
+      "O",
+      "T",
+      "S",
+      "E",
+      "C",
+      "N",
+      "A",
+      "B"
+    ],
+    [
+      "R",
+      "E",
+      "F",
+      "O",
+      "R",
+      "M",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "I",
+      "C",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AGRICULTURE",
+      "gloss": "The practice of farming.",
+      "path": [
+        {
+          "r": 10,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "ANCESTOR",
+      "gloss": "A person from whom one is descended.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REFORMATION",
+      "gloss": "A 16th-century religious movement.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.217Z"
+}

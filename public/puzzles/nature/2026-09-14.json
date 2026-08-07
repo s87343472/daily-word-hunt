@@ -1,0 +1,333 @@
+{
+  "id": "nature-2026-09-14",
+  "playDate": "2026-09-14",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "W",
+      "F",
+      "W",
+      "P",
+      "Z",
+      "R",
+      "W",
+      "B",
+      "W"
+    ],
+    [
+      "W",
+      "V",
+      "A",
+      "R",
+      "E",
+      "L",
+      "G",
+      "Q",
+      "C",
+      "F"
+    ],
+    [
+      "S",
+      "V",
+      "I",
+      "O",
+      "K",
+      "T",
+      "D",
+      "R",
+      "F",
+      "V"
+    ],
+    [
+      "E",
+      "H",
+      "Z",
+      "C",
+      "F",
+      "M",
+      "V",
+      "Z",
+      "S",
+      "G"
+    ],
+    [
+      "C",
+      "G",
+      "A",
+      "Y",
+      "P",
+      "A",
+      "I",
+      "H",
+      "O",
+      "V"
+    ],
+    [
+      "B",
+      "R",
+      "W",
+      "M",
+      "K",
+      "E",
+      "F",
+      "U",
+      "Z",
+      "L"
+    ],
+    [
+      "T",
+      "B",
+      "T",
+      "N",
+      "T",
+      "R",
+      "G",
+      "U",
+      "N",
+      "T"
+    ],
+    [
+      "Y",
+      "D",
+      "D",
+      "E",
+      "O",
+      "T",
+      "B",
+      "M",
+      "R",
+      "V"
+    ],
+    [
+      "B",
+      "G",
+      "Z",
+      "G",
+      "E",
+      "S",
+      "G",
+      "L",
+      "E",
+      "Y"
+    ],
+    [
+      "A",
+      "T",
+      "A",
+      "C",
+      "O",
+      "R",
+      "N",
+      "O",
+      "F",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ACORN",
+      "gloss": "The nut of an oak tree.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FROG",
+      "gloss": "An amphibian that jumps and croaks.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.765Z"
+}

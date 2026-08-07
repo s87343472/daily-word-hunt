@@ -1,0 +1,353 @@
+{
+  "id": "nature-2026-10-18",
+  "playDate": "2026-10-18",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L",
+      "Y",
+      "G",
+      "I"
+    ],
+    [
+      "J",
+      "X",
+      "N",
+      "W",
+      "Z",
+      "R",
+      "T",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "S",
+      "G",
+      "O",
+      "E",
+      "G",
+      "A",
+      "G",
+      "Z",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "Q",
+      "R",
+      "T",
+      "Z",
+      "Q",
+      "C",
+      "L"
+    ],
+    [
+      "O",
+      "A",
+      "B",
+      "V",
+      "Y",
+      "Q",
+      "L",
+      "R",
+      "V",
+      "M"
+    ],
+    [
+      "A",
+      "P",
+      "B",
+      "M",
+      "H",
+      "E",
+      "I",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "K",
+      "J",
+      "C",
+      "R",
+      "H",
+      "C",
+      "A",
+      "K",
+      "N",
+      "N"
+    ],
+    [
+      "J",
+      "S",
+      "T",
+      "N",
+      "K",
+      "T",
+      "B",
+      "Y",
+      "M",
+      "D"
+    ],
+    [
+      "B",
+      "Q",
+      "N",
+      "E",
+      "U",
+      "I",
+      "B",
+      "S",
+      "T",
+      "J"
+    ],
+    [
+      "O",
+      "R",
+      "T",
+      "H",
+      "V",
+      "Y",
+      "S",
+      "I",
+      "A",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.797Z"
+}

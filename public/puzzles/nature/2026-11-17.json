@@ -1,0 +1,325 @@
+{
+  "id": "nature-2026-11-17",
+  "playDate": "2026-11-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "D",
+      "V",
+      "R",
+      "Y",
+      "J",
+      "A",
+      "F",
+      "L",
+      "G"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "N",
+      "N",
+      "C"
+    ],
+    [
+      "P",
+      "B",
+      "F",
+      "I",
+      "N",
+      "U",
+      "I",
+      "R",
+      "H",
+      "N"
+    ],
+    [
+      "J",
+      "D",
+      "V",
+      "E",
+      "Q",
+      "F",
+      "O",
+      "I",
+      "Y",
+      "Y"
+    ],
+    [
+      "S",
+      "R",
+      "V",
+      "D",
+      "Y",
+      "C",
+      "G",
+      "F",
+      "Z",
+      "C"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "D",
+      "A",
+      "X",
+      "A",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "H",
+      "C",
+      "M",
+      "U",
+      "E",
+      "E",
+      "W",
+      "F",
+      "B"
+    ],
+    [
+      "P",
+      "Y",
+      "G",
+      "A",
+      "L",
+      "B",
+      "L",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "O",
+      "I",
+      "O",
+      "O",
+      "V",
+      "X",
+      "K",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "C",
+      "C",
+      "Z",
+      "D",
+      "E",
+      "L",
+      "J",
+      "M",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ACORN",
+      "gloss": "The nut of an oak tree.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.825Z"
+}

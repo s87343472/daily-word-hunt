@@ -1,0 +1,393 @@
+{
+  "id": "history-2026-12-06",
+  "playDate": "2026-12-06",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "Y",
+      "Q",
+      "G",
+      "S",
+      "P",
+      "E",
+      "A",
+      "R",
+      "V"
+    ],
+    [
+      "V",
+      "Y",
+      "R",
+      "T",
+      "N",
+      "A",
+      "F",
+      "N",
+      "I",
+      "I"
+    ],
+    [
+      "Y",
+      "V",
+      "X",
+      "I",
+      "P",
+      "L",
+      "O",
+      "W",
+      "N",
+      "D"
+    ],
+    [
+      "F",
+      "D",
+      "N",
+      "I",
+      "V",
+      "Y",
+      "V",
+      "V",
+      "R",
+      "R"
+    ],
+    [
+      "Y",
+      "F",
+      "O",
+      "R",
+      "T",
+      "R",
+      "E",
+      "S",
+      "S",
+      "U"
+    ],
+    [
+      "T",
+      "F",
+      "Q",
+      "H",
+      "K",
+      "N",
+      "M",
+      "T",
+      "V",
+      "G"
+    ],
+    [
+      "A",
+      "X",
+      "Y",
+      "X",
+      "T",
+      "J",
+      "Y",
+      "J",
+      "R",
+      "Y"
+    ],
+    [
+      "E",
+      "S",
+      "L",
+      "I",
+      "R",
+      "S",
+      "O",
+      "X",
+      "U",
+      "E"
+    ],
+    [
+      "R",
+      "C",
+      "O",
+      "I",
+      "N",
+      "K",
+      "L",
+      "D",
+      "B",
+      "I"
+    ],
+    [
+      "T",
+      "N",
+      "Y",
+      "C",
+      "N",
+      "E",
+      "R",
+      "R",
+      "U",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CURRENCY",
+      "gloss": "A system of money.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FORTRESS",
+      "gloss": "A strong military fort.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "INFANTRY",
+      "gloss": "Soldiers who fight on foot.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.258Z"
+}

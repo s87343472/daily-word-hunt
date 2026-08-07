@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-11-05",
+  "playDate": "2026-11-05",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "S",
+      "S",
+      "F",
+      "A",
+      "G",
+      "D",
+      "B",
+      "N",
+      "N"
+    ],
+    [
+      "R",
+      "H",
+      "B",
+      "W",
+      "Y",
+      "R",
+      "K",
+      "U",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "O",
+      "I",
+      "L",
+      "Y",
+      "E",
+      "I",
+      "Q",
+      "I",
+      "A"
+    ],
+    [
+      "Y",
+      "W",
+      "Y",
+      "D",
+      "O",
+      "R",
+      "E",
+      "V",
+      "G",
+      "T"
+    ],
+    [
+      "W",
+      "B",
+      "O",
+      "A",
+      "I",
+      "C",
+      "N",
+      "Z",
+      "H",
+      "I"
+    ],
+    [
+      "X",
+      "C",
+      "P",
+      "B",
+      "M",
+      "H",
+      "K",
+      "U",
+      "B",
+      "O"
+    ],
+    [
+      "K",
+      "S",
+      "W",
+      "O",
+      "R",
+      "K",
+      "S",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "T",
+      "A",
+      "T",
+      "S",
+      "K",
+      "R",
+      "S"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "R",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "Y",
+      "C",
+      "C",
+      "W",
+      "W",
+      "O",
+      "V",
+      "P",
+      "Q",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DRYDOCK",
+      "gloss": "A dock for repairing ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAYOR",
+      "gloss": "The elected head of a city.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NEIGHBOR",
+      "gloss": "A person living nearby.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WATERFRONT",
+      "gloss": "Land along a body of water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WORKSHOP",
+      "gloss": "A room or building for making things.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.999Z"
+}

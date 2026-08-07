@@ -1,0 +1,389 @@
+{
+  "id": "cities-2026-12-03",
+  "playDate": "2026-12-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "X",
+      "C",
+      "W",
+      "A",
+      "T",
+      "X",
+      "R",
+      "T",
+      "O"
+    ],
+    [
+      "B",
+      "J",
+      "R",
+      "A",
+      "E",
+      "C",
+      "B",
+      "E",
+      "C",
+      "G"
+    ],
+    [
+      "Z",
+      "S",
+      "R",
+      "E",
+      "E",
+      "T",
+      "M",
+      "V",
+      "S",
+      "R"
+    ],
+    [
+      "R",
+      "S",
+      "R",
+      "L",
+      "S",
+      "P",
+      "T",
+      "L",
+      "E",
+      "A"
+    ],
+    [
+      "C",
+      "T",
+      "L",
+      "F",
+      "L",
+      "O",
+      "E",
+      "I",
+      "W",
+      "F"
+    ],
+    [
+      "S",
+      "A",
+      "W",
+      "E",
+      "E",
+      "T",
+      "R",
+      "Z",
+      "I",
+      "F"
+    ],
+    [
+      "R",
+      "P",
+      "Q",
+      "U",
+      "S",
+      "I",
+      "R",
+      "T",
+      "K",
+      "I"
+    ],
+    [
+      "L",
+      "R",
+      "B",
+      "O",
+      "U",
+      "V",
+      "A",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "P",
+      "B",
+      "H",
+      "W",
+      "X",
+      "M",
+      "C",
+      "Y",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "U",
+      "P",
+      "M",
+      "A",
+      "C",
+      "E",
+      "R",
+      "B",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HOSTEL",
+      "gloss": "Inexpensive shared lodging.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STREET",
+      "gloss": "A public road in a city or town.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.034Z"
+}

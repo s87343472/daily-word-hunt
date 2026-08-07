@@ -1,0 +1,409 @@
+{
+  "id": "cities-2026-10-02",
+  "playDate": "2026-10-02",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "N",
+      "M",
+      "K",
+      "J",
+      "T",
+      "W",
+      "V",
+      "V",
+      "R"
+    ],
+    [
+      "X",
+      "O",
+      "O",
+      "G",
+      "G",
+      "L",
+      "A",
+      "P",
+      "Y",
+      "O"
+    ],
+    [
+      "G",
+      "T",
+      "U",
+      "I",
+      "W",
+      "O",
+      "T",
+      "L",
+      "G",
+      "B"
+    ],
+    [
+      "K",
+      "M",
+      "A",
+      "R",
+      "T",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "P",
+      "C",
+      "J",
+      "Q",
+      "T",
+      "A",
+      "R",
+      "Q",
+      "G",
+      "G"
+    ],
+    [
+      "D",
+      "P",
+      "J",
+      "C",
+      "Q",
+      "H",
+      "T",
+      "P",
+      "V",
+      "I"
+    ],
+    [
+      "Q",
+      "L",
+      "I",
+      "E",
+      "Q",
+      "L",
+      "O",
+      "S",
+      "X",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "M",
+      "F",
+      "W",
+      "W",
+      "U",
+      "S",
+      "N"
+    ],
+    [
+      "F",
+      "K",
+      "J",
+      "O",
+      "R",
+      "P",
+      "E",
+      "O",
+      "S",
+      "I"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "D",
+      "M",
+      "A",
+      "R",
+      "K",
+      "N",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BENCH",
+      "gloss": "A long seat for several people.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LANDMARK",
+      "gloss": "A feature that is easily recognized.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NEIGHBOR",
+      "gloss": "A person living nearby.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WATERTOWER",
+      "gloss": "A tower storing water for a town.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.952Z"
+}

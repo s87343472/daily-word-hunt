@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-11-22",
+  "playDate": "2026-11-22",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "G",
+      "Y",
+      "J",
+      "P",
+      "I",
+      "Z",
+      "F",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "B",
+      "U",
+      "R",
+      "B",
+      "I",
+      "A",
+      "O",
+      "I"
+    ],
+    [
+      "P",
+      "C",
+      "M",
+      "U",
+      "F",
+      "H",
+      "K",
+      "C",
+      "W",
+      "M"
+    ],
+    [
+      "C",
+      "U",
+      "R",
+      "B",
+      "V",
+      "R",
+      "U",
+      "T",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "I",
+      "P",
+      "S",
+      "O",
+      "H",
+      "T"
+    ],
+    [
+      "G",
+      "Q",
+      "S",
+      "X",
+      "V",
+      "A",
+      "E",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "Z",
+      "F",
+      "E",
+      "W",
+      "E",
+      "X",
+      "L",
+      "Y",
+      "L",
+      "B"
+    ],
+    [
+      "B",
+      "F",
+      "G",
+      "Y",
+      "J",
+      "C",
+      "K",
+      "L",
+      "L",
+      "L"
+    ],
+    [
+      "D",
+      "C",
+      "E",
+      "C",
+      "I",
+      "F",
+      "F",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "D",
+      "N",
+      "L",
+      "U",
+      "T",
+      "I",
+      "B",
+      "A",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OFFICE",
+      "gloss": "A room or building for work.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUBURBIA",
+      "gloss": "Suburban residential areas.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TIMETABLE",
+      "gloss": "A schedule of arrivals and departures.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.019Z"
+}

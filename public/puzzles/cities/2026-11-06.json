@@ -1,0 +1,401 @@
+{
+  "id": "cities-2026-11-06",
+  "playDate": "2026-11-06",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "Q",
+      "E",
+      "V",
+      "H",
+      "U",
+      "T",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "S",
+      "F",
+      "O",
+      "O",
+      "D",
+      "H",
+      "A",
+      "L",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "D",
+      "C",
+      "Z",
+      "F",
+      "N",
+      "P",
+      "Y",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "C",
+      "L",
+      "D",
+      "S",
+      "A",
+      "P",
+      "M",
+      "L"
+    ],
+    [
+      "F",
+      "E",
+      "T",
+      "Z",
+      "I",
+      "W",
+      "T",
+      "D",
+      "S",
+      "A"
+    ],
+    [
+      "F",
+      "Z",
+      "W",
+      "R",
+      "H",
+      "N",
+      "C",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      "C",
+      "Z",
+      "G",
+      "I",
+      "Y",
+      "Q",
+      "U"
+    ],
+    [
+      "C",
+      "S",
+      "R",
+      "F",
+      "S",
+      "U",
+      "O",
+      "C",
+      "S",
+      "M"
+    ],
+    [
+      "E",
+      "A",
+      "C",
+      "R",
+      "O",
+      "W",
+      "D",
+      "Q",
+      "H",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CLINIC",
+      "gloss": "A place for medical treatment.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CROWD",
+      "gloss": "A large group of people.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FOODHALL",
+      "gloss": "A large indoor space with many food vendors.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POSTOFFICE",
+      "gloss": "A place for sending mail.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.000Z"
+}

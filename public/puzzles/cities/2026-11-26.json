@@ -1,0 +1,377 @@
+{
+  "id": "cities-2026-11-26",
+  "playDate": "2026-11-26",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "A",
+      "H",
+      "P",
+      "J",
+      "K",
+      "C",
+      "P",
+      "F",
+      "Q"
+    ],
+    [
+      "B",
+      "Y",
+      "T",
+      "D",
+      "K",
+      "X",
+      "O",
+      "A",
+      "K",
+      "R"
+    ],
+    [
+      "B",
+      "W",
+      "L",
+      "O",
+      "V",
+      "Q",
+      "U",
+      "R",
+      "V",
+      "A"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "R",
+      "K",
+      "T",
+      "R"
+    ],
+    [
+      "N",
+      "X",
+      "O",
+      "T",
+      "J",
+      "Q",
+      "T",
+      "I",
+      "S",
+      "C"
+    ],
+    [
+      "V",
+      "M",
+      "E",
+      "T",
+      "I",
+      "U",
+      "S",
+      "N",
+      "C",
+      "A"
+    ],
+    [
+      "N",
+      "K",
+      "Z",
+      "A",
+      "D",
+      "L",
+      "M",
+      "G",
+      "F",
+      "D"
+    ],
+    [
+      "Y",
+      "S",
+      "S",
+      "A",
+      "B",
+      "M",
+      "E",
+      "H",
+      "W",
+      "E"
+    ],
+    [
+      "N",
+      "X",
+      "P",
+      "K",
+      "C",
+      "A",
+      "R",
+      "T",
+      "H",
+      "V"
+    ],
+    [
+      "N",
+      "W",
+      "O",
+      "T",
+      "D",
+      "I",
+      "M",
+      "A",
+      "S",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCADE",
+      "gloss": "A covered walk with shops.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COURT",
+      "gloss": "An area for ball games; also a law court.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EMBASSY",
+      "gloss": "The office of a foreign country’s representatives.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MIDTOWN",
+      "gloss": "The middle area of a large city.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PARKING",
+      "gloss": "A place to leave vehicles.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path for running or racing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.024Z"
+}

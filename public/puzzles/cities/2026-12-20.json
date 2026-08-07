@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-12-20",
+  "playDate": "2026-12-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "I",
+      "E",
+      "O",
+      "F",
+      "D",
+      "H",
+      "U",
+      "L",
+      "M"
+    ],
+    [
+      "G",
+      "C",
+      "R",
+      "D",
+      "Z",
+      "G",
+      "Z",
+      "W",
+      "C",
+      "L"
+    ],
+    [
+      "H",
+      "U",
+      "H",
+      "I",
+      "I",
+      "Z",
+      "E",
+      "H",
+      "F",
+      "O"
+    ],
+    [
+      "K",
+      "E",
+      "Y",
+      "F",
+      "B",
+      "S",
+      "A",
+      "H",
+      "Y",
+      "B"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "O",
+      "H",
+      "U",
+      "Y",
+      "L",
+      "A",
+      "B"
+    ],
+    [
+      "J",
+      "O",
+      "U",
+      "R",
+      "N",
+      "E",
+      "Y",
+      "A",
+      "A",
+      "Y"
+    ],
+    [
+      "B",
+      "T",
+      "P",
+      "E",
+      "Z",
+      "R",
+      "Q",
+      "T",
+      "U",
+      "P"
+    ],
+    [
+      "C",
+      "U",
+      "T",
+      "H",
+      "E",
+      "A",
+      "T",
+      "E",
+      "R",
+      "Q"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "U",
+      "S",
+      "T",
+      "R",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "F",
+      "Y",
+      "I",
+      "E",
+      "R",
+      "A",
+      "U",
+      "Q",
+      "S",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALUSTRADE",
+      "gloss": "A railing supported by balusters.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HOTEL",
+      "gloss": "A place that provides paid lodging.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JOURNEY",
+      "gloss": "Travel from one place to another.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "QUAYSIDE",
+      "gloss": "The area along a quay.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.055Z"
+}

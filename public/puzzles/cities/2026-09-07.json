@@ -1,0 +1,425 @@
+{
+  "id": "cities-2026-09-07",
+  "playDate": "2026-09-07",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "C",
+      "O",
+      "R",
+      "T",
+      "Y",
+      "F",
+      "V",
+      "R",
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "U",
+      "S",
+      "T",
+      "R",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "M",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "F",
+      "G",
+      "D"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "X",
+      "X",
+      "H",
+      "E",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "W",
+      "L",
+      "H",
+      "S",
+      "L",
+      "X",
+      "G",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "V",
+      "X",
+      "T",
+      "L",
+      "B",
+      "F",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "N",
+      "I",
+      "I",
+      "S",
+      "W",
+      "F",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "L",
+      "V",
+      "V",
+      "O",
+      "L",
+      "A",
+      "S",
+      "X",
+      "I"
+    ],
+    [
+      "X",
+      "A",
+      "N",
+      "K",
+      "U",
+      "B",
+      "W",
+      "C",
+      "M",
+      "A"
+    ],
+    [
+      "L",
+      "G",
+      "N",
+      "S",
+      "D",
+      "R",
+      "H",
+      "S",
+      "Q",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALUSTRADE",
+      "gloss": "A railing supported by balusters.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MEDIAN",
+      "gloss": "A strip separating opposing traffic.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEDESTRIAN",
+      "gloss": "A person walking in a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VILLAGE",
+      "gloss": "A small settlement.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.919Z"
+}

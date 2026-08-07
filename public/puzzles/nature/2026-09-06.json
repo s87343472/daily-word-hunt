@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-09-06",
+  "playDate": "2026-09-06",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "C",
+      "A",
+      "R",
+      "M",
+      "C",
+      "X",
+      "M",
+      "B",
+      "G"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "A",
+      "V",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "M",
+      "L",
+      "Q",
+      "M",
+      "N",
+      "P",
+      "X",
+      "G",
+      "Q"
+    ],
+    [
+      "J",
+      "P",
+      "Y",
+      "C",
+      "S",
+      "E",
+      "B",
+      "K",
+      "K",
+      "H"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "I",
+      "R",
+      "P",
+      "A",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "M",
+      "S",
+      "I",
+      "V",
+      "O",
+      "I",
+      "R",
+      "D",
+      "N",
+      "S"
+    ],
+    [
+      "K",
+      "T",
+      "A",
+      "J",
+      "K",
+      "L",
+      "C",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "Q",
+      "M",
+      "D",
+      "T",
+      "A",
+      "N",
+      "F",
+      "K",
+      "U",
+      "W"
+    ],
+    [
+      "O",
+      "D",
+      "T",
+      "J",
+      "E",
+      "K",
+      "D",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "A",
+      "I",
+      "I",
+      "P",
+      "P",
+      "D",
+      "O",
+      "K",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.756Z"
+}

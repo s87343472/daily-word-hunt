@@ -1,0 +1,448 @@
+{
+  "id": "history-2026-11-21",
+  "playDate": "2026-11-21",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "I",
+      "Q",
+      "S",
+      "W",
+      "O",
+      "R",
+      "D",
+      "C",
+      "G",
+      "M",
+      "R"
+    ],
+    [
+      "O",
+      "P",
+      "N",
+      "N",
+      "C",
+      "Z",
+      "O",
+      "B",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "H",
+      "D",
+      "A",
+      "O",
+      "R",
+      "L",
+      "I",
+      "A",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "P",
+      "W",
+      "P",
+      "O",
+      "N",
+      "P",
+      "R",
+      "K",
+      "V",
+      "A"
+    ],
+    [
+      "D",
+      "Q",
+      "P",
+      "N",
+      "Y",
+      "A",
+      "T",
+      "P",
+      "V",
+      "O",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "Y",
+      "S",
+      "B",
+      "R",
+      "A",
+      "V",
+      "M",
+      "L",
+      "S"
+    ],
+    [
+      "F",
+      "F",
+      "Y",
+      "U",
+      "U",
+      "Q",
+      "U",
+      "D",
+      "N",
+      "U",
+      "S"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "V",
+      "E",
+      "S",
+      "T",
+      "S",
+      "J",
+      "T",
+      "A"
+    ],
+    [
+      "X",
+      "O",
+      "U",
+      "T",
+      "M",
+      "W",
+      "N",
+      "P",
+      "Q",
+      "I",
+      "N"
+    ],
+    [
+      "H",
+      "D",
+      "D",
+      "C",
+      "S",
+      "L",
+      "Y",
+      "E",
+      "K",
+      "O",
+      "C"
+    ],
+    [
+      "O",
+      "Q",
+      "B",
+      "O",
+      "E",
+      "U",
+      "I",
+      "M",
+      "C",
+      "N",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RAILROAD",
+      "gloss": "A track system for trains.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RENAISSANCE",
+      "gloss": "A revival of art and learning in Europe.",
+      "path": [
+        {
+          "r": 0,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 9,
+          "c": 10
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.238Z"
+}

@@ -1,0 +1,393 @@
+{
+  "id": "cities-2026-12-17",
+  "playDate": "2026-12-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Q",
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "H"
+    ],
+    [
+      "L",
+      "P",
+      "Z",
+      "B",
+      "L",
+      "F",
+      "H",
+      "R",
+      "C",
+      "C"
+    ],
+    [
+      "A",
+      "Q",
+      "R",
+      "O",
+      "A",
+      "J",
+      "S",
+      "M",
+      "O",
+      "O"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "U",
+      "C",
+      "O",
+      "A",
+      "R",
+      "L",
+      "R"
+    ],
+    [
+      "R",
+      "R",
+      "E",
+      "T",
+      "O",
+      "O",
+      "C",
+      "S",
+      "L",
+      "N"
+    ],
+    [
+      "P",
+      "N",
+      "X",
+      "I",
+      "L",
+      "G",
+      "I",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "O",
+      "B",
+      "C",
+      "Q",
+      "M",
+      "R",
+      "H",
+      "Y",
+      "G",
+      "C"
+    ],
+    [
+      "R",
+      "I",
+      "U",
+      "U",
+      "V",
+      "Z",
+      "A",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "L",
+      "E",
+      "E",
+      "P",
+      "U",
+      "P",
+      "G",
+      "Y",
+      "V"
+    ],
+    [
+      "X",
+      "K",
+      "R",
+      "K",
+      "Q",
+      "O",
+      "A",
+      "N",
+      "A",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BOUTIQUE",
+      "gloss": "A small specialized shop.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COLLEGE",
+      "gloss": "A school for higher education.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CORNICE",
+      "gloss": "A decorative molding at the top of a wall.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOCAL",
+      "gloss": "A person who lives in an area.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:14.052Z"
+}

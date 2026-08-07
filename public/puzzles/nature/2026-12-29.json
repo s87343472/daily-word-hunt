@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-12-29",
+  "playDate": "2026-12-29",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "O",
+      "R",
+      "F",
+      "F",
+      "V",
+      "F",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "F",
+      "F",
+      "H",
+      "E",
+      "U",
+      "P",
+      "S"
+    ],
+    [
+      "R",
+      "Y",
+      "H",
+      "Z",
+      "U",
+      "A",
+      "F",
+      "R",
+      "X",
+      "T"
+    ],
+    [
+      "I",
+      "D",
+      "T",
+      "R",
+      "E",
+      "M",
+      "M",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "Z",
+      "I",
+      "A",
+      "A",
+      "R",
+      "M",
+      "Z",
+      "J",
+      "D",
+      "R"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "P",
+      "M",
+      "G",
+      "Y",
+      "J",
+      "D",
+      "L"
+    ],
+    [
+      "N",
+      "C",
+      "F",
+      "Y",
+      "W",
+      "B",
+      "P",
+      "U",
+      "Z",
+      "I"
+    ],
+    [
+      "A",
+      "R",
+      "J",
+      "P",
+      "S",
+      "E",
+      "E",
+      "Z",
+      "X",
+      "G"
+    ],
+    [
+      "V",
+      "O",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
+      "H"
+    ],
+    [
+      "Z",
+      "L",
+      "N",
+      "D",
+      "N",
+      "R",
+      "G",
+      "R",
+      "X",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FUR",
+      "gloss": "The short fine hair of certain animals.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUMMER",
+      "gloss": "The warmest season of the year.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T07:34:13.863Z"
+}
