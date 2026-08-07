@@ -50,7 +50,7 @@ Optional archive links exist for sharing a specific day; the main product is alw
 
 See the **[Contact](/contact)** page for email and what to include in a bug report.
 
-Template inbox (replace before launch): `hello@daily-word-hunt.example`
+Public site: [words.sagasu.art](https://words.sagasu.art/). Contact details: [Contact](/contact).
 
 ## Feedback
 

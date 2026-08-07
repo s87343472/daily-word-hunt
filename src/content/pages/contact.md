@@ -14,9 +14,9 @@ We read messages about:
 
 ### Email
 
-**General & privacy:** [hello@daily-word-hunt.example](mailto:hello@daily-word-hunt.example)
+**General & privacy:** replace with your real inbox (e.g. a mailbox on `sagasu.art` or GitHub issues).
 
-> Replace this address with your real inbox before public launch. Until then, treat it as a template contact point.
+> Site: [words.sagasu.art](https://words.sagasu.art/). Update this page when you have a public contact email.
 
 ### What to include
 

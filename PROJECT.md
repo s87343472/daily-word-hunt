@@ -1,7 +1,8 @@
 # Daily Word Hunt — project map
 
-**Live:** https://daily-word-hunt.pages.dev/  
+**Live:** https://words.sagasu.art/  
 **Repo:** https://github.com/s87343472/daily-word-hunt  
+**Pages project URL (legacy):** https://daily-word-hunt.pages.dev/ (redirect to custom domain if configured)
 
 Play lives on **`/`**. Hosting: Cloudflare Pages + GitHub.
 
@@ -52,8 +53,8 @@ Old AstroPaper demo posts: `src/content/_archived-demo-posts/` (not published)
 - Home: WebSite + WebApplication JSON-LD
 - FAQ / How-to schemas; daily/pack pages with word lists
 
-After deploy: Search Console → property + submit  
-`https://daily-word-hunt.pages.dev/sitemap-index.xml`
+After deploy: Search Console → property **https://words.sagasu.art** + submit  
+`https://words.sagasu.art/sitemap-index.xml`
 
 ## Later
 

@@ -2,7 +2,7 @@
 
 Free **daily word search** (划词) in the browser — new puzzle every day, themed series, print & large print. Static site on **Cloudflare Pages**.
 
-**Live:** [https://daily-word-hunt.pages.dev/](https://daily-word-hunt.pages.dev/)
+**Live:** [https://words.sagasu.art/](https://words.sagasu.art/)
 
 ## Features
 
@@ -76,7 +76,8 @@ Actions → **Generate pack puzzles** → Run workflow (or daily cron UTC 11:00)
 | Output directory | `dist` |
 | Node | 22+ |
 
-Site URL in `astro-paper.config.ts` should match the deploy host (currently `https://daily-word-hunt.pages.dev/`).
+Canonical host: **`https://words.sagasu.art/`** (set in `astro-paper.config.ts`).  
+Cloudflare Pages project may still have a `*.pages.dev` URL; prefer the custom domain for links, sitemap, and Search Console.
 
 ## Project docs
 

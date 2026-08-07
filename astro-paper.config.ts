@@ -2,12 +2,12 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://daily-word-hunt.pages.dev/",
+    url: "https://words.sagasu.art/",
     title: "Daily Word Hunt",
     description:
       "Free daily word search in your browser. New puzzle every day — drag or tap to find the words. Print and large print supported.",
     author: "Daily Word Hunt",
-    profile: "https://daily-word-hunt.pages.dev/",
+    profile: "https://words.sagasu.art/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "America/New_York",
@@ -29,8 +29,9 @@ export default defineAstroPaperConfig({
     },
     search: "pagefind",
   },
-  // Fill in when the project is public.
-  socials: [],
+  socials: [
+    { name: "github", url: "https://github.com/s87343472/daily-word-hunt" },
+  ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
     { name: "facebook", url: "https://www.facebook.com/sharer.php?u=" },

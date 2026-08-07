@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Live site
-    url: https://daily-word-hunt.pages.dev/
+    url: https://words.sagasu.art/
     about: Play today’s free daily word search
   - name: Actions (puzzle refill)
     url: https://github.com/s87343472/daily-word-hunt/actions
