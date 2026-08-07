@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-01-03",
+  "playDate": "2027-01-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "G",
+      "W",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "Y",
+      "C",
+      "K",
+      "S"
+    ],
+    [
+      "U",
+      "R",
+      "F",
+      "M",
+      "A",
+      "R",
+      "F",
+      "L",
+      "Y",
+      "S"
+    ],
+    [
+      "H",
+      "N",
+      "Y",
+      "M",
+      "O",
+      "U",
+      "A",
+      "S",
+      "I",
+      "A"
+    ],
+    [
+      "G",
+      "T",
+      "P",
+      "T",
+      "G",
+      "W",
+      "T",
+      "S",
+      "M",
+      "P"
+    ],
+    [
+      "H",
+      "U",
+      "C",
+      "H",
+      "D",
+      "N",
+      "Y",
+      "L",
+      "Z",
+      "R"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "R",
+      "E",
+      "M",
+      "I",
+      "Z",
+      "H",
+      "E"
+    ],
+    [
+      "F",
+      "B",
+      "A",
+      "S",
+      "T",
+      "I",
+      "O",
+      "N",
+      "L",
+      "V"
+    ],
+    [
+      "M",
+      "O",
+      "I",
+      "Z",
+      "P",
+      "J",
+      "V",
+      "Z",
+      "O",
+      "O"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "L",
+      "L",
+      "E",
+      "C",
+      "V",
+      "T",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BOARDWALK",
+      "gloss": "A wooden walkway along a beach.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HARBORSIDE",
+      "gloss": "The area beside a harbor.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OVERPASS",
+      "gloss": "A bridge carrying one road over another.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.183Z"
+}

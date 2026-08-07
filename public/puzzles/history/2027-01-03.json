@@ -1,0 +1,429 @@
+{
+  "id": "history-2027-01-03",
+  "playDate": "2027-01-03",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "I",
+      "E",
+      "R",
+      "O",
+      "G",
+      "L",
+      "Y",
+      "P",
+      "H"
+    ],
+    [
+      "C",
+      "E",
+      "Q",
+      "V",
+      "E",
+      "X",
+      "Q",
+      "T",
+      "C",
+      "E"
+    ],
+    [
+      "V",
+      "L",
+      "X",
+      "J",
+      "Y",
+      "U",
+      "E",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "E",
+      "C",
+      "Q",
+      "E",
+      "U",
+      "K",
+      "O",
+      "U",
+      "H",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "E",
+      "H",
+      "S",
+      "S",
+      "S",
+      "S",
+      "J",
+      "V"
+    ],
+    [
+      "U",
+      "N",
+      "N",
+      "U",
+      "G",
+      "A",
+      "T",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "M",
+      "E",
+      "Y",
+      "K",
+      "I",
+      "S",
+      "I"
+    ],
+    [
+      "Y",
+      "R",
+      "B",
+      "R",
+      "N",
+      "V",
+      "O",
+      "N",
+      "C",
+      "D"
+    ],
+    [
+      "F",
+      "H",
+      "T",
+      "W",
+      "K",
+      "O",
+      "W",
+      "Y",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "C",
+      "I",
+      "T",
+      "S",
+      "I",
+      "M",
+      "R",
+      "A",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CHRONICLE",
+      "gloss": "A written record of events.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JUSTICE",
+      "gloss": "Fair treatment under the law.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEDIEVAL",
+      "gloss": "Relating to the Middle Ages.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MUSKET",
+      "gloss": "An early type of gun.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RUNE",
+      "gloss": "A letter of an ancient alphabet.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Stored valuable wealth.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.202Z"
+}

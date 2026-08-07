@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-01-03",
+  "playDate": "2027-01-03",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "D",
+      "H",
+      "E",
+      "H",
+      "N",
+      "A",
+      "C",
+      "D",
+      "U"
+    ],
+    [
+      "E",
+      "C",
+      "J",
+      "V",
+      "Y",
+      "H",
+      "X",
+      "L",
+      "K",
+      "S"
+    ],
+    [
+      "W",
+      "C",
+      "B",
+      "E",
+      "A",
+      "S",
+      "E",
+      "O",
+      "U",
+      "W"
+    ],
+    [
+      "F",
+      "I",
+      "T",
+      "Z",
+      "G",
+      "I",
+      "S",
+      "T",
+      "Q",
+      "R"
+    ],
+    [
+      "R",
+      "N",
+      "N",
+      "E",
+      "F",
+      "O",
+      "O",
+      "O",
+      "W",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "K",
+      "T",
+      "V",
+      "L",
+      "R",
+      "T",
+      "M",
+      "I"
+    ],
+    [
+      "W",
+      "B",
+      "E",
+      "L",
+      "E",
+      "N",
+      "J",
+      "G",
+      "H",
+      "N"
+    ],
+    [
+      "Z",
+      "H",
+      "X",
+      "F",
+      "G",
+      "R",
+      "H",
+      "M",
+      "E",
+      "B"
+    ],
+    [
+      "W",
+      "B",
+      "G",
+      "Y",
+      "Y",
+      "Q",
+      "F",
+      "J",
+      "S",
+      "O"
+    ],
+    [
+      "U",
+      "Y",
+      "E",
+      "L",
+      "L",
+      "A",
+      "V",
+      "A",
+      "Y",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.165Z"
+}

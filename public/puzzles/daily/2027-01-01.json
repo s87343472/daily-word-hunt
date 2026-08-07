@@ -1,0 +1,357 @@
+{
+  "id": "daily-2027-01-01",
+  "playDate": "2027-01-01",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "T",
+      "E",
+      "M",
+      "A",
+      "N",
+      "G",
+      "H",
+      "I",
+      "V"
+    ],
+    [
+      "A",
+      "X",
+      "L",
+      "M",
+      "O",
+      "R",
+      "N",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "T",
+      "T",
+      "U",
+      "P",
+      "Z",
+      "L",
+      "R",
+      "Y",
+      "W"
+    ],
+    [
+      "L",
+      "G",
+      "S",
+      "B",
+      "O",
+      "E",
+      "W",
+      "M",
+      "E",
+      "K"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "A",
+      "L",
+      "B",
+      "N",
+      "U",
+      "Y",
+      "W"
+    ],
+    [
+      "C",
+      "F",
+      "C",
+      "B",
+      "O",
+      "O",
+      "U",
+      "G",
+      "E",
+      "C"
+    ],
+    [
+      "S",
+      "A",
+      "B",
+      "O",
+      "Q",
+      "B",
+      "C",
+      "R",
+      "B",
+      "W"
+    ],
+    [
+      "E",
+      "U",
+      "M",
+      "H",
+      "U",
+      "P",
+      "I",
+      "K",
+      "H",
+      "N"
+    ],
+    [
+      "R",
+      "X",
+      "M",
+      "U",
+      "M",
+      "W",
+      "L",
+      "O",
+      "B",
+      "Y"
+    ],
+    [
+      "J",
+      "P",
+      "W",
+      "P",
+      "S",
+      "S",
+      "P",
+      "H",
+      "D",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOAST",
+      "gloss": "To speak with pride about oneself.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GARLIC",
+      "gloss": "A pungent bulb used in cooking.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LOCK",
+      "gloss": "A fastening device; also a canal section.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MORNING",
+      "gloss": "The early part of the day.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RUBBLE",
+      "gloss": "Broken fragments of rock or building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUMAC",
+      "gloss": "A shrub with clustered fruit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WIRE",
+      "gloss": "Metal drawn into a thin flexible thread.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.145Z"
+}

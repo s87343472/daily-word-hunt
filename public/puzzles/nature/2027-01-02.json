@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-01-02",
+  "playDate": "2027-01-02",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "N",
+      "B",
+      "E",
+      "A",
+      "V",
+      "E",
+      "R",
+      "V",
+      "K"
+    ],
+    [
+      "H",
+      "E",
+      "N",
+      "L",
+      "V",
+      "T",
+      "T",
+      "E",
+      "I",
+      "M"
+    ],
+    [
+      "O",
+      "U",
+      "A",
+      "C",
+      "O",
+      "R",
+      "E",
+      "S",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "T",
+      "O",
+      "K",
+      "E",
+      "V",
+      "R",
+      "T",
+      "X",
+      "N"
+    ],
+    [
+      "U",
+      "Z",
+      "T",
+      "S",
+      "Q",
+      "F",
+      "U",
+      "Q",
+      "L",
+      "E"
+    ],
+    [
+      "Y",
+      "B",
+      "E",
+      "E",
+      "P",
+      "O",
+      "N",
+      "D",
+      "O",
+      "S"
+    ],
+    [
+      "H",
+      "D",
+      "O",
+      "K",
+      "R",
+      "S",
+      "A",
+      "R",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "G",
+      "V",
+      "P",
+      "U",
+      "S",
+      "Q",
+      "G",
+      "N",
+      "L"
+    ],
+    [
+      "C",
+      "I",
+      "S",
+      "G",
+      "Q",
+      "I",
+      "K",
+      "U",
+      "N",
+      "G"
+    ],
+    [
+      "B",
+      "L",
+      "U",
+      "C",
+      "V",
+      "L",
+      "O",
+      "A",
+      "L",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.163Z"
+}

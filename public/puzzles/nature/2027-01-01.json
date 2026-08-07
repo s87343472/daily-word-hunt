@@ -1,0 +1,365 @@
+{
+  "id": "nature-2027-01-01",
+  "playDate": "2027-01-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "L",
+      "H",
+      "S",
+      "C",
+      "W",
+      "V",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "M",
+      "V",
+      "E",
+      "P",
+      "M",
+      "L",
+      "E",
+      "I",
+      "U",
+      "J"
+    ],
+    [
+      "J",
+      "O",
+      "M",
+      "N",
+      "U",
+      "E",
+      "M",
+      "Z",
+      "G",
+      "U"
+    ],
+    [
+      "Q",
+      "O",
+      "O",
+      "L",
+      "O",
+      "M",
+      "A",
+      "V",
+      "H",
+      "O"
+    ],
+    [
+      "B",
+      "V",
+      "L",
+      "R",
+      "U",
+      "C",
+      "H",
+      "D",
+      "H",
+      "X"
+    ],
+    [
+      "Z",
+      "I",
+      "A",
+      "S",
+      "H",
+      "Q",
+      "E",
+      "E",
+      "O",
+      "P"
+    ],
+    [
+      "H",
+      "M",
+      "Z",
+      "M",
+      "Q",
+      "S",
+      "G",
+      "N",
+      "R",
+      "W"
+    ],
+    [
+      "L",
+      "U",
+      "D",
+      "O",
+      "D",
+      "J",
+      "U",
+      "X",
+      "I",
+      "D"
+    ],
+    [
+      "R",
+      "L",
+      "N",
+      "S",
+      "B",
+      "B",
+      "S",
+      "M",
+      "B",
+      "P"
+    ],
+    [
+      "S",
+      "R",
+      "F",
+      "S",
+      "A",
+      "L",
+      "G",
+      "A",
+      "E",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.160Z"
+}

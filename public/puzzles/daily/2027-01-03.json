@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-01-03",
+  "playDate": "2027-01-03",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "T",
+      "Y",
+      "R",
+      "V",
+      "R",
+      "H",
+      "U",
+      "B",
+      "A"
+    ],
+    [
+      "W",
+      "X",
+      "E",
+      "E",
+      "Q",
+      "T",
+      "I",
+      "T",
+      "K",
+      "N"
+    ],
+    [
+      "W",
+      "J",
+      "J",
+      "R",
+      "U",
+      "X",
+      "C",
+      "V",
+      "Y",
+      "X"
+    ],
+    [
+      "H",
+      "P",
+      "C",
+      "O",
+      "R",
+      "K",
+      "I",
+      "T",
+      "E",
+      "Y"
+    ],
+    [
+      "T",
+      "O",
+      "S",
+      "K",
+      "J",
+      "U",
+      "M",
+      "Z",
+      "Q",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "M",
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "V",
+      "P",
+      "O",
+      "I",
+      "H",
+      "C",
+      "R",
+      "H",
+      "L",
+      "W"
+    ],
+    [
+      "L",
+      "N",
+      "Z",
+      "W",
+      "Z",
+      "E",
+      "F",
+      "V",
+      "D",
+      "I"
+    ],
+    [
+      "E",
+      "Q",
+      "I",
+      "W",
+      "E",
+      "O",
+      "A",
+      "L",
+      "F",
+      "N"
+    ],
+    [
+      "V",
+      "T",
+      "W",
+      "O",
+      "Z",
+      "L",
+      "N",
+      "W",
+      "X",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "KITE",
+      "gloss": "A light frame flown on a string in the wind.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MUSTARD",
+      "gloss": "A spicy yellow condiment.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SOUTH",
+      "gloss": "The direction opposite north.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOWEL",
+      "gloss": "An absorbent cloth for drying.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VELVET",
+      "gloss": "A soft fabric with a short dense pile.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T11:40:05.153Z"
+}
