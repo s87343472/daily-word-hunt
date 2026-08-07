@@ -6,6 +6,12 @@ name = "daily-word-hunt"
 compatibility_date = "2026-08-07"
 pages_build_output_dir = "dist"
 
+# Non-secret runtime vars for Pages Functions (OAuth client id is public by design).
+# GOOGLE_CLIENT_SECRET must stay a Pages Secret in the dashboard (never commit).
+[vars]
+SITE_URL = "https://words.sagasu.art"
+GOOGLE_CLIENT_ID = "501796393971-gi2ioot730hj1bd8n4qmg5jegbn6ap1m.apps.googleusercontent.com"
+
 # After: wrangler d1 create daily-word-hunt
 # paste database_id below, then:
 #   wrangler d1 execute daily-word-hunt --remote --file=cloudflare/schema.sql
