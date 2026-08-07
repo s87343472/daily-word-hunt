@@ -15,9 +15,10 @@ Daily Word Hunt is built for calm screen play, but paper and larger type are fir
 
 ## Print today’s puzzle
 
-1. Open [Print](/print).
-2. Use your browser print dialog (**Cmd/Ctrl + P**).
-3. Game chrome (timer, buttons) is hidden in print CSS where possible.
+1. Open [Print](/print) — you get a **worksheet** layout (title, letter grid, word list), not the interactive game.
+2. Tap **Print** for one-click browser print, or use **Cmd/Ctrl + P**.
+3. Site header, footer, and toolbar stay off the page; only the worksheet prints.
+4. Optional: `/print?date=YYYY-MM-DD` for a past daily (on or before today).
 
 Tip: choose “background graphics” if your browser strips letter cell colors and you want them.
 

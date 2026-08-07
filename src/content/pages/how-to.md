@@ -42,8 +42,8 @@ Only **straight lines** — no bends or zigzags.
 
 ## Accessibility
 
-- **Large print** — toggle on the puzzle page or open with large print linked from the footer tools.
-- **Print** — open Print, then use your browser’s print dialog (Cmd/Ctrl+P). Extra chrome hides on paper.
+- **Large print** — toggle on the puzzle page for bigger letters on screen.
+- **Print** — open [Print](/print) for a clean worksheet (grid + word list). Tap **Print** for one-click browser print, or use Cmd/Ctrl+P. Site chrome is hidden on paper.
 
 ## Stuck?
 

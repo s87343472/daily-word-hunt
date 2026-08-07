@@ -45,7 +45,7 @@ A bigger letter size for easier reading. Toggle it under the puzzle or use the l
 
 ### Can I print the puzzle?
 
-Yes — open **[Print](/print)**, then use your browser’s print dialog (Cmd/Ctrl+P).
+Yes — open **[Print](/print)** for a clean worksheet (grid + word list), then tap **Print** or use Cmd/Ctrl+P.
 
 ## Content & themes
 
