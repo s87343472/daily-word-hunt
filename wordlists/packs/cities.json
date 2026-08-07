@@ -1,0 +1,765 @@
+{
+  "pack": "cities",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary.",
+  "size": 10,
+  "wordsPerDay": 8,
+  "words": [
+    {
+      "word": "STREET",
+      "gloss": "A public road in a city or town."
+    },
+    {
+      "word": "AVENUE",
+      "gloss": "A wide road in a city."
+    },
+    {
+      "word": "BOULEVARD",
+      "gloss": "A broad city street often tree-lined."
+    },
+    {
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings."
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap."
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage."
+    },
+    {
+      "word": "PLAZA",
+      "gloss": "A public open square."
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town."
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place where goods are bought and sold."
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships."
+    },
+    {
+      "word": "PORT",
+      "gloss": "A town with a harbor for ships."
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats."
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop."
+    },
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land."
+    },
+    {
+      "word": "TERMINAL",
+      "gloss": "A station at the end of a transport line."
+    },
+    {
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system."
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city."
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver."
+    },
+    {
+      "word": "SIDEWALK",
+      "gloss": "A paved path for pedestrians."
+    },
+    {
+      "word": "CROSSWALK",
+      "gloss": "A marked place to cross a street."
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky."
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure."
+    },
+    {
+      "word": "SKYRISE",
+      "gloss": "A very tall building."
+    },
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building."
+    },
+    {
+      "word": "NEIGHBOR",
+      "gloss": "A person living nearby."
+    },
+    {
+      "word": "DISTRICT",
+      "gloss": "An area of a city with a particular character."
+    },
+    {
+      "word": "DOWNTOWN",
+      "gloss": "The central business area of a city."
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center."
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city."
+    },
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school."
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A building that displays collections."
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books for borrowing."
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances."
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays."
+    },
+    {
+      "word": "STADIUM",
+      "gloss": "A large sports arena."
+    },
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance."
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air."
+    },
+    {
+      "word": "MONUMENT",
+      "gloss": "A structure built to remember a person or event."
+    },
+    {
+      "word": "STATUE",
+      "gloss": "A carved or cast figure of a person or animal."
+    },
+    {
+      "word": "LANDMARK",
+      "gloss": "A feature that is easily recognized."
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church."
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship."
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty."
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence."
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building."
+    },
+    {
+      "word": "CLOCKTOWER",
+      "gloss": "A tower with a large public clock."
+    },
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building."
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building."
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings."
+    },
+    {
+      "word": "ARCADE",
+      "gloss": "A covered walk with shops."
+    },
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls."
+    },
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals."
+    },
+    {
+      "word": "BAKERY",
+      "gloss": "A place that makes and sells bread."
+    },
+    {
+      "word": "HOTEL",
+      "gloss": "A place that provides paid lodging."
+    },
+    {
+      "word": "INN",
+      "gloss": "A small hotel, often in the countryside."
+    },
+    {
+      "word": "HOSTEL",
+      "gloss": "Inexpensive shared lodging."
+    },
+    {
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation."
+    },
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach."
+    },
+    {
+      "word": "WATERFRONT",
+      "gloss": "Land along a body of water."
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water."
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water."
+    },
+    {
+      "word": "LIGHTHOUSE",
+      "gloss": "A tower with a light to guide ships."
+    },
+    {
+      "word": "CANAL",
+      "gloss": "An artificial waterway."
+    },
+    {
+      "word": "RIVERWALK",
+      "gloss": "A path along a river in a city."
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation."
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play."
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants."
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display."
+    },
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals."
+    },
+    {
+      "word": "OBSERVATORY",
+      "gloss": "A building for observing stars."
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher education."
+    },
+    {
+      "word": "COLLEGE",
+      "gloss": "A school for higher education."
+    },
+    {
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick."
+    },
+    {
+      "word": "CLINIC",
+      "gloss": "A place for medical treatment."
+    },
+    {
+      "word": "PHARMACY",
+      "gloss": "A shop that sells medicines."
+    },
+    {
+      "word": "POSTOFFICE",
+      "gloss": "A place for sending mail."
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government."
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts."
+    },
+    {
+      "word": "EMBASSY",
+      "gloss": "The office of a foreign country’s representatives."
+    },
+    {
+      "word": "CONSULATE",
+      "gloss": "An office that helps citizens abroad."
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions."
+    },
+    {
+      "word": "CUSTOMS",
+      "gloss": "Officials who check goods entering a country."
+    },
+    {
+      "word": "PASSPORT",
+      "gloss": "An official travel document."
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country."
+    },
+    {
+      "word": "TICKET",
+      "gloss": "A pass for travel or entry."
+    },
+    {
+      "word": "LUGGAGE",
+      "gloss": "Bags taken on a journey."
+    },
+    {
+      "word": "SUITCASE",
+      "gloss": "A case for carrying clothes while traveling."
+    },
+    {
+      "word": "BACKPACK",
+      "gloss": "A bag carried on the back."
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features."
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north."
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information."
+    },
+    {
+      "word": "ITINERARY",
+      "gloss": "A planned route or schedule of travel."
+    },
+    {
+      "word": "JOURNEY",
+      "gloss": "Travel from one place to another."
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air."
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose."
+    },
+    {
+      "word": "DESTINATION",
+      "gloss": "The place someone is going to."
+    },
+    {
+      "word": "HOMETOWN",
+      "gloss": "The town where someone grew up."
+    },
+    {
+      "word": "CAPITAL",
+      "gloss": "The city where a government is based."
+    },
+    {
+      "word": "METROPOLIS",
+      "gloss": "A very large city."
+    },
+    {
+      "word": "VILLAGE",
+      "gloss": "A small settlement."
+    },
+    {
+      "word": "HAMLET",
+      "gloss": "A very small village."
+    },
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city."
+    },
+    {
+      "word": "COUNTY",
+      "gloss": "A territorial division within a country."
+    },
+    {
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country."
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country."
+    },
+    {
+      "word": "NEIGHBORHOOD",
+      "gloss": "A local area within a city."
+    },
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets."
+    },
+    {
+      "word": "CORNER",
+      "gloss": "Where two streets meet."
+    },
+    {
+      "word": "INTERSECTION",
+      "gloss": "A place where roads cross."
+    },
+    {
+      "word": "ROUNDABOUT",
+      "gloss": "A circular road junction."
+    },
+    {
+      "word": "HIGHWAY",
+      "gloss": "A main public road."
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road."
+    },
+    {
+      "word": "EXPRESSWAY",
+      "gloss": "A high-speed divided highway."
+    },
+    {
+      "word": "OVERPASS",
+      "gloss": "A bridge carrying one road over another."
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway."
+    },
+    {
+      "word": "BIKELANE",
+      "gloss": "A path reserved for bicycles."
+    },
+    {
+      "word": "PARKING",
+      "gloss": "A place to leave vehicles."
+    },
+    {
+      "word": "GARAGE",
+      "gloss": "A building for parking cars."
+    },
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors."
+    },
+    {
+      "word": "ESCALATOR",
+      "gloss": "A moving staircase."
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall."
+    },
+    {
+      "word": "ATRIUM",
+      "gloss": "A large open central space in a building."
+    },
+    {
+      "word": "PENTHOUSE",
+      "gloss": "An apartment on the top floor."
+    },
+    {
+      "word": "BASEMENT",
+      "gloss": "The floor of a building below ground."
+    },
+    {
+      "word": "ALLEYWAY",
+      "gloss": "A narrow path between buildings."
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road."
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships."
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships."
+    },
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water."
+    },
+    {
+      "word": "MARINA",
+      "gloss": "A dock for pleasure boats."
+    },
+    {
+      "word": "BOARDWALK",
+      "gloss": "A wooden walkway along a beach."
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking."
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area."
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house."
+    },
+    {
+      "word": "BALUSTRADE",
+      "gloss": "A railing supported by balusters."
+    },
+    {
+      "word": "FACADE",
+      "gloss": "The front of a building."
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar."
+    },
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage."
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof."
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof."
+    },
+    {
+      "word": "CUPOLA",
+      "gloss": "A small dome on a roof."
+    },
+    {
+      "word": "STEPPLE",
+      "gloss": "A church tower with a spire."
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time."
+    },
+    {
+      "word": "BELL",
+      "gloss": "A hollow metal object that rings when struck."
+    },
+    {
+      "word": "MARKETPLACE",
+      "gloss": "An open area for buying and selling."
+    },
+    {
+      "word": "FOODHALL",
+      "gloss": "A large indoor space with many food vendors."
+    },
+    {
+      "word": "BOUTIQUE",
+      "gloss": "A small specialized shop."
+    },
+    {
+      "word": "BOOKSHOP",
+      "gloss": "A store that sells books."
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers."
+    },
+    {
+      "word": "KIOSK",
+      "gloss": "A small open-fronted booth."
+    },
+    {
+      "word": "BENCH",
+      "gloss": "A long seat for several people."
+    },
+    {
+      "word": "LAMPOST",
+      "gloss": "A tall post with a light."
+    },
+    {
+      "word": "SIGNPOST",
+      "gloss": "A post with directional signs."
+    },
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board."
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall."
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces."
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration."
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession."
+    },
+    {
+      "word": "CARNIVAL",
+      "gloss": "A festive public event."
+    },
+    {
+      "word": "FIREWORKS",
+      "gloss": "Explosive devices used for display."
+    },
+    {
+      "word": "CROWD",
+      "gloss": "A large group of people."
+    },
+    {
+      "word": "TRAFFIC",
+      "gloss": "Vehicles moving on a road."
+    },
+    {
+      "word": "COMMUTE",
+      "gloss": "Regular travel between home and work."
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic."
+    },
+    {
+      "word": "PEDESTRIAN",
+      "gloss": "A person walking in a city."
+    },
+    {
+      "word": "CYCLIST",
+      "gloss": "A person who rides a bicycle."
+    },
+    {
+      "word": "DRIVER",
+      "gloss": "A person who drives a vehicle."
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle."
+    },
+    {
+      "word": "TOURIST",
+      "gloss": "A person visiting a place for pleasure."
+    },
+    {
+      "word": "LOCAL",
+      "gloss": "A person who lives in an area."
+    },
+    {
+      "word": "RESIDENT",
+      "gloss": "A person who lives somewhere permanently."
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country."
+    },
+    {
+      "word": "MAYOR",
+      "gloss": "The elected head of a city."
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that governs a local area."
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used."
+    },
+    {
+      "word": "OUTSKIRTS",
+      "gloss": "The outer parts of a city."
+    },
+    {
+      "word": "INNERCITY",
+      "gloss": "The central older part of a city."
+    },
+    {
+      "word": "WATERTOWER",
+      "gloss": "A tower storing water for a town."
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity."
+    },
+    {
+      "word": "SEWER",
+      "gloss": "An underground drain for waste water."
+    },
+    {
+      "word": "PIPELINE",
+      "gloss": "A long pipe for oil or gas."
+    },
+    {
+      "word": "RAILWAY",
+      "gloss": "A track for trains."
+    },
+    {
+      "word": "PLATFORM",
+      "gloss": "A raised area beside railway tracks."
+    },
+    {
+      "word": "TURNTILE",
+      "gloss": "A revolving gate for controlling entry."
+    },
+    {
+      "word": "TICKETBOOTH",
+      "gloss": "A small office that sells tickets."
+    },
+    {
+      "word": "INFORMATION",
+      "gloss": "A desk or place that provides help."
+    },
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere."
+    },
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is."
+    },
+    {
+      "word": "POSTCODE",
+      "gloss": "A code for a postal area."
+    }
+  ]
+}

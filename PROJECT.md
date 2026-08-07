@@ -6,11 +6,14 @@ Play lives on **`/`**. GitHub/Pages comes later; perfect content locally first.
 
 | Path | Purpose |
 |------|---------|
-| `/` | **Today’s puzzle** (main product) |
+| `/` | **Today’s puzzle** (default series: `daily`) |
+| `/packs` | Series & themes directory |
+| `/packs/{id}` | Pack hub (today + archive) |
+| `/packs/{id}/{date}` | One day of a series |
 | `/how-to` | How to play |
-| `/past` | List of released daily dates |
-| `/daily/YYYY-MM-DD` | One past day (share / deep link) |
-| `/print` | Printable today |
+| `/past` | Default-pack date list |
+| `/daily/YYYY-MM-DD` | Short URL for default pack day |
+| `/print` | Printable today (default pack) |
 | `/about` | Product about + roadmap |
 | `/faq` | Frequently asked questions |
 | `/privacy` | Privacy Policy |
@@ -18,6 +21,13 @@ Play lives on **`/`**. GitHub/Pages comes later; perfect content locally first.
 | `/contact` | Contact (replace template email before launch) |
 | `/posts` | Tips & guides (not the main play entry) |
 | `/search` | Search tips |
+
+## Packs / series
+
+- Registry: `packs/catalog.json`
+- Word pools: `wordlists/packs/{id}.json`
+- Grids: `public/puzzles/{id}/YYYY-MM-DD.json`
+- Generate: `pnpm gen:packs` or GitHub Action `generate-puzzles.yml`
 
 ## Nav
 

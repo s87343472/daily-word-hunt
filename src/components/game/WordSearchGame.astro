@@ -8,8 +8,13 @@
 type Props = {
   puzzleUrl?: string;
   puzzleJson?: string;
-  /** Load /puzzles/YYYY-MM-DD.json for "today" in timezone (home page). */
+  /**
+   * Load today's calendar puzzle for a pack:
+   * /puzzles/{packId}/YYYY-MM-DD.json in site timezone.
+   */
   daily?: boolean;
+  /** Pack / series id (default daily). Used with daily=true. */
+  packId?: string;
   timezone?: string;
   fallbackUrl?: string;
   largePrint?: boolean;
@@ -22,6 +27,7 @@ const {
   puzzleUrl = "/puzzles/sample.json",
   puzzleJson,
   daily = false,
+  packId = "daily",
   timezone = "America/New_York",
   fallbackUrl = "/puzzles/sample.json",
   largePrint = false,
@@ -37,6 +43,7 @@ const {
   data-puzzle-url={puzzleJson || daily ? undefined : puzzleUrl}
   data-puzzle={puzzleJson}
   data-daily={daily ? "1" : undefined}
+  data-pack={daily ? packId : undefined}
   data-tz={daily ? timezone : undefined}
   data-fallback={daily ? fallbackUrl : undefined}
 >
@@ -539,16 +546,17 @@ const {
       const inline = root.dataset.puzzle;
       if (inline) return JSON.parse(inline) as Puzzle;
 
-      // Home: release by calendar day in site TZ (no /play/date URL required)
+      // Calendar series: /puzzles/{pack}/{YYYY-MM-DD}.json in site TZ
       if (root.dataset.daily === "1") {
         const tz = root.dataset.tz || "America/New_York";
+        const pack = root.dataset.pack || "daily";
         const today = formatDateInTz(new Date(), tz);
-        const primary = `/puzzles/${today}.json`;
+        const primary = `/puzzles/${pack}/${today}.json`;
         const fallback = root.dataset.fallback || "/puzzles/sample.json";
         try {
           return await fetchPuzzle(primary);
         } catch {
-          console.warn(`No puzzle for ${today}, using fallback`);
+          console.warn(`No puzzle for ${pack}/${today}, using fallback`);
           return await fetchPuzzle(fallback);
         }
       }

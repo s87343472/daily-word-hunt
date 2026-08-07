@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "defaultPackId": "daily",
+  "packs": [
+    {
+      "id": "daily",
+      "title": "Daily Word Hunt",
+      "shortTitle": "Daily",
+      "description": "The main free daily word search — general vocabulary, new grid every day.",
+      "theme": "general",
+      "schedule": "calendar",
+      "wordlist": "wordlists/packs/daily.json",
+      "featured": true,
+      "nav": true,
+      "size": 10,
+      "wordsPerDay": 8,
+      "dedupeDays": 30,
+      "horizonDays": 21
+    },
+    {
+      "id": "nature",
+      "title": "Nature Series",
+      "shortTitle": "Nature",
+      "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+      "theme": "nature",
+      "schedule": "calendar",
+      "wordlist": "wordlists/packs/nature.json",
+      "featured": true,
+      "nav": true,
+      "size": 10,
+      "wordsPerDay": 8,
+      "dedupeDays": 30,
+      "horizonDays": 21
+    },
+    {
+      "id": "cities",
+      "title": "Cities & Places",
+      "shortTitle": "Cities",
+      "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+      "theme": "places",
+      "schedule": "calendar",
+      "wordlist": "wordlists/packs/cities.json",
+      "featured": true,
+      "nav": true,
+      "size": 10,
+      "wordsPerDay": 8,
+      "dedupeDays": 30,
+      "horizonDays": 21
+    }
+  ]
+}

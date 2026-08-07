@@ -4,6 +4,7 @@ export interface UIStrings {
     today: string;
     howTo: string;
     past: string;
+    packs: string;
     posts: string;
     tags: string;
     about: string;

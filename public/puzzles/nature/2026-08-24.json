@@ -1,0 +1,373 @@
+{
+  "id": "nature-2026-08-24",
+  "playDate": "2026-08-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "R",
+      "Z",
+      "O",
+      "G",
+      "H",
+      "E",
+      "D",
+      "V",
+      "R"
+    ],
+    [
+      "T",
+      "P",
+      "I",
+      "N",
+      "E",
+      "C",
+      "O",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "H",
+      "H",
+      "I",
+      "V",
+      "I",
+      "U",
+      "S",
+      "D",
+      "D",
+      "D"
+    ],
+    [
+      "U",
+      "W",
+      "T",
+      "I",
+      "B",
+      "U",
+      "L",
+      "B",
+      "C",
+      "D"
+    ],
+    [
+      "N",
+      "G",
+      "N",
+      "V",
+      "U",
+      "U",
+      "Z",
+      "U",
+      "R",
+      "M"
+    ],
+    [
+      "D",
+      "N",
+      "H",
+      "K",
+      "O",
+      "F",
+      "Q",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "M",
+      "B",
+      "C",
+      "M",
+      "U",
+      "L",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "B",
+      "G",
+      "O",
+      "V",
+      "Z",
+      "K",
+      "E"
+    ],
+    [
+      "Z",
+      "L",
+      "E",
+      "G",
+      "W",
+      "T",
+      "L",
+      "Q",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "G",
+      "P",
+      "R",
+      "O",
+      "A",
+      "R",
+      "F",
+      "T",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "gloss": "The sound that follows lightning.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.984Z"
+}

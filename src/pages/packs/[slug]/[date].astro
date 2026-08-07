@@ -1,0 +1,216 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import {
+  formatDateInTimeZone,
+  isValidPuzzleDate,
+} from "@/lib/puzzle/daily";
+import {
+  getAllPacks,
+  getPack,
+  listPackDates,
+  puzzleJsonPath,
+} from "@/lib/puzzle/packs";
+import {
+  breadcrumbSchema,
+  dailyPuzzleSchema,
+} from "@/lib/seo/schemas";
+import config from "@/config";
+
+type PuzzleFile = {
+  title?: string;
+  description?: string;
+  words?: { word: string; gloss?: string }[];
+};
+
+export function getStaticPaths() {
+  const paths: { params: { slug: string; date: string } }[] = [];
+  for (const pack of getAllPacks()) {
+    for (const date of listPackDates(pack.id)) {
+      paths.push({ params: { slug: pack.id, date } });
+    }
+  }
+  return paths;
+}
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const slug = Astro.params.slug ?? "";
+const date = Astro.params.date ?? "";
+const pack = getPack(slug);
+const tz = config.site.timezone;
+const today = formatDateInTimeZone(new Date(), tz);
+
+if (!pack || !isValidPuzzleDate(date)) {
+  return Astro.redirect(getRelativeLocaleUrl(locale, "packs"), 302);
+}
+
+const isFuture = date > today;
+let puzzle: PuzzleFile = {};
+const fsPath = path.join(
+  process.cwd(),
+  "public/puzzles",
+  pack.id,
+  `${date}.json`
+);
+if (fs.existsSync(fsPath)) {
+  puzzle = JSON.parse(fs.readFileSync(fsPath, "utf8")) as PuzzleFile;
+}
+
+const words = (puzzle.words ?? []).map(w => w.word.toUpperCase());
+const wordPreview = words.slice(0, 8).join(", ");
+const title = `${pack.shortTitle ?? pack.title} Word Search ${date} | ${config.site.title}`;
+const description = wordPreview
+  ? `${pack.title} word search for ${date}. Find: ${wordPreview}${words.length > 8 ? ", and more" : ""}.`
+  : `${pack.title} word search for ${date}. Free browser play.`;
+
+const largePrint = Astro.url.searchParams.get("a11y") === "1";
+const puzzleUrl = puzzleJsonPath(pack.id, date);
+---
+
+<Layout {title} {description} noindex={isFuture}>
+  <Fragment slot="head">
+    {
+      !isFuture && (
+        <>
+          <JsonLd
+            data={dailyPuzzleSchema({
+              date,
+              title,
+              description,
+              words,
+              path: `packs/${pack.id}/${date}/`,
+            })}
+          />
+          <JsonLd
+            data={breadcrumbSchema([
+              { name: "Home", path: "" },
+              { name: "Series", path: "packs/" },
+              {
+                name: pack.shortTitle ?? pack.title,
+                path: `packs/${pack.id}/`,
+              },
+              { name: date, path: `packs/${pack.id}/${date}/` },
+            ])}
+          />
+        </>
+      )
+    }
+  </Fragment>
+  <Header />
+  <main id="main-content" class="play-main">
+    <header class="archive-head">
+      <h1 class="archive-h1">
+        {pack.shortTitle ?? pack.title} · {date}
+      </h1>
+      <p class="archive-banner">
+        <a href={getRelativeLocaleUrl(locale, `packs/${pack.id}`)}
+          >{pack.title}</a
+        >
+        ·
+        <a href={getRelativeLocaleUrl(locale, "packs")}>All series</a>
+        ·
+        <a href={getRelativeLocaleUrl(locale, "")}>Home daily</a>
+        {
+          isFuture && (
+            <span class="archive-future"> · Not released yet</span>
+          )
+        }
+      </p>
+    </header>
+
+    <WordSearchGame
+      puzzleUrl={puzzleUrl}
+      largePrint={largePrint}
+      printHref={getRelativeLocaleUrl(locale, "print")}
+      a11yHref={getRelativeLocaleUrl(
+        locale,
+        largePrint
+          ? `packs/${pack.id}/${date}`
+          : `packs/${pack.id}/${date}?a11y=1`
+      )}
+      a11yLabel={largePrint ? "Default size" : "Large print page"}
+    />
+
+    {
+      words.length > 0 && (
+        <section class="archive-words" aria-labelledby="words-heading">
+          <h2 id="words-heading" class="archive-words-title">
+            Words in this puzzle
+          </h2>
+          <ol class="archive-word-list">
+            {puzzle.words?.map(w => (
+              <li>
+                <strong>{w.word}</strong>
+                {w.gloss ? ` — ${w.gloss}` : ""}
+              </li>
+            ))}
+          </ol>
+        </section>
+      )
+    }
+  </main>
+  <Footer />
+</Layout>
+
+<style is:global>
+  .play-main {
+    width: 100%;
+    max-width: 32rem;
+    margin-inline: auto;
+    padding-inline: 0.75rem;
+    padding-top: 0.35rem;
+    padding-bottom: 1.5rem;
+  }
+  .archive-head {
+    margin-bottom: 0.4rem;
+  }
+  .archive-h1 {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  .archive-banner {
+    margin: 0.25rem 0 0.5rem;
+    font-size: 0.8rem;
+    color: var(--muted-foreground, #afb9ca);
+  }
+  .archive-banner a {
+    color: var(--accent, #ff6b01);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .archive-banner a:hover {
+    text-decoration: underline;
+  }
+  .archive-words {
+    margin-top: 1.25rem;
+    padding-top: 0.85rem;
+    border-top: 1px solid
+      color-mix(in oklab, var(--border, #3a4560) 55%, transparent);
+  }
+  .archive-words-title {
+    margin: 0 0 0.5rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--muted-foreground, #afb9ca);
+  }
+  .archive-word-list {
+    margin: 0;
+    padding-left: 1.2rem;
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+  body:has(.play-main) header.app-layout > div {
+    padding-top: 0.55rem !important;
+    padding-bottom: 0.55rem !important;
+  }
+</style>

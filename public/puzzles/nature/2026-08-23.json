@@ -1,0 +1,361 @@
+{
+  "id": "nature-2026-08-23",
+  "playDate": "2026-08-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "A",
+      "U",
+      "M",
+      "M",
+      "W"
+    ],
+    [
+      "W",
+      "L",
+      "D",
+      "N",
+      "R",
+      "X",
+      "A",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "V",
+      "M",
+      "T",
+      "L",
+      "J",
+      "V",
+      "K",
+      "M",
+      "Y",
+      "T"
+    ],
+    [
+      "A",
+      "J",
+      "U",
+      "B",
+      "E",
+      "A",
+      "C",
+      "H",
+      "J",
+      "E"
+    ],
+    [
+      "L",
+      "H",
+      "F",
+      "Y",
+      "L",
+      "G",
+      "T",
+      "U",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "A",
+      "H",
+      "A",
+      "Z",
+      "X",
+      "D",
+      "F"
+    ],
+    [
+      "E",
+      "V",
+      "D",
+      "U",
+      "I",
+      "J",
+      "T",
+      "E",
+      "B",
+      "A"
+    ],
+    [
+      "Y",
+      "I",
+      "F",
+      "X",
+      "V",
+      "C",
+      "N",
+      "E",
+      "X",
+      "L"
+    ],
+    [
+      "T",
+      "V",
+      "B",
+      "C",
+      "E",
+      "T",
+      "I",
+      "I",
+      "P",
+      "L"
+    ],
+    [
+      "L",
+      "O",
+      "X",
+      "I",
+      "U",
+      "C",
+      "S",
+      "U",
+      "X",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DEN",
+      "gloss": "A wild animal’s hidden home.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.984Z"
+}

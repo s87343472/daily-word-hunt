@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-08-30",
+  "playDate": "2026-08-30",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "G",
+      "S",
+      "U",
+      "N",
+      "S",
+      "E",
+      "T",
+      "X",
+      "M"
+    ],
+    [
+      "O",
+      "R",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "P",
+      "L",
+      "F",
+      "Z",
+      "P",
+      "Q",
+      "G",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "S",
+      "K",
+      "U",
+      "F",
+      "T",
+      "R",
+      "A",
+      "B"
+    ],
+    [
+      "A",
+      "I",
+      "D",
+      "E",
+      "S",
+      "H",
+      "O",
+      "W",
+      "H",
+      "N"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "L",
+      "E",
+      "V",
+      "G",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "N",
+      "E",
+      "V",
+      "H",
+      "E",
+      "L",
+      "X",
+      "D",
+      "P",
+      "O"
+    ],
+    [
+      "B",
+      "B",
+      "A",
+      "P",
+      "N",
+      "I",
+      "W",
+      "Q",
+      "V",
+      "M"
+    ],
+    [
+      "O",
+      "S",
+      "V",
+      "L",
+      "A",
+      "P",
+      "F",
+      "J",
+      "I",
+      "T"
+    ],
+    [
+      "W",
+      "N",
+      "U",
+      "V",
+      "P",
+      "M",
+      "A",
+      "W",
+      "S",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.989Z"
+}

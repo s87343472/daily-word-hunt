@@ -1,0 +1,333 @@
+{
+  "id": "nature-2026-08-29",
+  "playDate": "2026-08-29",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "B",
+      "K",
+      "W",
+      "F",
+      "C",
+      "P",
+      "T",
+      "G",
+      "I"
+    ],
+    [
+      "J",
+      "I",
+      "B",
+      "Q",
+      "N",
+      "E",
+      "O",
+      "I",
+      "F",
+      "H"
+    ],
+    [
+      "L",
+      "F",
+      "S",
+      "I",
+      "A",
+      "Y",
+      "E",
+      "V",
+      "F",
+      "R"
+    ],
+    [
+      "M",
+      "W",
+      "S",
+      "U",
+      "W",
+      "U",
+      "W",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "E",
+      "R",
+      "H",
+      "M",
+      "K",
+      "Y",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "J",
+      "Q",
+      "O",
+      "A",
+      "M",
+      "L",
+      "A",
+      "I",
+      "F"
+    ],
+    [
+      "C",
+      "U",
+      "N",
+      "E",
+      "S",
+      "G",
+      "I",
+      "H",
+      "D",
+      "Y"
+    ],
+    [
+      "E",
+      "O",
+      "B",
+      "E",
+      "P",
+      "E",
+      "E",
+      "T",
+      "G",
+      "Z"
+    ],
+    [
+      "C",
+      "A",
+      "J",
+      "G",
+      "A",
+      "O",
+      "A",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "Q",
+      "H",
+      "U",
+      "C",
+      "D",
+      "V",
+      "O",
+      "Y",
+      "O",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.988Z"
+}

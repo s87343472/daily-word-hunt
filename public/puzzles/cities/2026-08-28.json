@@ -1,0 +1,405 @@
+{
+  "id": "cities-2026-08-28",
+  "playDate": "2026-08-28",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "X",
+      "L",
+      "T",
+      "O",
+      "D",
+      "Z",
+      "E",
+      "Y",
+      "K"
+    ],
+    [
+      "F",
+      "S",
+      "O",
+      "E",
+      "E",
+      "R",
+      "U",
+      "B",
+      "S",
+      "W"
+    ],
+    [
+      "A",
+      "U",
+      "S",
+      "S",
+      "T",
+      "G",
+      "A",
+      "K",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "B",
+      "J",
+      "U",
+      "W",
+      "S",
+      "R",
+      "N",
+      "R",
+      "K"
+    ],
+    [
+      "A",
+      "W",
+      "I",
+      "U",
+      "E",
+      "O",
+      "O",
+      "A",
+      "Z",
+      "C"
+    ],
+    [
+      "D",
+      "A",
+      "E",
+      "M",
+      "W",
+      "K",
+      "R",
+      "H",
+      "K",
+      "O"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "E",
+      "B",
+      "B",
+      "B",
+      "K",
+      "F",
+      "L"
+    ],
+    [
+      "J",
+      "N",
+      "R",
+      "Q",
+      "I",
+      "Y",
+      "U",
+      "S",
+      "Q",
+      "C"
+    ],
+    [
+      "T",
+      "I",
+      "Q",
+      "L",
+      "R",
+      "M",
+      "O",
+      "U",
+      "F",
+      "R"
+    ],
+    [
+      "F",
+      "L",
+      "G",
+      "R",
+      "A",
+      "F",
+      "F",
+      "I",
+      "T",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASEMENT",
+      "gloss": "The floor of a building below ground.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FACADE",
+      "gloss": "The front of a building.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FIREWORKS",
+      "gloss": "Explosive devices used for display.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HOSTEL",
+      "gloss": "Inexpensive shared lodging.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books for borrowing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.016Z"
+}

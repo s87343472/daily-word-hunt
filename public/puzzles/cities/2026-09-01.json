@@ -1,0 +1,377 @@
+{
+  "id": "cities-2026-09-01",
+  "playDate": "2026-09-01",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "M",
+      "N",
+      "E",
+      "N",
+      "F",
+      "O",
+      "T",
+      "D",
+      "B"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "S",
+      "H",
+      "O",
+      "K",
+      "J",
+      "N",
+      "F"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "U",
+      "M",
+      "U",
+      "R",
+      "A",
+      "L",
+      "P"
+    ],
+    [
+      "M",
+      "T",
+      "I",
+      "O",
+      "E",
+      "H",
+      "T",
+      "O",
+      "W",
+      "X"
+    ],
+    [
+      "O",
+      "H",
+      "L",
+      "H",
+      "T",
+      "D",
+      "H",
+      "R",
+      "O",
+      "Q"
+    ],
+    [
+      "D",
+      "H",
+      "E",
+      "T",
+      "B",
+      "U",
+      "A",
+      "L",
+      "A",
+      "L"
+    ],
+    [
+      "U",
+      "C",
+      "P",
+      "R",
+      "K",
+      "L",
+      "N",
+      "R",
+      "O",
+      "M"
+    ],
+    [
+      "N",
+      "M",
+      "I",
+      "U",
+      "Y",
+      "Z",
+      "O",
+      "N",
+      "A",
+      "O"
+    ],
+    [
+      "X",
+      "Q",
+      "P",
+      "O",
+      "S",
+      "L",
+      "D",
+      "C",
+      "E",
+      "P"
+    ],
+    [
+      "W",
+      "U",
+      "D",
+      "C",
+      "F",
+      "G",
+      "I",
+      "F",
+      "K",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PIPELINE",
+      "gloss": "A long pipe for oil or gas.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.020Z"
+}

@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-08-12",
+  "playDate": "2026-08-12",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "F",
+      "A",
+      "H",
+      "Z",
+      "Q",
+      "C",
+      "N",
+      "X",
+      "J"
+    ],
+    [
+      "R",
+      "P",
+      "Y",
+      "Q",
+      "V",
+      "R",
+      "R",
+      "R",
+      "C",
+      "O"
+    ],
+    [
+      "V",
+      "R",
+      "F",
+      "N",
+      "E",
+      "O",
+      "U",
+      "L",
+      "N",
+      "R"
+    ],
+    [
+      "W",
+      "I",
+      "V",
+      "E",
+      "C",
+      "S",
+      "Z",
+      "I",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "K",
+      "A",
+      "N",
+      "T",
+      "H",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "H",
+      "C",
+      "M",
+      "F",
+      "F",
+      "P",
+      "T",
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "E",
+      "Y",
+      "B",
+      "A",
+      "L",
+      "O",
+      "U",
+      "I",
+      "X",
+      "H"
+    ],
+    [
+      "I",
+      "M",
+      "K",
+      "O",
+      "P",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D"
+    ],
+    [
+      "G",
+      "B",
+      "D",
+      "D",
+      "P",
+      "L",
+      "Q",
+      "Y",
+      "F",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "B",
+      "I",
+      "N",
+      "B",
+      "E",
+      "M",
+      "O",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ACORN",
+      "gloss": "The nut of an oak tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.976Z"
+}

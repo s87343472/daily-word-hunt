@@ -1,16 +1,17 @@
 #!/usr/bin/env node
 /**
- * Offline puzzle generator for Cloudflare Pages (static JSON).
+ * Offline puzzle generator — pack / series aware.
  *
- * Daily model (user-facing):
- *   Puzzles are pre-built and released by calendar date.
- *   Near-term word sets avoid overlap with the previous N days (default 30).
+ * Layout:
+ *   packs/catalog.json          → pack registry
+ *   wordlists/packs/{id}.json   → word pools
+ *   public/puzzles/{id}/YYYY-MM-DD.json  → calendar series output
  *
  * Usage:
+ *   pnpm gen:puzzle --pack daily --date 2026-08-07
+ *   pnpm gen:puzzle --pack nature --from 2026-08-07 --to 2026-08-28
+ *   pnpm gen:puzzle --all-packs --horizon 21
  *   pnpm gen:puzzle --wordlist wordlists/sample-daily.json --out public/puzzles/sample.json
- *   pnpm gen:puzzle --wordlist wordlists/daily-pool.json --date 2026-08-06
- *   pnpm gen:puzzle --wordlist wordlists/daily-pool.json --from 2026-08-01 --to 2026-08-31
- *   pnpm gen:daily   # convenience: next 14 days from today (UTC date)
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -20,6 +21,7 @@ import WordSearch from "@blex41/word-search";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
 const PUZZLES_DIR = path.join(root, "public/puzzles");
+const CATALOG_PATH = path.join(root, "packs/catalog.json");
 const DEFAULT_DEDUPE_DAYS = 30;
 
 function parseArgs(argv) {
@@ -31,8 +33,11 @@ function parseArgs(argv) {
     to: null,
     size: null,
     wordsPerDay: null,
-    dedupeDays: DEFAULT_DEDUPE_DAYS,
+    dedupeDays: null,
     force: false,
+    pack: null,
+    allPacks: false,
+    horizon: null,
   };
   for (let i = 2; i < argv.length; i++) {
     const a = argv[i];
@@ -44,12 +49,14 @@ function parseArgs(argv) {
     else if (a === "--size") args.size = Number(argv[++i]);
     else if (a === "--words-per-day") args.wordsPerDay = Number(argv[++i]);
     else if (a === "--dedupe-days") args.dedupeDays = Number(argv[++i]);
+    else if (a === "--pack") args.pack = argv[++i];
+    else if (a === "--all-packs") args.allPacks = true;
+    else if (a === "--horizon") args.horizon = Number(argv[++i]);
     else if (a === "--force") args.force = true;
   }
   return args;
 }
 
-/** Simple deterministic PRNG from string seed (mulberry32). */
 function mulberry32(seed) {
   let t = seed >>> 0;
   return function rand() {
@@ -106,6 +113,22 @@ function addDaysISO(iso, delta) {
   return formatISODate(d);
 }
 
+function todayUTC() {
+  return formatISODate(new Date());
+}
+
+function loadCatalog() {
+  return JSON.parse(fs.readFileSync(CATALOG_PATH, "utf8"));
+}
+
+function packDir(packId) {
+  return path.join(PUZZLES_DIR, packId);
+}
+
+function puzzleFilePath(packId, playDate) {
+  return path.join(packDir(packId), `${playDate}.json`);
+}
+
 function loadPuzzleWords(filePath) {
   try {
     const j = JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -115,53 +138,41 @@ function loadPuzzleWords(filePath) {
   }
 }
 
-/** Collect words used by puzzles in [date - dedupeDays, date). */
-function recentUsedWords(playDate, dedupeDays) {
+function recentUsedWords(packId, playDate, dedupeDays) {
   const used = new Set();
   for (let i = 1; i <= dedupeDays; i++) {
     const prev = addDaysISO(playDate, -i);
-    const p = path.join(PUZZLES_DIR, `${prev}.json`);
+    const p = puzzleFilePath(packId, prev);
     if (!fs.existsSync(p)) continue;
     for (const w of loadPuzzleWords(p)) used.add(w);
   }
   return used;
 }
 
-/**
- * Pick wordsPerDay entries from pool, avoiding recent words when possible.
- * Deterministic for (playDate + pool title).
- */
-function pickDailyWords(pool, playDate, wordsPerDay, recent) {
-  const rand = mulberry32(hashString(`daily:${playDate}:${pool.pack}`));
+function pickDailyWords(pool, packId, playDate, wordsPerDay, recent) {
+  const rand = mulberry32(hashString(`pack:${packId}:${playDate}`));
   const all = pool.words.map(w => ({
     word: normalizeWord(w.word),
     gloss: w.gloss ?? "",
   }));
-
   const fresh = all.filter(w => !recent.has(w.word));
   const poolToUse = fresh.length >= wordsPerDay ? fresh : all;
-
-  // Fisher–Yates with seeded rand
   const arr = [...poolToUse];
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(rand() * (i + 1));
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
-
   const picked = arr.slice(0, wordsPerDay);
   if (picked.length < wordsPerDay) {
     throw new Error(
-      `Pool too small: need ${wordsPerDay} words, have ${picked.length}`
+      `Pool too small for ${packId}: need ${wordsPerDay}, have ${picked.length}`
     );
   }
-
-  // Prefer no overlap; if we had to use full pool, still OK but warn
   const overlap = picked.filter(w => recent.has(w.word)).map(w => w.word);
   return { picked, overlap, usedFresh: fresh.length >= wordsPerDay };
 }
 
 function placeGrid(dictionary, size) {
-  // Retry placement with slightly larger grids if needed
   const sizes = [size, size + 1, size + 2];
   let last = null;
   for (const n of sizes) {
@@ -183,19 +194,17 @@ function placeGrid(dictionary, size) {
   return last;
 }
 
-function generatePuzzle(wordlistSlice, { id, playDate, pack, title, description, size }) {
+function generatePuzzle(wordlistSlice, meta) {
   const dictionary = wordlistSlice.map(w => w.word);
   const glossByWord = new Map(wordlistSlice.map(w => [w.word, w.gloss]));
-  const n = size ?? 10;
-
+  const n = meta.size ?? 10;
   const placed = placeGrid(dictionary, n);
   if (!placed || placed.words.length < dictionary.length) {
     const got = placed?.words?.length ?? 0;
     throw new Error(
-      `Could not place all words for ${id}: ${got}/${dictionary.length}`
+      `Could not place all words for ${meta.id}: ${got}/${dictionary.length}`
     );
   }
-
   const { ws, n: rows } = placed;
   const grid = ws.data.grid.map(row => row.map(ch => String(ch).toUpperCase()));
   const words = placed.words.map(w => ({
@@ -208,11 +217,13 @@ function generatePuzzle(wordlistSlice, { id, playDate, pack, title, description,
   }));
 
   return {
-    id,
-    playDate,
-    pack,
-    title,
-    description,
+    id: meta.id,
+    playDate: meta.playDate,
+    pack: meta.pack,
+    series: meta.series ?? meta.pack,
+    theme: meta.theme,
+    title: meta.title,
+    description: meta.description,
     rows,
     cols: rows,
     grid,
@@ -227,20 +238,27 @@ function writePuzzle(outPath, puzzle) {
   fs.writeFileSync(outPath, JSON.stringify(puzzle, null, 2) + "\n");
 }
 
-function generateOneDaily(pool, playDate, opts) {
+function generateOneCalendarDay(packMeta, pool, playDate, opts) {
+  const packId = packMeta.id;
   const wordsPerDay =
-    opts.wordsPerDay ?? pool.wordsPerDay ?? Math.min(8, pool.words.length);
-  const size = opts.size ?? pool.size ?? 10;
-  const outPath = path.join(PUZZLES_DIR, `${playDate}.json`);
+    opts.wordsPerDay ??
+    packMeta.wordsPerDay ??
+    pool.wordsPerDay ??
+    Math.min(8, pool.words.length);
+  const size = opts.size ?? packMeta.size ?? pool.size ?? 10;
+  const dedupeDays =
+    opts.dedupeDays ?? packMeta.dedupeDays ?? DEFAULT_DEDUPE_DAYS;
+  const outPath = puzzleFilePath(packId, playDate);
 
   if (fs.existsSync(outPath) && !opts.force) {
-    console.log(`Skip ${playDate} (exists; use --force to overwrite)`);
-    return { skipped: true, playDate };
+    console.log(`Skip ${packId}/${playDate} (exists; use --force)`);
+    return { skipped: true, packId, playDate };
   }
 
-  const recent = recentUsedWords(playDate, opts.dedupeDays);
+  const recent = recentUsedWords(packId, playDate, dedupeDays);
   const { picked, overlap, usedFresh } = pickDailyWords(
     pool,
+    packId,
     playDate,
     wordsPerDay,
     recent
@@ -248,41 +266,46 @@ function generateOneDaily(pool, playDate, opts) {
 
   if (!usedFresh) {
     console.warn(
-      `  warn ${playDate}: pool exhausted for ${opts.dedupeDays}d window; allowing some word reuse`
+      `  warn ${packId}/${playDate}: pool exhausted for ${dedupeDays}d window`
     );
-  } else if (overlap.length) {
-    console.warn(`  warn ${playDate}: unexpected overlap ${overlap.join(",")}`);
   }
 
-  const title =
-    playDate === formatISODate(new Date())
-      ? pool.title
-      : `${pool.title} · ${playDate}`;
-
   const puzzle = generatePuzzle(picked, {
-    id: `daily-${playDate}`,
+    id: `${packId}-${playDate}`,
     playDate,
-    pack: pool.pack ?? "daily",
-    title: pool.title ?? "Daily Word Hunt",
-    description: pool.description,
+    pack: packId,
+    series: packId,
+    theme: packMeta.theme,
+    title: packMeta.title ?? pool.title,
+    description: packMeta.description ?? pool.description,
     size,
   });
 
-  // Keep display title clean for today; still store playDate
-  puzzle.title = title.startsWith(pool.title) ? pool.title : puzzle.title;
-  if (playDate) {
-    // Always show a stable product title; date is in metadata / UI chrome
-    puzzle.title = pool.title ?? "Daily Word Hunt";
-  }
-
   writePuzzle(outPath, puzzle);
   console.log(
-    `Wrote public/puzzles/${playDate}.json (${puzzle.words.length} words, ${puzzle.rows}x${puzzle.cols}${overlap.length ? `, reuse:${overlap.length}` : ""})`
+    `Wrote public/puzzles/${packId}/${playDate}.json (${puzzle.words.length} words, ${puzzle.rows}x${puzzle.cols}${overlap.length ? `, reuse:${overlap.length}` : ""})`
   );
-  return { skipped: false, playDate, words: puzzle.words.map(w => w.word) };
+  return { skipped: false, packId, playDate };
 }
 
-function generatePack(wordlist, outRel, { id, playDate, size }) {
+function generatePackRange(packMeta, from, to, opts) {
+  const wordlistPath = path.resolve(root, packMeta.wordlist);
+  if (!fs.existsSync(wordlistPath)) {
+    throw new Error(`Missing wordlist for pack ${packMeta.id}: ${packMeta.wordlist}`);
+  }
+  const pool = JSON.parse(fs.readFileSync(wordlistPath, "utf8"));
+  const dates = eachDate(from, to);
+  let wrote = 0;
+  let skipped = 0;
+  for (const d of dates) {
+    const r = generateOneCalendarDay(packMeta, pool, d, opts);
+    if (r.skipped) skipped++;
+    else wrote++;
+  }
+  return { wrote, skipped, packId: packMeta.id };
+}
+
+function generateLegacyOut(wordlist, outRel, { id, playDate, size }) {
   const slice = wordlist.words.map(w => ({
     word: normalizeWord(w.word),
     gloss: w.gloss ?? "",
@@ -291,6 +314,8 @@ function generatePack(wordlist, outRel, { id, playDate, size }) {
     id,
     playDate,
     pack: wordlist.pack,
+    series: wordlist.pack,
+    theme: wordlist.theme,
     title: wordlist.title,
     description: wordlist.description,
     size: size ?? wordlist.size ?? 12,
@@ -304,40 +329,71 @@ function generatePack(wordlist, outRel, { id, playDate, size }) {
 
 // --- main ---
 const args = parseArgs(process.argv);
-if (!args.wordlist) {
-  console.error(
-    "Missing --wordlist path\n\nExamples:\n  pnpm gen:puzzle --wordlist wordlists/daily-pool.json --date 2026-08-06\n  pnpm gen:puzzle --wordlist wordlists/daily-pool.json --from 2026-08-01 --to 2026-08-31"
-  );
-  process.exit(1);
-}
+const catalog = loadCatalog();
 
-const wordlistPath = path.resolve(root, args.wordlist);
-const pool = JSON.parse(fs.readFileSync(wordlistPath, "utf8"));
+if (args.allPacks || args.pack || args.horizon != null) {
+  const packs = args.pack
+    ? catalog.packs.filter(p => p.id === args.pack)
+    : catalog.packs.filter(p => p.schedule === "calendar");
 
-const isDailyRange = args.from && args.to;
-const isDailyOne = Boolean(args.date);
+  if (!packs.length) {
+    console.error(args.pack ? `Unknown pack: ${args.pack}` : "No calendar packs");
+    process.exit(1);
+  }
 
-if (isDailyRange || isDailyOne) {
-  const dates = isDailyRange
-    ? eachDate(args.from, args.to)
-    : [args.date];
+  const horizon =
+    args.horizon ??
+    Math.max(...packs.map(p => p.horizonDays ?? 14), 14);
+  const start = args.from ?? args.date ?? todayUTC();
+  const end =
+    args.to ??
+    args.date ??
+    addDaysISO(start, Math.max(horizon - 1, 0));
 
-  for (const d of dates) {
-    generateOneDaily(pool, d, {
+  console.log(`Generating packs [${packs.map(p => p.id).join(", ")}] ${start} → ${end}`);
+
+  let totalWrote = 0;
+  for (const packMeta of packs) {
+    const r = generatePackRange(packMeta, start, end, {
       size: args.size,
       wordsPerDay: args.wordsPerDay,
       dedupeDays: args.dedupeDays,
       force: args.force,
     });
+    totalWrote += r.wrote;
+    console.log(`  ${r.packId}: wrote ${r.wrote}, skipped ${r.skipped}`);
   }
-} else {
-  const playDate = null;
-  const id = `pack-${pool.pack}`;
-  const outRel =
-    args.out ?? `public/puzzles/${pool.pack}.json`;
-  generatePack(pool, outRel, {
-    id,
-    playDate,
-    size: args.size ?? pool.size,
-  });
+  console.log(`Done. New files: ${totalWrote}`);
+  process.exit(0);
 }
+
+// Legacy single wordlist → single out (sample packs etc.)
+if (!args.wordlist) {
+  console.error(`Missing args.
+
+Pack / series mode (preferred):
+  pnpm gen:puzzle --all-packs --horizon 21
+  pnpm gen:puzzle --pack nature --from 2026-08-07 --to 2026-09-01
+  pnpm gen:puzzle --pack daily --date 2026-08-07 --force
+
+Legacy single file:
+  pnpm gen:puzzle --wordlist wordlists/sample-daily.json --out public/puzzles/sample.json
+`);
+  process.exit(1);
+}
+
+const wordlistPath = path.resolve(root, args.wordlist);
+const pool = JSON.parse(fs.readFileSync(wordlistPath, "utf8"));
+const playDate = args.date ?? null;
+const id = playDate ? `pack-${pool.pack}-${playDate}` : `pack-${pool.pack}`;
+const outRel =
+  args.out ??
+  (playDate
+    ? `public/puzzles/${pool.pack}/${playDate}.json`
+    : `public/puzzles/${pool.pack}.json`);
+
+generateLegacyOut(pool, outRel, {
+  id,
+  playDate,
+  size: args.size ?? pool.size,
+});

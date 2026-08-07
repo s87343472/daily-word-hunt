@@ -1,0 +1,349 @@
+{
+  "id": "nature-2026-08-08",
+  "playDate": "2026-08-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "I",
+      "U",
+      "B",
+      "W",
+      "Y",
+      "Q",
+      "M",
+      "O",
+      "I"
+    ],
+    [
+      "D",
+      "G",
+      "X",
+      "U",
+      "S",
+      "F",
+      "F",
+      "V",
+      "O",
+      "L"
+    ],
+    [
+      "B",
+      "D",
+      "J",
+      "S",
+      "K",
+      "W",
+      "O",
+      "E",
+      "E",
+      "M"
+    ],
+    [
+      "O",
+      "U",
+      "O",
+      "S",
+      "O",
+      "Y",
+      "N",
+      "H",
+      "O",
+      "M"
+    ],
+    [
+      "N",
+      "M",
+      "R",
+      "A",
+      "Z",
+      "U",
+      "G",
+      "O",
+      "H",
+      "T"
+    ],
+    [
+      "A",
+      "P",
+      "K",
+      "R",
+      "D",
+      "G",
+      "R",
+      "D",
+      "C",
+      "R"
+    ],
+    [
+      "C",
+      "B",
+      "P",
+      "S",
+      "O",
+      "H",
+      "K",
+      "L",
+      "F",
+      "U"
+    ],
+    [
+      "L",
+      "W",
+      "Z",
+      "Q",
+      "S",
+      "W",
+      "T",
+      "G",
+      "B",
+      "N"
+    ],
+    [
+      "O",
+      "G",
+      "F",
+      "U",
+      "A",
+      "F",
+      "D",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "V",
+      "P",
+      "M",
+      "D",
+      "O",
+      "U",
+      "V",
+      "U",
+      "G",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.974Z"
+}

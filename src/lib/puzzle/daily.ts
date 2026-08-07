@@ -22,8 +22,11 @@ export function formatDateInTimeZone(
   }).format(date);
 }
 
-export function puzzlePathForDate(isoDate: string): string {
-  return `/puzzles/${isoDate}.json`;
+export function puzzlePathForDate(
+  isoDate: string,
+  packId = "daily"
+): string {
+  return `/puzzles/${packId}/${isoDate}.json`;
 }
 
 export function isValidPuzzleDate(s: string): boolean {

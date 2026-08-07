@@ -13,9 +13,13 @@ export type PuzzleWord = {
 
 export type Puzzle = {
   id: string;
-  /** YYYY-MM-DD when this is a daily puzzle */
+  /** YYYY-MM-DD when this is a calendar-series puzzle */
   playDate?: string;
+  /** Pack / series id, e.g. daily | nature | cities */
   pack: string;
+  /** Alias of pack for series naming in UI */
+  series?: string;
+  theme?: string;
   title: string;
   description?: string;
   rows: number;
@@ -38,5 +42,6 @@ export type WordlistFile = {
   title: string;
   description?: string;
   size?: number;
+  wordsPerDay?: number;
   words: WordlistEntry[];
 };

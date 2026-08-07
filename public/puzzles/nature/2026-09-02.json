@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-09-02",
+  "playDate": "2026-09-02",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "T",
+      "N",
+      "I",
+      "L",
+      "F",
+      "Y",
+      "G",
+      "F",
+      "A"
+    ],
+    [
+      "C",
+      "E",
+      "D",
+      "K",
+      "Z",
+      "X",
+      "F",
+      "T",
+      "D",
+      "B"
+    ],
+    [
+      "K",
+      "V",
+      "G",
+      "L",
+      "M",
+      "J",
+      "S",
+      "O",
+      "C",
+      "T"
+    ],
+    [
+      "Y",
+      "P",
+      "T",
+      "D",
+      "M",
+      "E",
+      "D",
+      "S",
+      "O",
+      "D"
+    ],
+    [
+      "R",
+      "A",
+      "O",
+      "I",
+      "E",
+      "Z",
+      "A",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "N",
+      "V",
+      "H",
+      "I",
+      "V",
+      "P",
+      "R"
+    ],
+    [
+      "J",
+      "T",
+      "E",
+      "H",
+      "D",
+      "U",
+      "S",
+      "H",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "D",
+      "X",
+      "F",
+      "O",
+      "N",
+      "Y",
+      "X",
+      "S",
+      "Q"
+    ],
+    [
+      "N",
+      "Z",
+      "F",
+      "Q",
+      "Y",
+      "R",
+      "V",
+      "I",
+      "T",
+      "Z"
+    ],
+    [
+      "V",
+      "Q",
+      "M",
+      "M",
+      "N",
+      "L",
+      "E",
+      "W",
+      "N",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.992Z"
+}

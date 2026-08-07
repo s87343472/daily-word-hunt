@@ -1,0 +1,389 @@
+{
+  "id": "nature-2026-08-31",
+  "playDate": "2026-08-31",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "F",
+      "Q",
+      "H",
+      "A",
+      "R",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "G",
+      "L",
+      "N",
+      "E",
+      "R",
+      "R",
+      "B"
+    ],
+    [
+      "R",
+      "Q",
+      "X",
+      "M",
+      "O",
+      "Y",
+      "Z",
+      "Y",
+      "U",
+      "R"
+    ],
+    [
+      "W",
+      "Q",
+      "D",
+      "S",
+      "E",
+      "W",
+      "N",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "E",
+      "D",
+      "L",
+      "T",
+      "W",
+      "V",
+      "P"
+    ],
+    [
+      "C",
+      "E",
+      "D",
+      "G",
+      "N",
+      "E",
+      "T",
+      "X",
+      "V",
+      "I"
+    ],
+    [
+      "S",
+      "B",
+      "J",
+      "A",
+      "R",
+      "I",
+      "H",
+      "R",
+      "T",
+      "D"
+    ],
+    [
+      "G",
+      "L",
+      "D",
+      "F",
+      "E",
+      "E",
+      "P",
+      "F",
+      "U",
+      "S"
+    ],
+    [
+      "B",
+      "Q",
+      "L",
+      "W",
+      "A",
+      "M",
+      "E",
+      "L",
+      "W",
+      "T"
+    ],
+    [
+      "K",
+      "Y",
+      "E",
+      "D",
+      "Y",
+      "D",
+      "C",
+      "N",
+      "A",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPINE",
+      "gloss": "Relating to high mountains.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.990Z"
+}

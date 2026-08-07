@@ -1,0 +1,345 @@
+{
+  "id": "nature-2026-08-13",
+  "playDate": "2026-08-13",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "Q",
+      "G",
+      "P",
+      "B",
+      "F",
+      "L",
+      "X",
+      "V",
+      "T"
+    ],
+    [
+      "O",
+      "U",
+      "G",
+      "D",
+      "S",
+      "X",
+      "C",
+      "P",
+      "K",
+      "F"
+    ],
+    [
+      "I",
+      "N",
+      "P",
+      "V",
+      "B",
+      "X",
+      "R",
+      "X",
+      "A",
+      "G"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      "P",
+      "Y",
+      "E",
+      "F",
+      "H",
+      "Y",
+      "W"
+    ],
+    [
+      "C",
+      "M",
+      "S",
+      "Y",
+      "H",
+      "C",
+      "F",
+      "R",
+      "P",
+      "S"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "T",
+      "C",
+      "O",
+      "I",
+      "B",
+      "L",
+      "M"
+    ],
+    [
+      "P",
+      "N",
+      "A",
+      "E",
+      "C",
+      "A",
+      "L",
+      "W",
+      "R",
+      "W"
+    ],
+    [
+      "I",
+      "E",
+      "J",
+      "H",
+      "R",
+      "S",
+      "C",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "H",
+      "D",
+      "V",
+      "J",
+      "U",
+      "T",
+      "T",
+      "E",
+      "V",
+      "K"
+    ],
+    [
+      "N",
+      "A",
+      "U",
+      "M",
+      "O",
+      "S",
+      "S",
+      "H",
+      "L",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.977Z"
+}

@@ -1,0 +1,429 @@
+{
+  "id": "cities-2026-08-09",
+  "playDate": "2026-08-09",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "H",
+      "M",
+      "A",
+      "I",
+      "R",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "X",
+      "G",
+      "X",
+      "D",
+      "R",
+      "E",
+      "U"
+    ],
+    [
+      "L",
+      "R",
+      "L",
+      "R",
+      "M",
+      "R",
+      "V",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "C",
+      "T",
+      "C",
+      "C",
+      "B",
+      "W",
+      "G",
+      "D",
+      "M",
+      "V"
+    ],
+    [
+      "N",
+      "H",
+      "Q",
+      "A",
+      "O",
+      "O",
+      "R",
+      "R",
+      "K",
+      "E"
+    ],
+    [
+      "Z",
+      "L",
+      "E",
+      "Z",
+      "D",
+      "N",
+      "R",
+      "O",
+      "U",
+      "I"
+    ],
+    [
+      "Z",
+      "V",
+      "A",
+      "Z",
+      "G",
+      "E",
+      "Y",
+      "B",
+      "K",
+      "J"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "I",
+      "R",
+      "E",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "S"
+    ],
+    [
+      "D",
+      "G",
+      "U",
+      "I",
+      "D",
+      "E",
+      "B",
+      "O",
+      "O",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ARCADE",
+      "gloss": "A covered walk with shops.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.999Z"
+}

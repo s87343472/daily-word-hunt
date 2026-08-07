@@ -1,0 +1,381 @@
+{
+  "id": "cities-2026-08-10",
+  "playDate": "2026-08-10",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "C",
+      "Q",
+      "N",
+      "R",
+      "H",
+      "P",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "O",
+      "W",
+      "E",
+      "R",
+      "L",
+      "I",
+      "N",
+      "E",
+      "B"
+    ],
+    [
+      "G",
+      "C",
+      "I",
+      "W",
+      "I",
+      "U",
+      "E",
+      "N",
+      "S",
+      "O"
+    ],
+    [
+      "E",
+      "P",
+      "I",
+      "S",
+      "Y",
+      "E",
+      "L",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "F",
+      "K",
+      "T",
+      "S",
+      "C",
+      "L",
+      "E",
+      "T",
+      "J",
+      "O"
+    ],
+    [
+      "J",
+      "G",
+      "Z",
+      "T",
+      "C",
+      "E",
+      "V",
+      "U",
+      "G",
+      "U"
+    ],
+    [
+      "V",
+      "F",
+      "F",
+      "A",
+      "I",
+      "N",
+      "A",
+      "E",
+      "E",
+      "G"
+    ],
+    [
+      "F",
+      "T",
+      "F",
+      "N",
+      "N",
+      "L",
+      "T",
+      "L",
+      "L",
+      "H"
+    ],
+    [
+      "H",
+      "E",
+      "C",
+      "D",
+      "N",
+      "N",
+      "O",
+      "Z",
+      "Y",
+      "G"
+    ],
+    [
+      "U",
+      "F",
+      "Q",
+      "G",
+      "Z",
+      "B",
+      "R",
+      "U",
+      "J",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "INN",
+      "gloss": "A small hotel, often in the countryside.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.999Z"
+}

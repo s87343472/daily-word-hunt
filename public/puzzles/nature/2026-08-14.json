@@ -1,0 +1,349 @@
+{
+  "id": "nature-2026-08-14",
+  "playDate": "2026-08-14",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "R",
+      "I",
+      "B",
+      "G",
+      "C",
+      "C",
+      "Y",
+      "F",
+      "T"
+    ],
+    [
+      "I",
+      "G",
+      "N",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Z",
+      "H",
+      "J"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "T",
+      "E",
+      "F",
+      "M",
+      "K",
+      "W",
+      "V"
+    ],
+    [
+      "H",
+      "D",
+      "J",
+      "P",
+      "G",
+      "N",
+      "C",
+      "A",
+      "G",
+      "A"
+    ],
+    [
+      "T",
+      "D",
+      "F",
+      "Y",
+      "U",
+      "A",
+      "V",
+      "B",
+      "O",
+      "Z"
+    ],
+    [
+      "F",
+      "Y",
+      "H",
+      "W",
+      "R",
+      "E",
+      "R",
+      "Q",
+      "R",
+      "C"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "T",
+      "J",
+      "A",
+      "H",
+      "R",
+      "F",
+      "K"
+    ],
+    [
+      "L",
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "M",
+      "U",
+      "C"
+    ],
+    [
+      "L",
+      "G",
+      "O",
+      "R",
+      "G",
+      "E",
+      "O",
+      "K",
+      "J",
+      "U"
+    ],
+    [
+      "B",
+      "D",
+      "A",
+      "Z",
+      "F",
+      "N",
+      "K",
+      "L",
+      "Q",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FROG",
+      "gloss": "An amphibian that jumps and croaks.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.977Z"
+}

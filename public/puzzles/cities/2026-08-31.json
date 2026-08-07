@@ -1,0 +1,369 @@
+{
+  "id": "cities-2026-08-31",
+  "playDate": "2026-08-31",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "O",
+      "Q",
+      "A",
+      "U",
+      "V",
+      "I",
+      "S",
+      "A",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "O",
+      "Y",
+      "H",
+      "T",
+      "K",
+      "J",
+      "Y",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "C",
+      "I",
+      "C",
+      "F",
+      "I",
+      "B",
+      "E"
+    ],
+    [
+      "R",
+      "C",
+      "L",
+      "P",
+      "O",
+      "Q",
+      "Q",
+      "V",
+      "B",
+      "M"
+    ],
+    [
+      "C",
+      "F",
+      "F",
+      "L",
+      "U",
+      "I",
+      "L",
+      "M",
+      "O",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "B",
+      "E",
+      "W",
+      "S",
+      "T",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "W",
+      "C",
+      "E",
+      "O",
+      "K",
+      "P",
+      "J",
+      "A",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "V",
+      "B",
+      "O",
+      "K",
+      "Q",
+      "W",
+      "P",
+      "B"
+    ],
+    [
+      "Y",
+      "D",
+      "E",
+      "L",
+      "R",
+      "J",
+      "J",
+      "B",
+      "W",
+      "O"
+    ],
+    [
+      "E",
+      "E",
+      "H",
+      "V",
+      "J",
+      "V",
+      "Z",
+      "S",
+      "O",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BASEMENT",
+      "gloss": "The floor of a building below ground.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FACADE",
+      "gloss": "The front of a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.019Z"
+}

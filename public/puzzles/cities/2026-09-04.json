@@ -1,0 +1,433 @@
+{
+  "id": "cities-2026-09-04",
+  "playDate": "2026-09-04",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "B",
+      "P",
+      "X",
+      "V",
+      "Z",
+      "Z",
+      "N",
+      "Y",
+      "R"
+    ],
+    [
+      "G",
+      "D",
+      "X",
+      "S",
+      "X",
+      "E",
+      "K",
+      "P",
+      "A",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "I",
+      "P",
+      "Q",
+      "F",
+      "G",
+      "V",
+      "W",
+      "S"
+    ],
+    [
+      "L",
+      "L",
+      "A",
+      "H",
+      "N",
+      "W",
+      "O",
+      "T",
+      "H",
+      "I"
+    ],
+    [
+      "M",
+      "N",
+      "S",
+      "F",
+      "W",
+      "G",
+      "E",
+      "U",
+      "C",
+      "D"
+    ],
+    [
+      "N",
+      "E",
+      "Z",
+      "I",
+      "T",
+      "I",
+      "C",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "H",
+      "Y",
+      "M",
+      "E",
+      "Y",
+      "M",
+      "H",
+      "F",
+      "A",
+      "N"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "W",
+      "A",
+      "L",
+      "K",
+      "T"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "R",
+      "F",
+      "R",
+      "E",
+      "T",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "E",
+      "W",
+      "S",
+      "S",
+      "T",
+      "A",
+      "N",
+      "D",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CROSSWALK",
+      "gloss": "A marked place to cross a street.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RESIDENT",
+      "gloss": "A person who lives somewhere permanently.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WATERFRONT",
+      "gloss": "Land along a body of water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.022Z"
+}

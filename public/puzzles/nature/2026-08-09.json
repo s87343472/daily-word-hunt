@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-08-09",
+  "playDate": "2026-08-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "V",
+      "X",
+      "V",
+      "D",
+      "A",
+      "K",
+      "M",
+      "J",
+      "Z"
+    ],
+    [
+      "E",
+      "Y",
+      "Y",
+      "Z",
+      "B",
+      "V",
+      "N",
+      "A",
+      "I",
+      "B"
+    ],
+    [
+      "C",
+      "R",
+      "T",
+      "A",
+      "P",
+      "E",
+      "W",
+      "R",
+      "R",
+      "R"
+    ],
+    [
+      "D",
+      "L",
+      "Q",
+      "I",
+      "R",
+      "Z",
+      "W",
+      "B",
+      "O",
+      "E"
+    ],
+    [
+      "N",
+      "R",
+      "E",
+      "S",
+      "A",
+      "N",
+      "D",
+      "L",
+      "K",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "A",
+      "I",
+      "B",
+      "P",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "L",
+      "Q",
+      "I",
+      "H",
+      "R",
+      "R",
+      "N",
+      "W",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "B",
+      "U",
+      "L",
+      "C",
+      "I",
+      "I",
+      "Z",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "X",
+      "F",
+      "O",
+      "A",
+      "R",
+      "N",
+      "S",
+      "I",
+      "Q"
+    ],
+    [
+      "A",
+      "F",
+      "Y",
+      "P",
+      "N",
+      "C",
+      "O",
+      "G",
+      "Z",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower with showy blooms.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.974Z"
+}

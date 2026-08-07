@@ -1,0 +1,385 @@
+{
+  "id": "cities-2026-08-17",
+  "playDate": "2026-08-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "P",
+      "Y",
+      "X",
+      "Z",
+      "M",
+      "A",
+      "X",
+      "X",
+      "P"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "D",
+      "C",
+      "U",
+      "O"
+    ],
+    [
+      "M",
+      "L",
+      "I",
+      "O",
+      "H",
+      "P",
+      "D",
+      "A",
+      "K",
+      "S"
+    ],
+    [
+      "W",
+      "S",
+      "A",
+      "V",
+      "T",
+      "V",
+      "R",
+      "Y",
+      "S",
+      "T"
+    ],
+    [
+      "X",
+      "M",
+      "U",
+      "T",
+      "L",
+      "Z",
+      "E",
+      "T",
+      "L",
+      "O"
+    ],
+    [
+      "K",
+      "E",
+      "L",
+      "Y",
+      "I",
+      "N",
+      "S",
+      "M",
+      "X",
+      "F"
+    ],
+    [
+      "V",
+      "R",
+      "G",
+      "A",
+      "R",
+      "P",
+      "S",
+      "I",
+      "M",
+      "F"
+    ],
+    [
+      "Q",
+      "X",
+      "A",
+      "U",
+      "N",
+      "B",
+      "S",
+      "A",
+      "I",
+      "I"
+    ],
+    [
+      "Q",
+      "T",
+      "O",
+      "P",
+      "B",
+      "E",
+      "R",
+      "O",
+      "D",
+      "C"
+    ],
+    [
+      "U",
+      "J",
+      "B",
+      "E",
+      "Z",
+      "T",
+      "S",
+      "K",
+      "H",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JOURNEY",
+      "gloss": "Travel from one place to another.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "POSTOFFICE",
+      "gloss": "A place for sending mail.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.005Z"
+}

@@ -1,0 +1,365 @@
+{
+  "id": "nature-2026-08-16",
+  "playDate": "2026-08-16",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "J",
+      "R",
+      "E",
+      "H",
+      "L",
+      "T",
+      "T",
+      "V",
+      "T"
+    ],
+    [
+      "W",
+      "A",
+      "L",
+      "B",
+      "A",
+      "U",
+      "Z",
+      "H",
+      "C",
+      "U"
+    ],
+    [
+      "S",
+      "I",
+      "Q",
+      "N",
+      "Y",
+      "S",
+      "D",
+      "A",
+      "O",
+      "N"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "A",
+      "V",
+      "Y",
+      "P",
+      "B",
+      "M",
+      "D"
+    ],
+    [
+      "Y",
+      "J",
+      "L",
+      "T",
+      "A",
+      "K",
+      "L",
+      "I",
+      "P",
+      "R"
+    ],
+    [
+      "H",
+      "C",
+      "L",
+      "M",
+      "E",
+      "C",
+      "A",
+      "T",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "B",
+      "O",
+      "R",
+      "I",
+      "A",
+      "S",
+      "M"
+    ],
+    [
+      "U",
+      "Y",
+      "W",
+      "B",
+      "I",
+      "N",
+      "N",
+      "T",
+      "T",
+      "N"
+    ],
+    [
+      "T",
+      "K",
+      "T",
+      "W",
+      "U",
+      "T",
+      "S",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "Q",
+      "B",
+      "F",
+      "D",
+      "D",
+      "D",
+      "X",
+      "L",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HABITAT",
+      "gloss": "The natural home of a plant or animal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.979Z"
+}

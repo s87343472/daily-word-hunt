@@ -1,0 +1,166 @@
+---
+/**
+ * Series / theme pack directory — product architecture hub.
+ */
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Main from "@/components/Main.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import { breadcrumbSchema } from "@/lib/seo/schemas";
+import { getAllPacks, listPackDates } from "@/lib/puzzle/packs";
+import { formatDateInTimeZone } from "@/lib/puzzle/daily";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const tz = config.site.timezone;
+const today = formatDateInTimeZone(new Date(), tz);
+const packs = getAllPacks();
+
+const packCards = packs.map(pack => {
+  const dates = listPackDates(pack.id).filter(d => d < today || d === today);
+  const hasToday = dates.includes(today);
+  const href = getRelativeLocaleUrl(locale, `packs/${pack.id}`);
+  const playHref = hasToday
+    ? getRelativeLocaleUrl(locale, `packs/${pack.id}/${today}`)
+    : href;
+  return {
+    pack,
+    dates,
+    hasToday,
+    href,
+    playHref,
+    dayLabel: dates.length === 1 ? "1 day" : `${dates.length} days`,
+  };
+});
+
+const title = `Word Search Series & Themes | ${config.site.title}`;
+const description =
+  "Browse daily word search series by theme — general daily, nature, cities, and more. Free browser play.";
+---
+
+<Layout {title} {description}>
+  <JsonLd
+    slot="head"
+    data={breadcrumbSchema([
+      { name: "Home", path: "" },
+      { name: "Series", path: "packs/" },
+    ])}
+  />
+  <Header />
+  <Breadcrumb />
+  <Main pageTitle="Series & themes">
+    <p class="text-muted-foreground mb-8 max-w-2xl text-sm leading-relaxed">
+      Each <strong>series</strong> is its own calendar of word search puzzles
+      with a themed word pool. The home page is always the main
+      <strong>Daily</strong> series for today. Open a pack to play that theme’s
+      today grid or browse past days.
+    </p>
+
+    <ul class="pack-grid">
+      {
+        packCards.map(({ pack, hasToday, href, playHref, dayLabel }) => (
+          <li class="pack-card">
+            <p class="pack-theme">{pack.theme}</p>
+            <h2 class="pack-title">
+              <a href={href}>{pack.title}</a>
+            </h2>
+            <p class="pack-desc">{pack.description}</p>
+            <p class="pack-meta">
+              {dayLabel} released
+              {hasToday ? " · today available" : ""}
+            </p>
+            <p class="pack-actions">
+              <a class="pack-btn pack-btn--primary" href={playHref}>
+                {hasToday ? "Play today" : "Open series"}
+              </a>
+              <a class="pack-btn" href={href}>
+                Browse
+              </a>
+            </p>
+          </li>
+        ))
+      }
+    </ul>
+  </Main>
+  <Footer />
+</Layout>
+
+<style>
+  .pack-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+  }
+  @media (min-width: 640px) {
+    .pack-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  .pack-card {
+    border: 1px solid var(--border);
+    border-radius: 0.85rem;
+    padding: 1rem 1.1rem;
+    background: color-mix(in oklab, var(--muted) 35%, transparent);
+  }
+  .pack-theme {
+    margin: 0;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .pack-title {
+    margin: 0.35rem 0 0.4rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+  }
+  .pack-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .pack-title a:hover {
+    color: var(--accent);
+  }
+  .pack-desc {
+    margin: 0;
+    font-size: 0.88rem;
+    line-height: 1.45;
+    color: var(--muted-foreground);
+  }
+  .pack-meta {
+    margin: 0.65rem 0 0;
+    font-size: 0.78rem;
+    color: var(--muted-foreground);
+  }
+  .pack-actions {
+    margin: 0.75rem 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .pack-btn {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 0.35rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--foreground);
+    text-decoration: none;
+  }
+  .pack-btn:hover {
+    border-color: var(--accent);
+  }
+  .pack-btn--primary {
+    background: var(--accent);
+    border-color: transparent;
+    color: var(--accent-foreground);
+  }
+</style>

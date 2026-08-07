@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-08-10",
+  "playDate": "2026-08-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "Y",
+      "A",
+      "X"
+    ],
+    [
+      "X",
+      "S",
+      "B",
+      "I",
+      "Z",
+      "H",
+      "R",
+      "I",
+      "Y",
+      "A"
+    ],
+    [
+      "G",
+      "G",
+      "Z",
+      "X",
+      "S",
+      "A",
+      "Y",
+      "D",
+      "B",
+      "C"
+    ],
+    [
+      "E",
+      "C",
+      "J",
+      "R",
+      "U",
+      "J",
+      "N",
+      "F",
+      "B",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "T",
+      "Y",
+      "O",
+      "J",
+      "Y",
+      "L",
+      "Y"
+    ],
+    [
+      "U",
+      "M",
+      "S",
+      "L",
+      "P",
+      "C",
+      "Y",
+      "B",
+      "K",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y",
+      "M"
+    ],
+    [
+      "S",
+      "Y",
+      "O",
+      "A",
+      "F",
+      "X",
+      "P",
+      "B",
+      "J",
+      "S"
+    ],
+    [
+      "A",
+      "W",
+      "G",
+      "N",
+      "I",
+      "L",
+      "D",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "Z",
+      "H",
+      "E",
+      "R",
+      "D",
+      "V",
+      "E",
+      "K",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FIREFLY",
+      "gloss": "An insect that glows at night.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PASTURE",
+      "gloss": "Land covered with grass for grazing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.975Z"
+}

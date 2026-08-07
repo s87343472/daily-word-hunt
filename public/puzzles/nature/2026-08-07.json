@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-08-07",
+  "playDate": "2026-08-07",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "X",
+      "C",
+      "S",
+      "R",
+      "B",
+      "E",
+      "L",
+      "T",
+      "M"
+    ],
+    [
+      "P",
+      "T",
+      "O",
+      "I",
+      "H",
+      "A",
+      "T",
+      "E",
+      "Y",
+      "H"
+    ],
+    [
+      "M",
+      "N",
+      "L",
+      "C",
+      "V",
+      "O",
+      "T",
+      "O",
+      "Y",
+      "S"
+    ],
+    [
+      "F",
+      "I",
+      "L",
+      "B",
+      "G",
+      "Z",
+      "R",
+      "C",
+      "S",
+      "Z"
+    ],
+    [
+      "M",
+      "L",
+      "Z",
+      "I",
+      "N",
+      "U",
+      "Y",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "W",
+      "F",
+      "X",
+      "L",
+      "E",
+      "A",
+      "F",
+      "Y",
+      "U",
+      "N"
+    ],
+    [
+      "V",
+      "R",
+      "X",
+      "Q",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "I",
+      "Y",
+      "V",
+      "C",
+      "A",
+      "V",
+      "E",
+      "S",
+      "Z",
+      "X"
+    ],
+    [
+      "I",
+      "S",
+      "N",
+      "O",
+      "W",
+      "F",
+      "L",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "R",
+      "M",
+      "A",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.972Z"
+}

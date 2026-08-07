@@ -112,13 +112,15 @@ export function dailyPuzzleSchema(opts: {
   title: string;
   description: string;
   words: string[];
+  /** Path relative to site root, e.g. packs/nature/2026-08-07/ */
+  path?: string;
 }) {
   return {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: opts.title,
     description: opts.description,
-    url: absoluteUrl(`daily/${opts.date}/`),
+    url: absoluteUrl(opts.path ?? `daily/${opts.date}/`),
     datePublished: opts.date,
     isPartOf: {
       "@type": "WebSite",

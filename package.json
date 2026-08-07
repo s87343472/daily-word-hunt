@@ -12,7 +12,8 @@
     "sync": "astro sync",
     "astro": "astro",
     "gen:puzzle": "node scripts/gen-puzzle.mjs",
-    "gen:daily": "node scripts/gen-puzzle.mjs --wordlist wordlists/daily-pool.json --from $(date -u +%Y-%m-%d) --to $(date -u -v+14d +%Y-%m-%d 2>/dev/null || date -u -d '+14 days' +%Y-%m-%d)",
+    "gen:packs": "node scripts/gen-puzzle.mjs --all-packs --horizon 21",
+    "gen:daily": "node scripts/gen-puzzle.mjs --pack daily --horizon 21",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
     "lint": "eslint ."

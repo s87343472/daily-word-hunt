@@ -1,0 +1,397 @@
+{
+  "id": "cities-2026-08-20",
+  "playDate": "2026-08-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "T",
+      "E",
+      "P",
+      "P",
+      "L",
+      "E",
+      "R",
+      "C",
+      "R"
+    ],
+    [
+      "W",
+      "A",
+      "I",
+      "A",
+      "F",
+      "K",
+      "O",
+      "H",
+      "G",
+      "C"
+    ],
+    [
+      "Q",
+      "C",
+      "A",
+      "G",
+      "T",
+      "O",
+      "Y",
+      "K",
+      "B",
+      "L"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "V",
+      "F",
+      "R",
+      "T",
+      "Y",
+      "M",
+      "G"
+    ],
+    [
+      "X",
+      "T",
+      "E",
+      "T",
+      "E",
+      "R",
+      "I",
+      "T",
+      "I",
+      "Z"
+    ],
+    [
+      "F",
+      "M",
+      "O",
+      "L",
+      "O",
+      "N",
+      "A",
+      "U",
+      "G",
+      "I"
+    ],
+    [
+      "L",
+      "P",
+      "L",
+      "F",
+      "U",
+      "O",
+      "U",
+      "G",
+      "M",
+      "B"
+    ],
+    [
+      "Y",
+      "A",
+      "W",
+      "E",
+      "E",
+      "R",
+      "F",
+      "E",
+      "O",
+      "K"
+    ],
+    [
+      "G",
+      "L",
+      "M",
+      "I",
+      "J",
+      "C",
+      "O",
+      "Y",
+      "Z",
+      "J"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "A",
+      "P",
+      "R",
+      "E",
+      "D",
+      "N",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATRIUM",
+      "gloss": "A large open central space in a building.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "AVENUE",
+      "gloss": "A wide road in a city.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STEPPLE",
+      "gloss": "A church tower with a spire.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.008Z"
+}

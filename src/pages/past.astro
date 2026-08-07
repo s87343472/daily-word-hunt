@@ -1,11 +1,8 @@
 ---
 /**
- * Past daily puzzles — product archive.
- * Release rule: only list dates ≤ today in site TZ (filtered client-side
- * so static deploys keep working without a rebuild every midnight).
+ * Past days for the default daily pack (short product archive).
+ * Full multi-series browsing: /packs
  */
-import fs from "node:fs";
-import path from "node:path";
 import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
@@ -14,26 +11,19 @@ import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
 import JsonLd from "@/components/JsonLd.astro";
 import { breadcrumbSchema } from "@/lib/seo/schemas";
+import { getDefaultPack, listPackDates } from "@/lib/puzzle/packs";
 import config from "@/config";
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const tz = config.site.timezone;
 const homeHref = getRelativeLocaleUrl(locale, "");
+const pack = getDefaultPack();
+const allDates = listPackDates(pack.id);
 const dailyBase = getRelativeLocaleUrl(locale, "daily").replace(/\/?$/, "/");
-
-const dir = path.join(process.cwd(), "public/puzzles");
-/** All generated dates (may include future stock). */
-const allDates = fs.existsSync(dir)
-  ? fs
-      .readdirSync(dir)
-      .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-      .map(f => f.replace(/\.json$/, ""))
-      .sort()
-  : [];
 
 const title = `Past Word Search Puzzles | ${config.site.title}`;
 const description =
-  "Browse and replay previous free daily word search puzzles by date. Today’s game is always on the home page.";
+  "Browse and replay previous free daily word search puzzles by date. Explore themed series under Series.";
 ---
 
 <Layout {title} {description}>
@@ -48,12 +38,16 @@ const description =
   <Breadcrumb />
   <Main pageTitle="Past word search puzzles">
     <p class="text-muted-foreground mb-6 max-w-xl text-sm leading-relaxed">
-      Today’s free <strong>daily word search</strong> always lives on the
+      Today’s free <strong>daily word search</strong> is on the
       <a
         class="text-accent font-medium underline-offset-2 hover:underline"
         href={homeHref}>home page</a
-      >. Use this archive to open an older day. Future dates stay hidden until
-      their calendar day (site timezone).
+      >
+      (series: {pack.title}). For themed series, open
+      <a
+        class="text-accent font-medium underline-offset-2 hover:underline"
+        href={getRelativeLocaleUrl(locale, "packs")}>Series & themes</a
+      >.
     </p>
 
     <div

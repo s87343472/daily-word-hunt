@@ -6,6 +6,7 @@ export default {
     today: "Today",
     howTo: "How to",
     past: "Past",
+    packs: "Series",
     posts: "Tips",
     tags: "Tags",
     about: "About",

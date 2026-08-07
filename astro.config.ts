@@ -37,9 +37,11 @@ function sitemapInclude(page: string): boolean {
   // Legacy redirects are empty shells if ever emitted
   if (page.endsWith("/play/") || page.includes("/play/print")) return false;
 
-  // Unreleased daily stock: keep out of sitemap until calendar day
-  const daily = page.match(/\/daily\/(\d{4}-\d{2}-\d{2})\/?$/);
-  if (daily && daily[1] > todayInSiteTz()) return false;
+  // Unreleased calendar stock: keep out of sitemap until calendar day
+  const dated = page.match(
+    /\/(?:daily|packs\/[^/]+)\/(\d{4}-\d{2}-\d{2})\/?$/
+  );
+  if (dated && dated[1] > todayInSiteTz()) return false;
 
   return true;
 }

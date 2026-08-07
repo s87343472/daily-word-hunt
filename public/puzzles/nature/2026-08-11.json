@@ -1,0 +1,377 @@
+{
+  "id": "nature-2026-08-11",
+  "playDate": "2026-08-11",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "W",
+      "K",
+      "S",
+      "P",
+      "Q",
+      "K",
+      "K",
+      "A",
+      "P"
+    ],
+    [
+      "F",
+      "Y",
+      "E",
+      "M",
+      "Z",
+      "E",
+      "H",
+      "K",
+      "N",
+      "R"
+    ],
+    [
+      "P",
+      "L",
+      "F",
+      "F",
+      "O",
+      "B",
+      "A",
+      "R",
+      "M",
+      "R"
+    ],
+    [
+      "E",
+      "F",
+      "I",
+      "S",
+      "X",
+      "S",
+      "O",
+      "K",
+      "T",
+      "Z"
+    ],
+    [
+      "H",
+      "N",
+      "L",
+      "P",
+      "R",
+      "H",
+      "S",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "C",
+      "O",
+      "D",
+      "H",
+      "T",
+      "S",
+      "E",
+      "O",
+      "B",
+      "D"
+    ],
+    [
+      "T",
+      "G",
+      "L",
+      "Q",
+      "Y",
+      "S",
+      "E",
+      "P",
+      "L",
+      "A"
+    ],
+    [
+      "I",
+      "A",
+      "I",
+      "Z",
+      "E",
+      "G",
+      "C",
+      "F",
+      "D",
+      "B"
+    ],
+    [
+      "D",
+      "R",
+      "W",
+      "D",
+      "B",
+      "S",
+      "C",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "E",
+      "W",
+      "S",
+      "I",
+      "J",
+      "J",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A small plate on fish or reptiles.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.976Z"
+}

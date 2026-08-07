@@ -1,0 +1,453 @@
+{
+  "id": "cities-2026-09-05",
+  "playDate": "2026-09-05",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "O",
+      "W",
+      "E",
+      "R",
+      "L",
+      "I",
+      "N",
+      "E",
+      "N"
+    ],
+    [
+      "Q",
+      "S",
+      "B",
+      "P",
+      "I",
+      "J",
+      "I",
+      "P",
+      "W",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "J",
+      "Q",
+      "Q",
+      "R",
+      "R",
+      "O",
+      "X",
+      "S"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "B",
+      "S",
+      "U",
+      "T",
+      "Z",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "P",
+      "A",
+      "S",
+      "S",
+      "B"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "Y",
+      "U",
+      "Z",
+      "B",
+      "Y",
+      "J",
+      "Y"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "Y",
+      "T",
+      "R",
+      "U",
+      "O",
+      "C",
+      "B"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "E",
+      "D",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "O",
+      "P",
+      "O",
+      "R",
+      "T",
+      "E",
+      "M"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "R",
+      "F",
+      "H",
+      "C",
+      "A",
+      "E",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "METROPOLIS",
+      "gloss": "A very large city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.024Z"
+}

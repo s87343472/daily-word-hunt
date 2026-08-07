@@ -1,0 +1,201 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Main from "@/components/Main.astro";
+import JsonLd from "@/components/JsonLd.astro";
+import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import { breadcrumbSchema } from "@/lib/seo/schemas";
+import { getAllPacks, getPack, listPackDates } from "@/lib/puzzle/packs";
+import { formatDateInTimeZone } from "@/lib/puzzle/daily";
+import config from "@/config";
+
+export function getStaticPaths() {
+  return getAllPacks().map(p => ({ params: { slug: p.id } }));
+}
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const slug = Astro.params.slug ?? "";
+const pack = getPack(slug);
+
+if (!pack) {
+  return Astro.redirect(getRelativeLocaleUrl(locale, "packs"), 302);
+}
+
+const tz = config.site.timezone;
+const today = formatDateInTimeZone(new Date(), tz);
+const allDates = listPackDates(pack.id);
+const released = allDates.filter(d => d <= today).sort().reverse();
+const hasToday = released.includes(today);
+const largePrint = Astro.url.searchParams.get("a11y") === "1";
+
+const title = `${pack.title} Word Search | ${config.site.title}`;
+const description = pack.description;
+
+// Group released by month for archive chips
+const byMonth = new Map<string, string[]>();
+for (const d of released) {
+  const key = d.slice(0, 7);
+  const list = byMonth.get(key) ?? [];
+  list.push(d);
+  byMonth.set(key, list);
+}
+---
+
+<Layout {title} {description}>
+  <JsonLd
+    slot="head"
+    data={breadcrumbSchema([
+      { name: "Home", path: "" },
+      { name: "Series", path: "packs/" },
+      { name: pack.shortTitle ?? pack.title, path: `packs/${pack.id}/` },
+    ])}
+  />
+  <Header />
+  <Breadcrumb />
+  <Main pageTitle={pack.title}>
+    <p class="pack-kicker">{pack.theme} series</p>
+    <p class="text-muted-foreground mb-6 max-w-2xl text-sm leading-relaxed">
+      {pack.description}
+      {
+        pack.id === "daily" && (
+          <>
+            {" "}
+            This is the default series on the{" "}
+            <a
+              class="text-accent font-medium underline-offset-2 hover:underline"
+              href={getRelativeLocaleUrl(locale, "")}
+            >
+              home page
+            </a>
+            .
+          </>
+        )
+      }
+    </p>
+
+    {
+      hasToday ? (
+        <section class="pack-today mb-10" aria-labelledby="pack-today-heading">
+          <h2 id="pack-today-heading" class="section-h">
+            Today’s {pack.shortTitle ?? pack.title} puzzle
+          </h2>
+          <div class="play-embed">
+            <WordSearchGame
+              daily
+              packId={pack.id}
+              timezone={tz}
+              fallbackUrl="/puzzles/sample.json"
+              largePrint={largePrint}
+              printHref={getRelativeLocaleUrl(locale, "print")}
+              a11yHref={getRelativeLocaleUrl(
+                locale,
+                largePrint
+                  ? `packs/${pack.id}`
+                  : `packs/${pack.id}?a11y=1`
+              )}
+              a11yLabel={largePrint ? "Default size" : "Large print page"}
+            />
+          </div>
+        </section>
+      ) : (
+        <p class="text-muted-foreground mb-8 text-sm">
+          No puzzle for today in this series yet. Check back after the next
+          generate run, or open a past day below.
+        </p>
+      )
+    }
+
+    <section aria-labelledby="pack-archive-heading">
+      <h2 id="pack-archive-heading" class="section-h">Past days</h2>
+      {
+        released.length === 0 ? (
+          <p class="text-muted-foreground text-sm">No released puzzles yet.</p>
+        ) : (
+          <div class="space-y-6">
+            {[...byMonth.entries()].map(([month, days]) => (
+              <div>
+                <h3 class="month-h">{month}</h3>
+                <ul class="date-chips">
+                  {days.map(d => (
+                    <li>
+                      <a
+                        href={getRelativeLocaleUrl(
+                          locale,
+                          `packs/${pack.id}/${d}`
+                        )}
+                        class:list={[
+                          "chip",
+                          { "chip--today": d === today },
+                        ]}
+                      >
+                        {d === today ? `Today · ${d}` : d}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        )
+      }
+    </section>
+  </Main>
+  <Footer />
+</Layout>
+
+<style>
+  .pack-kicker {
+    margin: -0.25rem 0 0.5rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .section-h {
+    margin: 0 0 0.75rem;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+  .play-embed {
+    max-width: 32rem;
+  }
+  .month-h {
+    margin: 0 0 0.45rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--muted-foreground);
+  }
+  .date-chips {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .chip {
+    display: inline-block;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--foreground);
+  }
+  .chip:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .chip--today {
+    background: var(--accent);
+    border-color: transparent;
+    color: var(--accent-foreground);
+  }
+</style>

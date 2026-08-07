@@ -1,0 +1,369 @@
+{
+  "id": "nature-2026-09-05",
+  "playDate": "2026-09-05",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "M",
+      "I",
+      "C",
+      "S",
+      "U",
+      "M",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "R",
+      "Y",
+      "G",
+      "O",
+      "L",
+      "O",
+      "C",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "H",
+      "C",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
+      "Q"
+    ],
+    [
+      "T",
+      "U",
+      "N",
+      "D",
+      "R",
+      "A",
+      "C",
+      "S",
+      "O",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "H",
+      "T",
+      "A",
+      "E",
+      "F",
+      "Y",
+      "R",
+      "T"
+    ],
+    [
+      "O",
+      "M",
+      "N",
+      "D",
+      "A",
+      "M",
+      "L",
+      "P",
+      "C",
+      "D"
+    ],
+    [
+      "O",
+      "S",
+      "Y",
+      "V",
+      "G",
+      "G",
+      "U",
+      "O",
+      "X",
+      "W"
+    ],
+    [
+      "T",
+      "T",
+      "R",
+      "A",
+      "A",
+      "B",
+      "E",
+      "L",
+      "U",
+      "G"
+    ],
+    [
+      "W",
+      "Y",
+      "J",
+      "M",
+      "L",
+      "W",
+      "D",
+      "T",
+      "C",
+      "X"
+    ],
+    [
+      "L",
+      "L",
+      "U",
+      "A",
+      "Q",
+      "C",
+      "G",
+      "D",
+      "T",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.995Z"
+}

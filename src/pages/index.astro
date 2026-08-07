@@ -44,6 +44,7 @@ const description = config.site.description;
 
     <WordSearchGame
       daily
+      packId="daily"
       timezone={tz}
       fallbackUrl="/puzzles/sample.json"
       largePrint={largePrint}
@@ -77,6 +78,8 @@ const description = config.site.description;
         <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a>
         <span aria-hidden="true">·</span>
         <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
+        <span aria-hidden="true">·</span>
+        <a href={getRelativeLocaleUrl(locale, "packs")}>Series</a>
         <span aria-hidden="true">·</span>
         <a href={getRelativeLocaleUrl(locale, "posts")}>Tips</a>
         <span aria-hidden="true">·</span>

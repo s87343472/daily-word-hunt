@@ -1,0 +1,381 @@
+{
+  "id": "nature-2026-09-01",
+  "playDate": "2026-09-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "E",
+      "W",
+      "D",
+      "R",
+      "O",
+      "P",
+      "K",
+      "M",
+      "S"
+    ],
+    [
+      "Z",
+      "R",
+      "H",
+      "A",
+      "E",
+      "T",
+      "Q",
+      "A",
+      "M",
+      "Q"
+    ],
+    [
+      "B",
+      "X",
+      "W",
+      "P",
+      "H",
+      "G",
+      "E",
+      "V",
+      "E",
+      "A"
+    ],
+    [
+      "O",
+      "U",
+      "E",
+      "X",
+      "C",
+      "B",
+      "O",
+      "O",
+      "K",
+      "P"
+    ],
+    [
+      "U",
+      "Z",
+      "R",
+      "Q",
+      "N",
+      "J",
+      "T",
+      "R",
+      "T",
+      "V"
+    ],
+    [
+      "L",
+      "Y",
+      "I",
+      "O",
+      "A",
+      "C",
+      "U",
+      "N",
+      "G",
+      "N"
+    ],
+    [
+      "D",
+      "E",
+      "O",
+      "Z",
+      "L",
+      "W",
+      "R",
+      "B",
+      "P",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "S",
+      "A",
+      "A",
+      "I",
+      "T",
+      "L",
+      "T",
+      "B"
+    ],
+    [
+      "R",
+      "D",
+      "Y",
+      "Y",
+      "V",
+      "P",
+      "L",
+      "Y",
+      "A",
+      "B"
+    ],
+    [
+      "E",
+      "Y",
+      "P",
+      "W",
+      "A",
+      "J",
+      "E",
+      "N",
+      "E",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DEWDROP",
+      "gloss": "A drop of moisture on cool surfaces.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.991Z"
+}

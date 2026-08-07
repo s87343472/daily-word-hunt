@@ -1,0 +1,373 @@
+{
+  "id": "nature-2026-08-19",
+  "playDate": "2026-08-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "Q",
+      "P",
+      "O",
+      "L",
+      "L",
+      "E",
+      "N",
+      "S",
+      "A"
+    ],
+    [
+      "C",
+      "C",
+      "W",
+      "N",
+      "V",
+      "E",
+      "S",
+      "T",
+      "V",
+      "V"
+    ],
+    [
+      "U",
+      "X",
+      "C",
+      "M",
+      "P",
+      "W",
+      "X",
+      "R",
+      "U",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "U",
+      "R",
+      "I",
+      "D",
+      "R",
+      "A",
+      "H",
+      "L"
+    ],
+    [
+      "R",
+      "P",
+      "R",
+      "Z",
+      "Y",
+      "S",
+      "F",
+      "I",
+      "A",
+      "A"
+    ],
+    [
+      "E",
+      "I",
+      "D",
+      "B",
+      "O",
+      "S",
+      "T",
+      "L",
+      "Q",
+      "N"
+    ],
+    [
+      "N",
+      "L",
+      "S",
+      "Z",
+      "A",
+      "Q",
+      "T",
+      "Y",
+      "T",
+      "C"
+    ],
+    [
+      "T",
+      "U",
+      "M",
+      "J",
+      "F",
+      "R",
+      "Y",
+      "A",
+      "K",
+      "H"
+    ],
+    [
+      "Y",
+      "T",
+      "M",
+      "Z",
+      "K",
+      "N",
+      "K",
+      "F",
+      "L",
+      "E"
+    ],
+    [
+      "Z",
+      "F",
+      "Q",
+      "P",
+      "I",
+      "T",
+      "F",
+      "B",
+      "Z",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.981Z"
+}

@@ -1,0 +1,385 @@
+{
+  "id": "nature-2026-08-21",
+  "playDate": "2026-08-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "Q",
+      "I",
+      "O",
+      "C",
+      "S",
+      "A",
+      "D",
+      "Z",
+      "M"
+    ],
+    [
+      "D",
+      "A",
+      "Y",
+      "B",
+      "R",
+      "E",
+      "A",
+      "K",
+      "C",
+      "G"
+    ],
+    [
+      "E",
+      "I",
+      "R",
+      "I",
+      "A",
+      "R",
+      "P",
+      "O",
+      "C",
+      "C"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "R",
+      "H",
+      "K",
+      "E"
+    ],
+    [
+      "V",
+      "D",
+      "S",
+      "M",
+      "H",
+      "A",
+      "B",
+      "O",
+      "Q",
+      "J"
+    ],
+    [
+      "S",
+      "A",
+      "B",
+      "N",
+      "L",
+      "R",
+      "O",
+      "H",
+      "S",
+      "P"
+    ],
+    [
+      "O",
+      "T",
+      "M",
+      "R",
+      "A",
+      "R",
+      "C",
+      "O",
+      "T",
+      "B"
+    ],
+    [
+      "B",
+      "U",
+      "E",
+      "N",
+      "B",
+      "F",
+      "J",
+      "O",
+      "O",
+      "T"
+    ],
+    [
+      "Z",
+      "E",
+      "C",
+      "J",
+      "H",
+      "J",
+      "W",
+      "T",
+      "N",
+      "Z"
+    ],
+    [
+      "F",
+      "H",
+      "P",
+      "T",
+      "W",
+      "S",
+      "U",
+      "R",
+      "E",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.982Z"
+}

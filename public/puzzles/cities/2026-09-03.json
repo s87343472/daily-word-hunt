@@ -1,0 +1,421 @@
+{
+  "id": "cities-2026-09-03",
+  "playDate": "2026-09-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "M",
+      "D",
+      "A",
+      "N",
+      "I",
+      "D",
+      "E",
+      "M",
+      "S"
+    ],
+    [
+      "I",
+      "R",
+      "A",
+      "A",
+      "Z",
+      "A",
+      "B",
+      "A",
+      "T",
+      "T"
+    ],
+    [
+      "L",
+      "P",
+      "B",
+      "F",
+      "Y",
+      "Z",
+      "R",
+      "H",
+      "R",
+      "R"
+    ],
+    [
+      "L",
+      "S",
+      "I",
+      "P",
+      "Z",
+      "I",
+      "M",
+      "I",
+      "O",
+      "I"
+    ],
+    [
+      "B",
+      "G",
+      "K",
+      "P",
+      "N",
+      "U",
+      "W",
+      "F",
+      "P",
+      "K"
+    ],
+    [
+      "O",
+      "A",
+      "E",
+      "A",
+      "E",
+      "W",
+      "M",
+      "K",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "L",
+      "E",
+      "L",
+      "L",
+      "S",
+      "P",
+      "I",
+      "T"
+    ],
+    [
+      "R",
+      "D",
+      "A",
+      "V",
+      "E",
+      "O",
+      "I",
+      "I",
+      "A",
+      "U"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "C",
+      "E",
+      "S",
+      "Z",
+      "N",
+      "L",
+      "O"
+    ],
+    [
+      "F",
+      "N",
+      "E",
+      "G",
+      "J",
+      "N",
+      "I",
+      "U",
+      "E",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BIKELANE",
+      "gloss": "A path reserved for bicycles.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MARINA",
+      "gloss": "A dock for pleasure boats.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "OUTSKIRTS",
+      "gloss": "The outer parts of a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIPELINE",
+      "gloss": "A long pipe for oil or gas.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.022Z"
+}

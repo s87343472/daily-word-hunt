@@ -1,6 +1,7 @@
 ---
 /**
- * Dated puzzle archive — shareable + indexable daily landing pages.
+ * Short URL for the default daily pack archive.
+ * Canonical series architecture lives under /packs/{id}/…
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -11,9 +12,10 @@ import Footer from "@/components/Footer.astro";
 import JsonLd from "@/components/JsonLd.astro";
 import WordSearchGame from "@/components/game/WordSearchGame.astro";
 import {
-  isValidPuzzleDate,
   formatDateInTimeZone,
+  isValidPuzzleDate,
 } from "@/lib/puzzle/daily";
+import { getDefaultPack, listPackDates, puzzleJsonPath } from "@/lib/puzzle/packs";
 import {
   breadcrumbSchema,
   dailyPuzzleSchema,
@@ -26,33 +28,34 @@ type PuzzleFile = {
   words?: { word: string; gloss?: string }[];
 };
 
+const defaultPack = getDefaultPack();
+
 export function getStaticPaths() {
-  const dir = path.join(process.cwd(), "public/puzzles");
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-    .map(f => ({
-      params: { date: f.replace(/\.json$/, "") },
-    }));
+  return listPackDates(getDefaultPack().id).map(date => ({
+    params: { date },
+  }));
 }
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const date = Astro.params.date ?? "";
 const tz = config.site.timezone;
 const today = formatDateInTimeZone(new Date(), tz);
+const pack = defaultPack;
 
 if (!isValidPuzzleDate(date)) {
   return Astro.redirect(getRelativeLocaleUrl(locale, ""), 302);
 }
 
-/** Future stock files: still buildable for CDN, but noindex until released. */
 const isFuture = date > today;
-
 let puzzle: PuzzleFile = {};
-const puzzlePath = path.join(process.cwd(), "public/puzzles", `${date}.json`);
-if (fs.existsSync(puzzlePath)) {
-  puzzle = JSON.parse(fs.readFileSync(puzzlePath, "utf8")) as PuzzleFile;
+const fsPath = path.join(
+  process.cwd(),
+  "public/puzzles",
+  pack.id,
+  `${date}.json`
+);
+if (fs.existsSync(fsPath)) {
+  puzzle = JSON.parse(fs.readFileSync(fsPath, "utf8")) as PuzzleFile;
 }
 
 const words = (puzzle.words ?? []).map(w => w.word.toUpperCase());
@@ -63,10 +66,14 @@ const description = wordPreview
   : `Free word search puzzle for ${date}. Play in your browser — no account required.`;
 
 const largePrint = Astro.url.searchParams.get("a11y") === "1";
-const puzzleUrl = `/puzzles/${date}.json`;
+const puzzleUrl = puzzleJsonPath(pack.id, date);
+const canonicalURL = new URL(
+  getRelativeLocaleUrl(locale, `packs/${pack.id}/${date}`),
+  Astro.site
+).href;
 ---
 
-<Layout {title} {description} noindex={isFuture}>
+<Layout {title} {description} noindex={isFuture} canonicalURL={canonicalURL}>
   <Fragment slot="head">
     {
       !isFuture && (
@@ -77,6 +84,7 @@ const puzzleUrl = `/puzzles/${date}.json`;
               title,
               description,
               words,
+              path: `packs/${pack.id}/${date}/`,
             })}
           />
           <JsonLd
@@ -100,6 +108,10 @@ const puzzleUrl = `/puzzles/${date}.json`;
         <a href={getRelativeLocaleUrl(locale, "")}>Play today</a>
         ·
         <a href={getRelativeLocaleUrl(locale, "past")}>All past</a>
+        ·
+        <a href={getRelativeLocaleUrl(locale, `packs/${pack.id}`)}
+          >{pack.title}</a
+        >
         {
           isFuture && (
             <span class="archive-future"> · Not released yet</span>
@@ -125,10 +137,6 @@ const puzzleUrl = `/puzzles/${date}.json`;
           <h2 id="words-heading" class="archive-words-title">
             Words in this puzzle
           </h2>
-          <p class="archive-words-note">
-            Find these words in the grid (also shown as chips above after the
-            puzzle loads).
-          </p>
           <ol class="archive-word-list">
             {puzzle.words?.map(w => (
               <li>
@@ -175,9 +183,6 @@ const puzzleUrl = `/puzzles/${date}.json`;
   .archive-banner a:hover {
     text-decoration: underline;
   }
-  .archive-future {
-    color: var(--muted-foreground, #afb9ca);
-  }
   .archive-words {
     margin-top: 1.25rem;
     padding-top: 0.85rem;
@@ -185,16 +190,11 @@ const puzzleUrl = `/puzzles/${date}.json`;
       color-mix(in oklab, var(--border, #3a4560) 55%, transparent);
   }
   .archive-words-title {
-    margin: 0;
+    margin: 0 0 0.5rem;
     font-size: 0.85rem;
     font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--muted-foreground, #afb9ca);
-  }
-  .archive-words-note {
-    margin: 0.35rem 0 0.5rem;
-    font-size: 0.8rem;
     color: var(--muted-foreground, #afb9ca);
   }
   .archive-word-list {
@@ -202,9 +202,6 @@ const puzzleUrl = `/puzzles/${date}.json`;
     padding-left: 1.2rem;
     font-size: 0.88rem;
     line-height: 1.5;
-  }
-  .archive-word-list li {
-    margin-bottom: 0.25rem;
   }
   body:has(.play-main) header.app-layout > div {
     padding-top: 0.55rem !important;

@@ -1,0 +1,425 @@
+{
+  "id": "cities-2026-08-07",
+  "playDate": "2026-08-07",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "I",
+      "I",
+      "T",
+      "I",
+      "N",
+      "E",
+      "R",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "T",
+      "H",
+      "N",
+      "S",
+      "Y",
+      "D",
+      "S",
+      "G",
+      "L",
+      "T"
+    ],
+    [
+      "E",
+      "X",
+      "V",
+      "E",
+      "G",
+      "A",
+      "I",
+      "T",
+      "G",
+      "N"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "R",
+      "E",
+      "N",
+      "D",
+      "S",
+      "N",
+      "E"
+    ],
+    [
+      "X",
+      "P",
+      "Y",
+      "A",
+      "W",
+      "E",
+      "E",
+      "O",
+      "J",
+      "M"
+    ],
+    [
+      "H",
+      "U",
+      "B",
+      "U",
+      "B",
+      "M",
+      "W",
+      "P",
+      "K",
+      "T"
+    ],
+    [
+      "Y",
+      "U",
+      "N",
+      "Q",
+      "A",
+      "O",
+      "A",
+      "N",
+      "I",
+      "R"
+    ],
+    [
+      "W",
+      "J",
+      "S",
+      "S",
+      "I",
+      "R",
+      "L",
+      "G",
+      "O",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "A",
+      "L",
+      "A",
+      "P",
+      "K",
+      "I",
+      "S",
+      "P"
+    ],
+    [
+      "I",
+      "S",
+      "K",
+      "F",
+      "Q",
+      "D",
+      "G",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ITINERARY",
+      "gloss": "A planned route or schedule of travel.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "KIOSK",
+      "gloss": "A small open-fronted booth.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SIDEWALK",
+      "gloss": "A paved path for pedestrians.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SIGNPOST",
+      "gloss": "A post with directional signs.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.995Z"
+}

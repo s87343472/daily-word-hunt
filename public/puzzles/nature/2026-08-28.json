@@ -1,0 +1,329 @@
+{
+  "id": "nature-2026-08-28",
+  "playDate": "2026-08-28",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "P",
+      "E",
+      "B",
+      "B",
+      "L",
+      "E",
+      "V",
+      "Y",
+      "L"
+    ],
+    [
+      "P",
+      "L",
+      "W",
+      "C",
+      "E",
+      "P",
+      "Y",
+      "W",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "H",
+      "Q",
+      "Q",
+      "I",
+      "J",
+      "I",
+      "Q",
+      "M",
+      "E"
+    ],
+    [
+      "I",
+      "F",
+      "I",
+      "N",
+      "G",
+      "R",
+      "Q",
+      "B",
+      "B",
+      "V"
+    ],
+    [
+      "N",
+      "C",
+      "E",
+      "P",
+      "K",
+      "R",
+      "D",
+      "T",
+      "D",
+      "X"
+    ],
+    [
+      "G",
+      "E",
+      "H",
+      "H",
+      "S",
+      "T",
+      "L",
+      "E",
+      "Y",
+      "A"
+    ],
+    [
+      "J",
+      "Z",
+      "C",
+      "C",
+      "I",
+      "K",
+      "T",
+      "U",
+      "E",
+      "F"
+    ],
+    [
+      "S",
+      "U",
+      "T",
+      "O",
+      "L",
+      "L",
+      "U",
+      "E",
+      "X",
+      "X"
+    ],
+    [
+      "P",
+      "J",
+      "W",
+      "I",
+      "N",
+      "D",
+      "L",
+      "Z",
+      "X",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "Q",
+      "W",
+      "E",
+      "Q",
+      "M",
+      "A",
+      "O",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.988Z"
+}

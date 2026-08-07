@@ -1,0 +1,373 @@
+{
+  "id": "nature-2026-08-15",
+  "playDate": "2026-08-15",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "X",
+      "U",
+      "U",
+      "F",
+      "H",
+      "R",
+      "O",
+      "K",
+      "M"
+    ],
+    [
+      "P",
+      "Z",
+      "I",
+      "K",
+      "G",
+      "X",
+      "A",
+      "Q",
+      "K",
+      "O"
+    ],
+    [
+      "L",
+      "W",
+      "Z",
+      "K",
+      "T",
+      "O",
+      "V",
+      "Y",
+      "S",
+      "U"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "S",
+      "P",
+      "Y",
+      "E",
+      "E",
+      "K",
+      "N"
+    ],
+    [
+      "N",
+      "N",
+      "E",
+      "O",
+      "I",
+      "S",
+      "N",
+      "C",
+      "Y",
+      "T"
+    ],
+    [
+      "K",
+      "N",
+      "B",
+      "Y",
+      "S",
+      "I",
+      "I",
+      "O",
+      "W",
+      "A"
+    ],
+    [
+      "T",
+      "H",
+      "T",
+      "I",
+      "L",
+      "A",
+      "V",
+      "L",
+      "F",
+      "I"
+    ],
+    [
+      "O",
+      "T",
+      "Z",
+      "N",
+      "E",
+      "D",
+      "A",
+      "O",
+      "L",
+      "N"
+    ],
+    [
+      "N",
+      "P",
+      "P",
+      "G",
+      "Q",
+      "E",
+      "R",
+      "G",
+      "H",
+      "U"
+    ],
+    [
+      "J",
+      "Z",
+      "W",
+      "J",
+      "O",
+      "T",
+      "Y",
+      "Y",
+      "Q",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAVINE",
+      "gloss": "A deep narrow gorge.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.978Z"
+}

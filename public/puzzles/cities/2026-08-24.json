@@ -1,0 +1,377 @@
+{
+  "id": "cities-2026-08-24",
+  "playDate": "2026-08-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "E",
+      "M",
+      "B",
+      "A",
+      "S",
+      "S",
+      "Y",
+      "B",
+      "J"
+    ],
+    [
+      "M",
+      "H",
+      "B",
+      "W",
+      "E",
+      "B",
+      "U",
+      "Y",
+      "R",
+      "P"
+    ],
+    [
+      "M",
+      "I",
+      "O",
+      "D",
+      "E",
+      "A",
+      "P",
+      "K",
+      "T",
+      "B"
+    ],
+    [
+      "T",
+      "S",
+      "O",
+      "L",
+      "M",
+      "D",
+      "M",
+      "S",
+      "T",
+      "W"
+    ],
+    [
+      "C",
+      "P",
+      "K",
+      "R",
+      "E",
+      "T",
+      "A",
+      "E",
+      "H",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "Y",
+      "P",
+      "K",
+      "C",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "R",
+      "H",
+      "D",
+      "Y",
+      "Q",
+      "C",
+      "J",
+      "A",
+      "O"
+    ],
+    [
+      "N",
+      "E",
+      "O",
+      "O",
+      "H",
+      "P",
+      "Z",
+      "O",
+      "K",
+      "P"
+    ],
+    [
+      "V",
+      "M",
+      "P",
+      "S",
+      "T",
+      "V",
+      "N",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "E",
+      "J",
+      "E",
+      "C",
+      "J",
+      "Y",
+      "H",
+      "U",
+      "S",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BOOKSHOP",
+      "gloss": "A store that sells books.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EMBASSY",
+      "gloss": "The office of a foreign country’s representatives.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.011Z"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "nature-2026-08-25",
+  "playDate": "2026-08-25",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "L",
+      "A",
+      "G",
+      "O",
+      "O",
+      "N",
+      "B",
+      "I",
+      "H"
+    ],
+    [
+      "K",
+      "K",
+      "Y",
+      "W",
+      "U",
+      "T",
+      "R",
+      "Q",
+      "H",
+      "R"
+    ],
+    [
+      "C",
+      "S",
+      "R",
+      "G",
+      "K",
+      "E",
+      "X",
+      "R",
+      "M",
+      "E"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "E",
+      "E",
+      "B",
+      "U",
+      "K",
+      "A",
+      "D"
+    ],
+    [
+      "G",
+      "U",
+      "W",
+      "Z",
+      "V",
+      "F",
+      "E",
+      "A",
+      "T",
+      "N"
+    ],
+    [
+      "W",
+      "R",
+      "E",
+      "T",
+      "K",
+      "A",
+      "Y",
+      "Z",
+      "O",
+      "E"
+    ],
+    [
+      "U",
+      "K",
+      "Z",
+      "H",
+      "S",
+      "V",
+      "E",
+      "V",
+      "K",
+      "V"
+    ],
+    [
+      "H",
+      "W",
+      "G",
+      "H",
+      "I",
+      "O",
+      "O",
+      "B",
+      "C",
+      "A"
+    ],
+    [
+      "N",
+      "C",
+      "E",
+      "X",
+      "U",
+      "O",
+      "R",
+      "L",
+      "A",
+      "L"
+    ],
+    [
+      "F",
+      "N",
+      "B",
+      "X",
+      "Z",
+      "K",
+      "K",
+      "F",
+      "P",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FUR",
+      "gloss": "The short fine hair of certain animals.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.985Z"
+}

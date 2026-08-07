@@ -1,0 +1,413 @@
+{
+  "id": "cities-2026-08-27",
+  "playDate": "2026-08-27",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "B",
+      "P",
+      "M",
+      "O",
+      "C",
+      "B",
+      "Z",
+      "K",
+      "D"
+    ],
+    [
+      "T",
+      "P",
+      "O",
+      "X",
+      "C",
+      "O",
+      "O",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "M",
+      "R",
+      "S",
+      "E",
+      "U",
+      "A",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "T",
+      "K",
+      "F",
+      "R",
+      "R",
+      "I",
+      "W",
+      "C"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "A",
+      "J",
+      "T",
+      "D",
+      "N",
+      "R",
+      "A"
+    ],
+    [
+      "F",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "Y",
+      "W",
+      "G",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "E",
+      "P",
+      "M",
+      "R",
+      "A",
+      "A",
+      "H",
+      "V",
+      "A"
+    ],
+    [
+      "I",
+      "S",
+      "H",
+      "U",
+      "Z",
+      "R",
+      "L",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "L",
+      "M",
+      "K",
+      "L",
+      "L",
+      "D",
+      "K",
+      "D",
+      "R",
+      "O"
+    ],
+    [
+      "K",
+      "G",
+      "B",
+      "R",
+      "U",
+      "B",
+      "U",
+      "S",
+      "P",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOARDWALK",
+      "gloss": "A wooden walkway along a beach.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ESCALATOR",
+      "gloss": "A moving staircase.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PORT",
+      "gloss": "A town with a harbor for ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "RIVERWALK",
+      "gloss": "A path along a river in a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUBURB",
+      "gloss": "A residential area on the edge of a city.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:43.016Z"
+}

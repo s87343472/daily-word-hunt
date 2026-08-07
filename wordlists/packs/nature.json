@@ -1,0 +1,829 @@
+{
+  "pack": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words.",
+  "size": 10,
+  "wordsPerDay": 8,
+  "words": [
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water."
+    },
+    {
+      "word": "OCEAN",
+      "gloss": "A vast body of salt water."
+    },
+    {
+      "word": "FOREST",
+      "gloss": "A large area covered with trees."
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers."
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land."
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains."
+    },
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides."
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice."
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region."
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water."
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs."
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches."
+    },
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood."
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves."
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree."
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles."
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps."
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds."
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers."
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb."
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals."
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers."
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers."
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant."
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers."
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind."
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather."
+    },
+    {
+      "word": "THUNDER",
+      "gloss": "The sound that follows lightning."
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain."
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun."
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset."
+    },
+    {
+      "word": "DEWDROP",
+      "gloss": "A drop of moisture on cool surfaces."
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface."
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow."
+    },
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope."
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height."
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water."
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea."
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land."
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland."
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain."
+    },
+    {
+      "word": "SAVANNA",
+      "gloss": "A grassy plain with scattered trees."
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest."
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird."
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey."
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird."
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal."
+    },
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams."
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river."
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish."
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal."
+    },
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal."
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell."
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail."
+    },
+    {
+      "word": "FROG",
+      "gloss": "An amphibian that jumps and croaks."
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect."
+    },
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings."
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect."
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey."
+    },
+    {
+      "word": "FIREFLY",
+      "gloss": "An insect that glows at night."
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap."
+    },
+    {
+      "word": "ACORN",
+      "gloss": "The nut of an oak tree."
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree."
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla."
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant."
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant."
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed."
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees."
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants."
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking."
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain."
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face."
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber."
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts."
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava."
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet."
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars."
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight."
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning."
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night."
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year."
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops."
+    },
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers."
+    },
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter."
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year."
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter."
+    },
+    {
+      "word": "SUMMER",
+      "gloss": "The warmest season of the year."
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions."
+    },
+    {
+      "word": "HABITAT",
+      "gloss": "The natural home of a plant or animal."
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment."
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm."
+    },
+    {
+      "word": "NATURE",
+      "gloss": "The physical world not made by humans."
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land."
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun."
+    },
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky."
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog."
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air."
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth."
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone."
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal."
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches."
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea."
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water."
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water."
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea."
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water."
+    },
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea."
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand."
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees."
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees."
+    },
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest."
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land."
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land."
+    },
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock."
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream."
+    },
+    {
+      "word": "BROOK",
+      "gloss": "A small stream."
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water."
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land."
+    },
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea."
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay."
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island."
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain."
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains."
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides."
+    },
+    {
+      "word": "RAVINE",
+      "gloss": "A deep narrow gorge."
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land."
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land."
+    },
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land."
+    },
+    {
+      "word": "PASTURE",
+      "gloss": "Land covered with grass for grazing."
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes."
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers."
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns."
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower with showy blooms."
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals."
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers."
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant."
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant."
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss."
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves."
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves."
+    },
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers."
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers."
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers."
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live."
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs."
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird."
+    },
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer."
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads."
+    },
+    {
+      "word": "FUR",
+      "gloss": "The short fine hair of certain animals."
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A small plate on fish or reptiles."
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming."
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying."
+    },
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill."
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl."
+    },
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound."
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf."
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal."
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal."
+    },
+    {
+      "word": "DEN",
+      "gloss": "A wild animal’s hidden home."
+    },
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home."
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together."
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals."
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep."
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together."
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef."
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide."
+    },
+    {
+      "word": "ALPINE",
+      "gloss": "Relating to high mountains."
+    },
+    {
+      "word": "ARCTIC",
+      "gloss": "Relating to the North Pole region."
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator."
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest."
+    },
+    {
+      "word": "UNDERSTORY",
+      "gloss": "Vegetation under the forest canopy."
+    },
+    {
+      "word": "SOIL",
+      "gloss": "The upper layer of earth where plants grow."
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery."
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil."
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants."
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer."
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant."
+    },
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower."
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch."
+    },
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree."
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree."
+    },
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree."
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant."
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees."
+    },
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin."
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal."
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock."
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock."
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks."
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid."
+    },
+    {
+      "word": "GEODE",
+      "gloss": "A rock cavity lined with crystals."
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life."
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface."
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed."
+    },
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants."
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms."
+    },
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air."
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water."
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river."
+    },
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea."
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth."
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water."
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground."
+    },
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground."
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land."
+    }
+  ]
+}

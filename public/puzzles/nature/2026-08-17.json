@@ -1,0 +1,357 @@
+{
+  "id": "nature-2026-08-17",
+  "playDate": "2026-08-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "E",
+      "A",
+      "M",
+      "B",
+      "E",
+      "R",
+      "S",
+      "Y",
+      "P"
+    ],
+    [
+      "E",
+      "F",
+      "A",
+      "B",
+      "Z",
+      "Z",
+      "O",
+      "A",
+      "Z",
+      "B"
+    ],
+    [
+      "Y",
+      "H",
+      "M",
+      "G",
+      "S",
+      "I",
+      "B",
+      "P",
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "I",
+      "O",
+      "G",
+      "L",
+      "W",
+      "Z",
+      "I",
+      "R",
+      "J"
+    ],
+    [
+      "V",
+      "A",
+      "H",
+      "N",
+      "N",
+      "A",
+      "F",
+      "N",
+      "A",
+      "G"
+    ],
+    [
+      "O",
+      "W",
+      "S",
+      "P",
+      "E",
+      "Z",
+      "T",
+      "E",
+      "U",
+      "D"
+    ],
+    [
+      "W",
+      "O",
+      "T",
+      "I",
+      "M",
+      "Y",
+      "N",
+      "P",
+      "Q",
+      "A"
+    ],
+    [
+      "A",
+      "P",
+      "W",
+      "U",
+      "T",
+      "N",
+      "B",
+      "F",
+      "G",
+      "Q"
+    ],
+    [
+      "W",
+      "E",
+      "T",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "I",
+      "M"
+    ],
+    [
+      "W",
+      "S",
+      "T",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "E",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SOIL",
+      "gloss": "The upper layer of earth where plants grow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T03:12:42.980Z"
+}
