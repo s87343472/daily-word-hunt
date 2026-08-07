@@ -66,7 +66,7 @@ export function hasAnalyticsConsent(): boolean {
  * Load analytics only after opt-in.
  * Configure via public env (Cloudflare Pages → Environment variables):
  *   PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art
- *   PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXX
+ *   PUBLIC_GA_MEASUREMENT_ID=G-SZMGNMBD0Z
  * Never inject third-party scripts unless analytics === true.
  */
 export function applyAnalyticsGate(
@@ -124,11 +124,13 @@ function loadGa4() {
   document.head.appendChild(s);
   const cfg = document.createElement("script");
   cfg.id = "dwh-ga4-config";
+  // Same shape as Google's gtag snippet; only injected after opt-in.
   cfg.textContent = `
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+    window.gtag = gtag;
     gtag('js', new Date());
-    gtag('config', ${JSON.stringify(id)}, { anonymize_ip: true });
+    gtag('config', ${JSON.stringify(id)});
   `;
   document.head.appendChild(cfg);
 }

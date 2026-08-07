@@ -96,13 +96,23 @@ npx impeccable install --providers=grok --scope=project
 
 ## Analytics (opt-in only)
 
-Set on Cloudflare Pages (or `.env`) — scripts load **only** after cookie Accept:
+Scripts load **only** after the visitor accepts analytics in the cookie banner (not on Reject).
+
+**Cloudflare Pages** → project → **Settings** → **Environment variables** → Production (+ Preview if you want):
+
+| Name | Value |
+|------|--------|
+| `PUBLIC_GA_MEASUREMENT_ID` | `G-SZMGNMBD0Z` |
+
+Optional:
 
 ```bash
 PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art
-# and/or
-PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXX
 ```
+
+Then **redeploy** (env vars are baked in at build time for Astro `PUBLIC_*`).
+
+Local: copy `.env.example` → `.env` and restart `pnpm dev`.
 
 ## Local progress
 
