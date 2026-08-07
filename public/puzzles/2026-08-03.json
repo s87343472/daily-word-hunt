@@ -1,0 +1,323 @@
+{
+  "id": "daily-2026-08-03",
+  "playDate": "2026-08-03",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "P",
+      "Y",
+      "D",
+      "Y",
+      "E",
+      "A",
+      "R",
+      "C",
+      "V"
+    ],
+    [
+      "G",
+      "T",
+      "S",
+      "D",
+      "R",
+      "X",
+      "S",
+      "A",
+      "I",
+      "J"
+    ],
+    [
+      "F",
+      "N",
+      "B",
+      "E",
+      "H",
+      "M",
+      "L",
+      "X",
+      "F",
+      "E"
+    ],
+    [
+      "U",
+      "B",
+      "V",
+      "T",
+      "V",
+      "M",
+      "O",
+      "B",
+      "S",
+      "D"
+    ],
+    [
+      "V",
+      "I",
+      "U",
+      "F",
+      "E",
+      "R",
+      "B",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "R",
+      "R",
+      "C",
+      "S",
+      "H",
+      "O",
+      "E",
+      "S",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "Z",
+      "Q",
+      "D",
+      "G",
+      "F",
+      "D",
+      "E",
+      "V",
+      "S"
+    ],
+    [
+      "L",
+      "G",
+      "O",
+      "Z",
+      "V",
+      "Z",
+      "A",
+      "W",
+      "C",
+      "L"
+    ],
+    [
+      "W",
+      "O",
+      "B",
+      "H",
+      "U",
+      "G",
+      "E",
+      "A",
+      "W",
+      "M"
+    ],
+    [
+      "W",
+      "N",
+      "R",
+      "U",
+      "E",
+      "U",
+      "T",
+      "A",
+      "S",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALM",
+      "gloss": "Peaceful and free from agitation.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOON",
+      "gloss": "Earth's natural satellite.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SEED",
+      "gloss": "What a plant grows from.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SHOES",
+      "gloss": "Footwear that protects the feet.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TRUTH",
+      "gloss": "That which is true or real.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WOOD",
+      "gloss": "Hard material from trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "YEAR",
+      "gloss": "A period of twelve months.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-06T09:15:14.975Z"
+}

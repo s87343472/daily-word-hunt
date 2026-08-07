@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-09-25",
+  "playDate": "2026-09-25",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "Z",
+      "Q",
+      "T",
+      "E",
+      "A",
+      "S",
+      "E",
+      "L",
+      "W"
+    ],
+    [
+      "V",
+      "Q",
+      "T",
+      "E",
+      "N",
+      "I",
+      "T",
+      "A",
+      "S",
+      "M"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "O",
+      "N",
+      "G",
+      "S",
+      "W",
+      "H",
+      "O"
+    ],
+    [
+      "O",
+      "Z",
+      "M",
+      "Y",
+      "O",
+      "K",
+      "B",
+      "O",
+      "L",
+      "T"
+    ],
+    [
+      "F",
+      "P",
+      "R",
+      "I",
+      "S",
+      "M",
+      "K",
+      "L",
+      "A",
+      "H"
+    ],
+    [
+      "Y",
+      "A",
+      "W",
+      "Z",
+      "M",
+      "C",
+      "I",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "K",
+      "B",
+      "C",
+      "U",
+      "D",
+      "L",
+      "A",
+      "Z",
+      "F"
+    ],
+    [
+      "E",
+      "Q",
+      "F",
+      "R",
+      "H",
+      "I",
+      "U",
+      "T",
+      "Z",
+      "E"
+    ],
+    [
+      "D",
+      "C",
+      "V",
+      "V",
+      "I",
+      "W",
+      "Q",
+      "G",
+      "O",
+      "Y"
+    ],
+    [
+      "E",
+      "J",
+      "H",
+      "Q",
+      "W",
+      "C",
+      "K",
+      "I",
+      "U",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "EASEL",
+      "gloss": "A stand for an artist’s canvas.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FABRIC",
+      "gloss": "Cloth produced by weaving or knitting.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOTH",
+      "gloss": "An insect related to butterflies.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PRISM",
+      "gloss": "A transparent object that splits light.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SATIN",
+      "gloss": "A smooth glossy fabric.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TALLOW",
+      "gloss": "Hard animal fat used in candles.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TONGS",
+      "gloss": "A tool for gripping hot items.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.192Z"
+}

@@ -1,0 +1,16 @@
+{
+  "pack": "sample-daily",
+  "title": "Calm Everyday Words",
+  "description": "A gentle starter pack for validating the word-search loop.",
+  "size": 10,
+  "words": [
+    { "word": "APPLE", "gloss": "A crisp fruit often red or green." },
+    { "word": "BREAD", "gloss": "Baked staple food made from flour." },
+    { "word": "WATER", "gloss": "Clear liquid essential to life." },
+    { "word": "HOUSE", "gloss": "A building people live in." },
+    { "word": "MUSIC", "gloss": "Sound arranged in time and melody." },
+    { "word": "PEACE", "gloss": "A state of calm without conflict." },
+    { "word": "LIGHT", "gloss": "Brightness that lets us see." },
+    { "word": "RIVER", "gloss": "A flowing body of fresh water." }
+  ]
+}

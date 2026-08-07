@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-11-25",
+  "playDate": "2026-11-25",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "R",
+      "C",
+      "R",
+      "X",
+      "U",
+      "I",
+      "W",
+      "X",
+      "H"
+    ],
+    [
+      "U",
+      "O",
+      "C",
+      "H",
+      "Z",
+      "K",
+      "E",
+      "A",
+      "K",
+      "W"
+    ],
+    [
+      "D",
+      "I",
+      "K",
+      "A",
+      "A",
+      "O",
+      "T",
+      "L",
+      "A",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "Y",
+      "L",
+      "S",
+      "R",
+      "Z",
+      "R",
+      "S",
+      "W"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "T",
+      "M",
+      "U",
+      "P",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "I",
+      "C",
+      "P",
+      "L",
+      "S",
+      "R",
+      "G"
+    ],
+    [
+      "S",
+      "O",
+      "Q",
+      "L",
+      "D",
+      "A",
+      "H",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "I",
+      "O",
+      "V",
+      "H",
+      "P",
+      "T",
+      "A",
+      "E",
+      "U",
+      "Y"
+    ],
+    [
+      "V",
+      "Q",
+      "V",
+      "H",
+      "Y",
+      "C",
+      "Y",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "K",
+      "F",
+      "B",
+      "F",
+      "L",
+      "H",
+      "I",
+      "I",
+      "M",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CHARM",
+      "gloss": "A pleasing quality; also a small ornament.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HONEY",
+      "gloss": "Sweet food made by bees.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PATCH",
+      "gloss": "A small area different from its surroundings.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "gloss": "A large marine mammal with tusks.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.247Z"
+}

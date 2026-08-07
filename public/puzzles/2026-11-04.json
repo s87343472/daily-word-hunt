@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-11-04",
+  "playDate": "2026-11-04",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "I",
+      "P",
+      "S",
+      "S",
+      "W",
+      "K",
+      "X",
+      "L",
+      "T"
+    ],
+    [
+      "U",
+      "Y",
+      "D",
+      "U",
+      "H",
+      "T",
+      "Q",
+      "I",
+      "K",
+      "D"
+    ],
+    [
+      "R",
+      "P",
+      "B",
+      "T",
+      "D",
+      "A",
+      "A",
+      "R",
+      "D",
+      "V"
+    ],
+    [
+      "B",
+      "L",
+      "L",
+      "Y",
+      "E",
+      "Z",
+      "L",
+      "I",
+      "G",
+      "Q"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "Z",
+      "D",
+      "W",
+      "Z",
+      "L",
+      "N",
+      "P"
+    ],
+    [
+      "N",
+      "Y",
+      "S",
+      "G",
+      "A",
+      "F",
+      "V",
+      "V",
+      "O",
+      "K"
+    ],
+    [
+      "W",
+      "C",
+      "S",
+      "C",
+      "L",
+      "B",
+      "H",
+      "Y",
+      "W",
+      "T"
+    ],
+    [
+      "H",
+      "W",
+      "O",
+      "Y",
+      "G",
+      "S",
+      "M",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "K",
+      "O",
+      "M",
+      "L",
+      "G",
+      "E",
+      "Y",
+      "X",
+      "K",
+      "M"
+    ],
+    [
+      "F",
+      "X",
+      "Z",
+      "W",
+      "A",
+      "S",
+      "T",
+      "E",
+      "I",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GLADE",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHALLOT",
+      "gloss": "A small onion-like vegetable.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SMELL",
+      "gloss": "To sense with the nose.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STAIN",
+      "gloss": "A discoloration; also to mark.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TURBAN",
+      "gloss": "A head covering of wound cloth.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WASTE",
+      "gloss": "Unwanted material; also to use carelessly.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "YEW",
+      "gloss": "An evergreen tree with red berries.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.229Z"
+}

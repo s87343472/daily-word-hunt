@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-21",
+  "playDate": "2026-12-21",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "E",
+      "L",
+      "F",
+      "F",
+      "U",
+      "R",
+      "T",
+      "W",
+      "P"
+    ],
+    [
+      "Z",
+      "Y",
+      "E",
+      "O",
+      "S",
+      "E",
+      "U",
+      "Y",
+      "E",
+      "Q"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      "V",
+      "S",
+      "Q",
+      "H",
+      "F",
+      "Y",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      "Y",
+      "Z",
+      "S",
+      "T",
+      "X",
+      "X",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "C",
+      "A",
+      "B",
+      "A",
+      "P",
+      "R",
+      "E",
+      "K",
+      "S"
+    ],
+    [
+      "T",
+      "H",
+      "R",
+      "F",
+      "R",
+      "H",
+      "L",
+      "A",
+      "O",
+      "Q"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "C",
+      "G",
+      "C",
+      "C",
+      "P",
+      "C",
+      "M"
+    ],
+    [
+      "F",
+      "R",
+      "R",
+      "Y",
+      "P",
+      "P",
+      "H",
+      "E",
+      "F",
+      "E"
+    ],
+    [
+      "L",
+      "D",
+      "D",
+      "A",
+      "R",
+      "H",
+      "G",
+      "W",
+      "G",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "E",
+      "R",
+      "E",
+      "P",
+      "P",
+      "U",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLEAN",
+      "gloss": "Free from dirt.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GRASS",
+      "gloss": "Green plants covering fields.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns; also a color.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUPPER",
+      "gloss": "An evening meal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRACE",
+      "gloss": "A mark left behind; also a tiny amount.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRUFFLE",
+      "gloss": "An edible underground fungus.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "YARN",
+      "gloss": "Spun thread for knitting.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.270Z"
+}

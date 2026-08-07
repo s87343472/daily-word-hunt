@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-10-18",
+  "playDate": "2026-10-18",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "U",
+      "F",
+      "X",
+      "S",
+      "X",
+      "B",
+      "T",
+      "H",
+      "F"
+    ],
+    [
+      "A",
+      "M",
+      "C",
+      "A",
+      "L",
+      "M",
+      "W",
+      "Y",
+      "S",
+      "H"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "B",
+      "P",
+      "U",
+      "H",
+      "K",
+      "F",
+      "M"
+    ],
+    [
+      "E",
+      "R",
+      "V",
+      "R",
+      "H",
+      "C",
+      "R",
+      "O",
+      "P",
+      "K"
+    ],
+    [
+      "W",
+      "U",
+      "H",
+      "C",
+      "C",
+      "Z",
+      "R",
+      "L",
+      "V",
+      "G"
+    ],
+    [
+      "H",
+      "S",
+      "S",
+      "S",
+      "Y",
+      "R",
+      "A",
+      "U",
+      "M",
+      "C"
+    ],
+    [
+      "E",
+      "T",
+      "P",
+      "K",
+      "H",
+      "I",
+      "E",
+      "E",
+      "V",
+      "Y"
+    ],
+    [
+      "A",
+      "B",
+      "K",
+      "R",
+      "D",
+      "O",
+      "L",
+      "A",
+      "Q",
+      "I"
+    ],
+    [
+      "T",
+      "T",
+      "U",
+      "I",
+      "S",
+      "O",
+      "R",
+      "T",
+      "T",
+      "Y"
+    ],
+    [
+      "Y",
+      "A",
+      "Y",
+      "C",
+      "N",
+      "U",
+      "T",
+      "E",
+      "I",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALM",
+      "gloss": "Peaceful and free from agitation.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CREATE",
+      "gloss": "To bring something into existence.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DIAL",
+      "gloss": "A face with a pointer for measurement.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MELON",
+      "gloss": "A large sweet fruit with a thick rind.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TRUST",
+      "gloss": "Firm belief in reliability.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WHEATY",
+      "gloss": "Having qualities of wheat.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.214Z"
+}

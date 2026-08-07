@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-10-26",
+  "playDate": "2026-10-26",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "A",
+      "S",
+      "Y",
+      "C",
+      "A",
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "Z",
+      "K",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "V",
+      "M",
+      "H"
+    ],
+    [
+      "C",
+      "M",
+      "O",
+      "F",
+      "W",
+      "J",
+      "P",
+      "I",
+      "X",
+      "W"
+    ],
+    [
+      "F",
+      "O",
+      "E",
+      "S",
+      "G",
+      "K",
+      "I",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "Y",
+      "X",
+      "Y",
+      "S",
+      "O",
+      "M",
+      "N",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "C",
+      "P",
+      "Y",
+      "S",
+      "V",
+      "H",
+      "E",
+      "R",
+      "N",
+      "D"
+    ],
+    [
+      "M",
+      "M",
+      "Q",
+      "K",
+      "T",
+      "C",
+      "G",
+      "E",
+      "I",
+      "L"
+    ],
+    [
+      "L",
+      "K",
+      "A",
+      "D",
+      "P",
+      "E",
+      "C",
+      "V",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "F",
+      "Q",
+      "L",
+      "C",
+      "I",
+      "R",
+      "O",
+      "S",
+      "N"
+    ],
+    [
+      "A",
+      "H",
+      "P",
+      "E",
+      "F",
+      "W",
+      "H",
+      "L",
+      "G",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "LOVE",
+      "gloss": "Deep affection.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "gloss": "A shellfish sometimes containing pearls.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RINSE",
+      "gloss": "To wash lightly with water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SYCAMORE",
+      "gloss": "A large tree with mottled bark.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAIN",
+      "gloss": "A series of connected railroad cars.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VIPER",
+      "gloss": "A venomous snake.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.221Z"
+}

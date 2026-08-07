@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-08-27",
+  "playDate": "2026-08-27",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "P",
+      "Z",
+      "Q",
+      "Y",
+      "L",
+      "W",
+      "M",
+      "Z",
+      "D"
+    ],
+    [
+      "G",
+      "L",
+      "S",
+      "E",
+      "A",
+      "S",
+      "O",
+      "N",
+      "R",
+      "W"
+    ],
+    [
+      "G",
+      "N",
+      "I",
+      "R",
+      "P",
+      "S",
+      "F",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "B",
+      "W",
+      "Z",
+      "A",
+      "B",
+      "W",
+      "A",
+      "R",
+      "O",
+      "B"
+    ],
+    [
+      "S",
+      "B",
+      "H",
+      "H",
+      "W",
+      "M",
+      "A",
+      "S",
+      "W",
+      "V"
+    ],
+    [
+      "F",
+      "W",
+      "X",
+      "W",
+      "W",
+      "K",
+      "M",
+      "R",
+      "D",
+      "S"
+    ],
+    [
+      "D",
+      "Z",
+      "E",
+      "T",
+      "I",
+      "I",
+      "E",
+      "J",
+      "Y",
+      "E"
+    ],
+    [
+      "J",
+      "K",
+      "U",
+      "E",
+      "R",
+      "A",
+      "Y",
+      "L",
+      "E",
+      "V"
+    ],
+    [
+      "K",
+      "H",
+      "A",
+      "C",
+      "T",
+      "Z",
+      "F",
+      "S",
+      "A",
+      "F"
+    ],
+    [
+      "E",
+      "F",
+      "Z",
+      "H",
+      "M",
+      "C",
+      "O",
+      "R",
+      "A",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRIMSON",
+      "gloss": "A deep red color.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DREAM",
+      "gloss": "Images and thoughts during sleep.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SEE",
+      "gloss": "To perceive with the eyes.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter; also a water source.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SWEET",
+      "gloss": "Having a taste of sugar; pleasant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WREATH",
+      "gloss": "A ring of flowers or leaves.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.166Z"
+}

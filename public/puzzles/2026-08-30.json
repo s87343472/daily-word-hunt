@@ -1,0 +1,367 @@
+{
+  "id": "daily-2026-08-30",
+  "playDate": "2026-08-30",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "O",
+      "N",
+      "D",
+      "E",
+      "R",
+      "J",
+      "H",
+      "S",
+      "P"
+    ],
+    [
+      "S",
+      "Y",
+      "J",
+      "Q",
+      "T",
+      "D",
+      "A",
+      "Z",
+      "J",
+      "Z"
+    ],
+    [
+      "Q",
+      "D",
+      "N",
+      "W",
+      "I",
+      "Z",
+      "S",
+      "B",
+      "J",
+      "K"
+    ],
+    [
+      "U",
+      "G",
+      "P",
+      "D",
+      "E",
+      "N",
+      "N",
+      "B",
+      "L",
+      "Z"
+    ],
+    [
+      "A",
+      "Z",
+      "O",
+      "L",
+      "S",
+      "M",
+      "H",
+      "N",
+      "C",
+      "D"
+    ],
+    [
+      "R",
+      "W",
+      "N",
+      "H",
+      "O",
+      "H",
+      "F",
+      "A",
+      "P",
+      "T"
+    ],
+    [
+      "E",
+      "U",
+      "Z",
+      "O",
+      "C",
+      "H",
+      "M",
+      "G",
+      "P",
+      "L"
+    ],
+    [
+      "T",
+      "S",
+      "R",
+      "R",
+      "G",
+      "U",
+      "E",
+      "F",
+      "Q",
+      "I"
+    ],
+    [
+      "L",
+      "B",
+      "O",
+      "P",
+      "S",
+      "M",
+      "L",
+      "F",
+      "M",
+      "T"
+    ],
+    [
+      "N",
+      "P",
+      "Z",
+      "H",
+      "U",
+      "M",
+      "B",
+      "L",
+      "E",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BROOM",
+      "gloss": "A brush on a long handle for sweeping.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HAZELNUT",
+      "gloss": "The nut of the hazel tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HUMBLE",
+      "gloss": "Modest; not proud.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "A shape with four equal sides.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STILT",
+      "gloss": "A pole for walking above ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUMAC",
+      "gloss": "A shrub with clustered fruit.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "YONDER",
+      "gloss": "At some distance in that direction.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.169Z"
+}

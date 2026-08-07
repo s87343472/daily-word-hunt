@@ -1,0 +1,339 @@
+{
+  "id": "daily-2026-09-28",
+  "playDate": "2026-09-28",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "H",
+      "U",
+      "L",
+      "Z",
+      "M",
+      "P",
+      "O",
+      "X",
+      "K"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "Y",
+      "L",
+      "F",
+      "H",
+      "C",
+      "L",
+      "J"
+    ],
+    [
+      "A",
+      "P",
+      "W",
+      "Q",
+      "A",
+      "D",
+      "C",
+      "Y",
+      "B",
+      "G"
+    ],
+    [
+      "I",
+      "P",
+      "U",
+      "A",
+      "Z",
+      "Z",
+      "D",
+      "M",
+      "P",
+      "T"
+    ],
+    [
+      "N",
+      "Y",
+      "B",
+      "Z",
+      "R",
+      "N",
+      "S",
+      "O",
+      "X",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "J",
+      "N",
+      "I",
+      "T",
+      "A",
+      "S",
+      "B",
+      "Y"
+    ],
+    [
+      "Y",
+      "F",
+      "B",
+      "W",
+      "K",
+      "N",
+      "S",
+      "S",
+      "X",
+      "W"
+    ],
+    [
+      "G",
+      "T",
+      "D",
+      "B",
+      "X",
+      "Y",
+      "L",
+      "E",
+      "M",
+      "L"
+    ],
+    [
+      "R",
+      "W",
+      "H",
+      "V",
+      "I",
+      "I",
+      "M",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "V",
+      "Q",
+      "L",
+      "Z",
+      "R",
+      "X",
+      "S",
+      "F",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "HAPPY",
+      "gloss": "Feeling joy or contentment.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MOOR",
+      "gloss": "Open uncultivated upland.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PAINT",
+      "gloss": "Colored liquid spread on a surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RIBBON",
+      "gloss": "A narrow strip of fabric.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STRAW",
+      "gloss": "Dried stalks of grain.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WINDY",
+      "gloss": "Characterized by strong wind.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "XYLEM",
+      "gloss": "Plant tissue that carries water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.195Z"
+}

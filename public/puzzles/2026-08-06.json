@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-08-06",
+  "playDate": "2026-08-06",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "M",
+      "X",
+      "N",
+      "C",
+      "W",
+      "H",
+      "L",
+      "I",
+      "M"
+    ],
+    [
+      "R",
+      "X",
+      "T",
+      "L",
+      "O",
+      "N",
+      "O",
+      "L",
+      "E",
+      "J"
+    ],
+    [
+      "F",
+      "X",
+      "O",
+      "O",
+      "S",
+      "Y",
+      "X",
+      "N",
+      "F",
+      "B"
+    ],
+    [
+      "Y",
+      "U",
+      "N",
+      "U",
+      "M",
+      "B",
+      "E",
+      "R",
+      "K",
+      "B"
+    ],
+    [
+      "D",
+      "A",
+      "K",
+      "W",
+      "Q",
+      "L",
+      "D",
+      "R",
+      "B",
+      "S"
+    ],
+    [
+      "N",
+      "G",
+      "B",
+      "A",
+      "M",
+      "A",
+      "W",
+      "U",
+      "T",
+      "X"
+    ],
+    [
+      "G",
+      "T",
+      "B",
+      "Q",
+      "H",
+      "M",
+      "X",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "X",
+      "O",
+      "I",
+      "R",
+      "N",
+      "P",
+      "O",
+      "R",
+      "F",
+      "K"
+    ],
+    [
+      "K",
+      "J",
+      "L",
+      "O",
+      "A",
+      "N",
+      "F",
+      "O",
+      "V",
+      "Q"
+    ],
+    [
+      "H",
+      "U",
+      "Y",
+      "D",
+      "G",
+      "N",
+      "S",
+      "D",
+      "A",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DUSK",
+      "gloss": "The dim light after sunset.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GOLD",
+      "gloss": "A yellow precious metal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "KNOW",
+      "gloss": "To have information or skill.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LAMP",
+      "gloss": "A device that gives light.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NUMBER",
+      "gloss": "A symbol used for counting.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SOFT",
+      "gloss": "Easy to press; not hard.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STRONG",
+      "gloss": "Having power or force.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-06T09:15:14.977Z"
+}

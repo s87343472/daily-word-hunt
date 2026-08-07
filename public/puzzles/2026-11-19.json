@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-11-19",
+  "playDate": "2026-11-19",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "H",
+      "M",
+      "I",
+      "Y",
+      "A",
+      "E",
+      "X",
+      "J",
+      "Z"
+    ],
+    [
+      "C",
+      "S",
+      "A",
+      "Z",
+      "E",
+      "Y",
+      "E",
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      "E",
+      "U",
+      "L",
+      "V",
+      "O",
+      "W",
+      "Z",
+      "X",
+      "L",
+      "Q"
+    ],
+    [
+      "A",
+      "H",
+      "X",
+      "P",
+      "E",
+      "F",
+      "E",
+      "K",
+      "T",
+      "Y"
+    ],
+    [
+      "N",
+      "B",
+      "E",
+      "C",
+      "V",
+      "N",
+      "L",
+      "C",
+      "K",
+      "K"
+    ],
+    [
+      "G",
+      "N",
+      "Y",
+      "W",
+      "E",
+      "E",
+      "T",
+      "O",
+      "W",
+      "O"
+    ],
+    [
+      "H",
+      "L",
+      "G",
+      "I",
+      "T",
+      "X",
+      "T",
+      "L",
+      "L",
+      "B"
+    ],
+    [
+      "E",
+      "Y",
+      "J",
+      "E",
+      "G",
+      "W",
+      "E",
+      "F",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "N",
+      "W",
+      "A",
+      "D",
+      "P",
+      "K",
+      "N",
+      "H",
+      "Z"
+    ],
+    [
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "R",
+      "T",
+      "X",
+      "U",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DAWN",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HAVEN",
+      "gloss": "A place of safety.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "KETTLE",
+      "gloss": "A container for boiling water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OCEAN",
+      "gloss": "A vast body of salt water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OPEN",
+      "gloss": "Not closed; accessible.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A wheeled cart; also a streetcar.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "YEAR",
+      "gloss": "A period of twelve months.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.242Z"
+}

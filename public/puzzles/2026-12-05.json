@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-12-05",
+  "playDate": "2026-12-05",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "X",
+      "X",
+      "E",
+      "K",
+      "N",
+      "E",
+      "N",
+      "T",
+      "T"
+    ],
+    [
+      "X",
+      "J",
+      "T",
+      "H",
+      "P",
+      "B",
+      "N",
+      "E",
+      "X",
+      "O"
+    ],
+    [
+      "U",
+      "K",
+      "S",
+      "E",
+      "Y",
+      "I",
+      "Y",
+      "O",
+      "Y",
+      "H"
+    ],
+    [
+      "S",
+      "S",
+      "V",
+      "A",
+      "R",
+      "H",
+      "R",
+      "I",
+      "S",
+      "G"
+    ],
+    [
+      "J",
+      "Z",
+      "Q",
+      "R",
+      "E",
+      "I",
+      "Y",
+      "T",
+      "V",
+      "R"
+    ],
+    [
+      "U",
+      "Y",
+      "N",
+      "T",
+      "I",
+      "L",
+      "N",
+      "A",
+      "S",
+      "O"
+    ],
+    [
+      "M",
+      "Z",
+      "R",
+      "L",
+      "Q",
+      "M",
+      "C",
+      "G",
+      "R",
+      "V"
+    ],
+    [
+      "D",
+      "E",
+      "I",
+      "P",
+      "E",
+      "I",
+      "Y",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "Z",
+      "V",
+      "V",
+      "A",
+      "U",
+      "L",
+      "T",
+      "I",
+      "C",
+      "N"
+    ],
+    [
+      "O",
+      "G",
+      "N",
+      "I",
+      "R",
+      "P",
+      "S",
+      "R",
+      "B",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HEART",
+      "gloss": "The organ that pumps blood; also courage.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "gloss": "A hanging spike of ice.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "OXEN",
+      "gloss": "Plural of ox; cattle used for work.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RING",
+      "gloss": "A circular band worn on a finger.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter; also a water source.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STRIPE",
+      "gloss": "A long narrow band of color.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "VAULT",
+      "gloss": "An arched roof; also a secure room.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.255Z"
+}

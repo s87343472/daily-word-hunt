@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-12",
+  "playDate": "2026-12-12",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "Z",
+      "C",
+      "O",
+      "L",
+      "O",
+      "R",
+      "Z",
+      "S",
+      "Q"
+    ],
+    [
+      "G",
+      "R",
+      "D",
+      "X",
+      "S",
+      "E",
+      "Y",
+      "G",
+      "B",
+      "C"
+    ],
+    [
+      "U",
+      "Q",
+      "H",
+      "S",
+      "V",
+      "O",
+      "R",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "C",
+      "X",
+      "Q",
+      "O",
+      "R",
+      "A",
+      "A",
+      "F",
+      "P",
+      "M"
+    ],
+    [
+      "T",
+      "V",
+      "L",
+      "U",
+      "V",
+      "N",
+      "L",
+      "U",
+      "A",
+      "O"
+    ],
+    [
+      "Q",
+      "P",
+      "U",
+      "E",
+      "K",
+      "A",
+      "N",
+      "R",
+      "F",
+      "V"
+    ],
+    [
+      "X",
+      "J",
+      "L",
+      "E",
+      "M",
+      "U",
+      "T",
+      "T",
+      "F",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "T",
+      "E",
+      "Q",
+      "V",
+      "B",
+      "H",
+      "J",
+      "A"
+    ],
+    [
+      "R",
+      "D",
+      "I",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "G",
+      "L",
+      "G",
+      "W",
+      "B",
+      "E",
+      "V",
+      "A",
+      "W",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COLOR",
+      "gloss": "Hue as perceived by the eye.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FLAME",
+      "gloss": "The visible part of fire.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GRAVEL",
+      "gloss": "Small stones used for paths.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLOVER",
+      "gloss": "A short-billed wading bird.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STABLE",
+      "gloss": "A building for horses; also steady.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.261Z"
+}

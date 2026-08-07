@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-09-03",
+  "playDate": "2026-09-03",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "N",
+      "G",
+      "C",
+      "R",
+      "E",
+      "A",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "G",
+      "D",
+      "J",
+      "C",
+      "G",
+      "G",
+      "H",
+      "W",
+      "M",
+      "I"
+    ],
+    [
+      "D",
+      "S",
+      "C",
+      "E",
+      "V",
+      "A",
+      "R",
+      "B",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      "T",
+      "W",
+      "E",
+      "E",
+      "B",
+      "I",
+      "H",
+      "L"
+    ],
+    [
+      "B",
+      "M",
+      "L",
+      "A",
+      "P",
+      "L",
+      "Z",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "M",
+      "M",
+      "M",
+      "I",
+      "R",
+      "A",
+      "D",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "V",
+      "D",
+      "R",
+      "V",
+      "R",
+      "Y",
+      "F",
+      "D",
+      "Q",
+      "D"
+    ],
+    [
+      "Y",
+      "T",
+      "Y",
+      "D",
+      "G",
+      "G",
+      "B",
+      "S",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "W",
+      "K",
+      "T",
+      "B",
+      "E",
+      "M",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "H",
+      "R",
+      "R",
+      "J",
+      "P",
+      "K",
+      "G",
+      "T",
+      "I",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BADGE",
+      "gloss": "A mark of membership or rank.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BRAVE",
+      "gloss": "Ready to face danger or difficulty.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CREATE",
+      "gloss": "To bring something into existence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SADDLE",
+      "gloss": "A seat for a rider on a horse.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STAR",
+      "gloss": "A luminous ball of gas in space.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STRIPE",
+      "gloss": "A long narrow band of color.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.173Z"
+}

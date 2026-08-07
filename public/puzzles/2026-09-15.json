@@ -1,0 +1,367 @@
+{
+  "id": "daily-2026-09-15",
+  "playDate": "2026-09-15",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "R",
+      "Z",
+      "F",
+      "F",
+      "C",
+      "W",
+      "U",
+      "R",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "A",
+      "Z",
+      "R",
+      "H",
+      "K",
+      "O",
+      "E"
+    ],
+    [
+      "R",
+      "V",
+      "D",
+      "T",
+      "E",
+      "U",
+      "I",
+      "O",
+      "B",
+      "L"
+    ],
+    [
+      "P",
+      "D",
+      "M",
+      "D",
+      "J",
+      "N",
+      "T",
+      "L",
+      "R",
+      "F"
+    ],
+    [
+      "S",
+      "D",
+      "I",
+      "L",
+      "O",
+      "U",
+      "E",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      "U",
+      "C",
+      "N",
+      "W",
+      "R",
+      "A",
+      "C",
+      "T",
+      "H",
+      "U"
+    ],
+    [
+      "H",
+      "P",
+      "Y",
+      "B",
+      "I",
+      "Z",
+      "Y",
+      "T",
+      "P",
+      "R"
+    ],
+    [
+      "W",
+      "V",
+      "A",
+      "B",
+      "O",
+      "I",
+      "E",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "Z",
+      "N",
+      "B",
+      "D",
+      "R",
+      "M",
+      "V",
+      "R",
+      "I",
+      "X"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "A",
+      "G",
+      "O",
+      "O",
+      "N",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CIDER",
+      "gloss": "A drink made from apple juice.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LETTER",
+      "gloss": "A character of the alphabet.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPRAY",
+      "gloss": "Liquid flying in small drops.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRUFFLE",
+      "gloss": "An edible underground fungus.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TURBAN",
+      "gloss": "A head covering of wound cloth.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WHITE",
+      "gloss": "The color of fresh snow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.184Z"
+}

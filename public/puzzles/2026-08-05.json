@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-08-05",
+  "playDate": "2026-08-05",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "W",
+      "A",
+      "L",
+      "K",
+      "T",
+      "W",
+      "H",
+      "P",
+      "Y"
+    ],
+    [
+      "V",
+      "L",
+      "X",
+      "Z",
+      "T",
+      "P",
+      "I",
+      "U",
+      "O",
+      "F"
+    ],
+    [
+      "H",
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "J",
+      "W",
+      "O"
+    ],
+    [
+      "U",
+      "Y",
+      "N",
+      "X",
+      "I",
+      "H",
+      "Z",
+      "B",
+      "Q",
+      "C"
+    ],
+    [
+      "C",
+      "J",
+      "T",
+      "H",
+      "N",
+      "T",
+      "C",
+      "Q",
+      "E",
+      "U"
+    ],
+    [
+      "Z",
+      "I",
+      "P",
+      "E",
+      "A",
+      "C",
+      "H",
+      "L",
+      "Q",
+      "S"
+    ],
+    [
+      "K",
+      "U",
+      "M",
+      "G",
+      "L",
+      "N",
+      "C",
+      "Q",
+      "P",
+      "G"
+    ],
+    [
+      "N",
+      "G",
+      "Q",
+      "V",
+      "N",
+      "R",
+      "R",
+      "I",
+      "P",
+      "R"
+    ],
+    [
+      "I",
+      "U",
+      "E",
+      "Z",
+      "I",
+      "U",
+      "C",
+      "B",
+      "E",
+      "E"
+    ],
+    [
+      "K",
+      "C",
+      "Y",
+      "C",
+      "X",
+      "E",
+      "X",
+      "U",
+      "W",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANDLE",
+      "gloss": "Wax with a wick that burns for light.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CIRCLE",
+      "gloss": "A round shape with all points equal from center.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FOCUS",
+      "gloss": "Concentrated attention.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "INK",
+      "gloss": "Colored fluid used for writing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JOY",
+      "gloss": "A feeling of great pleasure.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PEACH",
+      "gloss": "A soft fruit with fuzzy skin.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SPICE",
+      "gloss": "A plant product that flavors food.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WALK",
+      "gloss": "To move on foot.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-06T09:15:14.976Z"
+}

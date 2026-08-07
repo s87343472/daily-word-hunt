@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-11-09",
+  "playDate": "2026-11-09",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "F",
+      "F",
+      "J",
+      "V",
+      "K",
+      "H",
+      "D",
+      "L",
+      "N"
+    ],
+    [
+      "H",
+      "R",
+      "T",
+      "O",
+      "G",
+      "O",
+      "E",
+      "C",
+      "O",
+      "L"
+    ],
+    [
+      "O",
+      "H",
+      "R",
+      "O",
+      "A",
+      "D",
+      "L",
+      "R",
+      "W",
+      "D"
+    ],
+    [
+      "N",
+      "P",
+      "U",
+      "E",
+      "V",
+      "F",
+      "F",
+      "E",
+      "W",
+      "C"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "A",
+      "H",
+      "F",
+      "N",
+      "D",
+      "U",
+      "O"
+    ],
+    [
+      "C",
+      "R",
+      "N",
+      "K",
+      "A",
+      "C",
+      "L",
+      "N",
+      "B",
+      "U"
+    ],
+    [
+      "T",
+      "E",
+      "J",
+      "S",
+      "Y",
+      "S",
+      "O",
+      "F",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "G",
+      "Y",
+      "H",
+      "W",
+      "D",
+      "K",
+      "H",
+      "I"
+    ],
+    [
+      "R",
+      "D",
+      "M",
+      "A",
+      "E",
+      "T",
+      "S",
+      "V",
+      "U",
+      "T"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "W",
+      "J",
+      "C",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BERRY",
+      "gloss": "A small juicy fruit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CHERRY",
+      "gloss": "A small red stone fruit.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAFFRON",
+      "gloss": "A yellow spice from crocus stigmas.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SOFT",
+      "gloss": "Easy to press; not hard.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STEAM",
+      "gloss": "Water vapor from boiling.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "UNITY",
+      "gloss": "The state of being one.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VOLE",
+      "gloss": "A small rodent like a mouse.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.233Z"
+}

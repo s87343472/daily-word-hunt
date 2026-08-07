@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-10-13",
+  "playDate": "2026-10-13",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "J",
+      "Q",
+      "U",
+      "Q",
+      "R",
+      "Y",
+      "R",
+      "X",
+      "P"
+    ],
+    [
+      "J",
+      "Q",
+      "U",
+      "N",
+      "H",
+      "E",
+      "R",
+      "C",
+      "T",
+      "J"
+    ],
+    [
+      "B",
+      "Q",
+      "B",
+      "N",
+      "O",
+      "T",
+      "T",
+      "S",
+      "E",
+      "Z"
+    ],
+    [
+      "G",
+      "L",
+      "S",
+      "O",
+      "N",
+      "U",
+      "P",
+      "W",
+      "U",
+      "Z"
+    ],
+    [
+      "G",
+      "S",
+      "I",
+      "G",
+      "O",
+      "B",
+      "P",
+      "J",
+      "P",
+      "J"
+    ],
+    [
+      "E",
+      "W",
+      "A",
+      "L",
+      "R",
+      "E",
+      "L",
+      "B",
+      "O",
+      "B"
+    ],
+    [
+      "N",
+      "J",
+      "E",
+      "G",
+      "Y",
+      "R",
+      "B",
+      "E",
+      "F",
+      "L"
+    ],
+    [
+      "T",
+      "G",
+      "L",
+      "R",
+      "P",
+      "L",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "L",
+      "G",
+      "N",
+      "S",
+      "O",
+      "J",
+      "A",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "E",
+      "T",
+      "I",
+      "M",
+      "E",
+      "L",
+      "P",
+      "N",
+      "H",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GENTLE",
+      "gloss": "Mild and kind in manner.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HONOR",
+      "gloss": "High respect; also to show respect.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "JADE",
+      "gloss": "A hard green gemstone.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LEMON",
+      "gloss": "A sour yellow citrus fruit.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TIME",
+      "gloss": "The ongoing sequence of moments.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TUBER",
+      "gloss": "A thickened underground plant stem.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ZEST",
+      "gloss": "Great enthusiasm; also citrus peel.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.209Z"
+}

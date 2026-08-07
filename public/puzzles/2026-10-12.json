@@ -1,0 +1,339 @@
+{
+  "id": "daily-2026-10-12",
+  "playDate": "2026-10-12",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "X",
+      "B",
+      "V",
+      "H",
+      "M",
+      "P",
+      "U",
+      "P",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "B",
+      "C",
+      "C",
+      "P",
+      "E",
+      "A",
+      "Q",
+      "C"
+    ],
+    [
+      "G",
+      "T",
+      "U",
+      "A",
+      "N",
+      "N",
+      "P",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "S",
+      "U",
+      "R",
+      "L",
+      "A",
+      "W",
+      "A",
+      "E"
+    ],
+    [
+      "T",
+      "M",
+      "Y",
+      "W",
+      "W",
+      "H",
+      "A",
+      "K",
+      "D",
+      "L"
+    ],
+    [
+      "W",
+      "E",
+      "E",
+      "D",
+      "C",
+      "W",
+      "P",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "M",
+      "U",
+      "Y",
+      "T",
+      "H",
+      "V",
+      "T",
+      "R",
+      "G",
+      "R"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "P",
+      "S",
+      "C",
+      "A",
+      "H",
+      "D",
+      "Y"
+    ],
+    [
+      "X",
+      "W",
+      "P",
+      "Q",
+      "X",
+      "I",
+      "T",
+      "K",
+      "D",
+      "M"
+    ],
+    [
+      "L",
+      "H",
+      "H",
+      "J",
+      "L",
+      "P",
+      "R",
+      "U",
+      "X",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "MEDAL",
+      "gloss": "A metal disk given as an award.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPARK",
+      "gloss": "A small fiery particle.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOUCH",
+      "gloss": "To come into contact with.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked route through nature.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "gloss": "A large marine mammal with tusks.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WATCH",
+      "gloss": "A timepiece worn on the wrist.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WEED",
+      "gloss": "An unwanted wild plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.209Z"
+}

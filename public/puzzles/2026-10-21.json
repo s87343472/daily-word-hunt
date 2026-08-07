@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-10-21",
+  "playDate": "2026-10-21",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "F",
+      "C",
+      "W",
+      "X",
+      "U",
+      "W",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "H",
+      "K",
+      "J",
+      "A",
+      "U",
+      "C",
+      "B",
+      "T"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "D",
+      "R",
+      "C",
+      "H",
+      "X",
+      "H",
+      "M"
+    ],
+    [
+      "D",
+      "F",
+      "E",
+      "H",
+      "O",
+      "I",
+      "Y",
+      "Y",
+      "R",
+      "Y"
+    ],
+    [
+      "K",
+      "I",
+      "S",
+      "W",
+      "L",
+      "V",
+      "M",
+      "V",
+      "H",
+      "X"
+    ],
+    [
+      "R",
+      "R",
+      "E",
+      "L",
+      "O",
+      "E",
+      "E",
+      "X",
+      "B",
+      "S"
+    ],
+    [
+      "P",
+      "D",
+      "A",
+      "T",
+      "G",
+      "N",
+      "K",
+      "I",
+      "Z",
+      "I"
+    ],
+    [
+      "P",
+      "H",
+      "E",
+      "R",
+      "L",
+      "W",
+      "K",
+      "N",
+      "C",
+      "Q"
+    ],
+    [
+      "K",
+      "H",
+      "O",
+      "P",
+      "A",
+      "L",
+      "N",
+      "G",
+      "U",
+      "N"
+    ],
+    [
+      "T",
+      "Y",
+      "C",
+      "C",
+      "E",
+      "E",
+      "Q",
+      "V",
+      "D",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHEESE",
+      "gloss": "A food made from milk curds.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CHILL",
+      "gloss": "A feeling of cold.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DOVE",
+      "gloss": "A bird symbolizing peace.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DRIFT",
+      "gloss": "To be carried by current or wind.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "KNOW",
+      "gloss": "To have information or skill.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "OPAL",
+      "gloss": "A milky iridescent gemstone.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "THYME",
+      "gloss": "An aromatic culinary herb.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WREN",
+      "gloss": "A small brown songbird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.216Z"
+}

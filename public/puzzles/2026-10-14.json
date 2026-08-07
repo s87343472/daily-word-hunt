@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-10-14",
+  "playDate": "2026-10-14",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "W",
+      "J",
+      "X",
+      "C",
+      "S",
+      "J",
+      "H",
+      "J",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "C",
+      "H",
+      "A",
+      "R",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "J",
+      "A",
+      "Q",
+      "L",
+      "W",
+      "V",
+      "I",
+      "R",
+      "P",
+      "E"
+    ],
+    [
+      "U",
+      "T",
+      "G",
+      "J",
+      "L",
+      "T",
+      "D",
+      "O",
+      "F",
+      "S"
+    ],
+    [
+      "Z",
+      "Z",
+      "R",
+      "O",
+      "E",
+      "I",
+      "N",
+      "N",
+      "R",
+      "D"
+    ],
+    [
+      "R",
+      "J",
+      "Z",
+      "N",
+      "D",
+      "G",
+      "W",
+      "N",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "D",
+      "N",
+      "F",
+      "E",
+      "A",
+      "E",
+      "L",
+      "H",
+      "T"
+    ],
+    [
+      "J",
+      "O",
+      "T",
+      "D",
+      "S",
+      "N",
+      "I",
+      "B",
+      "K",
+      "L"
+    ],
+    [
+      "B",
+      "R",
+      "Z",
+      "D",
+      "I",
+      "T",
+      "M",
+      "N",
+      "L",
+      "G"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "L",
+      "M",
+      "I",
+      "R",
+      "R",
+      "O",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BONNET",
+      "gloss": "A hat tied under the chin.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CHARM",
+      "gloss": "A pleasing quality; also a small ornament.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LINEN",
+      "gloss": "Cloth made from flax.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MIRROR",
+      "gloss": "A surface that reflects images.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PAGODA",
+      "gloss": "A tiered tower in East Asian architecture.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPONGE",
+      "gloss": "A porous absorbent material.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TILE",
+      "gloss": "A thin flat slab for covering surfaces.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender branches.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.210Z"
+}

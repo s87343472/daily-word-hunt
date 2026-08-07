@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-12-09",
+  "playDate": "2026-12-09",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "M",
+      "B",
+      "R",
+      "E",
+      "L",
+      "L",
+      "A",
+      "N",
+      "P"
+    ],
+    [
+      "K",
+      "V",
+      "X",
+      "T",
+      "F",
+      "U",
+      "P",
+      "F",
+      "C",
+      "I"
+    ],
+    [
+      "G",
+      "P",
+      "I",
+      "N",
+      "B",
+      "G",
+      "E",
+      "E",
+      "I",
+      "N"
+    ],
+    [
+      "R",
+      "H",
+      "H",
+      "B",
+      "F",
+      "S",
+      "M",
+      "N",
+      "N",
+      "E"
+    ],
+    [
+      "W",
+      "T",
+      "M",
+      "W",
+      "U",
+      "N",
+      "T",
+      "N",
+      "D",
+      "C"
+    ],
+    [
+      "W",
+      "B",
+      "R",
+      "O",
+      "I",
+      "T",
+      "N",
+      "R",
+      "E",
+      "O"
+    ],
+    [
+      "A",
+      "Q",
+      "H",
+      "E",
+      "E",
+      "P",
+      "O",
+      "N",
+      "R",
+      "N"
+    ],
+    [
+      "S",
+      "J",
+      "S",
+      "Q",
+      "F",
+      "P",
+      "E",
+      "M",
+      "S",
+      "E"
+    ],
+    [
+      "P",
+      "B",
+      "G",
+      "L",
+      "A",
+      "V",
+      "A",
+      "P",
+      "D",
+      "B"
+    ],
+    [
+      "M",
+      "M",
+      "M",
+      "V",
+      "R",
+      "Q",
+      "M",
+      "G",
+      "P",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CINDER",
+      "gloss": "A piece of partly burned coal or wood.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HOUSE",
+      "gloss": "A building people live in.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "UMBRELLA",
+      "gloss": "A folding canopy for rain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VAPOR",
+      "gloss": "Moisture suspended in air.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WASP",
+      "gloss": "A stinging insect.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WHITE",
+      "gloss": "The color of fresh snow.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WIPE",
+      "gloss": "To clean or dry by rubbing.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.259Z"
+}

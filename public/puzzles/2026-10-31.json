@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-10-31",
+  "playDate": "2026-10-31",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "M",
+      "Q",
+      "L",
+      "B",
+      "J",
+      "A",
+      "O",
+      "N",
+      "Z"
+    ],
+    [
+      "R",
+      "U",
+      "Q",
+      "T",
+      "L",
+      "F",
+      "X",
+      "M",
+      "P",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "P",
+      "Y",
+      "D",
+      "A",
+      "E",
+      "T",
+      "S",
+      "O"
+    ],
+    [
+      "P",
+      "T",
+      "W",
+      "I",
+      "S",
+      "U",
+      "K",
+      "H",
+      "J",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "Z",
+      "M",
+      "N",
+      "R",
+      "H",
+      "V",
+      "R",
+      "L"
+    ],
+    [
+      "D",
+      "R",
+      "V",
+      "J",
+      "L",
+      "E",
+      "L",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "W",
+      "D",
+      "X",
+      "V",
+      "S",
+      "M",
+      "C",
+      "V",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "S",
+      "H",
+      "S",
+      "I",
+      "O",
+      "A",
+      "M"
+    ],
+    [
+      "C",
+      "Y",
+      "V",
+      "G",
+      "X",
+      "N",
+      "H",
+      "T",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "M",
+      "A",
+      "E",
+      "E",
+      "E",
+      "B",
+      "W",
+      "Q",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORN",
+      "gloss": "A tall cereal plant with yellow kernels.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "gloss": "A South American animal related to the camel.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MUSTARD",
+      "gloss": "A spicy yellow condiment.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STEADY",
+      "gloss": "Firmly fixed or constant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TRIPOD",
+      "gloss": "A three-legged stand.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.226Z"
+}

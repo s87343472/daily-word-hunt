@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-09-08",
+  "playDate": "2026-09-08",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "S",
+      "T",
+      "K",
+      "K",
+      "J",
+      "B",
+      "R",
+      "P",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "R",
+      "U",
+      "W",
+      "T",
+      "E",
+      "U",
+      "R",
+      "L"
+    ],
+    [
+      "C",
+      "C",
+      "H",
+      "M",
+      "N",
+      "Z",
+      "M",
+      "E",
+      "U",
+      "U"
+    ],
+    [
+      "A",
+      "V",
+      "R",
+      "A",
+      "U",
+      "L",
+      "W",
+      "N",
+      "O",
+      "M"
+    ],
+    [
+      "L",
+      "O",
+      "I",
+      "E",
+      "F",
+      "O",
+      "A",
+      "C",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "W",
+      "B",
+      "L",
+      "T",
+      "R",
+      "I",
+      "W",
+      "P",
+      "R"
+    ],
+    [
+      "P",
+      "Q",
+      "H",
+      "G",
+      "G",
+      "N",
+      "H",
+      "G",
+      "I",
+      "W"
+    ],
+    [
+      "U",
+      "Q",
+      "W",
+      "A",
+      "D",
+      "L",
+      "E",
+      "T",
+      "D",
+      "W"
+    ],
+    [
+      "G",
+      "R",
+      "D",
+      "T",
+      "L",
+      "B",
+      "R",
+      "M",
+      "E",
+      "M"
+    ],
+    [
+      "M",
+      "A",
+      "Z",
+      "L",
+      "U",
+      "E",
+      "B",
+      "D",
+      "R",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GLEAM",
+      "gloss": "A brief flash of light.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HERB",
+      "gloss": "A plant used for flavor or medicine.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LUNAR",
+      "gloss": "Relating to the moon.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SPIDER",
+      "gloss": "An eight-legged arachnid.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WALNUT",
+      "gloss": "A tree nut with a hard shell.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.177Z"
+}

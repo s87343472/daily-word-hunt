@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-10-11",
+  "playDate": "2026-10-11",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "M",
+      "P",
+      "Y",
+      "N",
+      "I",
+      "T",
+      "X",
+      "J",
+      "C"
+    ],
+    [
+      "X",
+      "I",
+      "L",
+      "L",
+      "F",
+      "F",
+      "N",
+      "X",
+      "Q",
+      "F"
+    ],
+    [
+      "F",
+      "N",
+      "T",
+      "Z",
+      "E",
+      "B",
+      "R",
+      "A",
+      "X",
+      "X"
+    ],
+    [
+      "F",
+      "A",
+      "R",
+      "P",
+      "Q",
+      "R",
+      "E",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "Z",
+      "D",
+      "O",
+      "P",
+      "A",
+      "U",
+      "W",
+      "Y",
+      "T",
+      "M"
+    ],
+    [
+      "K",
+      "F",
+      "W",
+      "S",
+      "S",
+      "R",
+      "A",
+      "O",
+      "E",
+      "W"
+    ],
+    [
+      "N",
+      "T",
+      "E",
+      "P",
+      "F",
+      "Q",
+      "S",
+      "R",
+      "R",
+      "W"
+    ],
+    [
+      "U",
+      "Y",
+      "L",
+      "A",
+      "J",
+      "R",
+      "C",
+      "L",
+      "T",
+      "M"
+    ],
+    [
+      "E",
+      "J",
+      "B",
+      "R",
+      "B",
+      "Y",
+      "C",
+      "X",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "C",
+      "F",
+      "Z",
+      "D",
+      "Q",
+      "V",
+      "E",
+      "W",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "MERCY",
+      "gloss": "Compassion shown to someone.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PARSLEY",
+      "gloss": "A green herb used as garnish.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "QUART",
+      "gloss": "A unit of liquid measure.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPAR",
+      "gloss": "A stout pole for sails.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TROWEL",
+      "gloss": "A small hand tool for gardening.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WORM",
+      "gloss": "A long soft-bodied invertebrate.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "gloss": "An African horse with black and white stripes.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.208Z"
+}

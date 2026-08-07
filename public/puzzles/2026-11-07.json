@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-11-07",
+  "playDate": "2026-11-07",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "Q",
+      "W",
+      "T",
+      "V",
+      "Y",
+      "M",
+      "D",
+      "D",
+      "K"
+    ],
+    [
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "Y",
+      "I",
+      "E",
+      "Y",
+      "Z"
+    ],
+    [
+      "I",
+      "E",
+      "Y",
+      "Z",
+      "P",
+      "H",
+      "X",
+      "E",
+      "H",
+      "M"
+    ],
+    [
+      "V",
+      "K",
+      "Y",
+      "T",
+      "C",
+      "E",
+      "T",
+      "U",
+      "L",
+      "F"
+    ],
+    [
+      "G",
+      "P",
+      "L",
+      "R",
+      "V",
+      "S",
+      "O",
+      "A",
+      "P",
+      "H"
+    ],
+    [
+      "Q",
+      "K",
+      "O",
+      "A",
+      "I",
+      "Y",
+      "Y",
+      "P",
+      "C",
+      "C"
+    ],
+    [
+      "R",
+      "P",
+      "C",
+      "I",
+      "H",
+      "B",
+      "X",
+      "R",
+      "B",
+      "N"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "L",
+      "I",
+      "C",
+      "A",
+      "K",
+      "L",
+      "A"
+    ],
+    [
+      "P",
+      "U",
+      "B",
+      "S",
+      "G",
+      "L",
+      "Q",
+      "M",
+      "C",
+      "R"
+    ],
+    [
+      "J",
+      "L",
+      "I",
+      "L",
+      "W",
+      "N",
+      "K",
+      "K",
+      "U",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CHALK",
+      "gloss": "A soft white limestone used for writing.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FLUTE",
+      "gloss": "A woodwind musical instrument.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GARLIC",
+      "gloss": "A pungent bulb used in cooking.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LARCH",
+      "gloss": "A conifer that drops its needles.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OLIVEY",
+      "gloss": "Having qualities of olives.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SOAP",
+      "gloss": "A substance used for washing.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.232Z"
+}

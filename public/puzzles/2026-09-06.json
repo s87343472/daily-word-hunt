@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-09-06",
+  "playDate": "2026-09-06",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "I",
+      "R",
+      "Z",
+      "F",
+      "W",
+      "Z",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "H",
+      "T",
+      "Q",
+      "W",
+      "T",
+      "E",
+      "D",
+      "C",
+      "W"
+    ],
+    [
+      "E",
+      "B",
+      "E",
+      "S",
+      "Z",
+      "Y",
+      "P",
+      "F",
+      "L",
+      "I"
+    ],
+    [
+      "R",
+      "S",
+      "D",
+      "M",
+      "E",
+      "H",
+      "B",
+      "N",
+      "I",
+      "U"
+    ],
+    [
+      "H",
+      "E",
+      "X",
+      "A",
+      "E",
+      "Z",
+      "L",
+      "T",
+      "M",
+      "D"
+    ],
+    [
+      "T",
+      "S",
+      "O",
+      "V",
+      "T",
+      "R",
+      "Y",
+      "H",
+      "B",
+      "F"
+    ],
+    [
+      "N",
+      "R",
+      "N",
+      "N",
+      "V",
+      "R",
+      "A",
+      "W",
+      "E",
+      "K"
+    ],
+    [
+      "I",
+      "O",
+      "V",
+      "Z",
+      "M",
+      "B",
+      "E",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "L",
+      "B",
+      "A",
+      "T",
+      "E",
+      "D",
+      "J"
+    ],
+    [
+      "G",
+      "N",
+      "Y",
+      "B",
+      "Q",
+      "Y",
+      "T",
+      "Y",
+      "D",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLIMB",
+      "gloss": "To go up using hands and feet.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EMERALD",
+      "gloss": "A bright green gemstone.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HORSE",
+      "gloss": "A large four-legged animal people ride.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "REED",
+      "gloss": "A tall slender water plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TABLE",
+      "gloss": "Furniture with a flat top.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TEAK",
+      "gloss": "A durable tropical hardwood.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THREAD",
+      "gloss": "A thin strand used in sewing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ZEST",
+      "gloss": "Great enthusiasm; also citrus peel.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.175Z"
+}

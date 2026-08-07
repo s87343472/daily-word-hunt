@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-09-04",
+  "playDate": "2026-09-04",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "P",
+      "A",
+      "R",
+      "G",
+      "P",
+      "X",
+      "B",
+      "V",
+      "K"
+    ],
+    [
+      "Y",
+      "W",
+      "O",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "V",
+      "C",
+      "V"
+    ],
+    [
+      "G",
+      "R",
+      "K",
+      "O",
+      "S",
+      "T",
+      "H",
+      "O",
+      "W",
+      "Y"
+    ],
+    [
+      "H",
+      "T",
+      "T",
+      "W",
+      "F",
+      "A",
+      "L",
+      "D",
+      "Y",
+      "W"
+    ],
+    [
+      "T",
+      "U",
+      "H",
+      "R",
+      "P",
+      "F",
+      "V",
+      "L",
+      "Q",
+      "X"
+    ],
+    [
+      "O",
+      "L",
+      "U",
+      "I",
+      "G",
+      "I",
+      "J",
+      "O",
+      "X",
+      "Q"
+    ],
+    [
+      "P",
+      "S",
+      "U",
+      "E",
+      "M",
+      "O",
+      "S",
+      "L",
+      "R",
+      "X"
+    ],
+    [
+      "S",
+      "V",
+      "T",
+      "A",
+      "O",
+      "B",
+      "R",
+      "Q",
+      "Y",
+      "Y"
+    ],
+    [
+      "I",
+      "A",
+      "W",
+      "X",
+      "V",
+      "R",
+      "L",
+      "J",
+      "E",
+      "G"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "U",
+      "V",
+      "I",
+      "R",
+      "E",
+      "S",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GRAPE",
+      "gloss": "A small fruit that grows in clusters.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RIVULET",
+      "gloss": "A very small stream.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAVORY",
+      "gloss": "Salty or spicy rather than sweet.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SURF",
+      "gloss": "Waves breaking on the shore.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "THIMBLE",
+      "gloss": "A small cap worn while sewing.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VAULT",
+      "gloss": "An arched roof; also a secure room.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "YELLOW",
+      "gloss": "The color of ripe lemons.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.174Z"
+}

@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-08-29",
+  "playDate": "2026-08-29",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "V",
+      "T",
+      "F",
+      "E",
+      "O",
+      "K",
+      "O",
+      "O",
+      "W"
+    ],
+    [
+      "U",
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      "V",
+      "Z",
+      "S",
+      "L"
+    ],
+    [
+      "T",
+      "G",
+      "I",
+      "I",
+      "K",
+      "U",
+      "H",
+      "F",
+      "P",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "R",
+      "M",
+      "N",
+      "C",
+      "U",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "B",
+      "C",
+      "H",
+      "A",
+      "U",
+      "H",
+      "B",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "L",
+      "W",
+      "V",
+      "X",
+      "Q",
+      "K",
+      "Y",
+      "L"
+    ],
+    [
+      "M",
+      "X",
+      "A",
+      "A",
+      "Y",
+      "E",
+      "S",
+      "N",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "Z",
+      "G",
+      "C",
+      "S",
+      "H",
+      "L",
+      "A",
+      "Q",
+      "R"
+    ],
+    [
+      "K",
+      "J",
+      "U",
+      "C",
+      "H",
+      "P",
+      "T",
+      "L",
+      "Q",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "E",
+      "E",
+      "S",
+      "U",
+      "B",
+      "W",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CLASP",
+      "gloss": "A fastening device.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GRAVEL",
+      "gloss": "Small stones used for paths.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OSPREY",
+      "gloss": "A fish-eating bird of prey.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RICE",
+      "gloss": "A grain staple in many cuisines.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TAILOR",
+      "gloss": "Someone who makes clothes.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TASTE",
+      "gloss": "To sense flavor.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.168Z"
+}

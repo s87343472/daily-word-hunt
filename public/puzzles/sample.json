@@ -1,0 +1,343 @@
+{
+  "id": "pack-sample-daily",
+  "playDate": null,
+  "pack": "sample-daily",
+  "title": "Calm Everyday Words",
+  "description": "A gentle starter pack for validating the word-search loop.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "I",
+      "A",
+      "I",
+      "P",
+      "U",
+      "E",
+      "D",
+      "P",
+      "M",
+      "I"
+    ],
+    [
+      "A",
+      "J",
+      "S",
+      "D",
+      "Q",
+      "M",
+      "C",
+      "E",
+      "H",
+      "Y"
+    ],
+    [
+      "F",
+      "P",
+      "Q",
+      "H",
+      "C",
+      "Y",
+      "L",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "L",
+      "P",
+      "D",
+      "F",
+      "I",
+      "Y",
+      "E",
+      "E",
+      "B"
+    ],
+    [
+      "E",
+      "I",
+      "W",
+      "L",
+      "R",
+      "P",
+      "S",
+      "D",
+      "N",
+      "P"
+    ],
+    [
+      "T",
+      "R",
+      "V",
+      "Z",
+      "E",
+      "U",
+      "C",
+      "U",
+      "H",
+      "G"
+    ],
+    [
+      "A",
+      "E",
+      "B",
+      "E",
+      "O",
+      "H",
+      "X",
+      "U",
+      "M",
+      "H"
+    ],
+    [
+      "W",
+      "G",
+      "S",
+      "H",
+      "R",
+      "E",
+      "G",
+      "T",
+      "F",
+      "F"
+    ],
+    [
+      "Z",
+      "D",
+      "B",
+      "D",
+      "A",
+      "E",
+      "R",
+      "B",
+      "K",
+      "C"
+    ],
+    [
+      "M",
+      "T",
+      "H",
+      "G",
+      "I",
+      "L",
+      "R",
+      "Y",
+      "B",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "gloss": "A crisp fruit often red or green.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BREAD",
+      "gloss": "Baked staple food made from flour.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HOUSE",
+      "gloss": "A building people live in.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LIGHT",
+      "gloss": "Brightness that lets us see.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MUSIC",
+      "gloss": "Sound arranged in time and melody.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "A state of calm without conflict.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WATER",
+      "gloss": "Clear liquid essential to life.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-06T09:15:08.066Z"
+}

@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-08-14",
+  "playDate": "2026-08-14",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "C",
+      "R",
+      "K",
+      "Y",
+      "X",
+      "G",
+      "P",
+      "O",
+      "B"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "R",
+      "F",
+      "W",
+      "Y",
+      "S",
+      "I",
+      "L"
+    ],
+    [
+      "Z",
+      "T",
+      "R",
+      "A",
+      "U",
+      "Q",
+      "B",
+      "K",
+      "E",
+      "P"
+    ],
+    [
+      "V",
+      "M",
+      "A",
+      "V",
+      "T",
+      "V",
+      "B",
+      "W",
+      "T",
+      "T"
+    ],
+    [
+      "Y",
+      "A",
+      "Y",
+      "G",
+      "E",
+      "C",
+      "O",
+      "Q",
+      "J",
+      "S"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "C",
+      "D",
+      "R",
+      "L",
+      "N",
+      "P",
+      "X"
+    ],
+    [
+      "Y",
+      "Y",
+      "A",
+      "I",
+      "T",
+      "R",
+      "D",
+      "W",
+      "K",
+      "C"
+    ],
+    [
+      "Z",
+      "L",
+      "V",
+      "S",
+      "L",
+      "C",
+      "U",
+      "A",
+      "H",
+      "P"
+    ],
+    [
+      "P",
+      "T",
+      "K",
+      "V",
+      "T",
+      "L",
+      "B",
+      "M",
+      "I",
+      "D"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "R",
+      "F",
+      "K",
+      "A",
+      "C",
+      "M",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DRUM",
+      "gloss": "A percussion instrument.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCARF",
+      "gloss": "A length of fabric worn around the neck.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TROWEL",
+      "gloss": "A small hand tool for gardening.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VANILLA",
+      "gloss": "A flavoring from orchid pods.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "YEAST",
+      "gloss": "A fungus used in baking and brewing.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.156Z"
+}

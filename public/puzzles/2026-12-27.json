@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-12-27",
+  "playDate": "2026-12-27",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "D",
+      "A",
+      "E",
+      "R",
+      "H",
+      "T",
+      "Q",
+      "Z",
+      "C"
+    ],
+    [
+      "B",
+      "D",
+      "S",
+      "C",
+      "R",
+      "O",
+      "L",
+      "L",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "O",
+      "F",
+      "J",
+      "V",
+      "L",
+      "A",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "N",
+      "Y",
+      "S",
+      "S",
+      "N",
+      "I",
+      "E",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "Y",
+      "M",
+      "J",
+      "W",
+      "F",
+      "L",
+      "T",
+      "E",
+      "D",
+      "U"
+    ],
+    [
+      "N",
+      "D",
+      "T",
+      "B",
+      "B",
+      "Y",
+      "L",
+      "N",
+      "Q",
+      "R"
+    ],
+    [
+      "G",
+      "A",
+      "Y",
+      "M",
+      "E",
+      "T",
+      "A",
+      "G",
+      "C",
+      "Z"
+    ],
+    [
+      "D",
+      "W",
+      "U",
+      "N",
+      "F",
+      "Q",
+      "K",
+      "I",
+      "H",
+      "K"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "Z",
+      "F",
+      "L",
+      "E",
+      "N",
+      "B",
+      "R"
+    ],
+    [
+      "V",
+      "Z",
+      "I",
+      "B",
+      "L",
+      "V",
+      "W",
+      "E",
+      "B",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ENGINE",
+      "gloss": "A machine that converts energy into motion.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HUMBLE",
+      "gloss": "Modest; not proud.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RUSTIC",
+      "gloss": "Relating to the countryside; simple.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of paper or parchment.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "THREAD",
+      "gloss": "A thin strand used in sewing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ZONE",
+      "gloss": "An area with a particular character.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.275Z"
+}

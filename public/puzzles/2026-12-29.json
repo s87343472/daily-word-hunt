@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-29",
+  "playDate": "2026-12-29",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "I",
+      "K",
+      "C",
+      "S",
+      "L",
+      "E",
+      "E",
+      "P",
+      "P"
+    ],
+    [
+      "D",
+      "X",
+      "Z",
+      "X",
+      "U",
+      "A",
+      "R",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "F",
+      "H",
+      "R",
+      "A",
+      "D",
+      "E",
+      "C",
+      "C",
+      "T"
+    ],
+    [
+      "Y",
+      "I",
+      "K",
+      "B",
+      "T",
+      "T",
+      "R",
+      "P",
+      "A",
+      "W"
+    ],
+    [
+      "W",
+      "N",
+      "S",
+      "L",
+      "R",
+      "G",
+      "P",
+      "A",
+      "O",
+      "M"
+    ],
+    [
+      "Z",
+      "K",
+      "O",
+      "U",
+      "Y",
+      "M",
+      "R",
+      "L",
+      "M",
+      "K"
+    ],
+    [
+      "C",
+      "Y",
+      "G",
+      "M",
+      "A",
+      "H",
+      "L",
+      "A",
+      "P",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "L",
+      "W",
+      "R",
+      "I",
+      "T",
+      "H",
+      "S",
+      "H"
+    ],
+    [
+      "Y",
+      "O",
+      "S",
+      "R",
+      "P",
+      "A",
+      "G",
+      "I",
+      "B",
+      "G"
+    ],
+    [
+      "I",
+      "J",
+      "N",
+      "D",
+      "M",
+      "B",
+      "H",
+      "U",
+      "W",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HARMONY",
+      "gloss": "Agreement in sound or feeling.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PILLOW",
+      "gloss": "A cushion for the head while sleeping.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping surface connecting levels.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SLEEP",
+      "gloss": "To rest with closed eyes.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WITHY",
+      "gloss": "A tough flexible twig.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "YOGURT",
+      "gloss": "A food made from fermented milk.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.277Z"
+}

@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-12-14",
+  "playDate": "2026-12-14",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "D",
+      "P",
+      "N",
+      "Q",
+      "Q",
+      "L",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "H",
+      "U",
+      "L",
+      "V",
+      "G",
+      "W",
+      "Q",
+      "A",
+      "Q"
+    ],
+    [
+      "R",
+      "L",
+      "T",
+      "O",
+      "R",
+      "P",
+      "J",
+      "K",
+      "D",
+      "G"
+    ],
+    [
+      "R",
+      "D",
+      "R",
+      "O",
+      "B",
+      "P",
+      "G",
+      "I",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "R",
+      "L",
+      "M",
+      "F",
+      "W",
+      "A",
+      "L"
+    ],
+    [
+      "J",
+      "W",
+      "P",
+      "T",
+      "E",
+      "Y",
+      "A",
+      "Z",
+      "N",
+      "E"
+    ],
+    [
+      "U",
+      "I",
+      "T",
+      "G",
+      "W",
+      "D",
+      "V",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "L",
+      "G",
+      "O",
+      "K",
+      "Q",
+      "N",
+      "E",
+      "G",
+      "R"
+    ],
+    [
+      "T",
+      "B",
+      "N",
+      "S",
+      "N",
+      "T",
+      "U",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "G",
+      "S",
+      "O",
+      "P",
+      "A",
+      "L",
+      "X",
+      "A",
+      "W",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARROW",
+      "gloss": "A pointed shaft shot from a bow.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLEAR",
+      "gloss": "Easy to see through or understand.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MANGO",
+      "gloss": "A tropical sweet stone fruit.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OPAL",
+      "gloss": "A milky iridescent gemstone.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RADIANT",
+      "gloss": "Shining brightly.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SNOWY",
+      "gloss": "Covered with or full of snow.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TRAP",
+      "gloss": "A device for catching animals.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WONDER",
+      "gloss": "A feeling of amazement.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.263Z"
+}

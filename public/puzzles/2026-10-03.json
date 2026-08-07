@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-10-03",
+  "playDate": "2026-10-03",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "S",
+      "N",
+      "W",
+      "J",
+      "G",
+      "N",
+      "B",
+      "T",
+      "Y"
+    ],
+    [
+      "E",
+      "W",
+      "Q",
+      "I",
+      "T",
+      "S",
+      "B",
+      "Q",
+      "J",
+      "Y"
+    ],
+    [
+      "L",
+      "E",
+      "B",
+      "S",
+      "K",
+      "F",
+      "E",
+      "Y",
+      "Z",
+      "N"
+    ],
+    [
+      "B",
+      "E",
+      "V",
+      "I",
+      "L",
+      "P",
+      "O",
+      "Y",
+      "T",
+      "G"
+    ],
+    [
+      "O",
+      "T",
+      "Z",
+      "E",
+      "Y",
+      "L",
+      "M",
+      "S",
+      "R",
+      "R"
+    ],
+    [
+      "W",
+      "W",
+      "E",
+      "H",
+      "X",
+      "A",
+      "K",
+      "U",
+      "Z",
+      "I"
+    ],
+    [
+      "J",
+      "T",
+      "N",
+      "H",
+      "N",
+      "T",
+      "S",
+      "F",
+      "P",
+      "W"
+    ],
+    [
+      "S",
+      "M",
+      "A",
+      "Y",
+      "X",
+      "E",
+      "D",
+      "M",
+      "C",
+      "I"
+    ],
+    [
+      "T",
+      "I",
+      "M",
+      "I",
+      "V",
+      "A",
+      "B",
+      "G",
+      "J",
+      "C"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "L",
+      "K",
+      "U",
+      "X",
+      "J",
+      "M",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ELBOW",
+      "gloss": "The joint in the middle of the arm.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NAME",
+      "gloss": "A word by which someone is known.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PUMPKIN",
+      "gloss": "A large orange gourd.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SOFT",
+      "gloss": "Easy to press; not hard.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STEEL",
+      "gloss": "A hard strong alloy of iron.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SWEET",
+      "gloss": "Having a taste of sugar; pleasant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WICK",
+      "gloss": "A cord in a candle that burns.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.199Z"
+}

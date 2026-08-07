@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-11-10",
+  "playDate": "2026-11-10",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "N",
+      "B",
+      "S",
+      "M",
+      "J",
+      "K",
+      "U",
+      "Z",
+      "H"
+    ],
+    [
+      "G",
+      "G",
+      "C",
+      "L",
+      "P",
+      "L",
+      "X",
+      "C",
+      "X",
+      "F"
+    ],
+    [
+      "U",
+      "N",
+      "R",
+      "S",
+      "F",
+      "I",
+      "L",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "G",
+      "W",
+      "I",
+      "C",
+      "E",
+      "O",
+      "R",
+      "A",
+      "H",
+      "U"
+    ],
+    [
+      "M",
+      "C",
+      "K",
+      "A",
+      "T",
+      "A",
+      "C",
+      "E",
+      "V",
+      "J"
+    ],
+    [
+      "T",
+      "W",
+      "J",
+      "H",
+      "T",
+      "S",
+      "S",
+      "C",
+      "E",
+      "H"
+    ],
+    [
+      "K",
+      "W",
+      "A",
+      "H",
+      "Q",
+      "N",
+      "H",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      "I",
+      "G",
+      "J",
+      "Z",
+      "S",
+      "U",
+      "S",
+      "N",
+      "R"
+    ],
+    [
+      "P",
+      "G",
+      "X",
+      "F",
+      "I",
+      "C",
+      "L",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "K",
+      "F",
+      "X",
+      "W",
+      "S",
+      "L",
+      "W",
+      "B",
+      "F",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOSE",
+      "gloss": "Near; or to shut.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLOTH",
+      "gloss": "Fabric made by weaving fibers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HAWK",
+      "gloss": "A bird of prey.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCARF",
+      "gloss": "A length of fabric worn around the neck.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WISH",
+      "gloss": "A desire for something.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.234Z"
+}

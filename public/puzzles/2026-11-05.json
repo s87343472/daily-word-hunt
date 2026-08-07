@@ -1,0 +1,339 @@
+{
+  "id": "daily-2026-11-05",
+  "playDate": "2026-11-05",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L",
+      "W",
+      "T",
+      "K"
+    ],
+    [
+      "D",
+      "F",
+      "G",
+      "U",
+      "E",
+      "D",
+      "E",
+      "Y",
+      "V",
+      "W"
+    ],
+    [
+      "X",
+      "M",
+      "T",
+      "F",
+      "C",
+      "D",
+      "E",
+      "L",
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "T",
+      "P",
+      "I",
+      "M",
+      "L",
+      "W",
+      "L",
+      "T",
+      "T"
+    ],
+    [
+      "N",
+      "I",
+      "D",
+      "E",
+      "L",
+      "G",
+      "O",
+      "K",
+      "E",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "K",
+      "O",
+      "A",
+      "H",
+      "N",
+      "R",
+      "F",
+      "Z"
+    ],
+    [
+      "R",
+      "H",
+      "W",
+      "M",
+      "O",
+      "R",
+      "S",
+      "F",
+      "D",
+      "J"
+    ],
+    [
+      "B",
+      "G",
+      "W",
+      "X",
+      "N",
+      "H",
+      "L",
+      "U",
+      "G",
+      "N"
+    ],
+    [
+      "N",
+      "T",
+      "X",
+      "T",
+      "W",
+      "I",
+      "N",
+      "E",
+      "P",
+      "Z"
+    ],
+    [
+      "W",
+      "X",
+      "N",
+      "S",
+      "H",
+      "E",
+      "M",
+      "Q",
+      "B",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CIDER",
+      "gloss": "A drink made from apple juice.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PEARL",
+      "gloss": "A smooth gem formed in a shellfish.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SNOW",
+      "gloss": "Frozen crystals falling from the sky.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WINE",
+      "gloss": "An alcoholic drink from fermented grapes.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "YELLOW",
+      "gloss": "The color of ripe lemons.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.230Z"
+}

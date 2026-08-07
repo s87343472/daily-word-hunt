@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-12-13",
+  "playDate": "2026-12-13",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "E",
+      "J",
+      "E",
+      "D",
+      "V",
+      "G",
+      "W",
+      "J",
+      "Q"
+    ],
+    [
+      "A",
+      "Z",
+      "D",
+      "I",
+      "E",
+      "Y",
+      "G",
+      "Z",
+      "R",
+      "H"
+    ],
+    [
+      "A",
+      "Y",
+      "L",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "Q",
+      "U"
+    ],
+    [
+      "K",
+      "U",
+      "F",
+      "L",
+      "G",
+      "C",
+      "P",
+      "L",
+      "C",
+      "V"
+    ],
+    [
+      "C",
+      "J",
+      "A",
+      "O",
+      "I",
+      "M",
+      "H",
+      "Y",
+      "R",
+      "A"
+    ],
+    [
+      "C",
+      "T",
+      "B",
+      "Y",
+      "E",
+      "N",
+      "E",
+      "O",
+      "B",
+      "K"
+    ],
+    [
+      "G",
+      "H",
+      "L",
+      "T",
+      "R",
+      "V",
+      "D",
+      "Q",
+      "R",
+      "Y"
+    ],
+    [
+      "B",
+      "K",
+      "A",
+      "A",
+      "I",
+      "O",
+      "Y",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "B",
+      "P",
+      "O",
+      "L",
+      "S",
+      "E",
+      "V",
+      "F",
+      "N",
+      "O"
+    ],
+    [
+      "W",
+      "H",
+      "O",
+      "N",
+      "K",
+      "C",
+      "G",
+      "I",
+      "H",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHALK",
+      "gloss": "A soft white limestone used for writing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CHORD",
+      "gloss": "A group of musical notes played together.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GLOVE",
+      "gloss": "A covering for the hand.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "IVORY",
+      "gloss": "A hard creamy-white material from tusks.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LINDEN",
+      "gloss": "A deciduous tree with heart-shaped leaves.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "OLIVEY",
+      "gloss": "Having qualities of olives.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SALT",
+      "gloss": "A mineral used to season food.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TEMPER",
+      "gloss": "A state of mind; also to moderate.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.263Z"
+}

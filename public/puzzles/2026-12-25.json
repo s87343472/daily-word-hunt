@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-12-25",
+  "playDate": "2026-12-25",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "K",
+      "A",
+      "R",
+      "Y",
+      "G",
+      "S",
+      "L",
+      "F",
+      "J"
+    ],
+    [
+      "W",
+      "F",
+      "C",
+      "I",
+      "L",
+      "G",
+      "L",
+      "S",
+      "H",
+      "K"
+    ],
+    [
+      "U",
+      "B",
+      "U",
+      "O",
+      "I",
+      "A",
+      "H",
+      "Z",
+      "W",
+      "G"
+    ],
+    [
+      "Q",
+      "E",
+      "W",
+      "J",
+      "L",
+      "R",
+      "T",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "K",
+      "R",
+      "K",
+      "E",
+      "U",
+      "F",
+      "E",
+      "Y",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "X",
+      "O",
+      "B",
+      "F",
+      "N",
+      "E",
+      "A",
+      "C",
+      "W"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "S",
+      "G",
+      "H",
+      "C"
+    ],
+    [
+      "Z",
+      "F",
+      "U",
+      "M",
+      "R",
+      "S",
+      "O",
+      "S",
+      "A",
+      "G"
+    ],
+    [
+      "X",
+      "S",
+      "H",
+      "U",
+      "G",
+      "I",
+      "Z",
+      "M",
+      "M",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "F",
+      "N",
+      "A",
+      "M",
+      "P",
+      "Q",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BERRY",
+      "gloss": "A small juicy fruit.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GLOW",
+      "gloss": "A steady light without flame.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MIRROR",
+      "gloss": "A surface that reflects images.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SEE",
+      "gloss": "To perceive with the eyes.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHRUB",
+      "gloss": "A woody plant smaller than a tree.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WATCH",
+      "gloss": "A timepiece worn on the wrist.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.274Z"
+}

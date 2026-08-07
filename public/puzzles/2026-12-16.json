@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-12-16",
+  "playDate": "2026-12-16",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "F",
+      "X",
+      "K",
+      "L",
+      "D",
+      "R",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "G",
+      "I",
+      "C",
+      "D",
+      "H",
+      "G",
+      "Y",
+      "B"
+    ],
+    [
+      "Q",
+      "G",
+      "E",
+      "T",
+      "V",
+      "E",
+      "R",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "I",
+      "X",
+      "W",
+      "P",
+      "D",
+      "G",
+      "O",
+      "R",
+      "P",
+      "O"
+    ],
+    [
+      "Y",
+      "E",
+      "L",
+      "B",
+      "L",
+      "C",
+      "W",
+      "V",
+      "S",
+      "M"
+    ],
+    [
+      "R",
+      "R",
+      "U",
+      "A",
+      "L",
+      "I",
+      "A",
+      "T",
+      "Y",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "U",
+      "A",
+      "E",
+      "K",
+      "N",
+      "Y",
+      "R",
+      "T"
+    ],
+    [
+      "S",
+      "C",
+      "B",
+      "K",
+      "V",
+      "R",
+      "M",
+      "P",
+      "U",
+      "O"
+    ],
+    [
+      "A",
+      "Y",
+      "G",
+      "Z",
+      "N",
+      "N",
+      "E",
+      "M",
+      "P",
+      "U"
+    ],
+    [
+      "P",
+      "H",
+      "H",
+      "M",
+      "G",
+      "I",
+      "M",
+      "C",
+      "O",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CEREAL",
+      "gloss": "A grain used as food.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PASTRY",
+      "gloss": "Baked dough used for pies and tarts.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RICE",
+      "gloss": "A grain staple in many cuisines.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROWAN",
+      "gloss": "A tree with red berries.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SYRUP",
+      "gloss": "A thick sweet liquid.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOMATO",
+      "gloss": "A red fruit used as a vegetable.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "XERIC",
+      "gloss": "Adapted to a dry environment.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.265Z"
+}

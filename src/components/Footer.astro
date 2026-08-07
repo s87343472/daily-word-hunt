@@ -1,0 +1,89 @@
+---
+import type { HTMLAttributes } from "astro/types";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Socials from "./Socials.astro";
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+type Props = {
+  noMarginTop?: boolean;
+} & HTMLAttributes<"footer">;
+
+const { noMarginTop = false, class: className, ...attrs } = Astro.props;
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const t = useTranslations(locale);
+const currentYear = new Date().getFullYear();
+---
+
+<footer
+  class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
+  {...attrs}
+>
+  <div
+    class="border-border flex flex-col items-center justify-between gap-3 border-t py-6 sm:flex-row-reverse sm:py-4"
+  >
+    <div class="flex w-full flex-col items-center gap-3">
+      <nav
+        class="text-muted-foreground flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-sm"
+        aria-label="Footer product"
+      >
+        <a class="hover:text-accent" href={getRelativeLocaleUrl(locale, "")}
+          >Today</a
+        >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "how-to")}>How to</a
+        >
+        <a class="hover:text-accent" href={getRelativeLocaleUrl(locale, "past")}
+          >Past</a
+        >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "print")}>Print</a
+        >
+        <a class="hover:text-accent" href={getRelativeLocaleUrl(locale, "faq")}
+          >FAQ</a
+        >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "about")}>About</a
+        >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "contact")}>Contact</a
+        >
+      </nav>
+      <nav
+        class="text-muted-foreground flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs"
+        aria-label="Legal"
+      >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "privacy")}>Privacy</a
+        >
+        <a
+          class="hover:text-accent"
+          href={getRelativeLocaleUrl(locale, "terms")}>Terms</a
+        >
+        <button
+          type="button"
+          class="hover:text-accent cursor-pointer border-0 bg-transparent p-0 font-inherit text-inherit"
+          data-cc-open
+        >
+          Cookie settings
+        </button>
+      </nav>
+      <Socials />
+      <div
+        class="text-muted-foreground my-1 flex flex-col items-center text-center text-sm sm:flex-row sm:whitespace-nowrap"
+      >
+        <span
+          >{config.site.title} · {t.footer.copyright} &#169; {
+            currentYear
+          }</span
+        >
+      </div>
+    </div>
+  </div>
+</footer>

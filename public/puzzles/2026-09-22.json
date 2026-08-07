@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-09-22",
+  "playDate": "2026-09-22",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "A",
+      "E",
+      "U",
+      "T",
+      "E",
+      "Q",
+      "E",
+      "W",
+      "V"
+    ],
+    [
+      "Z",
+      "O",
+      "R",
+      "O",
+      "L",
+      "B",
+      "E",
+      "G",
+      "T",
+      "K"
+    ],
+    [
+      "L",
+      "T",
+      "P",
+      "B",
+      "V",
+      "B",
+      "M",
+      "G",
+      "Y",
+      "G"
+    ],
+    [
+      "M",
+      "Y",
+      "A",
+      "P",
+      "H",
+      "N",
+      "I",
+      "A",
+      "R",
+      "G"
+    ],
+    [
+      "F",
+      "C",
+      "C",
+      "B",
+      "Y",
+      "T",
+      "W",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "I",
+      "C",
+      "I",
+      "C",
+      "L",
+      "E",
+      "R",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "H",
+      "B",
+      "C",
+      "K",
+      "A",
+      "T",
+      "A",
+      "B",
+      "E",
+      "C"
+    ],
+    [
+      "G",
+      "Q",
+      "Z",
+      "L",
+      "T",
+      "J",
+      "P",
+      "F",
+      "P",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "B",
+      "I",
+      "Y",
+      "K",
+      "L",
+      "Y",
+      "A",
+      "E"
+    ],
+    [
+      "M",
+      "C",
+      "L",
+      "M",
+      "F",
+      "L",
+      "Z",
+      "Y",
+      "T",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CABLE",
+      "gloss": "A thick strong rope or wire.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GRAIN",
+      "gloss": "Seeds of cereal plants used as food.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "gloss": "A hanging spike of ice.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MILK",
+      "gloss": "A white liquid from mammals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TAPESTRY",
+      "gloss": "A woven wall hanging.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WRAP",
+      "gloss": "To cover by folding around.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.190Z"
+}

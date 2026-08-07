@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-11-02",
+  "playDate": "2026-11-02",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "M",
+      "V",
+      "X",
+      "Q",
+      "C",
+      "Z",
+      "Z",
+      "S",
+      "M"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "I",
+      "T",
+      "A",
+      "P",
+      "N",
+      "K",
+      "U"
+    ],
+    [
+      "E",
+      "W",
+      "K",
+      "T",
+      "L",
+      "O",
+      "S",
+      "O",
+      "P",
+      "J"
+    ],
+    [
+      "Y",
+      "I",
+      "R",
+      "S",
+      "E",
+      "N",
+      "M",
+      "O",
+      "X",
+      "L"
+    ],
+    [
+      "E",
+      "H",
+      "V",
+      "E",
+      "O",
+      "K",
+      "T",
+      "N",
+      "E",
+      "M"
+    ],
+    [
+      "Y",
+      "H",
+      "K",
+      "W",
+      "C",
+      "T",
+      "N",
+      "R",
+      "V",
+      "V"
+    ],
+    [
+      "G",
+      "W",
+      "Y",
+      "T",
+      "E",
+      "K",
+      "R",
+      "A",
+      "V",
+      "G"
+    ],
+    [
+      "A",
+      "T",
+      "J",
+      "R",
+      "P",
+      "O",
+      "Y",
+      "B",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "E",
+      "Y",
+      "T",
+      "S",
+      "I",
+      "U",
+      "H",
+      "Q",
+      "B"
+    ],
+    [
+      "T",
+      "C",
+      "O",
+      "T",
+      "T",
+      "O",
+      "N",
+      "J",
+      "H",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COTTON",
+      "gloss": "A soft fiber from a plant.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "NOON",
+      "gloss": "Twelve o'clock in the daytime.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "POTTERY",
+      "gloss": "Objects made of fired clay.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SNOWY",
+      "gloss": "Covered with or full of snow.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SORREL",
+      "gloss": "A plant with acidic leaves.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WRECK",
+      "gloss": "A destroyed ship or vehicle.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.227Z"
+}

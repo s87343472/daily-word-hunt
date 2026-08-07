@@ -1,0 +1,367 @@
+{
+  "id": "daily-2026-11-26",
+  "playDate": "2026-11-26",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "R",
+      "B",
+      "E",
+      "E",
+      "W",
+      "O",
+      "W",
+      "Z",
+      "X"
+    ],
+    [
+      "P",
+      "I",
+      "U",
+      "T",
+      "P",
+      "X",
+      "L",
+      "K",
+      "M",
+      "H"
+    ],
+    [
+      "G",
+      "V",
+      "B",
+      "A",
+      "E",
+      "I",
+      "U",
+      "H",
+      "Y",
+      "R"
+    ],
+    [
+      "D",
+      "U",
+      "B",
+      "B",
+      "C",
+      "P",
+      "L",
+      "C",
+      "E",
+      "F"
+    ],
+    [
+      "L",
+      "L",
+      "L",
+      "L",
+      "A",
+      "N",
+      "P",
+      "L",
+      "W",
+      "N"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      "E",
+      "L",
+      "U",
+      "J",
+      "U",
+      "O",
+      "B"
+    ],
+    [
+      "Z",
+      "T",
+      "S",
+      "A",
+      "P",
+      "T",
+      "V",
+      "B",
+      "N",
+      "W"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "P",
+      "O",
+      "C",
+      "R",
+      "A",
+      "B",
+      "Q"
+    ],
+    [
+      "C",
+      "Q",
+      "G",
+      "D",
+      "R",
+      "I",
+      "A",
+      "A",
+      "Y",
+      "W"
+    ],
+    [
+      "G",
+      "N",
+      "I",
+      "N",
+      "E",
+      "V",
+      "E",
+      "C",
+      "Y",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUBBLE",
+      "gloss": "A thin film of liquid filled with air.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COPPER",
+      "gloss": "A reddish metal used in wires.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EVENING",
+      "gloss": "The later part of the day.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PILLOW",
+      "gloss": "A cushion for the head while sleeping.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RIVULET",
+      "gloss": "A very small stream.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TABLE",
+      "gloss": "Furniture with a flat top.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TRAY",
+      "gloss": "A flat board for carrying things.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.248Z"
+}

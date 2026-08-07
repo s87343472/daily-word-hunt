@@ -1,0 +1,60 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const largePrint = true;
+const tz = config.site.timezone;
+---
+
+<Layout
+  title={`Print today | ${config.site.title}`}
+  description="Printable word search for today’s Daily Word Hunt puzzle."
+>
+  <div class="no-print">
+    <Header />
+  </div>
+  <main class="mx-auto max-w-lg px-4 py-6">
+    <header class="mb-3 print:mb-2">
+      <h1 class="text-lg font-semibold">Print today’s puzzle</h1>
+      <p class="text-muted-foreground no-print mt-1 text-sm leading-relaxed">
+        Use your browser print dialog (<kbd class="text-xs">Cmd</kbd>/<kbd
+          class="text-xs">Ctrl</kbd
+        >+<kbd class="text-xs">P</kbd>). Extra site chrome is hidden on paper.
+        Prefer screen play?
+        <a
+          class="text-accent font-medium underline-offset-2 hover:underline"
+          href={getRelativeLocaleUrl(locale, "")}>Back to today</a
+        >.
+      </p>
+    </header>
+    <WordSearchGame
+      daily
+      timezone={tz}
+      fallbackUrl="/puzzles/sample.json"
+      largePrint={largePrint}
+    />
+  </main>
+  <div class="no-print">
+    <Footer />
+  </div>
+</Layout>
+
+<style is:global>
+  @media print {
+    header.app-layout,
+    footer,
+    .no-print,
+    #skip-to-content {
+      display: none !important;
+    }
+    body {
+      background: white !important;
+      color: black !important;
+    }
+  }
+</style>

@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-10-08",
+  "playDate": "2026-10-08",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "Q",
+      "G",
+      "N",
+      "K",
+      "Q",
+      "V",
+      "P",
+      "R",
+      "D"
+    ],
+    [
+      "I",
+      "K",
+      "M",
+      "Z",
+      "Z",
+      "V",
+      "F",
+      "I",
+      "A",
+      "F"
+    ],
+    [
+      "J",
+      "X",
+      "U",
+      "O",
+      "P",
+      "Y",
+      "N",
+      "C",
+      "M",
+      "P"
+    ],
+    [
+      "H",
+      "Y",
+      "Q",
+      "E",
+      "R",
+      "M",
+      "Q",
+      "K",
+      "P",
+      "S"
+    ],
+    [
+      "F",
+      "N",
+      "A",
+      "R",
+      "Z",
+      "N",
+      "L",
+      "L",
+      "F",
+      "Q"
+    ],
+    [
+      "Y",
+      "C",
+      "T",
+      "A",
+      "B",
+      "E",
+      "I",
+      "E",
+      "G",
+      "U"
+    ],
+    [
+      "H",
+      "R",
+      "P",
+      "V",
+      "M",
+      "V",
+      "E",
+      "N",
+      "Z",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "B",
+      "O",
+      "F",
+      "U",
+      "I",
+      "H",
+      "G",
+      "D"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "C",
+      "I",
+      "R",
+      "E",
+      "X",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "Y",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T",
+      "V",
+      "R",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CRAFT",
+      "gloss": "Skill in making things; also a boat.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LEMONY",
+      "gloss": "Having a lemon flavor or scent.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MORNING",
+      "gloss": "The early part of the day.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PEACH",
+      "gloss": "A soft fruit with fuzzy skin.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PICKLE",
+      "gloss": "Food preserved in vinegar or brine.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping surface connecting levels.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOPAZ",
+      "gloss": "A yellow or brown gemstone.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "XERIC",
+      "gloss": "Adapted to a dry environment.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.205Z"
+}

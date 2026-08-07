@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-10-24",
+  "playDate": "2026-10-24",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "W",
+      "D",
+      "C",
+      "M",
+      "M",
+      "E",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "Y",
+      "S",
+      "E",
+      "O",
+      "A",
+      "A",
+      "D",
+      "B",
+      "T",
+      "Q"
+    ],
+    [
+      "X",
+      "Z",
+      "Y",
+      "N",
+      "O",
+      "N",
+      "S",
+      "D",
+      "J",
+      "V"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "A",
+      "A",
+      "B",
+      "T",
+      "T",
+      "N",
+      "I"
+    ],
+    [
+      "T",
+      "L",
+      "U",
+      "W",
+      "R",
+      "W",
+      "M",
+      "P",
+      "M",
+      "L"
+    ],
+    [
+      "E",
+      "Z",
+      "O",
+      "Y",
+      "U",
+      "P",
+      "E",
+      "A",
+      "O",
+      "X"
+    ],
+    [
+      "E",
+      "R",
+      "P",
+      "L",
+      "V",
+      "R",
+      "S",
+      "S",
+      "B",
+      "Y"
+    ],
+    [
+      "Y",
+      "M",
+      "M",
+      "Y",
+      "R",
+      "E",
+      "L",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "M",
+      "L",
+      "Y",
+      "S",
+      "I",
+      "A",
+      "D",
+      "O",
+      "G",
+      "I"
+    ],
+    [
+      "V",
+      "F",
+      "M",
+      "P",
+      "B",
+      "H",
+      "Y",
+      "C",
+      "N",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAMBOO",
+      "gloss": "A tall woody grass.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CELERY",
+      "gloss": "A crunchy green vegetable.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MANTLE",
+      "gloss": "A cloak; also a covering layer.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAST",
+      "gloss": "A tall spar on a ship holding sails.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "METAL",
+      "gloss": "A solid mineral material that conducts heat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROWAN",
+      "gloss": "A tree with red berries.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPRAY",
+      "gloss": "Liquid flying in small drops.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.219Z"
+}

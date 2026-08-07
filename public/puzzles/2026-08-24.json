@@ -1,0 +1,379 @@
+{
+  "id": "daily-2026-08-24",
+  "playDate": "2026-08-24",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "R",
+      "A",
+      "E",
+      "Y",
+      "A",
+      "B",
+      "S",
+      "Z",
+      "Z"
+    ],
+    [
+      "O",
+      "Y",
+      "S",
+      "H",
+      "Z",
+      "X",
+      "G",
+      "X",
+      "L",
+      "U"
+    ],
+    [
+      "O",
+      "U",
+      "X",
+      "W",
+      "O",
+      "U",
+      "G",
+      "L",
+      "W",
+      "D"
+    ],
+    [
+      "C",
+      "M",
+      "I",
+      "N",
+      "E",
+      "R",
+      "A",
+      "L",
+      "Y",
+      "D"
+    ],
+    [
+      "Q",
+      "R",
+      "W",
+      "H",
+      "R",
+      "A",
+      "I",
+      "W",
+      "T",
+      "E"
+    ],
+    [
+      "X",
+      "E",
+      "A",
+      "R",
+      "W",
+      "E",
+      "T",
+      "Z",
+      "B",
+      "R"
+    ],
+    [
+      "I",
+      "G",
+      "F",
+      "T",
+      "X",
+      "S",
+      "T",
+      "E",
+      "O",
+      "L"
+    ],
+    [
+      "Q",
+      "V",
+      "S",
+      "S",
+      "E",
+      "C",
+      "E",
+      "S",
+      "R",
+      "N"
+    ],
+    [
+      "J",
+      "V",
+      "Y",
+      "E",
+      "M",
+      "R",
+      "Y",
+      "C",
+      "Y",
+      "F"
+    ],
+    [
+      "U",
+      "Z",
+      "Q",
+      "L",
+      "E",
+      "T",
+      "S",
+      "A",
+      "P",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CRATER",
+      "gloss": "A bowl-shaped hole.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MINERAL",
+      "gloss": "A solid natural inorganic substance.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "gloss": "A shellfish sometimes containing pearls.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PASTEL",
+      "gloss": "A soft pale color.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SWEATER",
+      "gloss": "A knitted garment for the upper body.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "UDDER",
+      "gloss": "The milk organ of a cow.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "YEARN",
+      "gloss": "To long for something.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.164Z"
+}

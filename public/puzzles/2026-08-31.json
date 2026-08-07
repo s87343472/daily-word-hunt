@@ -1,0 +1,371 @@
+{
+  "id": "daily-2026-08-31",
+  "playDate": "2026-08-31",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "F",
+      "F",
+      "B",
+      "G",
+      "R",
+      "J",
+      "T",
+      "O",
+      "L"
+    ],
+    [
+      "N",
+      "L",
+      "B",
+      "M",
+      "S",
+      "D",
+      "R",
+      "O",
+      "L",
+      "G"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "U",
+      "M",
+      "O",
+      "O",
+      "A",
+      "T",
+      "C"
+    ],
+    [
+      "G",
+      "U",
+      "F",
+      "T",
+      "U",
+      "A",
+      "F",
+      "O",
+      "I",
+      "W"
+    ],
+    [
+      "G",
+      "Q",
+      "B",
+      "G",
+      "E",
+      "R",
+      "R",
+      "N",
+      "R",
+      "V"
+    ],
+    [
+      "T",
+      "Y",
+      "H",
+      "D",
+      "E",
+      "A",
+      "O",
+      "B",
+      "W",
+      "M"
+    ],
+    [
+      "O",
+      "T",
+      "T",
+      "T",
+      "X",
+      "T",
+      "U",
+      "N",
+      "L",
+      "K"
+    ],
+    [
+      "K",
+      "S",
+      "A",
+      "B",
+      "U",
+      "I",
+      "L",
+      "D",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "W",
+      "L",
+      "H",
+      "D",
+      "O",
+      "U",
+      "L",
+      "Y",
+      "V"
+    ],
+    [
+      "N",
+      "X",
+      "W",
+      "P",
+      "Z",
+      "E",
+      "I",
+      "B",
+      "E",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUILD",
+      "gloss": "To construct.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DOOR",
+      "gloss": "A movable barrier for an entrance.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock; also a small ball.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOKEN",
+      "gloss": "A symbol or small item representing something.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TONIC",
+      "gloss": "Something that invigorates.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROUGH",
+      "gloss": "A long narrow container for animals to drink from.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.170Z"
+}

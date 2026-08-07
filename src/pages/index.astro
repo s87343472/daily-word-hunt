@@ -1,0 +1,127 @@
+---
+/**
+ * Product home = today's puzzle.
+ * Users land on `/` and play; no need to type /play or dated URLs.
+ * Optional archive: /daily/YYYY-MM-DD (SEO + share).
+ */
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import WordSearchGame from "@/components/game/WordSearchGame.astro";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const largePrint = Astro.url.searchParams.get("a11y") === "1";
+const homePath = getRelativeLocaleUrl(locale, "");
+const homeHref = homePath.endsWith("/") ? homePath : `${homePath}/`;
+const a11yHref = largePrint ? homeHref : `${homeHref}?a11y=1`;
+const tz = config.site.timezone;
+---
+
+<Layout
+  title={config.site.title}
+  description={config.site.description}
+>
+  <Header />
+  <main
+    id="main-content"
+    class="play-main"
+    data-layout="index"
+    data-home-path={homePath}
+  >
+    <WordSearchGame
+      daily
+      timezone={tz}
+      fallbackUrl="/puzzles/sample.json"
+      largePrint={largePrint}
+      printHref={getRelativeLocaleUrl(locale, "print")}
+      a11yHref={a11yHref}
+      a11yLabel={largePrint ? "Default size" : "Large print page"}
+    />
+
+    <!-- Below-fold product copy (SEO + orientation; not competing with the board) -->
+    <section class="home-meta" aria-label="About today’s puzzle">
+      <p>
+        Free <strong>daily word search</strong> in your browser. Drag or tap to
+        find every word. New puzzle each day — no account required.
+      </p>
+      <p class="home-meta-links">
+        <a href={getRelativeLocaleUrl(locale, "how-to")}>How to play</a>
+        <span aria-hidden="true">·</span>
+        <a href={getRelativeLocaleUrl(locale, "faq")}>FAQ</a>
+        <span aria-hidden="true">·</span>
+        <a href={getRelativeLocaleUrl(locale, "past")}>Past puzzles</a>
+        <span aria-hidden="true">·</span>
+        <a href={getRelativeLocaleUrl(locale, "print")}>Print</a>
+        <span aria-hidden="true">·</span>
+        <a href={getRelativeLocaleUrl(locale, "about")}>About</a>
+      </p>
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style is:global>
+  .play-main {
+    width: 100%;
+    max-width: 32rem;
+    margin-inline: auto;
+    padding-inline: 0.75rem;
+    padding-top: 0.35rem;
+    padding-bottom: 1.5rem;
+  }
+  body:has(.play-main) header.app-layout > div {
+    padding-top: 0.55rem !important;
+    padding-bottom: 0.55rem !important;
+  }
+  .home-meta {
+    margin-top: 1.75rem;
+    padding-top: 1rem;
+    border-top: 1px solid color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--muted-foreground, #afb9ca);
+  }
+  .home-meta p {
+    margin: 0 0 0.5rem;
+  }
+  .home-meta strong {
+    color: var(--foreground, #eaedf3);
+    font-weight: 600;
+  }
+  .home-meta-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.5rem;
+    align-items: center;
+  }
+  .home-meta-links a {
+    color: var(--accent, #ff6b01);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .home-meta-links a:hover {
+    text-decoration: underline;
+  }
+  @media (min-width: 640px) {
+    .play-main {
+      padding-inline: 1rem;
+      padding-top: 0.75rem;
+    }
+    body:has(.play-main) header.app-layout > div {
+      padding-top: 1rem !important;
+      padding-bottom: 1rem !important;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const el = document.querySelector("#main-content") as HTMLElement | null;
+    const baseRoot = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+    if (el?.dataset.layout) {
+      sessionStorage.setItem("backUrl", el.dataset.homePath ?? baseRoot);
+    }
+  });
+</script>

@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-09-30",
+  "playDate": "2026-09-30",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "K",
+      "O",
+      "E",
+      "M",
+      "R",
+      "T",
+      "U",
+      "Z",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "X",
+      "L",
+      "F",
+      "T",
+      "G",
+      "T",
+      "T",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "H",
+      "K",
+      "W",
+      "V",
+      "Z",
+      "P",
+      "X",
+      "O"
+    ],
+    [
+      "V",
+      "X",
+      "B",
+      "I",
+      "Q",
+      "G",
+      "T",
+      "J",
+      "U",
+      "A"
+    ],
+    [
+      "W",
+      "M",
+      "N",
+      "T",
+      "M",
+      "A",
+      "R",
+      "W",
+      "G",
+      "S"
+    ],
+    [
+      "O",
+      "E",
+      "I",
+      "N",
+      "B",
+      "E",
+      "Q",
+      "I",
+      "C",
+      "I"
+    ],
+    [
+      "A",
+      "X",
+      "S",
+      "L",
+      "T",
+      "D",
+      "Q",
+      "S",
+      "W",
+      "S"
+    ],
+    [
+      "D",
+      "S",
+      "E",
+      "T",
+      "Z",
+      "X",
+      "D",
+      "P",
+      "Y",
+      "Z"
+    ],
+    [
+      "M",
+      "T",
+      "O",
+      "C",
+      "G",
+      "D",
+      "A",
+      "Y",
+      "H",
+      "O"
+    ],
+    [
+      "E",
+      "C",
+      "A",
+      "L",
+      "P",
+      "O",
+      "L",
+      "I",
+      "V",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "OASIS",
+      "gloss": "A fertile spot in a desert.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OLIVE",
+      "gloss": "A small fruit used for oil.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab; also a pill.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TWINE",
+      "gloss": "Strong string of twisted strands.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WISPY",
+      "gloss": "Thin and delicate.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WOAD",
+      "gloss": "A plant once used for blue dye.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.197Z"
+}

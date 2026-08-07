@@ -1,0 +1,335 @@
+{
+  "id": "daily-2026-09-14",
+  "playDate": "2026-09-14",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "M",
+      "Z",
+      "M",
+      "B",
+      "X",
+      "A",
+      "C",
+      "G",
+      "K"
+    ],
+    [
+      "N",
+      "K",
+      "E",
+      "U",
+      "Q",
+      "D",
+      "I",
+      "T",
+      "Q",
+      "D"
+    ],
+    [
+      "S",
+      "N",
+      "R",
+      "S",
+      "H",
+      "Y",
+      "R",
+      "L",
+      "G",
+      "O"
+    ],
+    [
+      "M",
+      "H",
+      "Z",
+      "T",
+      "L",
+      "A",
+      "W",
+      "C",
+      "C",
+      "U"
+    ],
+    [
+      "S",
+      "M",
+      "G",
+      "W",
+      "W",
+      "U",
+      "O",
+      "A",
+      "E",
+      "K"
+    ],
+    [
+      "H",
+      "X",
+      "A",
+      "Q",
+      "J",
+      "A",
+      "S",
+      "L",
+      "Y",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "T",
+      "T",
+      "E",
+      "K",
+      "X",
+      "M",
+      "A",
+      "O"
+    ],
+    [
+      "K",
+      "X",
+      "I",
+      "B",
+      "S",
+      "U",
+      "D",
+      "W",
+      "O",
+      "W"
+    ],
+    [
+      "N",
+      "R",
+      "S",
+      "J",
+      "B",
+      "O",
+      "O",
+      "O",
+      "Q",
+      "T"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "O",
+      "T",
+      "R",
+      "H",
+      "L",
+      "U",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALM",
+      "gloss": "Peaceful and free from agitation.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "KETTLE",
+      "gloss": "A container for boiling water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "KNOW",
+      "gloss": "To have information or skill.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PILOT",
+      "gloss": "A person who flies an aircraft.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "ROWAN",
+      "gloss": "A tree with red berries.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SHRUB",
+      "gloss": "A woody plant smaller than a tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WALK",
+      "gloss": "To move on foot.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WALTZ",
+      "gloss": "A ballroom dance in triple time.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.182Z"
+}

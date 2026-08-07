@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-09-12",
+  "playDate": "2026-09-12",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "M",
+      "D",
+      "K",
+      "C",
+      "A",
+      "G",
+      "C",
+      "U",
+      "N"
+    ],
+    [
+      "A",
+      "O",
+      "M",
+      "F",
+      "E",
+      "I",
+      "T",
+      "J",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "U",
+      "E",
+      "O",
+      "W",
+      "B",
+      "V",
+      "F",
+      "O",
+      "Z"
+    ],
+    [
+      "L",
+      "N",
+      "P",
+      "P",
+      "O",
+      "O",
+      "G",
+      "I",
+      "U",
+      "V"
+    ],
+    [
+      "N",
+      "T",
+      "C",
+      "O",
+      "E",
+      "L",
+      "H",
+      "L",
+      "C",
+      "S"
+    ],
+    [
+      "W",
+      "A",
+      "F",
+      "Q",
+      "Y",
+      "Z",
+      "G",
+      "P",
+      "A",
+      "C"
+    ],
+    [
+      "O",
+      "I",
+      "P",
+      "E",
+      "K",
+      "Q",
+      "E",
+      "V",
+      "H",
+      "L"
+    ],
+    [
+      "R",
+      "N",
+      "H",
+      "V",
+      "E",
+      "H",
+      "N",
+      "E",
+      "B",
+      "N"
+    ],
+    [
+      "C",
+      "W",
+      "C",
+      "Q",
+      "X",
+      "A",
+      "S",
+      "L",
+      "R",
+      "S"
+    ],
+    [
+      "K",
+      "V",
+      "Y",
+      "E",
+      "C",
+      "T",
+      "N",
+      "Z",
+      "F",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CANVAS",
+      "gloss": "Strong cloth used for painting or sails.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CHEST",
+      "gloss": "A strong box; also the front of the torso.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CIVIC",
+      "gloss": "Relating to a city or citizens.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CROWN",
+      "gloss": "A royal headdress.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GLOOM",
+      "gloss": "Partial darkness.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WHEY",
+      "gloss": "The watery part of milk after curdling.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.181Z"
+}

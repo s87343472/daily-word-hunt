@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-07",
+  "playDate": "2026-12-07",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "J",
+      "P",
+      "E",
+      "X",
+      "S",
+      "U",
+      "N",
+      "Z",
+      "N"
+    ],
+    [
+      "C",
+      "S",
+      "T",
+      "G",
+      "U",
+      "J",
+      "W",
+      "H",
+      "P",
+      "L"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "N",
+      "J",
+      "H",
+      "Y",
+      "R",
+      "E",
+      "H"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "A",
+      "Y",
+      "D",
+      "E",
+      "R",
+      "L",
+      "A"
+    ],
+    [
+      "I",
+      "K",
+      "W",
+      "R",
+      "U",
+      "E",
+      "R",
+      "F",
+      "W",
+      "G"
+    ],
+    [
+      "N",
+      "E",
+      "V",
+      "O",
+      "U",
+      "I",
+      "L",
+      "X",
+      "A",
+      "F"
+    ],
+    [
+      "F",
+      "N",
+      "F",
+      "I",
+      "U",
+      "T",
+      "F",
+      "L",
+      "D",
+      "U"
+    ],
+    [
+      "P",
+      "W",
+      "Z",
+      "Q",
+      "S",
+      "V",
+      "H",
+      "X",
+      "O",
+      "R"
+    ],
+    [
+      "T",
+      "W",
+      "S",
+      "O",
+      "T",
+      "O",
+      "B",
+      "Z",
+      "E",
+      "W"
+    ],
+    [
+      "O",
+      "Y",
+      "P",
+      "B",
+      "T",
+      "B",
+      "R",
+      "F",
+      "S",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CABIN",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ORANGE",
+      "gloss": "A citrus fruit; also a color.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "gloss": "A bushy-tailed rodent.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUN",
+      "gloss": "The star at the center of our system.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TOKEN",
+      "gloss": "A symbol or small item representing something.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRUTH",
+      "gloss": "That which is true or real.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VISOR",
+      "gloss": "A brim or shield for the eyes.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "YELLOW",
+      "gloss": "The color of ripe lemons.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.257Z"
+}

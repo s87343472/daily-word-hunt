@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-11-16",
+  "playDate": "2026-11-16",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "B",
+      "T",
+      "W",
+      "O",
+      "R",
+      "D",
+      "G",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "H",
+      "O",
+      "B",
+      "J",
+      "I",
+      "I",
+      "E",
+      "W",
+      "S"
+    ],
+    [
+      "O",
+      "K",
+      "N",
+      "U",
+      "F",
+      "U",
+      "G",
+      "D",
+      "L",
+      "D"
+    ],
+    [
+      "P",
+      "T",
+      "I",
+      "R",
+      "L",
+      "D",
+      "N",
+      "H",
+      "O",
+      "R"
+    ],
+    [
+      "T",
+      "O",
+      "J",
+      "A",
+      "A",
+      "D",
+      "B",
+      "G",
+      "J",
+      "Q"
+    ],
+    [
+      "G",
+      "A",
+      "M",
+      "B",
+      "M",
+      "T",
+      "E",
+      "S",
+      "L",
+      "Z"
+    ],
+    [
+      "Q",
+      "S",
+      "Q",
+      "X",
+      "O",
+      "R",
+      "M",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "W",
+      "T",
+      "I",
+      "K",
+      "O",
+      "A",
+      "C",
+      "L",
+      "J",
+      "P"
+    ],
+    [
+      "W",
+      "V",
+      "N",
+      "D",
+      "L",
+      "C",
+      "N",
+      "E",
+      "Q",
+      "V"
+    ],
+    [
+      "G",
+      "L",
+      "E",
+      "A",
+      "M",
+      "K",
+      "C",
+      "A",
+      "Z",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BADGE",
+      "gloss": "A mark of membership or rank.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "GLEAM",
+      "gloss": "A brief flash of light.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOOM",
+      "gloss": "A machine for weaving cloth.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TOAST",
+      "gloss": "Bread browned by heat.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path or mark left by movement.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WORD",
+      "gloss": "A unit of language with meaning.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.239Z"
+}

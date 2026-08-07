@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-09-13",
+  "playDate": "2026-09-13",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "Y",
+      "R",
+      "H",
+      "L",
+      "C",
+      "R",
+      "I",
+      "K",
+      "L"
+    ],
+    [
+      "P",
+      "R",
+      "Y",
+      "Y",
+      "C",
+      "E",
+      "G",
+      "B",
+      "X",
+      "E"
+    ],
+    [
+      "U",
+      "V",
+      "I",
+      "B",
+      "H",
+      "N",
+      "G",
+      "X",
+      "X",
+      "D"
+    ],
+    [
+      "A",
+      "L",
+      "H",
+      "C",
+      "H",
+      "N",
+      "E",
+      "R",
+      "J",
+      "G"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "D",
+      "I",
+      "Y",
+      "D",
+      "R",
+      "U",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "T",
+      "K",
+      "R",
+      "L",
+      "M",
+      "H",
+      "T",
+      "S"
+    ],
+    [
+      "T",
+      "S",
+      "P",
+      "W",
+      "A",
+      "A",
+      "R",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "N",
+      "A",
+      "W",
+      "R",
+      "E",
+      "G",
+      "O",
+      "F",
+      "T",
+      "U"
+    ],
+    [
+      "N",
+      "G",
+      "B",
+      "E",
+      "V",
+      "K",
+      "I",
+      "B",
+      "V",
+      "Q"
+    ],
+    [
+      "L",
+      "F",
+      "O",
+      "N",
+      "G",
+      "L",
+      "A",
+      "S",
+      "S",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOARD",
+      "gloss": "A flat piece of wood; also to get on a ship.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GLASS",
+      "gloss": "A hard transparent material.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LEDGE",
+      "gloss": "A narrow shelf projecting from a wall or cliff.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NAPKIN",
+      "gloss": "A piece of cloth or paper for wiping hands.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SURGE",
+      "gloss": "A sudden powerful forward movement.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TORCH",
+      "gloss": "A portable light flame.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRENCH",
+      "gloss": "A long narrow ditch.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WREN",
+      "gloss": "A small brown songbird.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.182Z"
+}

@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-12-08",
+  "playDate": "2026-12-08",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "F",
+      "V",
+      "F",
+      "W",
+      "T",
+      "D",
+      "F",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "S",
+      "D",
+      "O",
+      "T",
+      "I",
+      "L",
+      "U",
+      "F"
+    ],
+    [
+      "P",
+      "L",
+      "E",
+      "Z",
+      "A",
+      "R",
+      "N",
+      "L",
+      "A",
+      "L"
+    ],
+    [
+      "P",
+      "W",
+      "Q",
+      "E",
+      "E",
+      "N",
+      "L",
+      "U",
+      "E",
+      "G"
+    ],
+    [
+      "Y",
+      "B",
+      "H",
+      "B",
+      "A",
+      "O",
+      "O",
+      "C",
+      "I",
+      "O"
+    ],
+    [
+      "U",
+      "W",
+      "M",
+      "G",
+      "B",
+      "L",
+      "A",
+      "N",
+      "D",
+      "C"
+    ],
+    [
+      "G",
+      "I",
+      "Y",
+      "E",
+      "I",
+      "O",
+      "G",
+      "U",
+      "R",
+      "J"
+    ],
+    [
+      "T",
+      "G",
+      "Z",
+      "L",
+      "W",
+      "E",
+      "J",
+      "X",
+      "N",
+      "Z"
+    ],
+    [
+      "D",
+      "A",
+      "A",
+      "S",
+      "R",
+      "M",
+      "Z",
+      "Y",
+      "F",
+      "U"
+    ],
+    [
+      "G",
+      "C",
+      "E",
+      "S",
+      "I",
+      "O",
+      "T",
+      "R",
+      "O",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GAZEBO",
+      "gloss": "An open-sided garden shelter.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GINGER",
+      "gloss": "A spicy root used in cooking.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HAPPY",
+      "gloss": "Feeling joy or contentment.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TILE",
+      "gloss": "A thin flat slab for covering surfaces.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TIMBER",
+      "gloss": "Wood prepared for building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "gloss": "A land-dwelling turtle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WHEAT",
+      "gloss": "A cereal grain used for flour.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.258Z"
+}

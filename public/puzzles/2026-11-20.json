@@ -1,0 +1,367 @@
+{
+  "id": "daily-2026-11-20",
+  "playDate": "2026-11-20",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "J",
+      "Z",
+      "W",
+      "X",
+      "P",
+      "B",
+      "G",
+      "O",
+      "W"
+    ],
+    [
+      "M",
+      "E",
+      "P",
+      "O",
+      "H",
+      "T",
+      "L",
+      "M",
+      "P",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "N",
+      "A",
+      "C",
+      "I",
+      "R",
+      "Z",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "E",
+      "J",
+      "W",
+      "J",
+      "N",
+      "S",
+      "P",
+      "L",
+      "S"
+    ],
+    [
+      "C",
+      "J",
+      "E",
+      "W",
+      "E",
+      "L",
+      "F",
+      "P",
+      "D",
+      "T"
+    ],
+    [
+      "B",
+      "T",
+      "A",
+      "N",
+      "K",
+      "A",
+      "R",
+      "D",
+      "E",
+      "J"
+    ],
+    [
+      "J",
+      "J",
+      "E",
+      "M",
+      "T",
+      "L",
+      "N",
+      "N",
+      "H",
+      "R"
+    ],
+    [
+      "W",
+      "M",
+      "S",
+      "C",
+      "O",
+      "U",
+      "T",
+      "J",
+      "U",
+      "G"
+    ],
+    [
+      "F",
+      "I",
+      "Q",
+      "W",
+      "X",
+      "I",
+      "L",
+      "I",
+      "R",
+      "N"
+    ],
+    [
+      "V",
+      "W",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANOE",
+      "gloss": "A light narrow boat.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HOPE",
+      "gloss": "A feeling of expectation and desire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JEWEL",
+      "gloss": "A precious stone.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCOUT",
+      "gloss": "Someone sent to gather information.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TANKARD",
+      "gloss": "A large drinking mug.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WHISPER",
+      "gloss": "To speak very softly.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WRIST",
+      "gloss": "The joint between hand and arm.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.243Z"
+}

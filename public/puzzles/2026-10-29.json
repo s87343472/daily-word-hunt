@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-10-29",
+  "playDate": "2026-10-29",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "R",
+      "O",
+      "J",
+      "W",
+      "W",
+      "A",
+      "N",
+      "D",
+      "V"
+    ],
+    [
+      "W",
+      "R",
+      "D",
+      "O",
+      "Z",
+      "W",
+      "R",
+      "J",
+      "A",
+      "P"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "E",
+      "C",
+      "I",
+      "T",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "I",
+      "S",
+      "P",
+      "Y",
+      "Z",
+      "I",
+      "E",
+      "J",
+      "R",
+      "P"
+    ],
+    [
+      "Z",
+      "Y",
+      "Q",
+      "E",
+      "E",
+      "S",
+      "U",
+      "E",
+      "R",
+      "D"
+    ],
+    [
+      "R",
+      "L",
+      "D",
+      "K",
+      "N",
+      "L",
+      "L",
+      "U",
+      "A",
+      "J"
+    ],
+    [
+      "G",
+      "A",
+      "O",
+      "U",
+      "Z",
+      "B",
+      "L",
+      "D",
+      "E",
+      "J"
+    ],
+    [
+      "W",
+      "S",
+      "S",
+      "B",
+      "R",
+      "U",
+      "R",
+      "A",
+      "N",
+      "M"
+    ],
+    [
+      "W",
+      "F",
+      "K",
+      "A",
+      "B",
+      "I",
+      "A",
+      "W",
+      "V",
+      "Z"
+    ],
+    [
+      "W",
+      "N",
+      "W",
+      "R",
+      "B",
+      "Y",
+      "B",
+      "W",
+      "O",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "gloss": "A feathered animal that can often fly.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LATTICE",
+      "gloss": "A crisscross framework.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SLOW",
+      "gloss": "Moving with little speed.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WARBLER",
+      "gloss": "A small songbird.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WIPE",
+      "gloss": "To clean or dry by rubbing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.224Z"
+}

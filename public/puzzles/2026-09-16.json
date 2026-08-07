@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-09-16",
+  "playDate": "2026-09-16",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "S",
+      "N",
+      "P",
+      "L",
+      "B",
+      "R",
+      "G",
+      "V",
+      "O"
+    ],
+    [
+      "T",
+      "G",
+      "T",
+      "E",
+      "Z",
+      "E",
+      "C",
+      "K",
+      "Q",
+      "R"
+    ],
+    [
+      "G",
+      "M",
+      "R",
+      "O",
+      "W",
+      "L",
+      "A",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "X",
+      "I",
+      "P",
+      "A",
+      "R",
+      "S",
+      "T",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "F",
+      "S",
+      "R",
+      "I",
+      "Q",
+      "Y",
+      "W",
+      "Y",
+      "F",
+      "N"
+    ],
+    [
+      "U",
+      "D",
+      "E",
+      "M",
+      "H",
+      "C",
+      "A",
+      "Y",
+      "J",
+      "J"
+    ],
+    [
+      "I",
+      "H",
+      "U",
+      "X",
+      "I",
+      "C",
+      "M",
+      "W",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "Q",
+      "W",
+      "S",
+      "H",
+      "C",
+      "K",
+      "T",
+      "R",
+      "R"
+    ],
+    [
+      "Y",
+      "V",
+      "U",
+      "T",
+      "J",
+      "H",
+      "W",
+      "B",
+      "D",
+      "W"
+    ],
+    [
+      "L",
+      "M",
+      "W",
+      "I",
+      "L",
+      "N",
+      "K",
+      "B",
+      "U",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DRAWER",
+      "gloss": "A sliding storage box in furniture.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FIRE",
+      "gloss": "Combustion that gives heat and light.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FJORD",
+      "gloss": "A long narrow sea inlet between cliffs.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MUSIC",
+      "gloss": "Sound arranged in time and melody.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STALL",
+      "gloss": "A compartment in a stable; also to stop.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STORY",
+      "gloss": "A narrative of events or fiction.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "YACHT",
+      "gloss": "A recreational boat.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.184Z"
+}

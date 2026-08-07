@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-08-13",
+  "playDate": "2026-08-13",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "A",
+      "W",
+      "Q",
+      "U",
+      "T",
+      "N",
+      "R",
+      "O",
+      "C"
+    ],
+    [
+      "R",
+      "Y",
+      "P",
+      "G",
+      "M",
+      "S",
+      "R",
+      "C",
+      "U",
+      "P"
+    ],
+    [
+      "R",
+      "F",
+      "B",
+      "F",
+      "K",
+      "P",
+      "E",
+      "A",
+      "C",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "P",
+      "M",
+      "E",
+      "T",
+      "D",
+      "B",
+      "R",
+      "F"
+    ],
+    [
+      "P",
+      "L",
+      "N",
+      "S",
+      "I",
+      "G",
+      "N",
+      "I",
+      "Y",
+      "V"
+    ],
+    [
+      "W",
+      "L",
+      "O",
+      "A",
+      "P",
+      "W",
+      "E",
+      "N",
+      "S",
+      "Q"
+    ],
+    [
+      "W",
+      "E",
+      "M",
+      "H",
+      "P",
+      "R",
+      "T",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "G",
+      "E",
+      "J",
+      "K",
+      "O",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "P",
+      "U",
+      "A",
+      "P",
+      "H",
+      "M",
+      "I",
+      "U",
+      "L",
+      "Z"
+    ],
+    [
+      "Q",
+      "H",
+      "E",
+      "D",
+      "P",
+      "G",
+      "Q",
+      "N",
+      "T",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CABIN",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CORN",
+      "gloss": "A tall cereal plant with yellow kernels.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NAPKIN",
+      "gloss": "A piece of cloth or paper for wiping hands.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TENDER",
+      "gloss": "Gentle; also easily chewed.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WOAD",
+      "gloss": "A plant once used for blue dye.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.155Z"
+}

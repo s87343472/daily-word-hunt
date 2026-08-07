@@ -1,0 +1,367 @@
+{
+  "id": "daily-2026-12-06",
+  "playDate": "2026-12-06",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "K",
+      "I",
+      "B",
+      "E",
+      "R",
+      "F",
+      "C",
+      "C",
+      "C"
+    ],
+    [
+      "B",
+      "O",
+      "A",
+      "E",
+      "N",
+      "L",
+      "P",
+      "O",
+      "P",
+      "R"
+    ],
+    [
+      "B",
+      "R",
+      "T",
+      "P",
+      "N",
+      "O",
+      "A",
+      "K",
+      "L",
+      "Y"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "T",
+      "T",
+      "W",
+      "B",
+      "C",
+      "I",
+      "S"
+    ],
+    [
+      "M",
+      "V",
+      "O",
+      "V",
+      "O",
+      "H",
+      "D",
+      "S",
+      "S",
+      "T"
+    ],
+    [
+      "B",
+      "F",
+      "Z",
+      "L",
+      "E",
+      "N",
+      "C",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "L",
+      "B",
+      "D",
+      "J",
+      "O",
+      "A",
+      "W",
+      "L"
+    ],
+    [
+      "O",
+      "I",
+      "U",
+      "Z",
+      "A",
+      "E",
+      "Q",
+      "V",
+      "Y",
+      "N"
+    ],
+    [
+      "W",
+      "G",
+      "I",
+      "K",
+      "O",
+      "X",
+      "N",
+      "O",
+      "P",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "P",
+      "I",
+      "N",
+      "R",
+      "U",
+      "T",
+      "K",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAMBOO",
+      "gloss": "A tall woody grass.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BRAVE",
+      "gloss": "Ready to face danger or difficulty.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "COTTON",
+      "gloss": "A soft fiber from a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A series of musical notes; also size ratio.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TURNIP",
+      "gloss": "A round root vegetable.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender branches.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "YACHT",
+      "gloss": "A recreational boat.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.256Z"
+}

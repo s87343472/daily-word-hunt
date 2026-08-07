@@ -1,0 +1,335 @@
+{
+  "id": "daily-2026-09-09",
+  "playDate": "2026-09-09",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "Q",
+      "W",
+      "H",
+      "N",
+      "W",
+      "J",
+      "N",
+      "H",
+      "B"
+    ],
+    [
+      "K",
+      "L",
+      "O",
+      "T",
+      "U",
+      "S",
+      "I",
+      "E",
+      "Z",
+      "I"
+    ],
+    [
+      "O",
+      "H",
+      "L",
+      "K",
+      "N",
+      "A",
+      "G",
+      "I",
+      "I",
+      "L"
+    ],
+    [
+      "L",
+      "P",
+      "X",
+      "A",
+      "L",
+      "I",
+      "D",
+      "R",
+      "I",
+      "B"
+    ],
+    [
+      "U",
+      "A",
+      "I",
+      "P",
+      "A",
+      "N",
+      "J",
+      "W",
+      "E",
+      "K"
+    ],
+    [
+      "X",
+      "F",
+      "Y",
+      "N",
+      "U",
+      "K",
+      "U",
+      "J",
+      "G",
+      "V"
+    ],
+    [
+      "R",
+      "D",
+      "T",
+      "G",
+      "O",
+      "W",
+      "M",
+      "F",
+      "U",
+      "I"
+    ],
+    [
+      "H",
+      "L",
+      "B",
+      "Z",
+      "T",
+      "E",
+      "P",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "A",
+      "F",
+      "G",
+      "L",
+      "L",
+      "N",
+      "X",
+      "S",
+      "C"
+    ],
+    [
+      "E",
+      "F",
+      "T",
+      "A",
+      "J",
+      "L",
+      "T",
+      "A",
+      "T",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "gloss": "A feathered animal that can often fly.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GIANT",
+      "gloss": "Extremely large.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GUEST",
+      "gloss": "A person invited to visit.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HAT",
+      "gloss": "A covering for the head.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "INKWELL",
+      "gloss": "A small container for ink.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "JUMP",
+      "gloss": "To push off the ground into the air.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLAIN",
+      "gloss": "A large flat area of land; also simple.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.178Z"
+}

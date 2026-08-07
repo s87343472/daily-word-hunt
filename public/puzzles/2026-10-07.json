@@ -1,0 +1,327 @@
+{
+  "id": "daily-2026-10-07",
+  "playDate": "2026-10-07",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "M",
+      "B",
+      "F",
+      "U",
+      "X",
+      "X",
+      "X",
+      "S",
+      "X"
+    ],
+    [
+      "E",
+      "C",
+      "W",
+      "Q",
+      "O",
+      "D",
+      "P",
+      "T",
+      "T",
+      "H"
+    ],
+    [
+      "L",
+      "G",
+      "E",
+      "I",
+      "W",
+      "B",
+      "O",
+      "L",
+      "T",
+      "X"
+    ],
+    [
+      "V",
+      "S",
+      "D",
+      "H",
+      "N",
+      "P",
+      "I",
+      "E",
+      "J",
+      "K"
+    ],
+    [
+      "D",
+      "F",
+      "A",
+      "E",
+      "B",
+      "T",
+      "W",
+      "S",
+      "D",
+      "Q"
+    ],
+    [
+      "T",
+      "D",
+      "N",
+      "X",
+      "N",
+      "E",
+      "E",
+      "F",
+      "O",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "G",
+      "E",
+      "Z",
+      "M",
+      "S",
+      "R",
+      "S",
+      "N"
+    ],
+    [
+      "A",
+      "F",
+      "L",
+      "S",
+      "W",
+      "P",
+      "T",
+      "A",
+      "Z",
+      "J"
+    ],
+    [
+      "P",
+      "Q",
+      "E",
+      "H",
+      "G",
+      "D",
+      "V",
+      "N",
+      "S",
+      "G"
+    ],
+    [
+      "S",
+      "C",
+      "N",
+      "K",
+      "R",
+      "X",
+      "B",
+      "Z",
+      "L",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANGLE",
+      "gloss": "The space between two meeting lines.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BISON",
+      "gloss": "A large shaggy wild ox.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOLT",
+      "gloss": "A metal fastener; also a flash of lightning.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EDGE",
+      "gloss": "The outside limit of an object.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRAP",
+      "gloss": "A device for catching animals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VASE",
+      "gloss": "An open container for flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WEST",
+      "gloss": "The direction where the sun sets.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.204Z"
+}

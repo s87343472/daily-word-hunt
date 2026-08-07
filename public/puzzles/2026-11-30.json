@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-11-30",
+  "playDate": "2026-11-30",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "H",
+      "T",
+      "H",
+      "T",
+      "O",
+      "O",
+      "M",
+      "S",
+      "W"
+    ],
+    [
+      "V",
+      "A",
+      "C",
+      "L",
+      "Q",
+      "N",
+      "Z",
+      "U",
+      "B",
+      "W"
+    ],
+    [
+      "C",
+      "Z",
+      "V",
+      "C",
+      "I",
+      "A",
+      "M",
+      "C",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "E",
+      "V",
+      "A",
+      "W",
+      "G",
+      "B",
+      "K",
+      "W",
+      "H"
+    ],
+    [
+      "A",
+      "L",
+      "W",
+      "S",
+      "O",
+      "H",
+      "H",
+      "M",
+      "W",
+      "E"
+    ],
+    [
+      "R",
+      "P",
+      "Z",
+      "H",
+      "S",
+      "G",
+      "Q",
+      "T",
+      "T",
+      "K"
+    ],
+    [
+      "N",
+      "E",
+      "D",
+      "A",
+      "I",
+      "I",
+      "G",
+      "A",
+      "O",
+      "B"
+    ],
+    [
+      "Y",
+      "H",
+      "U",
+      "Y",
+      "V",
+      "S",
+      "E",
+      "I",
+      "M",
+      "J"
+    ],
+    [
+      "S",
+      "Q",
+      "S",
+      "D",
+      "J",
+      "R",
+      "K",
+      "O",
+      "A",
+      "W"
+    ],
+    [
+      "S",
+      "Y",
+      "S",
+      "K",
+      "C",
+      "E",
+      "G",
+      "D",
+      "E",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CREATE",
+      "gloss": "To bring something into existence.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EDGE",
+      "gloss": "The outside limit of an object.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HAZEL",
+      "gloss": "A light brown color; also a tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LIGHT",
+      "gloss": "Brightness that lets us see.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SMOOTH",
+      "gloss": "Having an even surface.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SQUASH",
+      "gloss": "A vegetable; also to crush.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TARN",
+      "gloss": "A small mountain lake.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WHISK",
+      "gloss": "A kitchen tool for beating; also to move quickly.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.251Z"
+}

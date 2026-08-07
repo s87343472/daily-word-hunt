@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-12-26",
+  "playDate": "2026-12-26",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "E",
+      "D",
+      "I",
+      "W",
+      "Q",
+      "C",
+      "Z",
+      "L",
+      "H"
+    ],
+    [
+      "N",
+      "G",
+      "L",
+      "E",
+      "G",
+      "P",
+      "U",
+      "B",
+      "N",
+      "Y"
+    ],
+    [
+      "I",
+      "P",
+      "C",
+      "U",
+      "C",
+      "Q",
+      "Y",
+      "B",
+      "V",
+      "J"
+    ],
+    [
+      "L",
+      "L",
+      "A",
+      "G",
+      "M",
+      "A",
+      "E",
+      "L",
+      "G",
+      "L"
+    ],
+    [
+      "R",
+      "U",
+      "T",
+      "E",
+      "L",
+      "B",
+      "A",
+      "T",
+      "W",
+      "K"
+    ],
+    [
+      "A",
+      "M",
+      "F",
+      "E",
+      "E",
+      "R",
+      "E",
+      "L",
+      "W",
+      "V"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "B",
+      "P",
+      "W",
+      "O",
+      "R",
+      "U",
+      "Z"
+    ],
+    [
+      "Y",
+      "G",
+      "Q",
+      "X",
+      "U",
+      "O",
+      "Y",
+      "U",
+      "R",
+      "C"
+    ],
+    [
+      "F",
+      "E",
+      "N",
+      "C",
+      "W",
+      "F",
+      "V",
+      "F",
+      "J",
+      "F"
+    ],
+    [
+      "W",
+      "G",
+      "Z",
+      "Z",
+      "B",
+      "E",
+      "P",
+      "B",
+      "L",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GLEAM",
+      "gloss": "A brief flash of light.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "LUMBER",
+      "gloss": "Timber sawn into boards.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLUMAGE",
+      "gloss": "A bird’s feathers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab; also a pill.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WIDE",
+      "gloss": "Of great width.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WOOL",
+      "gloss": "Soft fiber from sheep.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "YEARLING",
+      "gloss": "An animal between one and two years old.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.274Z"
+}

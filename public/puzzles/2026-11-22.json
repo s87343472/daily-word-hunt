@@ -1,0 +1,319 @@
+{
+  "id": "daily-2026-11-22",
+  "playDate": "2026-11-22",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "W",
+      "T",
+      "C",
+      "D",
+      "L",
+      "Q",
+      "C",
+      "Z",
+      "Z"
+    ],
+    [
+      "S",
+      "K",
+      "G",
+      "D",
+      "G",
+      "B",
+      "F",
+      "X",
+      "J",
+      "M"
+    ],
+    [
+      "F",
+      "K",
+      "Z",
+      "C",
+      "G",
+      "J",
+      "N",
+      "L",
+      "V",
+      "H"
+    ],
+    [
+      "T",
+      "L",
+      "C",
+      "A",
+      "T",
+      "V",
+      "R",
+      "Q",
+      "H",
+      "C"
+    ],
+    [
+      "F",
+      "E",
+      "D",
+      "T",
+      "Y",
+      "E",
+      "U",
+      "B",
+      "I",
+      "W"
+    ],
+    [
+      "G",
+      "Q",
+      "R",
+      "Y",
+      "R",
+      "I",
+      "M",
+      "E",
+      "F",
+      "C"
+    ],
+    [
+      "M",
+      "P",
+      "Z",
+      "A",
+      "L",
+      "E",
+      "R",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "A",
+      "X",
+      "L",
+      "P",
+      "I",
+      "E",
+      "I",
+      "R",
+      "X"
+    ],
+    [
+      "R",
+      "T",
+      "D",
+      "V",
+      "F",
+      "S",
+      "M",
+      "Z",
+      "T",
+      "F"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "N",
+      "T",
+      "B",
+      "I",
+      "Q",
+      "R",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "gloss": "A small furry pet that meows.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CLIMB",
+      "gloss": "To go up using hands and feet.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FIRE",
+      "gloss": "Combustion that gives heat and light.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FRAME",
+      "gloss": "A rigid structure that holds something.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "QUILL",
+      "gloss": "A feather used as a pen.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SPAR",
+      "gloss": "A stout pole for sails.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TENT",
+      "gloss": "A portable fabric shelter.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TREE",
+      "gloss": "A tall plant with a trunk and branches.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.244Z"
+}

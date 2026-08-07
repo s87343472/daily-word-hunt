@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-10-02",
+  "playDate": "2026-10-02",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "L",
+      "Q",
+      "L",
+      "N",
+      "J",
+      "L",
+      "B",
+      "X",
+      "B"
+    ],
+    [
+      "D",
+      "I",
+      "C",
+      "Y",
+      "Q",
+      "T",
+      "H",
+      "A",
+      "W",
+      "V"
+    ],
+    [
+      "X",
+      "G",
+      "X",
+      "I",
+      "V",
+      "C",
+      "E",
+      "U",
+      "F",
+      "W"
+    ],
+    [
+      "P",
+      "M",
+      "U",
+      "D",
+      "T",
+      "Q",
+      "C",
+      "V",
+      "P",
+      "O"
+    ],
+    [
+      "E",
+      "Q",
+      "Y",
+      "I",
+      "V",
+      "A",
+      "Y",
+      "U",
+      "E",
+      "S"
+    ],
+    [
+      "Y",
+      "K",
+      "A",
+      "L",
+      "U",
+      "Y",
+      "D",
+      "B",
+      "S",
+      "H"
+    ],
+    [
+      "Y",
+      "R",
+      "O",
+      "T",
+      "G",
+      "D",
+      "R",
+      "A",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "M",
+      "U",
+      "R",
+      "L",
+      "E",
+      "Z",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "Q",
+      "M",
+      "H",
+      "E",
+      "T",
+      "B",
+      "E",
+      "Z",
+      "P",
+      "S"
+    ],
+    [
+      "N",
+      "Y",
+      "O",
+      "L",
+      "K",
+      "S",
+      "K",
+      "X",
+      "E",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PUDDLE",
+      "gloss": "A small pool of liquid on the ground.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SHAPE",
+      "gloss": "The form of an object.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SHOES",
+      "gloss": "Footwear that protects the feet.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STROKE",
+      "gloss": "A single movement; also a medical event.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THAW",
+      "gloss": "To melt after freezing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TRAIT",
+      "gloss": "A distinguishing quality.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "YOLK",
+      "gloss": "The yellow center of an egg.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.199Z"
+}

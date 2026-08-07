@@ -1,0 +1,1139 @@
+---
+/**
+ * Word search player — industry-standard interactions:
+ * - Drag from first letter to last (8 directions + reverse)
+ * - Or tap first letter, then tap last (no drag required)
+ * Styles global under .ws so JS-created cells receive CSS.
+ */
+type Props = {
+  puzzleUrl?: string;
+  puzzleJson?: string;
+  /** Load /puzzles/YYYY-MM-DD.json for "today" in timezone (home page). */
+  daily?: boolean;
+  timezone?: string;
+  fallbackUrl?: string;
+  largePrint?: boolean;
+  printHref?: string;
+  a11yHref?: string;
+  a11yLabel?: string;
+};
+
+const {
+  puzzleUrl = "/puzzles/sample.json",
+  puzzleJson,
+  daily = false,
+  timezone = "America/New_York",
+  fallbackUrl = "/puzzles/sample.json",
+  largePrint = false,
+  printHref,
+  a11yHref,
+  a11yLabel = "Large print page",
+} = Astro.props;
+---
+
+<div
+  class:list={["ws", { "ws--large": largePrint }]}
+  data-ws-root
+  data-puzzle-url={puzzleJson || daily ? undefined : puzzleUrl}
+  data-puzzle={puzzleJson}
+  data-daily={daily ? "1" : undefined}
+  data-tz={daily ? timezone : undefined}
+  data-fallback={daily ? fallbackUrl : undefined}
+>
+  <!-- Compact single-row HUD (mobile first) -->
+  <header class="ws-hud">
+    <h1 data-ws-title class="ws-title">Loading…</h1>
+    <div class="ws-hud-right" aria-live="polite">
+      <span class="ws-pill"
+        ><span data-ws-progress>0/0</span></span
+      >
+      <span class="ws-pill ws-pill--time"
+        ><span data-ws-timer>0:00</span></span
+      >
+    </div>
+  </header>
+
+  <div class="ws-progress-track" aria-hidden="true">
+    <div data-ws-progress-bar class="ws-progress-bar"></div>
+  </div>
+
+  <!-- Board first — hero -->
+  <div class="ws-stage">
+    <div
+      data-ws-board
+      class="ws-board"
+      role="grid"
+      aria-label="Word search grid"
+    >
+    </div>
+  </div>
+
+  <p data-ws-hint-msg class="ws-hint-msg" aria-live="polite"></p>
+
+  <!-- Chips immediately under board -->
+  <section class="ws-words-panel" aria-label="Word list">
+    <div class="ws-words-head">
+      <h2 class="ws-words-title">Words</h2>
+      <button type="button" class="ws-tool-btn" data-ws-hint>Hint (3)</button>
+    </div>
+    <ul data-ws-wordlist class="ws-chips"></ul>
+  </section>
+
+  <div data-ws-gloss class="ws-gloss" hidden>
+    <div class="ws-gloss-inner">
+      <strong data-ws-gloss-word class="ws-gloss-word"></strong>
+      <p data-ws-gloss-text class="ws-gloss-text"></p>
+    </div>
+  </div>
+
+  <!-- Secondary chrome below the fold -->
+  <footer class="ws-footer-tools">
+    <label class="ws-a11y">
+      <input type="checkbox" data-ws-large-toggle checked={largePrint} />
+      <span>Large print</span>
+    </label>
+    {
+      printHref && (
+        <a class="ws-link" href={printHref}>
+          Print
+        </a>
+      )
+    }
+    {
+      a11yHref && (
+        <a class="ws-link" href={a11yHref}>
+          {a11yLabel}
+        </a>
+      )
+    }
+  </footer>
+
+  <details class="ws-help-details">
+    <summary>How to play</summary>
+    <p>
+      <strong>Drag</strong> from the first letter to the last, or
+      <strong>tap</strong> the first letter then the last. Straight lines only
+      (horizontal, vertical, diagonal — reverse OK).
+    </p>
+  </details>
+
+  <p data-ws-status class="ws-status" aria-live="polite"></p>
+
+  <div data-ws-win class="ws-win" hidden>
+    <div class="ws-win-card">
+      <p class="ws-win-emoji" aria-hidden="true">✓</p>
+      <h3 class="ws-win-title">Nice work!</h3>
+      <p data-ws-win-detail class="ws-win-detail"></p>
+      <button type="button" data-ws-win-dismiss class="ws-win-btn">
+        Keep browsing
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  type Cell = { r: number; c: number };
+  type PuzzleWord = { word: string; gloss: string; path?: Cell[] };
+  type Puzzle = {
+    id: string;
+    title: string;
+    description?: string;
+    playDate?: string;
+    rows: number;
+    cols: number;
+    grid: string[][];
+    words: PuzzleWord[];
+  };
+  type GameCtl = { destroy: () => void };
+
+  const FOUND_COLORS = 8;
+
+  function formatTime(ms: number) {
+    const s = Math.floor(ms / 1000);
+    const m = Math.floor(s / 60);
+    return `${m}:${String(s % 60).padStart(2, "0")}`;
+  }
+
+  function lineBetween(a: Cell, b: Cell): Cell[] | null {
+    const dr = b.r - a.r;
+    const dc = b.c - a.c;
+    const steps = Math.max(Math.abs(dr), Math.abs(dc));
+    if (steps === 0) return [a];
+    const sr = dr === 0 ? 0 : dr / Math.abs(dr);
+    const sc = dc === 0 ? 0 : dc / Math.abs(dc);
+    if (Math.abs(dr) !== steps && dr !== 0) return null;
+    if (Math.abs(dc) !== steps && dc !== 0) return null;
+    if (
+      Math.abs(dr) !== 0 &&
+      Math.abs(dc) !== 0 &&
+      Math.abs(dr) !== Math.abs(dc)
+    )
+      return null;
+    const path: Cell[] = [];
+    for (let i = 0; i <= steps; i++) {
+      path.push({ r: a.r + sr * i, c: a.c + sc * i });
+    }
+    return path;
+  }
+
+  function cellsEqual(a: Cell, b: Cell) {
+    return a.r === b.r && a.c === b.c;
+  }
+
+  function mountGame(root: HTMLElement): GameCtl {
+    const boardEl = root.querySelector<HTMLElement>("[data-ws-board]")!;
+    const wordlistEl = root.querySelector<HTMLElement>("[data-ws-wordlist]")!;
+    const titleEl = root.querySelector<HTMLElement>("[data-ws-title]")!;
+    const progressEl = root.querySelector<HTMLElement>("[data-ws-progress]")!;
+    const progressBar = root.querySelector<HTMLElement>(
+      "[data-ws-progress-bar]"
+    )!;
+    const timerEl = root.querySelector<HTMLElement>("[data-ws-timer]")!;
+    const statusEl = root.querySelector<HTMLElement>("[data-ws-status]")!;
+    const hintMsg = root.querySelector<HTMLElement>("[data-ws-hint-msg]")!;
+    const glossBox = root.querySelector<HTMLElement>("[data-ws-gloss]")!;
+    const glossWord = root.querySelector<HTMLElement>("[data-ws-gloss-word]")!;
+    const glossText = root.querySelector<HTMLElement>("[data-ws-gloss-text]")!;
+    const winEl = root.querySelector<HTMLElement>("[data-ws-win]")!;
+    const winDetail = root.querySelector<HTMLElement>("[data-ws-win-detail]")!;
+    const winDismiss = root.querySelector<HTMLElement>(
+      "[data-ws-win-dismiss]"
+    )!;
+    const largeToggle = root.querySelector<HTMLInputElement>(
+      "[data-ws-large-toggle]"
+    )!;
+    const hintBtn = root.querySelector<HTMLButtonElement>("[data-ws-hint]")!;
+
+    let puzzle: Puzzle;
+    let found = new Set<string>();
+    let foundColorIndex = 0;
+    let selecting = false;
+    let startCell: Cell | null = null;
+    let currentPath: Cell[] = [];
+    /** Tap-tap mode: first letter waiting for second */
+    let anchorCell: Cell | null = null;
+    let startTime = Date.now();
+    let timerId: number | undefined;
+    let activePointerId: number | null = null;
+    let dragMoved = false;
+    let destroyed = false;
+    let hintsLeft = 3;
+
+    function pathToWord(path: Cell[]) {
+      return path.map(p => puzzle.grid[p.r][p.c]).join("");
+    }
+
+    function clearClass(cls: string) {
+      boardEl.querySelectorAll(`.${cls}`).forEach(el => el.classList.remove(cls));
+    }
+
+    function clearSelectionHighlight() {
+      clearClass("ws-cell--select");
+    }
+
+    function clearAnchorHighlight() {
+      clearClass("ws-cell--anchor");
+    }
+
+    function paintPath(path: Cell[], cls: string) {
+      for (const p of path) {
+        boardEl
+          .querySelector(`[data-r="${p.r}"][data-c="${p.c}"]`)
+          ?.classList.add(cls);
+      }
+    }
+
+    function setHintMessage(msg: string) {
+      hintMsg.textContent = msg;
+    }
+
+    function updateProgress() {
+      const total = puzzle.words.length;
+      const n = found.size;
+      progressEl.textContent = `${n}/${total}`;
+      progressBar.style.width = total ? `${(n / total) * 100}%` : "0%";
+      if (n === total && total > 0) {
+        const ms = Date.now() - startTime;
+        statusEl.textContent = "";
+        winDetail.textContent = `All ${total} words in ${formatTime(ms)}`;
+        winEl.hidden = false;
+        if (timerId) window.clearInterval(timerId);
+      }
+    }
+
+    function showGloss(word: string, gloss: string) {
+      glossBox.hidden = false;
+      glossWord.textContent = word;
+      glossText.textContent = gloss || "—";
+    }
+
+    function flashMiss() {
+      boardEl.classList.add("ws-board--miss");
+      window.setTimeout(() => boardEl.classList.remove("ws-board--miss"), 180);
+    }
+
+    function markFound(path: Cell[], match: PuzzleWord) {
+      const color = foundColorIndex % FOUND_COLORS;
+      foundColorIndex++;
+      found.add(match.word);
+      for (const p of path) {
+        const el = boardEl.querySelector(
+          `[data-r="${p.r}"][data-c="${p.c}"]`
+        ) as HTMLElement | null;
+        if (!el) continue;
+        el.classList.add("ws-cell--found", `ws-cell--found-${color}`);
+      }
+      const chip = wordlistEl.querySelector(
+        `[data-word="${match.word}"]`
+      ) as HTMLElement | null;
+      chip?.classList.add("ws-chip--found", `ws-chip--found-${color}`);
+      showGloss(match.word, match.gloss);
+      updateProgress();
+    }
+
+    function tryComplete(path: Cell[]): boolean {
+      if (path.length < 2) {
+        clearSelectionHighlight();
+        return false;
+      }
+      const forward = pathToWord(path);
+      const reverse = pathToWord([...path].reverse());
+      const match = puzzle.words.find(
+        w => !found.has(w.word) && (w.word === forward || w.word === reverse)
+      );
+      if (!match) {
+        clearSelectionHighlight();
+        flashMiss();
+        return false;
+      }
+      clearSelectionHighlight();
+      clearAnchorHighlight();
+      anchorCell = null;
+      markFound(path, match);
+      setHintMessage("");
+      return true;
+    }
+
+    function cellFromPoint(x: number, y: number): Cell | null {
+      const el = document.elementFromPoint(x, y)?.closest?.(".ws-cell") as
+        | HTMLElement
+        | null;
+      if (!el || !boardEl.contains(el)) return null;
+      return { r: Number(el.dataset.r), c: Number(el.dataset.c) };
+    }
+
+    function cellFromEventTarget(t: EventTarget | null): Cell | null {
+      const el = (t as HTMLElement | null)?.closest?.(".ws-cell") as
+        | HTMLElement
+        | null;
+      if (!el || !boardEl.contains(el)) return null;
+      return { r: Number(el.dataset.r), c: Number(el.dataset.c) };
+    }
+
+    function setAnchor(cell: Cell) {
+      clearAnchorHighlight();
+      clearSelectionHighlight();
+      anchorCell = cell;
+      paintPath([cell], "ws-cell--anchor");
+      setHintMessage("Now tap the last letter of the word.");
+    }
+
+    function clearAnchorMode() {
+      anchorCell = null;
+      clearAnchorHighlight();
+      clearSelectionHighlight();
+      setHintMessage("");
+    }
+
+    /** Tap-tap: second tap completes a straight line */
+    function handleTap(cell: Cell) {
+      if (!anchorCell) {
+        setAnchor(cell);
+        return;
+      }
+      if (cellsEqual(anchorCell, cell)) {
+        clearAnchorMode();
+        return;
+      }
+      const path = lineBetween(anchorCell, cell);
+      if (!path || path.length < 2) {
+        // Invalid line — treat as new anchor
+        setAnchor(cell);
+        return;
+      }
+      clearAnchorHighlight();
+      paintPath(path, "ws-cell--select");
+      const ok = tryComplete(path);
+      if (!ok) {
+        // Failed match — start new anchor on this cell
+        setAnchor(cell);
+      }
+    }
+
+    function onStart(e: PointerEvent) {
+      const cell = cellFromEventTarget(e.target);
+      if (!cell) return;
+      e.preventDefault();
+      selecting = true;
+      dragMoved = false;
+      activePointerId = e.pointerId;
+      startCell = cell;
+      currentPath = [cell];
+      // If we were in tap-tap mode, keep anchor until we know it's a drag
+      clearSelectionHighlight();
+      paintPath(currentPath, "ws-cell--select");
+      try {
+        boardEl.setPointerCapture(e.pointerId);
+      } catch {
+        /* ignore */
+      }
+    }
+
+    function onMove(e: PointerEvent) {
+      if (!selecting || !startCell) return;
+      if (activePointerId !== null && e.pointerId !== activePointerId) return;
+      e.preventDefault();
+      const cell =
+        cellFromPoint(e.clientX, e.clientY) ?? cellFromEventTarget(e.target);
+      if (!cell) return;
+      const path = lineBetween(startCell, cell);
+      if (!path) return;
+      if (path.length > 1) {
+        dragMoved = true;
+        // Drag cancels pending tap-tap anchor from a previous gesture
+        if (anchorCell) {
+          clearAnchorHighlight();
+          anchorCell = null;
+          setHintMessage("");
+        }
+      }
+      currentPath = path;
+      clearSelectionHighlight();
+      paintPath(path, "ws-cell--select");
+    }
+
+    function onEnd(e: PointerEvent) {
+      if (!selecting) return;
+      if (activePointerId !== null && e.pointerId !== activePointerId) return;
+      selecting = false;
+      activePointerId = null;
+      try {
+        if (boardEl.hasPointerCapture?.(e.pointerId)) {
+          boardEl.releasePointerCapture(e.pointerId);
+        }
+      } catch {
+        /* ignore */
+      }
+
+      if (dragMoved && currentPath.length >= 2) {
+        // Drag complete
+        tryComplete(currentPath);
+      } else if (startCell && !dragMoved) {
+        // Pure tap → two-tap mode
+        clearSelectionHighlight();
+        handleTap(startCell);
+      } else {
+        clearSelectionHighlight();
+      }
+
+      startCell = null;
+      currentPath = [];
+      dragMoved = false;
+    }
+
+    function renderBoard() {
+      boardEl.style.setProperty("--ws-cols", String(puzzle.cols));
+      boardEl.innerHTML = "";
+      for (let r = 0; r < puzzle.rows; r++) {
+        for (let c = 0; c < puzzle.cols; c++) {
+          const cell = document.createElement("div");
+          cell.className = "ws-cell";
+          cell.dataset.r = String(r);
+          cell.dataset.c = String(c);
+          cell.textContent = puzzle.grid[r][c];
+          cell.setAttribute("role", "gridcell");
+          cell.setAttribute(
+            "aria-label",
+            `Row ${r + 1} column ${c + 1}, ${puzzle.grid[r][c]}`
+          );
+          boardEl.appendChild(cell);
+        }
+      }
+    }
+
+    function renderWordlist() {
+      wordlistEl.innerHTML = "";
+      for (const w of puzzle.words) {
+        const li = document.createElement("li");
+        li.dataset.word = w.word;
+        li.className = "ws-chip";
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "ws-chip-btn";
+        btn.textContent = w.word;
+        btn.addEventListener("click", () => {
+          if (found.has(w.word)) showGloss(w.word, w.gloss);
+        });
+        li.appendChild(btn);
+        wordlistEl.appendChild(li);
+      }
+    }
+
+    function useHint() {
+      if (hintsLeft <= 0) {
+        setHintMessage("No hints left.");
+        return;
+      }
+      const remaining = puzzle.words.filter(w => !found.has(w.word));
+      if (!remaining.length) return;
+      const target = remaining[Math.floor(Math.random() * remaining.length)];
+      // Prefer path from generator if present; else flash chip only
+      const path = target.path;
+      if (!path || path.length < 2) {
+        const chip = wordlistEl.querySelector(`[data-word="${target.word}"]`);
+        chip?.classList.add("ws-chip--hint");
+        window.setTimeout(() => chip?.classList.remove("ws-chip--hint"), 1200);
+        setHintMessage(`Look for: ${target.word} (${--hintsLeft} hints left)`);
+        hintBtn.textContent = `Hint (${hintsLeft})`;
+        return;
+      }
+      hintsLeft--;
+      hintBtn.textContent = `Hint (${hintsLeft})`;
+      paintPath(path, "ws-cell--hint");
+      window.setTimeout(() => {
+        clearClass("ws-cell--hint");
+      }, 1400);
+      setHintMessage(
+        `Hint: ${target.word} flashes on the board (${hintsLeft} left)`
+      );
+    }
+
+    function tick() {
+      if (!destroyed) timerEl.textContent = formatTime(Date.now() - startTime);
+    }
+
+    const onLarge = () => {
+      root.classList.toggle("ws--large", largeToggle.checked);
+    };
+    const onWinDismiss = () => {
+      winEl.hidden = true;
+    };
+    const onHint = () => useHint();
+
+    function formatDateInTz(date: Date, timeZone: string) {
+      return new Intl.DateTimeFormat("en-CA", {
+        timeZone,
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+      }).format(date);
+    }
+
+    async function fetchPuzzle(url: string): Promise<Puzzle> {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`Failed to load puzzle: ${url}`);
+      return (await res.json()) as Puzzle;
+    }
+
+    async function loadPuzzlePayload(): Promise<Puzzle> {
+      const inline = root.dataset.puzzle;
+      if (inline) return JSON.parse(inline) as Puzzle;
+
+      // Home: release by calendar day in site TZ (no /play/date URL required)
+      if (root.dataset.daily === "1") {
+        const tz = root.dataset.tz || "America/New_York";
+        const today = formatDateInTz(new Date(), tz);
+        const primary = `/puzzles/${today}.json`;
+        const fallback = root.dataset.fallback || "/puzzles/sample.json";
+        try {
+          return await fetchPuzzle(primary);
+        } catch {
+          console.warn(`No puzzle for ${today}, using fallback`);
+          return await fetchPuzzle(fallback);
+        }
+      }
+
+      const url = root.dataset.puzzleUrl || "/puzzles/sample.json";
+      return fetchPuzzle(url);
+    }
+
+    async function boot() {
+      puzzle = await loadPuzzlePayload();
+      if (destroyed) return;
+
+      const dateLabel = puzzle.playDate ? ` · ${puzzle.playDate}` : "";
+      titleEl.textContent = `${puzzle.title}${dateLabel}`;
+      renderBoard();
+      renderWordlist();
+      updateProgress();
+      hintBtn.textContent = `Hint (${hintsLeft})`;
+      startTime = Date.now();
+      timerId = window.setInterval(tick, 250);
+      tick();
+
+      boardEl.addEventListener("pointerdown", onStart);
+      document.addEventListener("pointermove", onDocMove, { passive: false });
+      document.addEventListener("pointerup", onDocUp);
+      document.addEventListener("pointercancel", onDocUp);
+      largeToggle?.addEventListener("change", onLarge);
+      winDismiss?.addEventListener("click", onWinDismiss);
+      hintBtn?.addEventListener("click", onHint);
+    }
+
+    function onDocMove(e: PointerEvent) {
+      if (!selecting) return;
+      onMove(e);
+    }
+    function onDocUp(e: PointerEvent) {
+      if (!selecting) return;
+      onEnd(e);
+    }
+
+    boot().catch(err => {
+      if (destroyed) return;
+      titleEl.textContent = "Could not load puzzle";
+      statusEl.textContent = String(err);
+      console.error(err);
+    });
+
+    return {
+      destroy() {
+        destroyed = true;
+        if (timerId) window.clearInterval(timerId);
+        boardEl.removeEventListener("pointerdown", onStart);
+        document.removeEventListener("pointermove", onDocMove);
+        document.removeEventListener("pointerup", onDocUp);
+        document.removeEventListener("pointercancel", onDocUp);
+        largeToggle?.removeEventListener("change", onLarge);
+        winDismiss?.removeEventListener("click", onWinDismiss);
+        hintBtn?.removeEventListener("click", onHint);
+      },
+    };
+  }
+
+  const instances = new WeakMap<HTMLElement, GameCtl>();
+
+  function initAll() {
+    document.querySelectorAll<HTMLElement>("[data-ws-root]").forEach(root => {
+      instances.get(root)?.destroy();
+      instances.set(root, mountGame(root));
+    });
+  }
+
+  initAll();
+  document.addEventListener("astro:page-load", initAll);
+</script>
+
+<style is:global>
+  /* Mobile-first: compact chrome above board, board is the hero */
+  .ws {
+    --ws-accent: var(--accent, #ff6b01);
+    --ws-accent-fg: var(--accent-foreground, #fff);
+    --ws-fg: var(--foreground, #eaedf3);
+    --ws-bg: var(--background, #212737);
+    --ws-muted: var(--muted, #343f60);
+    --ws-muted-fg: var(--muted-foreground, #afb9ca);
+    --ws-border: var(--border, #3a4560);
+    --ws-cell-bg: color-mix(in oklab, var(--ws-muted) 35%, var(--ws-bg));
+    --ws-board-pad: 0.4rem;
+    --ws-gap: 2px;
+    --ws-radius: 0.35rem;
+    /* Fill phone width; also cap by viewport height so board stays on first screen */
+    --ws-board-max: min(100%, calc(100vw - 1.5rem), calc(100dvh - 11.5rem), 26rem);
+    --ws-font: clamp(0.72rem, 3.6vw, 1.05rem);
+    position: relative;
+    width: 100%;
+    max-width: 32rem;
+    margin-inline: auto;
+  }
+  .ws.ws--large {
+    --ws-board-max: min(100%, calc(100vw - 1rem), calc(100dvh - 11rem), 28rem);
+    --ws-font: clamp(0.9rem, 4vw, 1.2rem);
+    --ws-gap: 3px;
+    --ws-board-pad: 0.5rem;
+  }
+
+  /* Single-row HUD: title + progress/timer pills */
+  .ws .ws-hud {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.35rem;
+    min-height: 1.75rem;
+  }
+  .ws .ws-title {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--ws-fg);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+  }
+  .ws .ws-hud-right {
+    display: flex;
+    gap: 0.35rem;
+    flex-shrink: 0;
+  }
+  .ws .ws-pill {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 999px;
+    background: var(--ws-muted);
+    border: 1px solid color-mix(in oklab, var(--ws-border) 45%, transparent);
+    font-size: 0.78rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--ws-fg);
+    line-height: 1.2;
+  }
+  .ws .ws-pill--time {
+    min-width: 2.75rem;
+    color: var(--ws-muted-fg);
+  }
+
+  .ws .ws-progress-track {
+    height: 3px;
+    border-radius: 999px;
+    background: var(--ws-muted);
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+  }
+  .ws .ws-progress-bar {
+    height: 100%;
+    width: 0%;
+    border-radius: inherit;
+    background: linear-gradient(
+      90deg,
+      var(--ws-accent),
+      color-mix(in oklab, var(--ws-accent) 60%, #f5c542)
+    );
+    transition: width 0.25s ease;
+  }
+
+  .ws .ws-stage {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.35rem;
+  }
+  .ws .ws-board {
+    --ws-cols: 10;
+    display: grid;
+    grid-template-columns: repeat(var(--ws-cols), minmax(0, 1fr));
+    gap: var(--ws-gap);
+    width: var(--ws-board-max);
+    aspect-ratio: 1;
+    padding: var(--ws-board-pad);
+    border-radius: calc(var(--ws-radius) + 0.35rem);
+    background: linear-gradient(
+      165deg,
+      color-mix(in oklab, var(--ws-muted) 85%, #000),
+      var(--ws-muted)
+    );
+    border: 1px solid color-mix(in oklab, var(--ws-border) 70%, transparent);
+    box-shadow:
+      0 1px 0 color-mix(in oklab, #fff 6%, transparent) inset,
+      0 10px 24px color-mix(in oklab, #000 26%, transparent);
+    touch-action: none;
+    user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+  }
+  .ws .ws-board--miss {
+    animation: ws-shake 0.18s ease;
+  }
+  @keyframes ws-shake {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    33% {
+      transform: translateX(-3px);
+    }
+    66% {
+      transform: translateX(3px);
+    }
+  }
+
+  .ws .ws-cell {
+    aspect-ratio: 1;
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+    display: grid;
+    place-items: center;
+    margin: 0;
+    padding: 0;
+    border-radius: var(--ws-radius);
+    background: var(--ws-cell-bg);
+    color: var(--ws-fg);
+    font-size: var(--ws-font);
+    font-weight: 700;
+    font-family:
+      ui-rounded,
+      "SF Pro Rounded",
+      system-ui,
+      sans-serif;
+    letter-spacing: 0.02em;
+    box-shadow: 0 1px 0 color-mix(in oklab, #fff 5%, transparent) inset;
+    transition:
+      background 0.1s ease,
+      color 0.1s ease,
+      transform 0.08s ease;
+  }
+  .ws .ws-cell--select {
+    background: color-mix(in oklab, var(--ws-accent) 82%, #fff);
+    color: var(--ws-accent-fg);
+    transform: scale(1.05);
+    z-index: 1;
+  }
+  .ws .ws-cell--anchor {
+    background: color-mix(in oklab, var(--ws-accent) 55%, var(--ws-cell-bg));
+    color: var(--ws-accent-fg);
+    box-shadow: 0 0 0 2px var(--ws-accent);
+    z-index: 1;
+  }
+  .ws .ws-cell--hint {
+    animation: ws-hint-pulse 0.45s ease 3;
+    background: color-mix(in oklab, #f5c542 55%, var(--ws-cell-bg));
+    color: #1a1a1a;
+  }
+  @keyframes ws-hint-pulse {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.08);
+    }
+  }
+
+  .ws .ws-cell--found {
+    color: #fff;
+  }
+  .ws .ws-cell--found-0 {
+    background: #2f9e5f;
+  }
+  .ws .ws-cell--found-1 {
+    background: #3b82f6;
+  }
+  .ws .ws-cell--found-2 {
+    background: #a855f7;
+  }
+  .ws .ws-cell--found-3 {
+    background: #ef4444;
+  }
+  .ws .ws-cell--found-4 {
+    background: #f59e0b;
+  }
+  .ws .ws-cell--found-5 {
+    background: #06b6d4;
+  }
+  .ws .ws-cell--found-6 {
+    background: #ec4899;
+  }
+  .ws .ws-cell--found-7 {
+    background: #84cc16;
+  }
+
+  /* Compact: no reserved height when empty */
+  .ws .ws-hint-msg {
+    min-height: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--ws-accent);
+  }
+  .ws .ws-hint-msg:not(:empty) {
+    margin: 0.25rem 0 0.35rem;
+    min-height: 1.15rem;
+  }
+
+  .ws .ws-words-panel {
+    margin-top: 0.25rem;
+  }
+  .ws .ws-words-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.4rem;
+  }
+  .ws .ws-words-title {
+    margin: 0;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ws-muted-fg);
+  }
+  .ws .ws-tool-btn {
+    appearance: none;
+    border: 1px solid color-mix(in oklab, var(--ws-border) 60%, transparent);
+    background: var(--ws-muted);
+    color: var(--ws-fg);
+    font: inherit;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.28rem 0.6rem;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .ws .ws-tool-btn:hover {
+    border-color: var(--ws-accent);
+  }
+  .ws .ws-chips {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .ws .ws-chip {
+    margin: 0;
+  }
+  .ws .ws-chip-btn {
+    appearance: none;
+    border: 1px solid color-mix(in oklab, var(--ws-border) 55%, transparent);
+    background: var(--ws-muted);
+    color: var(--ws-fg);
+    font: inherit;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.32rem 0.58rem;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .ws .ws-chip-btn:hover {
+    border-color: var(--ws-accent);
+  }
+  .ws .ws-chip--found .ws-chip-btn {
+    opacity: 0.75;
+    text-decoration: line-through;
+    color: #fff;
+    border-color: transparent;
+  }
+  .ws .ws-chip--found-0 .ws-chip-btn {
+    background: #2f9e5f;
+  }
+  .ws .ws-chip--found-1 .ws-chip-btn {
+    background: #3b82f6;
+  }
+  .ws .ws-chip--found-2 .ws-chip-btn {
+    background: #a855f7;
+  }
+  .ws .ws-chip--found-3 .ws-chip-btn {
+    background: #ef4444;
+  }
+  .ws .ws-chip--found-4 .ws-chip-btn {
+    background: #f59e0b;
+  }
+  .ws .ws-chip--found-5 .ws-chip-btn {
+    background: #06b6d4;
+  }
+  .ws .ws-chip--found-6 .ws-chip-btn {
+    background: #ec4899;
+  }
+  .ws .ws-chip--found-7 .ws-chip-btn {
+    background: #84cc16;
+  }
+  .ws .ws-chip--hint .ws-chip-btn {
+    animation: ws-hint-pulse 0.45s ease 3;
+    border-color: #f5c542;
+  }
+
+  .ws .ws-gloss {
+    margin-top: 0.6rem;
+  }
+  .ws .ws-gloss-inner {
+    padding: 0.6rem 0.75rem;
+    border-radius: 0.65rem;
+    background: color-mix(in oklab, var(--ws-accent) 12%, var(--ws-muted));
+    border: 1px solid color-mix(in oklab, var(--ws-accent) 35%, transparent);
+  }
+  .ws .ws-gloss-word {
+    display: block;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    color: var(--ws-accent);
+  }
+  .ws .ws-gloss-text {
+    margin: 0.25rem 0 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: var(--ws-fg);
+  }
+
+  /* Secondary chrome — below the fold on phone */
+  .ws .ws-footer-tools {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.65rem 1rem;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid color-mix(in oklab, var(--ws-border) 55%, transparent);
+  }
+  .ws .ws-a11y {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.8rem;
+    color: var(--ws-muted-fg);
+    cursor: pointer;
+    user-select: none;
+  }
+  .ws .ws-link {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--ws-accent);
+    text-decoration: none;
+  }
+  .ws .ws-link:hover {
+    text-decoration: underline;
+  }
+
+  .ws .ws-help-details {
+    margin-top: 0.65rem;
+    font-size: 0.82rem;
+    color: var(--ws-muted-fg);
+  }
+  .ws .ws-help-details summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--ws-muted-fg);
+    list-style: none;
+  }
+  .ws .ws-help-details summary::-webkit-details-marker {
+    display: none;
+  }
+  .ws .ws-help-details summary::before {
+    content: "▸ ";
+    color: var(--ws-accent);
+  }
+  .ws .ws-help-details[open] summary::before {
+    content: "▾ ";
+  }
+  .ws .ws-help-details p {
+    margin: 0.45rem 0 0;
+    line-height: 1.45;
+  }
+  .ws .ws-help-details strong {
+    color: var(--ws-fg);
+    font-weight: 700;
+  }
+
+  .ws .ws-status {
+    margin: 0.4rem 0 0;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--ws-muted-fg);
+  }
+
+  .ws .ws-win {
+    position: fixed;
+    inset: 0;
+    z-index: 80;
+    display: grid;
+    place-items: center;
+    padding: 1.25rem;
+    background: color-mix(in oklab, #000 45%, transparent);
+    backdrop-filter: blur(4px);
+  }
+  .ws .ws-win[hidden] {
+    display: none !important;
+  }
+  .ws .ws-win-card {
+    width: min(100%, 20rem);
+    padding: 1.5rem 1.25rem 1.25rem;
+    border-radius: 1rem;
+    text-align: center;
+    background: var(--ws-bg);
+    border: 1px solid var(--ws-border);
+    box-shadow: 0 20px 50px color-mix(in oklab, #000 40%, transparent);
+  }
+  .ws .ws-win-emoji {
+    margin: 0 auto;
+    width: 2.75rem;
+    height: 2.75rem;
+    line-height: 2.75rem;
+    border-radius: 999px;
+    background: color-mix(in oklab, #2f9e5f 35%, var(--ws-muted));
+    color: #e8fff0;
+    font-weight: 800;
+    font-size: 1.25rem;
+  }
+  .ws .ws-win-title {
+    margin: 0.75rem 0 0.25rem;
+    font-size: 1.35rem;
+  }
+  .ws .ws-win-detail {
+    margin: 0;
+    color: var(--ws-muted-fg);
+    font-size: 0.95rem;
+  }
+  .ws .ws-win-btn {
+    margin-top: 1.1rem;
+    width: 100%;
+    border: none;
+    border-radius: 0.65rem;
+    padding: 0.7rem 1rem;
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+    background: var(--ws-accent);
+    color: var(--ws-accent-fg);
+  }
+
+  /* Slightly roomier on tablet+ where vertical space is less scarce */
+  @media (min-width: 640px) {
+    .ws {
+      --ws-board-pad: 0.55rem;
+      --ws-gap: 3px;
+      --ws-font: clamp(0.85rem, 2.2vw, 1.1rem);
+      --ws-board-max: min(100%, 24rem);
+    }
+    .ws .ws-title {
+      font-size: 1.2rem;
+    }
+    .ws .ws-progress-track {
+      height: 4px;
+      margin-bottom: 0.75rem;
+    }
+    .ws .ws-stage {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  @media print {
+    .ws .ws-hud-right,
+    .ws .ws-progress-track,
+    .ws .ws-footer-tools,
+    .ws .ws-help-details,
+    .ws .ws-tool-btn,
+    .ws .ws-status,
+    .ws .ws-hint-msg,
+    .ws .ws-win,
+    .ws .ws-gloss {
+      display: none !important;
+    }
+    .ws .ws-board {
+      box-shadow: none;
+      background: #fff;
+    }
+    .ws .ws-cell {
+      background: #fff;
+      color: #111;
+      outline: 1px solid #ccc;
+    }
+  }
+</style>

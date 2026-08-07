@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-09-19",
+  "playDate": "2026-09-19",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "I",
+      "B",
+      "G",
+      "O",
+      "N",
+      "E",
+      "T",
+      "J",
+      "G"
+    ],
+    [
+      "F",
+      "T",
+      "K",
+      "I",
+      "A",
+      "E",
+      "W",
+      "E",
+      "W",
+      "I"
+    ],
+    [
+      "C",
+      "S",
+      "U",
+      "U",
+      "W",
+      "S",
+      "D",
+      "I",
+      "V",
+      "S"
+    ],
+    [
+      "M",
+      "F",
+      "K",
+      "R",
+      "S",
+      "E",
+      "P",
+      "Z",
+      "F",
+      "U"
+    ],
+    [
+      "K",
+      "Y",
+      "S",
+      "I",
+      "R",
+      "U",
+      "E",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "Z",
+      "N",
+      "F",
+      "F",
+      "E",
+      "R",
+      "K",
+      "N",
+      "S"
+    ],
+    [
+      "A",
+      "A",
+      "V",
+      "A",
+      "L",
+      "F",
+      "T",
+      "F",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "X",
+      "I",
+      "X",
+      "Y",
+      "O",
+      "C",
+      "U",
+      "T"
+    ],
+    [
+      "T",
+      "C",
+      "E",
+      "S",
+      "I",
+      "O",
+      "P",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "D",
+      "V",
+      "Z",
+      "K",
+      "N",
+      "C",
+      "J",
+      "P",
+      "Y",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASPEN",
+      "gloss": "A tree with trembling leaves.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PORPOISE",
+      "gloss": "A small toothed whale.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SKIFF",
+      "gloss": "A small light boat.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TACK",
+      "gloss": "A small nail; also a sailing course.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VEIL",
+      "gloss": "A piece of fine material covering the face.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WEEK",
+      "gloss": "A period of seven days.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.187Z"
+}

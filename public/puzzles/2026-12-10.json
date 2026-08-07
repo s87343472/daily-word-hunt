@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-12-10",
+  "playDate": "2026-12-10",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "L",
+      "W",
+      "C",
+      "H",
+      "Y",
+      "V",
+      "H",
+      "W",
+      "Q"
+    ],
+    [
+      "N",
+      "W",
+      "S",
+      "T",
+      "O",
+      "Q",
+      "C",
+      "Z",
+      "U",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "M",
+      "E",
+      "R",
+      "A",
+      "V",
+      "V",
+      "X"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "I",
+      "M",
+      "S",
+      "O",
+      "N",
+      "A",
+      "C"
+    ],
+    [
+      "K",
+      "U",
+      "P",
+      "I",
+      "L",
+      "U",
+      "T",
+      "Z",
+      "S",
+      "D"
+    ],
+    [
+      "I",
+      "J",
+      "E",
+      "P",
+      "T",
+      "C",
+      "S",
+      "E",
+      "E",
+      "K"
+    ],
+    [
+      "N",
+      "E",
+      "D",
+      "W",
+      "H",
+      "W",
+      "G",
+      "B",
+      "J",
+      "N"
+    ],
+    [
+      "Q",
+      "S",
+      "M",
+      "A",
+      "S",
+      "K",
+      "I",
+      "T",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "V",
+      "I",
+      "O",
+      "E",
+      "U",
+      "X",
+      "G",
+      "H",
+      "H"
+    ],
+    [
+      "I",
+      "R",
+      "G",
+      "Y",
+      "G",
+      "W",
+      "F",
+      "S",
+      "O",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "gloss": "A device for taking photographs.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CHAIR",
+      "gloss": "A seat for one person.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CRIMSON",
+      "gloss": "A deep red color.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NAPKIN",
+      "gloss": "A piece of cloth or paper for wiping hands.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THINK",
+      "gloss": "To use the mind.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VASE",
+      "gloss": "An open container for flowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.260Z"
+}

@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-08-08",
+  "playDate": "2026-08-08",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "I",
+      "R",
+      "I",
+      "A",
+      "R",
+      "P",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "N",
+      "Y",
+      "V",
+      "E",
+      "Z",
+      "X",
+      "L",
+      "A",
+      "Z",
+      "S"
+    ],
+    [
+      "J",
+      "I",
+      "V",
+      "U",
+      "F",
+      "D",
+      "N",
+      "P",
+      "C",
+      "B"
+    ],
+    [
+      "W",
+      "I",
+      "D",
+      "E",
+      "E",
+      "I",
+      "A",
+      "Q",
+      "N",
+      "L"
+    ],
+    [
+      "X",
+      "Y",
+      "L",
+      "E",
+      "M",
+      "L",
+      "L",
+      "T",
+      "T",
+      "L"
+    ],
+    [
+      "K",
+      "R",
+      "N",
+      "A",
+      "M",
+      "E",
+      "I",
+      "H",
+      "Q",
+      "Q"
+    ],
+    [
+      "K",
+      "Y",
+      "L",
+      "D",
+      "D",
+      "P",
+      "V",
+      "P",
+      "W",
+      "I"
+    ],
+    [
+      "S",
+      "Q",
+      "K",
+      "G",
+      "C",
+      "L",
+      "K",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "R",
+      "Z",
+      "E",
+      "O",
+      "O",
+      "E",
+      "A",
+      "A",
+      "H",
+      "R"
+    ],
+    [
+      "B",
+      "A",
+      "W",
+      "Y",
+      "Z",
+      "H",
+      "G",
+      "A",
+      "M",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANIMAL",
+      "gloss": "A living creature that is not a plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HELP",
+      "gloss": "To make it easier for someone.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LEDGE",
+      "gloss": "A narrow shelf projecting from a wall or cliff.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "NEEDLE",
+      "gloss": "A thin tool used for sewing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PALM",
+      "gloss": "A tropical tree; also the inner hand.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WIDE",
+      "gloss": "Of great width.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "XYLEM",
+      "gloss": "Plant tissue that carries water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.152Z"
+}

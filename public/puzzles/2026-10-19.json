@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-10-19",
+  "playDate": "2026-10-19",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "T",
+      "V",
+      "D",
+      "C",
+      "W",
+      "V",
+      "B",
+      "S",
+      "W"
+    ],
+    [
+      "Y",
+      "E",
+      "A",
+      "S",
+      "K",
+      "O",
+      "S",
+      "O",
+      "B",
+      "P"
+    ],
+    [
+      "J",
+      "G",
+      "L",
+      "E",
+      "N",
+      "H",
+      "B",
+      "F",
+      "S",
+      "U"
+    ],
+    [
+      "Y",
+      "A",
+      "O",
+      "D",
+      "E",
+      "D",
+      "J",
+      "A",
+      "V",
+      "Z"
+    ],
+    [
+      "Y",
+      "Y",
+      "R",
+      "G",
+      "R",
+      "O",
+      "L",
+      "B",
+      "L",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "E",
+      "R",
+      "E",
+      "J",
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "K",
+      "V",
+      "Q",
+      "D",
+      "K",
+      "Z",
+      "V",
+      "T",
+      "N",
+      "C"
+    ],
+    [
+      "G",
+      "X",
+      "J",
+      "C",
+      "I",
+      "B",
+      "A",
+      "A",
+      "X",
+      "T"
+    ],
+    [
+      "C",
+      "B",
+      "I",
+      "O",
+      "D",
+      "R",
+      "A",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "N",
+      "W",
+      "B",
+      "F",
+      "T",
+      "P",
+      "M",
+      "P",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COBALT",
+      "gloss": "A hard silver-white metal; also a blue.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DRAWER",
+      "gloss": "A sliding storage box in furniture.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FJORD",
+      "gloss": "A long narrow sea inlet between cliffs.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "NICKEL",
+      "gloss": "A silvery metal; also a coin.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SEDGE",
+      "gloss": "A grasslike plant of wet ground.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "VALOR",
+      "gloss": "Great courage.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WEAVE",
+      "gloss": "To form fabric by interlacing threads.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.215Z"
+}

@@ -1,0 +1,4 @@
+---
+/** Legacy /play → home (play lives on `/`). */
+return Astro.redirect(import.meta.env.BASE_URL || "/", 301);
+---

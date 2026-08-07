@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-11-18",
+  "playDate": "2026-11-18",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "N",
+      "E",
+      "N",
+      "J",
+      "E",
+      "Q"
+    ],
+    [
+      "L",
+      "C",
+      "E",
+      "B",
+      "W",
+      "I",
+      "K",
+      "W",
+      "Z",
+      "I"
+    ],
+    [
+      "N",
+      "W",
+      "C",
+      "P",
+      "U",
+      "K",
+      "A",
+      "P",
+      "E",
+      "Y"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "B",
+      "G",
+      "T",
+      "F",
+      "L",
+      "T",
+      "B"
+    ],
+    [
+      "J",
+      "U",
+      "E",
+      "G",
+      "V",
+      "H",
+      "T",
+      "W",
+      "P",
+      "T"
+    ],
+    [
+      "F",
+      "X",
+      "A",
+      "T",
+      "O",
+      "G",
+      "P",
+      "O",
+      "K",
+      "T"
+    ],
+    [
+      "O",
+      "V",
+      "V",
+      "G",
+      "N",
+      "N",
+      "R",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "Z",
+      "S",
+      "L",
+      "A",
+      "Y",
+      "H",
+      "K",
+      "N"
+    ],
+    [
+      "S",
+      "H",
+      "R",
+      "U",
+      "B",
+      "M",
+      "L",
+      "F",
+      "D",
+      "G"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "E",
+      "D",
+      "L",
+      "E",
+      "V",
+      "J",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUTTON",
+      "gloss": "A fastener on clothing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LANTERN",
+      "gloss": "A portable light in a case.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LINEN",
+      "gloss": "Cloth made from flax.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "NEEDLE",
+      "gloss": "A thin tool used for sewing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLAIN",
+      "gloss": "A large flat area of land; also simple.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHRUB",
+      "gloss": "A woody plant smaller than a tree.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TANG",
+      "gloss": "A sharp flavor or smell.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WAGON",
+      "gloss": "A four-wheeled vehicle for loads.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.241Z"
+}

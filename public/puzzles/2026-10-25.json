@@ -1,0 +1,371 @@
+{
+  "id": "daily-2026-10-25",
+  "playDate": "2026-10-25",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "P",
+      "C",
+      "O",
+      "I",
+      "Y",
+      "Q",
+      "L",
+      "W",
+      "L"
+    ],
+    [
+      "C",
+      "E",
+      "E",
+      "E",
+      "D",
+      "H",
+      "X",
+      "K",
+      "I",
+      "G"
+    ],
+    [
+      "H",
+      "Q",
+      "D",
+      "S",
+      "B",
+      "A",
+      "E",
+      "B",
+      "N",
+      "G"
+    ],
+    [
+      "I",
+      "B",
+      "G",
+      "N",
+      "Z",
+      "R",
+      "N",
+      "R",
+      "G",
+      "W"
+    ],
+    [
+      "M",
+      "J",
+      "A",
+      "L",
+      "E",
+      "G",
+      "X",
+      "R",
+      "B",
+      "M"
+    ],
+    [
+      "N",
+      "A",
+      "H",
+      "B",
+      "E",
+      "V",
+      "A",
+      "L",
+      "O",
+      "G"
+    ],
+    [
+      "E",
+      "E",
+      "M",
+      "M",
+      "D",
+      "T",
+      "A",
+      "X",
+      "H",
+      "T"
+    ],
+    [
+      "Y",
+      "I",
+      "T",
+      "J",
+      "S",
+      "Q",
+      "H",
+      "L",
+      "X",
+      "Y"
+    ],
+    [
+      "T",
+      "U",
+      "X",
+      "I",
+      "H",
+      "S",
+      "E",
+      "A",
+      "W",
+      "Q"
+    ],
+    [
+      "N",
+      "R",
+      "V",
+      "Z",
+      "P",
+      "Z",
+      "X",
+      "E",
+      "I",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHIMNEY",
+      "gloss": "A vertical flue for smoke.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HERB",
+      "gloss": "A plant used for flavor or medicine.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NUTMEG",
+      "gloss": "A spice from a tropical seed.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TIMBER",
+      "gloss": "Wood prepared for building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "gloss": "A violent rotating windstorm.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "VISTA",
+      "gloss": "A pleasing distant view.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.220Z"
+}

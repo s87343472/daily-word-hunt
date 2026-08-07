@@ -1,0 +1,359 @@
+{
+  "id": "daily-2026-10-17",
+  "playDate": "2026-10-17",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "J",
+      "V",
+      "D",
+      "S",
+      "T",
+      "A",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "K",
+      "T",
+      "F",
+      "I",
+      "L",
+      "R",
+      "N",
+      "F",
+      "Q",
+      "S"
+    ],
+    [
+      "A",
+      "M",
+      "L",
+      "D",
+      "O",
+      "T",
+      "Y",
+      "S",
+      "B",
+      "Y"
+    ],
+    [
+      "H",
+      "E",
+      "C",
+      "U",
+      "F",
+      "L",
+      "H",
+      "Y",
+      "A",
+      "F"
+    ],
+    [
+      "H",
+      "H",
+      "M",
+      "T",
+      "K",
+      "I",
+      "E",
+      "O",
+      "L",
+      "P"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "A",
+      "M",
+      "F",
+      "L",
+      "T",
+      "C",
+      "C"
+    ],
+    [
+      "A",
+      "F",
+      "A",
+      "M",
+      "R",
+      "W",
+      "I",
+      "C",
+      "O",
+      "C"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "R",
+      "Z",
+      "F",
+      "L",
+      "H",
+      "N",
+      "Z"
+    ],
+    [
+      "X",
+      "R",
+      "I",
+      "X",
+      "D",
+      "P",
+      "A",
+      "S",
+      "Y",
+      "L"
+    ],
+    [
+      "H",
+      "N",
+      "A",
+      "E",
+      "B",
+      "K",
+      "C",
+      "G",
+      "B",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BEAN",
+      "gloss": "An edible seed from a pod.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FRAME",
+      "gloss": "A rigid structure that holds something.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HEAR",
+      "gloss": "To perceive sound.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHIMMER",
+      "gloss": "A soft wavering light.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STARCH",
+      "gloss": "A carbohydrate in plants used in food.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "gloss": "A small purple flower; also a color.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.213Z"
+}

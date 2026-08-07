@@ -1,0 +1,343 @@
+{
+  "id": "daily-2026-10-01",
+  "playDate": "2026-10-01",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "H",
+      "F",
+      "C",
+      "X",
+      "X",
+      "Z",
+      "I",
+      "N",
+      "Z"
+    ],
+    [
+      "B",
+      "R",
+      "X",
+      "V",
+      "C",
+      "Q",
+      "A",
+      "P",
+      "Q",
+      "E"
+    ],
+    [
+      "E",
+      "F",
+      "O",
+      "H",
+      "R",
+      "F",
+      "T",
+      "S",
+      "K",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "M",
+      "W",
+      "E",
+      "E",
+      "G",
+      "O",
+      "H",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "E",
+      "A",
+      "E",
+      "H",
+      "V",
+      "O",
+      "O",
+      "O"
+    ],
+    [
+      "H",
+      "S",
+      "E",
+      "D",
+      "K",
+      "Q",
+      "R",
+      "L",
+      "U",
+      "N"
+    ],
+    [
+      "W",
+      "A",
+      "G",
+      "O",
+      "N",
+      "N",
+      "M",
+      "T",
+      "I",
+      "D"
+    ],
+    [
+      "X",
+      "G",
+      "T",
+      "Y",
+      "I",
+      "O",
+      "R",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "P",
+      "Z",
+      "K",
+      "Y",
+      "Z",
+      "X",
+      "W",
+      "Z",
+      "G",
+      "H"
+    ],
+    [
+      "E",
+      "D",
+      "B",
+      "Y",
+      "P",
+      "Y",
+      "Y",
+      "B",
+      "J",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SILVER",
+      "gloss": "A shiny white precious metal.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WAGON",
+      "gloss": "A four-wheeled vehicle for loads.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WONDER",
+      "gloss": "A feeling of amazement.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WORK",
+      "gloss": "Activity involving effort.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.198Z"
+}

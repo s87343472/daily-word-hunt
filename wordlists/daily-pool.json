@@ -1,0 +1,3197 @@
+{
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "size": 10,
+  "wordsPerDay": 8,
+  "words": [
+    {
+      "word": "APPLE",
+      "gloss": "A crisp fruit often red or green."
+    },
+    {
+      "word": "BREAD",
+      "gloss": "Baked staple food made from flour."
+    },
+    {
+      "word": "WATER",
+      "gloss": "Clear liquid essential to life."
+    },
+    {
+      "word": "HOUSE",
+      "gloss": "A building people live in."
+    },
+    {
+      "word": "MUSIC",
+      "gloss": "Sound arranged in time and melody."
+    },
+    {
+      "word": "PEACE",
+      "gloss": "A state of calm without conflict."
+    },
+    {
+      "word": "LIGHT",
+      "gloss": "Brightness that lets us see."
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water."
+    },
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky."
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth."
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves."
+    },
+    {
+      "word": "SMILE",
+      "gloss": "A facial expression of happiness."
+    },
+    {
+      "word": "DREAM",
+      "gloss": "Images and thoughts during sleep."
+    },
+    {
+      "word": "STORY",
+      "gloss": "A narrative of events or fiction."
+    },
+    {
+      "word": "PLANT",
+      "gloss": "A living organism that grows in soil."
+    },
+    {
+      "word": "OCEAN",
+      "gloss": "A vast body of salt water."
+    },
+    {
+      "word": "HAPPY",
+      "gloss": "Feeling joy or contentment."
+    },
+    {
+      "word": "QUIET",
+      "gloss": "Making little or no noise."
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves."
+    },
+    {
+      "word": "BERRY",
+      "gloss": "A small juicy fruit."
+    },
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land."
+    },
+    {
+      "word": "NORTH",
+      "gloss": "The direction toward the Arctic."
+    },
+    {
+      "word": "SOUTH",
+      "gloss": "The direction opposite north."
+    },
+    {
+      "word": "EAST",
+      "gloss": "The direction where the sun rises."
+    },
+    {
+      "word": "WEST",
+      "gloss": "The direction where the sun sets."
+    },
+    {
+      "word": "STAR",
+      "gloss": "A luminous ball of gas in space."
+    },
+    {
+      "word": "MOON",
+      "gloss": "Earth's natural satellite."
+    },
+    {
+      "word": "SUN",
+      "gloss": "The star at the center of our system."
+    },
+    {
+      "word": "RAIN",
+      "gloss": "Water falling in drops from clouds."
+    },
+    {
+      "word": "SNOW",
+      "gloss": "Frozen crystals falling from the sky."
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air."
+    },
+    {
+      "word": "FIRE",
+      "gloss": "Combustion that gives heat and light."
+    },
+    {
+      "word": "EARTH",
+      "gloss": "The planet we live on; also soil."
+    },
+    {
+      "word": "HEART",
+      "gloss": "The organ that pumps blood; also courage."
+    },
+    {
+      "word": "BRAIN",
+      "gloss": "The organ of thought."
+    },
+    {
+      "word": "HAND",
+      "gloss": "The end of the arm with fingers."
+    },
+    {
+      "word": "VOICE",
+      "gloss": "Sound produced by speech or song."
+    },
+    {
+      "word": "DANCE",
+      "gloss": "Moving the body to rhythm."
+    },
+    {
+      "word": "SONG",
+      "gloss": "Music with or without words."
+    },
+    {
+      "word": "BOOK",
+      "gloss": "Pages bound together to read."
+    },
+    {
+      "word": "PAPER",
+      "gloss": "Thin material used for writing."
+    },
+    {
+      "word": "INK",
+      "gloss": "Colored fluid used for writing."
+    },
+    {
+      "word": "TABLE",
+      "gloss": "Furniture with a flat top."
+    },
+    {
+      "word": "CHAIR",
+      "gloss": "A seat for one person."
+    },
+    {
+      "word": "DOOR",
+      "gloss": "A movable barrier for an entrance."
+    },
+    {
+      "word": "WINDOW",
+      "gloss": "An opening that lets in light."
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants."
+    },
+    {
+      "word": "FOREST",
+      "gloss": "A large area covered with trees."
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land."
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains."
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap."
+    },
+    {
+      "word": "PATH",
+      "gloss": "A way or track for walking."
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked route through nature."
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land."
+    },
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea."
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal."
+    },
+    {
+      "word": "BIRD",
+      "gloss": "A feathered animal that can often fly."
+    },
+    {
+      "word": "FISH",
+      "gloss": "An animal that lives in water."
+    },
+    {
+      "word": "HORSE",
+      "gloss": "A large four-legged animal people ride."
+    },
+    {
+      "word": "CAT",
+      "gloss": "A small furry pet that meows."
+    },
+    {
+      "word": "DOG",
+      "gloss": "A loyal four-legged pet."
+    },
+    {
+      "word": "FROG",
+      "gloss": "An amphibian that jumps and croaks."
+    },
+    {
+      "word": "TREE",
+      "gloss": "A tall plant with a trunk and branches."
+    },
+    {
+      "word": "LEAF",
+      "gloss": "The flat green part of a plant."
+    },
+    {
+      "word": "SEED",
+      "gloss": "What a plant grows from."
+    },
+    {
+      "word": "FRUIT",
+      "gloss": "Sweet plant product with seeds."
+    },
+    {
+      "word": "GRAIN",
+      "gloss": "Seeds of cereal plants used as food."
+    },
+    {
+      "word": "HONEY",
+      "gloss": "Sweet food made by bees."
+    },
+    {
+      "word": "SUGAR",
+      "gloss": "A sweet substance from plants."
+    },
+    {
+      "word": "SALT",
+      "gloss": "A mineral used to season food."
+    },
+    {
+      "word": "SPICE",
+      "gloss": "A plant product that flavors food."
+    },
+    {
+      "word": "TEA",
+      "gloss": "A drink made from steeped leaves."
+    },
+    {
+      "word": "COFFEE",
+      "gloss": "A drink made from roasted beans."
+    },
+    {
+      "word": "MILK",
+      "gloss": "A white liquid from mammals."
+    },
+    {
+      "word": "CHEESE",
+      "gloss": "A food made from milk curds."
+    },
+    {
+      "word": "RICE",
+      "gloss": "A grain staple in many cuisines."
+    },
+    {
+      "word": "BEAN",
+      "gloss": "An edible seed from a pod."
+    },
+    {
+      "word": "CORN",
+      "gloss": "A tall cereal plant with yellow kernels."
+    },
+    {
+      "word": "WHEAT",
+      "gloss": "A cereal grain used for flour."
+    },
+    {
+      "word": "OLIVE",
+      "gloss": "A small fruit used for oil."
+    },
+    {
+      "word": "LEMON",
+      "gloss": "A sour yellow citrus fruit."
+    },
+    {
+      "word": "GRAPE",
+      "gloss": "A small fruit that grows in clusters."
+    },
+    {
+      "word": "MELON",
+      "gloss": "A large sweet fruit with a thick rind."
+    },
+    {
+      "word": "PEACH",
+      "gloss": "A soft fruit with fuzzy skin."
+    },
+    {
+      "word": "PLUM",
+      "gloss": "A juicy purple or red stone fruit."
+    },
+    {
+      "word": "CHERRY",
+      "gloss": "A small red stone fruit."
+    },
+    {
+      "word": "ORANGE",
+      "gloss": "A citrus fruit; also a color."
+    },
+    {
+      "word": "BANANA",
+      "gloss": "A long curved yellow fruit."
+    },
+    {
+      "word": "MANGO",
+      "gloss": "A tropical sweet stone fruit."
+    },
+    {
+      "word": "COCOA",
+      "gloss": "Powder from cacao used for chocolate."
+    },
+    {
+      "word": "CANDLE",
+      "gloss": "Wax with a wick that burns for light."
+    },
+    {
+      "word": "LAMP",
+      "gloss": "A device that gives light."
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time."
+    },
+    {
+      "word": "WATCH",
+      "gloss": "A timepiece worn on the wrist."
+    },
+    {
+      "word": "NEEDLE",
+      "gloss": "A thin tool used for sewing."
+    },
+    {
+      "word": "THREAD",
+      "gloss": "A thin strand used in sewing."
+    },
+    {
+      "word": "CLOTH",
+      "gloss": "Fabric made by weaving fibers."
+    },
+    {
+      "word": "SHIRT",
+      "gloss": "A garment for the upper body."
+    },
+    {
+      "word": "SHOES",
+      "gloss": "Footwear that protects the feet."
+    },
+    {
+      "word": "HAT",
+      "gloss": "A covering for the head."
+    },
+    {
+      "word": "COAT",
+      "gloss": "An outer garment for warmth."
+    },
+    {
+      "word": "GLOVE",
+      "gloss": "A covering for the hand."
+    },
+    {
+      "word": "RING",
+      "gloss": "A circular band worn on a finger."
+    },
+    {
+      "word": "PEARL",
+      "gloss": "A smooth gem formed in a shellfish."
+    },
+    {
+      "word": "GOLD",
+      "gloss": "A yellow precious metal."
+    },
+    {
+      "word": "SILVER",
+      "gloss": "A shiny white precious metal."
+    },
+    {
+      "word": "COPPER",
+      "gloss": "A reddish metal used in wires."
+    },
+    {
+      "word": "IRON",
+      "gloss": "A strong metal; also a pressing tool."
+    },
+    {
+      "word": "GLASS",
+      "gloss": "A hard transparent material."
+    },
+    {
+      "word": "WOOD",
+      "gloss": "Hard material from trees."
+    },
+    {
+      "word": "METAL",
+      "gloss": "A solid mineral material that conducts heat."
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery."
+    },
+    {
+      "word": "PAINT",
+      "gloss": "Colored liquid spread on a surface."
+    },
+    {
+      "word": "COLOR",
+      "gloss": "Hue as perceived by the eye."
+    },
+    {
+      "word": "SHAPE",
+      "gloss": "The form of an object."
+    },
+    {
+      "word": "LINE",
+      "gloss": "A long thin mark."
+    },
+    {
+      "word": "CIRCLE",
+      "gloss": "A round shape with all points equal from center."
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "A shape with four equal sides."
+    },
+    {
+      "word": "ANGLE",
+      "gloss": "The space between two meeting lines."
+    },
+    {
+      "word": "NUMBER",
+      "gloss": "A symbol used for counting."
+    },
+    {
+      "word": "LETTER",
+      "gloss": "A character of the alphabet."
+    },
+    {
+      "word": "WORD",
+      "gloss": "A unit of language with meaning."
+    },
+    {
+      "word": "NAME",
+      "gloss": "A word by which someone is known."
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area."
+    },
+    {
+      "word": "TIME",
+      "gloss": "The ongoing sequence of moments."
+    },
+    {
+      "word": "YEAR",
+      "gloss": "A period of twelve months."
+    },
+    {
+      "word": "MONTH",
+      "gloss": "About one twelfth of a year."
+    },
+    {
+      "word": "WEEK",
+      "gloss": "A period of seven days."
+    },
+    {
+      "word": "NIGHT",
+      "gloss": "The dark hours after sunset."
+    },
+    {
+      "word": "DAWN",
+      "gloss": "The first light of morning."
+    },
+    {
+      "word": "DUSK",
+      "gloss": "The dim light after sunset."
+    },
+    {
+      "word": "MORNING",
+      "gloss": "The early part of the day."
+    },
+    {
+      "word": "EVENING",
+      "gloss": "The later part of the day."
+    },
+    {
+      "word": "TODAY",
+      "gloss": "This present day."
+    },
+    {
+      "word": "HOPE",
+      "gloss": "A feeling of expectation and desire."
+    },
+    {
+      "word": "LOVE",
+      "gloss": "Deep affection."
+    },
+    {
+      "word": "KIND",
+      "gloss": "Showing care and goodwill."
+    },
+    {
+      "word": "BRAVE",
+      "gloss": "Ready to face danger or difficulty."
+    },
+    {
+      "word": "CALM",
+      "gloss": "Peaceful and free from agitation."
+    },
+    {
+      "word": "FOCUS",
+      "gloss": "Concentrated attention."
+    },
+    {
+      "word": "TRUST",
+      "gloss": "Firm belief in reliability."
+    },
+    {
+      "word": "TRUTH",
+      "gloss": "That which is true or real."
+    },
+    {
+      "word": "GRACE",
+      "gloss": "Elegant movement; also kindness."
+    },
+    {
+      "word": "MERCY",
+      "gloss": "Compassion shown to someone."
+    },
+    {
+      "word": "FAITH",
+      "gloss": "Strong belief or trust."
+    },
+    {
+      "word": "JOY",
+      "gloss": "A feeling of great pleasure."
+    },
+    {
+      "word": "WARMTH",
+      "gloss": "The quality of being warm."
+    },
+    {
+      "word": "GENTLE",
+      "gloss": "Mild and kind in manner."
+    },
+    {
+      "word": "SIMPLE",
+      "gloss": "Easy to understand; not complex."
+    },
+    {
+      "word": "CLEAR",
+      "gloss": "Easy to see through or understand."
+    },
+    {
+      "word": "FRESH",
+      "gloss": "New, clean, or recently made."
+    },
+    {
+      "word": "CLEAN",
+      "gloss": "Free from dirt."
+    },
+    {
+      "word": "SOFT",
+      "gloss": "Easy to press; not hard."
+    },
+    {
+      "word": "SOLID",
+      "gloss": "Firm and stable in shape."
+    },
+    {
+      "word": "STRONG",
+      "gloss": "Having power or force."
+    },
+    {
+      "word": "QUICK",
+      "gloss": "Moving with speed."
+    },
+    {
+      "word": "SLOW",
+      "gloss": "Moving with little speed."
+    },
+    {
+      "word": "OPEN",
+      "gloss": "Not closed; accessible."
+    },
+    {
+      "word": "CLOSE",
+      "gloss": "Near; or to shut."
+    },
+    {
+      "word": "BEGIN",
+      "gloss": "To start."
+    },
+    {
+      "word": "FINISH",
+      "gloss": "To complete."
+    },
+    {
+      "word": "BUILD",
+      "gloss": "To construct."
+    },
+    {
+      "word": "CREATE",
+      "gloss": "To bring something into existence."
+    },
+    {
+      "word": "LEARN",
+      "gloss": "To gain knowledge or skill."
+    },
+    {
+      "word": "TEACH",
+      "gloss": "To help someone learn."
+    },
+    {
+      "word": "SHARE",
+      "gloss": "To give a portion to others."
+    },
+    {
+      "word": "HELP",
+      "gloss": "To make it easier for someone."
+    },
+    {
+      "word": "GIVE",
+      "gloss": "To transfer something to another."
+    },
+    {
+      "word": "FIND",
+      "gloss": "To discover or locate."
+    },
+    {
+      "word": "SEEK",
+      "gloss": "To look for."
+    },
+    {
+      "word": "WALK",
+      "gloss": "To move on foot."
+    },
+    {
+      "word": "RUN",
+      "gloss": "To move quickly on foot."
+    },
+    {
+      "word": "JUMP",
+      "gloss": "To push off the ground into the air."
+    },
+    {
+      "word": "CLIMB",
+      "gloss": "To go up using hands and feet."
+    },
+    {
+      "word": "SWIM",
+      "gloss": "To move through water."
+    },
+    {
+      "word": "REST",
+      "gloss": "To stop work and relax."
+    },
+    {
+      "word": "SLEEP",
+      "gloss": "To rest with closed eyes."
+    },
+    {
+      "word": "WAKE",
+      "gloss": "To stop sleeping."
+    },
+    {
+      "word": "THINK",
+      "gloss": "To use the mind."
+    },
+    {
+      "word": "KNOW",
+      "gloss": "To have information or skill."
+    },
+    {
+      "word": "FEEL",
+      "gloss": "To experience an emotion or sensation."
+    },
+    {
+      "word": "HEAR",
+      "gloss": "To perceive sound."
+    },
+    {
+      "word": "SEE",
+      "gloss": "To perceive with the eyes."
+    },
+    {
+      "word": "TOUCH",
+      "gloss": "To come into contact with."
+    },
+    {
+      "word": "SMELL",
+      "gloss": "To sense with the nose."
+    },
+    {
+      "word": "TASTE",
+      "gloss": "To sense flavor."
+    },
+    {
+      "word": "ANIMAL",
+      "gloss": "A living creature that is not a plant."
+    },
+    {
+      "word": "ARROW",
+      "gloss": "A pointed shaft shot from a bow."
+    },
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter."
+    },
+    {
+      "word": "BAKER",
+      "gloss": "Someone who bakes bread and cakes."
+    },
+    {
+      "word": "BASIN",
+      "gloss": "A bowl-shaped container for water."
+    },
+    {
+      "word": "BLAZE",
+      "gloss": "A bright strong flame."
+    },
+    {
+      "word": "BLOOM",
+      "gloss": "A flower; also to produce flowers."
+    },
+    {
+      "word": "BOARD",
+      "gloss": "A flat piece of wood; also to get on a ship."
+    },
+    {
+      "word": "BOAST",
+      "gloss": "To speak with pride about oneself."
+    },
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree."
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind."
+    },
+    {
+      "word": "BRIGHT",
+      "gloss": "Giving off much light."
+    },
+    {
+      "word": "BROOK",
+      "gloss": "A small stream."
+    },
+    {
+      "word": "BUCKET",
+      "gloss": "An open container with a handle."
+    },
+    {
+      "word": "BUTTON",
+      "gloss": "A fastener on clothing."
+    },
+    {
+      "word": "CABIN",
+      "gloss": "A small simple house."
+    },
+    {
+      "word": "CAMERA",
+      "gloss": "A device for taking photographs."
+    },
+    {
+      "word": "CANDY",
+      "gloss": "A sweet confection."
+    },
+    {
+      "word": "CANVAS",
+      "gloss": "Strong cloth used for painting or sails."
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence."
+    },
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood."
+    },
+    {
+      "word": "CHAIN",
+      "gloss": "Linked metal rings in a line."
+    },
+    {
+      "word": "CHARM",
+      "gloss": "A pleasing quality; also a small ornament."
+    },
+    {
+      "word": "CHEST",
+      "gloss": "A strong box; also the front of the torso."
+    },
+    {
+      "word": "CHILL",
+      "gloss": "A feeling of cold."
+    },
+    {
+      "word": "CHORD",
+      "gloss": "A group of musical notes played together."
+    },
+    {
+      "word": "CIVIC",
+      "gloss": "Relating to a city or citizens."
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face."
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea."
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs."
+    },
+    {
+      "word": "CRANE",
+      "gloss": "A tall wading bird; also a lifting machine."
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream."
+    },
+    {
+      "word": "CROWN",
+      "gloss": "A royal headdress."
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid."
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof."
+    },
+    {
+      "word": "DRIFT",
+      "gloss": "To be carried by current or wind."
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey."
+    },
+    {
+      "word": "ELBOW",
+      "gloss": "The joint in the middle of the arm."
+    },
+    {
+      "word": "EMBER",
+      "gloss": "A glowing piece of coal or wood."
+    },
+    {
+      "word": "ENGINE",
+      "gloss": "A machine that converts energy into motion."
+    },
+    {
+      "word": "FABRIC",
+      "gloss": "Cloth produced by weaving or knitting."
+    },
+    {
+      "word": "FENCE",
+      "gloss": "A barrier enclosing an area."
+    },
+    {
+      "word": "FLAME",
+      "gloss": "The visible part of fire."
+    },
+    {
+      "word": "FLUTE",
+      "gloss": "A woodwind musical instrument."
+    },
+    {
+      "word": "FOGGY",
+      "gloss": "Full of or covered with fog."
+    },
+    {
+      "word": "FRAME",
+      "gloss": "A rigid structure that holds something."
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface."
+    },
+    {
+      "word": "GIANT",
+      "gloss": "Extremely large."
+    },
+    {
+      "word": "GLADE",
+      "gloss": "An open space in a forest."
+    },
+    {
+      "word": "GLOBE",
+      "gloss": "A spherical model of Earth."
+    },
+    {
+      "word": "GRASS",
+      "gloss": "Green plants covering fields."
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees."
+    },
+    {
+      "word": "GUARD",
+      "gloss": "To protect; also a person who protects."
+    },
+    {
+      "word": "GUEST",
+      "gloss": "A person invited to visit."
+    },
+    {
+      "word": "GUIDE",
+      "gloss": "Someone who shows the way."
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships."
+    },
+    {
+      "word": "HARMONY",
+      "gloss": "Agreement in sound or feeling."
+    },
+    {
+      "word": "HAVEN",
+      "gloss": "A place of safety."
+    },
+    {
+      "word": "HAZEL",
+      "gloss": "A light brown color; also a tree."
+    },
+    {
+      "word": "HERB",
+      "gloss": "A plant used for flavor or medicine."
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land."
+    },
+    {
+      "word": "HONOR",
+      "gloss": "High respect; also to show respect."
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet."
+    },
+    {
+      "word": "HUMBLE",
+      "gloss": "Modest; not proud."
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water."
+    },
+    {
+      "word": "IVORY",
+      "gloss": "A hard creamy-white material from tusks."
+    },
+    {
+      "word": "JADE",
+      "gloss": "A hard green gemstone."
+    },
+    {
+      "word": "JEWEL",
+      "gloss": "A precious stone."
+    },
+    {
+      "word": "KEEN",
+      "gloss": "Sharp or eager."
+    },
+    {
+      "word": "LADDER",
+      "gloss": "A frame of steps for climbing."
+    },
+    {
+      "word": "LANTERN",
+      "gloss": "A portable light in a case."
+    },
+    {
+      "word": "LARK",
+      "gloss": "A songbird; also a carefree adventure."
+    },
+    {
+      "word": "LAUREL",
+      "gloss": "An evergreen shrub; also honor."
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers."
+    },
+    {
+      "word": "LAWN",
+      "gloss": "An area of short mown grass."
+    },
+    {
+      "word": "LEDGE",
+      "gloss": "A narrow shelf projecting from a wall or cliff."
+    },
+    {
+      "word": "LEMONY",
+      "gloss": "Having a lemon flavor or scent."
+    },
+    {
+      "word": "LINEN",
+      "gloss": "Cloth made from flax."
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail."
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall."
+    },
+    {
+      "word": "LOCUST",
+      "gloss": "A swarming grasshopper."
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers."
+    },
+    {
+      "word": "LUMBER",
+      "gloss": "Timber sawn into boards."
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock; also a small ball."
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land."
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers."
+    },
+    {
+      "word": "MELLOW",
+      "gloss": "Soft and pleasant."
+    },
+    {
+      "word": "MELODY",
+      "gloss": "A sequence of musical notes."
+    },
+    {
+      "word": "MIRROR",
+      "gloss": "A surface that reflects images."
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog."
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps."
+    },
+    {
+      "word": "MOTH",
+      "gloss": "An insect related to butterflies."
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers."
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs."
+    },
+    {
+      "word": "NOBLE",
+      "gloss": "Having high moral qualities; also aristocratic."
+    },
+    {
+      "word": "NOON",
+      "gloss": "Twelve o'clock in the daytime."
+    },
+    {
+      "word": "OASIS",
+      "gloss": "A fertile spot in a desert."
+    },
+    {
+      "word": "OLIVEY",
+      "gloss": "Having qualities of olives."
+    },
+    {
+      "word": "ORBIT",
+      "gloss": "The path of one body around another."
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers."
+    },
+    {
+      "word": "OXEN",
+      "gloss": "Plural of ox; cattle used for work."
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty."
+    },
+    {
+      "word": "PALM",
+      "gloss": "A tropical tree; also the inner hand."
+    },
+    {
+      "word": "PARCH",
+      "gloss": "To make very dry."
+    },
+    {
+      "word": "PASTEL",
+      "gloss": "A soft pale color."
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house."
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone."
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla."
+    },
+    {
+      "word": "PIANO",
+      "gloss": "A keyboard musical instrument."
+    },
+    {
+      "word": "PILOT",
+      "gloss": "A person who flies an aircraft."
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles."
+    },
+    {
+      "word": "PLAIN",
+      "gloss": "A large flat area of land; also simple."
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water."
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building."
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland."
+    },
+    {
+      "word": "PRISM",
+      "gloss": "A transparent object that splits light."
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal."
+    },
+    {
+      "word": "QUILL",
+      "gloss": "A feather used as a pen."
+    },
+    {
+      "word": "RADIANT",
+      "gloss": "Shining brightly."
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird."
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water."
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land."
+    },
+    {
+      "word": "RINSE",
+      "gloss": "To wash lightly with water."
+    },
+    {
+      "word": "ROBIN",
+      "gloss": "A songbird with a red breast."
+    },
+    {
+      "word": "ROCKET",
+      "gloss": "A vehicle propelled by expelled gases."
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns; also a color."
+    },
+    {
+      "word": "RUSTIC",
+      "gloss": "Relating to the countryside; simple."
+    },
+    {
+      "word": "SAIL",
+      "gloss": "A cloth that catches wind to move a boat."
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches and deserts."
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A series of musical notes; also size ratio."
+    },
+    {
+      "word": "SCARF",
+      "gloss": "A length of fabric worn around the neck."
+    },
+    {
+      "word": "SCENE",
+      "gloss": "A view or part of a play."
+    },
+    {
+      "word": "SCOUT",
+      "gloss": "Someone sent to gather information."
+    },
+    {
+      "word": "SHADE",
+      "gloss": "Comparative darkness; also a tint."
+    },
+    {
+      "word": "SHAFT",
+      "gloss": "A long narrow part; also a vertical passage."
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water."
+    },
+    {
+      "word": "SILK",
+      "gloss": "A fine soft fiber from silkworms."
+    },
+    {
+      "word": "SLOPE",
+      "gloss": "A surface with one end higher than the other."
+    },
+    {
+      "word": "SPARK",
+      "gloss": "A small fiery particle."
+    },
+    {
+      "word": "SPHERE",
+      "gloss": "A round solid figure."
+    },
+    {
+      "word": "SPOUT",
+      "gloss": "A tube for pouring liquid."
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter; also a water source."
+    },
+    {
+      "word": "SQUIRREL",
+      "gloss": "A bushy-tailed rodent."
+    },
+    {
+      "word": "STABLE",
+      "gloss": "A building for horses; also steady."
+    },
+    {
+      "word": "STAGE",
+      "gloss": "A raised platform for performances."
+    },
+    {
+      "word": "STAIN",
+      "gloss": "A discoloration; also to mark."
+    },
+    {
+      "word": "STEADY",
+      "gloss": "Firmly fixed or constant."
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water."
+    },
+    {
+      "word": "STRING",
+      "gloss": "A thin cord."
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain."
+    },
+    {
+      "word": "SWAN",
+      "gloss": "A large graceful water bird."
+    },
+    {
+      "word": "SWEET",
+      "gloss": "Having a taste of sugar; pleasant."
+    },
+    {
+      "word": "SWIFT",
+      "gloss": "Moving very fast."
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship."
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant."
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea."
+    },
+    {
+      "word": "TIMBER",
+      "gloss": "Wood prepared for building."
+    },
+    {
+      "word": "TORCH",
+      "gloss": "A portable light flame."
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure."
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Valuable stored wealth."
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb."
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage."
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch."
+    },
+    {
+      "word": "VALOR",
+      "gloss": "Great courage."
+    },
+    {
+      "word": "VAPOR",
+      "gloss": "Moisture suspended in air."
+    },
+    {
+      "word": "VAULT",
+      "gloss": "An arched roof; also a secure room."
+    },
+    {
+      "word": "VISTA",
+      "gloss": "A pleasing distant view."
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air."
+    },
+    {
+      "word": "WALNUT",
+      "gloss": "A tree nut with a hard shell."
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water."
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal."
+    },
+    {
+      "word": "WHEATY",
+      "gloss": "Having qualities of wheat."
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender branches."
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying."
+    },
+    {
+      "word": "WISDOM",
+      "gloss": "Good judgment from knowledge."
+    },
+    {
+      "word": "WISH",
+      "gloss": "A desire for something."
+    },
+    {
+      "word": "WOLF",
+      "gloss": "A wild canine."
+    },
+    {
+      "word": "WONDER",
+      "gloss": "A feeling of amazement."
+    },
+    {
+      "word": "WOVEN",
+      "gloss": "Made by weaving."
+    },
+    {
+      "word": "YACHT",
+      "gloss": "A recreational boat."
+    },
+    {
+      "word": "YARD",
+      "gloss": "Ground around a house."
+    },
+    {
+      "word": "YEARN",
+      "gloss": "To long for something."
+    },
+    {
+      "word": "ZEPHYR",
+      "gloss": "A soft gentle breeze."
+    },
+    {
+      "word": "AMBER",
+      "gloss": "A fossil resin; also a warm color."
+    },
+    {
+      "word": "ANCHOR",
+      "gloss": "A heavy device that holds a ship in place."
+    },
+    {
+      "word": "APRON",
+      "gloss": "A garment worn to protect clothes."
+    },
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance."
+    },
+    {
+      "word": "ARMOR",
+      "gloss": "Protective covering in battle."
+    },
+    {
+      "word": "ASPEN",
+      "gloss": "A tree with trembling leaves."
+    },
+    {
+      "word": "ATLAS",
+      "gloss": "A book of maps."
+    },
+    {
+      "word": "BADGE",
+      "gloss": "A mark of membership or rank."
+    },
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building."
+    },
+    {
+      "word": "BAMBOO",
+      "gloss": "A tall woody grass."
+    },
+    {
+      "word": "BARREL",
+      "gloss": "A cylindrical container."
+    },
+    {
+      "word": "BASKET",
+      "gloss": "A container made of woven material."
+    },
+    {
+      "word": "BEACON",
+      "gloss": "A signaling light."
+    },
+    {
+      "word": "BISON",
+      "gloss": "A large shaggy wild ox."
+    },
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth."
+    },
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers."
+    },
+    {
+      "word": "BOLT",
+      "gloss": "A metal fastener; also a flash of lightning."
+    },
+    {
+      "word": "BONNET",
+      "gloss": "A hat tied under the chin."
+    },
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock."
+    },
+    {
+      "word": "BRAID",
+      "gloss": "Interwoven strands of hair or cord."
+    },
+    {
+      "word": "BRICK",
+      "gloss": "A rectangular block used in building."
+    },
+    {
+      "word": "BRIDLE",
+      "gloss": "Headgear for controlling a horse."
+    },
+    {
+      "word": "BROOM",
+      "gloss": "A brush on a long handle for sweeping."
+    },
+    {
+      "word": "BUBBLE",
+      "gloss": "A thin film of liquid filled with air."
+    },
+    {
+      "word": "CABLE",
+      "gloss": "A thick strong rope or wire."
+    },
+    {
+      "word": "CACTUS",
+      "gloss": "A spiny desert plant."
+    },
+    {
+      "word": "CANOE",
+      "gloss": "A light narrow boat."
+    },
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides."
+    },
+    {
+      "word": "CARPET",
+      "gloss": "A floor covering of thick fabric."
+    },
+    {
+      "word": "CARVE",
+      "gloss": "To cut into a hard material."
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber."
+    },
+    {
+      "word": "CELERY",
+      "gloss": "A crunchy green vegetable."
+    },
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level."
+    },
+    {
+      "word": "CEREAL",
+      "gloss": "A grain used as food."
+    },
+    {
+      "word": "CHALK",
+      "gloss": "A soft white limestone used for writing."
+    },
+    {
+      "word": "CHIMNEY",
+      "gloss": "A vertical flue for smoke."
+    },
+    {
+      "word": "CIDER",
+      "gloss": "A drink made from apple juice."
+    },
+    {
+      "word": "CINDER",
+      "gloss": "A piece of partly burned coal or wood."
+    },
+    {
+      "word": "CITRUS",
+      "gloss": "Fruits such as oranges and lemons."
+    },
+    {
+      "word": "CLASP",
+      "gloss": "A fastening device."
+    },
+    {
+      "word": "CLOVER",
+      "gloss": "A plant with three-lobed leaves."
+    },
+    {
+      "word": "COBALT",
+      "gloss": "A hard silver-white metal; also a blue."
+    },
+    {
+      "word": "COCOON",
+      "gloss": "A silky case spun by insect larvae."
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar."
+    },
+    {
+      "word": "COMET",
+      "gloss": "A celestial body with a tail of gas."
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north."
+    },
+    {
+      "word": "COTTON",
+      "gloss": "A soft fiber from a plant."
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay."
+    },
+    {
+      "word": "CRADLE",
+      "gloss": "A baby’s bed on rockers."
+    },
+    {
+      "word": "CRAFT",
+      "gloss": "Skill in making things; also a boat."
+    },
+    {
+      "word": "CRATER",
+      "gloss": "A bowl-shaped hole."
+    },
+    {
+      "word": "CREST",
+      "gloss": "The top of a hill or wave."
+    },
+    {
+      "word": "CRIMSON",
+      "gloss": "A deep red color."
+    },
+    {
+      "word": "CROCUS",
+      "gloss": "A small spring flower."
+    },
+    {
+      "word": "CUSHION",
+      "gloss": "A soft pad for sitting or leaning."
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals."
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth."
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region."
+    },
+    {
+      "word": "DIAL",
+      "gloss": "A face with a pointer for measurement."
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats."
+    },
+    {
+      "word": "DOVE",
+      "gloss": "A bird symbolizing peace."
+    },
+    {
+      "word": "DRAWER",
+      "gloss": "A sliding storage box in furniture."
+    },
+    {
+      "word": "DRUM",
+      "gloss": "A percussion instrument."
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand."
+    },
+    {
+      "word": "EASEL",
+      "gloss": "A stand for an artist’s canvas."
+    },
+    {
+      "word": "ECHO",
+      "gloss": "A reflected sound."
+    },
+    {
+      "word": "EDGE",
+      "gloss": "The outside limit of an object."
+    },
+    {
+      "word": "EMERALD",
+      "gloss": "A bright green gemstone."
+    },
+    {
+      "word": "FALCON",
+      "gloss": "A bird of prey used in hunting."
+    },
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water."
+    },
+    {
+      "word": "FJORD",
+      "gloss": "A long narrow sea inlet between cliffs."
+    },
+    {
+      "word": "FLAX",
+      "gloss": "A plant grown for fiber and seeds."
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep."
+    },
+    {
+      "word": "FLOUR",
+      "gloss": "Powder from ground grain."
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air."
+    },
+    {
+      "word": "GALAXY",
+      "gloss": "A system of stars."
+    },
+    {
+      "word": "GARLIC",
+      "gloss": "A pungent bulb used in cooking."
+    },
+    {
+      "word": "GAZEBO",
+      "gloss": "An open-sided garden shelter."
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts."
+    },
+    {
+      "word": "GINGER",
+      "gloss": "A spicy root used in cooking."
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice."
+    },
+    {
+      "word": "GLEAM",
+      "gloss": "A brief flash of light."
+    },
+    {
+      "word": "GLOOM",
+      "gloss": "Partial darkness."
+    },
+    {
+      "word": "GLOW",
+      "gloss": "A steady light without flame."
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides."
+    },
+    {
+      "word": "GRAVEL",
+      "gloss": "Small stones used for paths."
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops."
+    },
+    {
+      "word": "HAWK",
+      "gloss": "A bird of prey."
+    },
+    {
+      "word": "HAZELNUT",
+      "gloss": "The nut of the hazel tree."
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers."
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes."
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live."
+    },
+    {
+      "word": "HOLLOW",
+      "gloss": "An empty space inside."
+    },
+    {
+      "word": "HURRICANE",
+      "gloss": "A violent tropical storm."
+    },
+    {
+      "word": "ICICLE",
+      "gloss": "A hanging spike of ice."
+    },
+    {
+      "word": "INKWELL",
+      "gloss": "A small container for ink."
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower; also the colored part of the eye."
+    },
+    {
+      "word": "JASMINE",
+      "gloss": "A fragrant flowering plant."
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest."
+    },
+    {
+      "word": "KETTLE",
+      "gloss": "A container for boiling water."
+    },
+    {
+      "word": "KITE",
+      "gloss": "A light frame flown on a string in the wind."
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea."
+    },
+    {
+      "word": "LARCH",
+      "gloss": "A conifer that drops its needles."
+    },
+    {
+      "word": "LARKSPUR",
+      "gloss": "A tall flowering plant."
+    },
+    {
+      "word": "LATTICE",
+      "gloss": "A crisscross framework."
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers."
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers."
+    },
+    {
+      "word": "LINDEN",
+      "gloss": "A deciduous tree with heart-shaped leaves."
+    },
+    {
+      "word": "LLAMA",
+      "gloss": "A South American animal related to the camel."
+    },
+    {
+      "word": "LOCK",
+      "gloss": "A fastening device; also a canal section."
+    },
+    {
+      "word": "LOOM",
+      "gloss": "A machine for weaving cloth."
+    },
+    {
+      "word": "LUNAR",
+      "gloss": "Relating to the moon."
+    },
+    {
+      "word": "MAGNOLIA",
+      "gloss": "A tree with large fragrant flowers."
+    },
+    {
+      "word": "MANTLE",
+      "gloss": "A cloak; also a covering layer."
+    },
+    {
+      "word": "MARIGOLD",
+      "gloss": "An orange or yellow garden flower."
+    },
+    {
+      "word": "MAST",
+      "gloss": "A tall spar on a ship holding sails."
+    },
+    {
+      "word": "MEDAL",
+      "gloss": "A metal disk given as an award."
+    },
+    {
+      "word": "MINERAL",
+      "gloss": "A solid natural inorganic substance."
+    },
+    {
+      "word": "MINT",
+      "gloss": "An aromatic herb."
+    },
+    {
+      "word": "MOOR",
+      "gloss": "Open uncultivated upland."
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall."
+    },
+    {
+      "word": "MUSTARD",
+      "gloss": "A spicy yellow condiment."
+    },
+    {
+      "word": "MYRTLE",
+      "gloss": "An evergreen shrub."
+    },
+    {
+      "word": "NAPKIN",
+      "gloss": "A piece of cloth or paper for wiping hands."
+    },
+    {
+      "word": "NETTLE",
+      "gloss": "A plant with stinging hairs."
+    },
+    {
+      "word": "NICKEL",
+      "gloss": "A silvery metal; also a coin."
+    },
+    {
+      "word": "NUTMEG",
+      "gloss": "A spice from a tropical seed."
+    },
+    {
+      "word": "ONION",
+      "gloss": "A layered bulb vegetable."
+    },
+    {
+      "word": "OPAL",
+      "gloss": "A milky iridescent gemstone."
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees."
+    },
+    {
+      "word": "OSPREY",
+      "gloss": "A fish-eating bird of prey."
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal."
+    },
+    {
+      "word": "OXBOW",
+      "gloss": "A U-shaped bend in a river."
+    },
+    {
+      "word": "OYSTER",
+      "gloss": "A shellfish sometimes containing pearls."
+    },
+    {
+      "word": "PADDLE",
+      "gloss": "A short oar; also to move through water."
+    },
+    {
+      "word": "PAGODA",
+      "gloss": "A tiered tower in East Asian architecture."
+    },
+    {
+      "word": "PANDA",
+      "gloss": "A black-and-white bearlike animal."
+    },
+    {
+      "word": "PARROT",
+      "gloss": "A colorful tropical bird."
+    },
+    {
+      "word": "PARSLEY",
+      "gloss": "A green herb used as garnish."
+    },
+    {
+      "word": "PASTRY",
+      "gloss": "Baked dough used for pies and tarts."
+    },
+    {
+      "word": "PATCH",
+      "gloss": "A small area different from its surroundings."
+    },
+    {
+      "word": "PEAR",
+      "gloss": "A sweet fruit with a rounded base."
+    },
+    {
+      "word": "PELICAN",
+      "gloss": "A large water bird with a throat pouch."
+    },
+    {
+      "word": "PENCIL",
+      "gloss": "A tool for writing or drawing with graphite."
+    },
+    {
+      "word": "PENGUIN",
+      "gloss": "A flightless bird of the southern oceans."
+    },
+    {
+      "word": "PEPPER",
+      "gloss": "A spicy seasoning; also a vegetable."
+    },
+    {
+      "word": "PERCH",
+      "gloss": "A place to sit or rest; also a fish."
+    },
+    {
+      "word": "PEWTER",
+      "gloss": "A gray alloy of tin."
+    },
+    {
+      "word": "PICKLE",
+      "gloss": "Food preserved in vinegar or brine."
+    },
+    {
+      "word": "PILLOW",
+      "gloss": "A cushion for the head while sleeping."
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree."
+    },
+    {
+      "word": "PLANET",
+      "gloss": "A celestial body orbiting a star."
+    },
+    {
+      "word": "PLAID",
+      "gloss": "A pattern of crossed stripes."
+    },
+    {
+      "word": "PLANK",
+      "gloss": "A long flat piece of timber."
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land."
+    },
+    {
+      "word": "PLOVER",
+      "gloss": "A short-billed wading bird."
+    },
+    {
+      "word": "PLUMAGE",
+      "gloss": "A bird’s feathers."
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers for fertilization."
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals."
+    },
+    {
+      "word": "PORPOISE",
+      "gloss": "A small toothed whale."
+    },
+    {
+      "word": "POTTERY",
+      "gloss": "Objects made of fired clay."
+    },
+    {
+      "word": "PUDDLE",
+      "gloss": "A small pool of liquid on the ground."
+    },
+    {
+      "word": "PUFFIN",
+      "gloss": "A seabird with a colorful beak."
+    },
+    {
+      "word": "PUMPKIN",
+      "gloss": "A large orange gourd."
+    },
+    {
+      "word": "QUART",
+      "gloss": "A unit of liquid measure."
+    },
+    {
+      "word": "QUILT",
+      "gloss": "A padded bed covering."
+    },
+    {
+      "word": "RADISH",
+      "gloss": "A crunchy root vegetable."
+    },
+    {
+      "word": "RAFT",
+      "gloss": "A flat floating structure."
+    },
+    {
+      "word": "RAIL",
+      "gloss": "A bar forming a barrier or track."
+    },
+    {
+      "word": "RAISIN",
+      "gloss": "A dried grape."
+    },
+    {
+      "word": "RAMP",
+      "gloss": "A sloping surface connecting levels."
+    },
+    {
+      "word": "RAZOR",
+      "gloss": "A tool with a sharp blade for shaving."
+    },
+    {
+      "word": "REED",
+      "gloss": "A tall slender water plant."
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past."
+    },
+    {
+      "word": "RIBBON",
+      "gloss": "A narrow strip of fabric."
+    },
+    {
+      "word": "RIVULET",
+      "gloss": "A very small stream."
+    },
+    {
+      "word": "ROOST",
+      "gloss": "A place where birds rest."
+    },
+    {
+      "word": "ROWAN",
+      "gloss": "A tree with red berries."
+    },
+    {
+      "word": "RUBBLE",
+      "gloss": "Broken fragments of rock or building."
+    },
+    {
+      "word": "RUGGED",
+      "gloss": "Having a rough uneven surface."
+    },
+    {
+      "word": "SADDLE",
+      "gloss": "A seat for a rider on a horse."
+    },
+    {
+      "word": "SAFFRON",
+      "gloss": "A yellow spice from crocus stigmas."
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river."
+    },
+    {
+      "word": "SATIN",
+      "gloss": "A smooth glossy fabric."
+    },
+    {
+      "word": "SAUCER",
+      "gloss": "A small shallow dish for a cup."
+    },
+    {
+      "word": "SAVORY",
+      "gloss": "Salty or spicy rather than sweet."
+    },
+    {
+      "word": "SAXIFRAGE",
+      "gloss": "A rock-garden plant."
+    },
+    {
+      "word": "SCISSORS",
+      "gloss": "A cutting tool with two blades."
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of paper or parchment."
+    },
+    {
+      "word": "SEAGULL",
+      "gloss": "A common coastal bird."
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year."
+    },
+    {
+      "word": "SEDGE",
+      "gloss": "A grasslike plant of wet ground."
+    },
+    {
+      "word": "SERENE",
+      "gloss": "Calm and peaceful."
+    },
+    {
+      "word": "SHADOW",
+      "gloss": "A dark shape cast by blocking light."
+    },
+    {
+      "word": "SHALLOT",
+      "gloss": "A small onion-like vegetable."
+    },
+    {
+      "word": "SHELTER",
+      "gloss": "A place giving protection."
+    },
+    {
+      "word": "SHIMMER",
+      "gloss": "A soft wavering light."
+    },
+    {
+      "word": "SHINGLE",
+      "gloss": "A thin tile for covering roofs."
+    },
+    {
+      "word": "SHRUB",
+      "gloss": "A woody plant smaller than a tree."
+    },
+    {
+      "word": "SHUTTER",
+      "gloss": "A movable cover for a window."
+    },
+    {
+      "word": "SIEVE",
+      "gloss": "A mesh tool for straining."
+    },
+    {
+      "word": "SIGNAL",
+      "gloss": "A gesture or device conveying information."
+    },
+    {
+      "word": "SKIFF",
+      "gloss": "A small light boat."
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky."
+    },
+    {
+      "word": "SLEET",
+      "gloss": "Icy rain."
+    },
+    {
+      "word": "SMOOTH",
+      "gloss": "Having an even surface."
+    },
+    {
+      "word": "SNACK",
+      "gloss": "A small amount of food between meals."
+    },
+    {
+      "word": "SNOWY",
+      "gloss": "Covered with or full of snow."
+    },
+    {
+      "word": "SOAP",
+      "gloss": "A substance used for washing."
+    },
+    {
+      "word": "SOLAR",
+      "gloss": "Relating to the sun."
+    },
+    {
+      "word": "SORREL",
+      "gloss": "A plant with acidic leaves."
+    },
+    {
+      "word": "SPAR",
+      "gloss": "A stout pole for sails."
+    },
+    {
+      "word": "SPECK",
+      "gloss": "A tiny spot or particle."
+    },
+    {
+      "word": "SPIDER",
+      "gloss": "An eight-legged arachnid."
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof."
+    },
+    {
+      "word": "SPONGE",
+      "gloss": "A porous absorbent material."
+    },
+    {
+      "word": "SPOOL",
+      "gloss": "A cylinder on which thread is wound."
+    },
+    {
+      "word": "SPRAY",
+      "gloss": "Liquid flying in small drops."
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant."
+    },
+    {
+      "word": "SQUASH",
+      "gloss": "A vegetable; also to crush."
+    },
+    {
+      "word": "STACK",
+      "gloss": "A neat pile."
+    },
+    {
+      "word": "STALL",
+      "gloss": "A compartment in a stable; also to stop."
+    },
+    {
+      "word": "STAMEN",
+      "gloss": "The pollen-producing part of a flower."
+    },
+    {
+      "word": "STARCH",
+      "gloss": "A carbohydrate in plants used in food."
+    },
+    {
+      "word": "STEAM",
+      "gloss": "Water vapor from boiling."
+    },
+    {
+      "word": "STEEL",
+      "gloss": "A hard strong alloy of iron."
+    },
+    {
+      "word": "STEM",
+      "gloss": "The main stalk of a plant."
+    },
+    {
+      "word": "STERN",
+      "gloss": "The rear of a ship; also strict."
+    },
+    {
+      "word": "STEW",
+      "gloss": "A dish of meat and vegetables cooked slowly."
+    },
+    {
+      "word": "STILT",
+      "gloss": "A pole for walking above ground."
+    },
+    {
+      "word": "STITCH",
+      "gloss": "A loop of thread in sewing."
+    },
+    {
+      "word": "STOCK",
+      "gloss": "A supply of goods; also broth."
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather."
+    },
+    {
+      "word": "STOVE",
+      "gloss": "An apparatus for cooking or heating."
+    },
+    {
+      "word": "STRAW",
+      "gloss": "Dried stalks of grain."
+    },
+    {
+      "word": "STREAK",
+      "gloss": "A long thin mark."
+    },
+    {
+      "word": "STRIDE",
+      "gloss": "A long step."
+    },
+    {
+      "word": "STRIPE",
+      "gloss": "A long narrow band of color."
+    },
+    {
+      "word": "STROKE",
+      "gloss": "A single movement; also a medical event."
+    },
+    {
+      "word": "STROLL",
+      "gloss": "A leisurely walk."
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A room for art or recording."
+    },
+    {
+      "word": "STURDY",
+      "gloss": "Strongly built."
+    },
+    {
+      "word": "SUBTLE",
+      "gloss": "Delicate or precise."
+    },
+    {
+      "word": "SUEDE",
+      "gloss": "Leather with a soft napped surface."
+    },
+    {
+      "word": "SUIT",
+      "gloss": "A set of clothes; also to be appropriate."
+    },
+    {
+      "word": "SULTRY",
+      "gloss": "Hot and humid."
+    },
+    {
+      "word": "SUMAC",
+      "gloss": "A shrub with clustered fruit."
+    },
+    {
+      "word": "SUNLIT",
+      "gloss": "Lit by the sun."
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun."
+    },
+    {
+      "word": "SUPPER",
+      "gloss": "An evening meal."
+    },
+    {
+      "word": "SURF",
+      "gloss": "Waves breaking on the shore."
+    },
+    {
+      "word": "SURGE",
+      "gloss": "A sudden powerful forward movement."
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground."
+    },
+    {
+      "word": "SWEATER",
+      "gloss": "A knitted garment for the upper body."
+    },
+    {
+      "word": "SWEEP",
+      "gloss": "To clean with a broom; also a wide motion."
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon."
+    },
+    {
+      "word": "SYCAMORE",
+      "gloss": "A large tree with mottled bark."
+    },
+    {
+      "word": "SYRUP",
+      "gloss": "A thick sweet liquid."
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab; also a pill."
+    },
+    {
+      "word": "TACK",
+      "gloss": "A small nail; also a sailing course."
+    },
+    {
+      "word": "TAILOR",
+      "gloss": "Someone who makes clothes."
+    },
+    {
+      "word": "TALLOW",
+      "gloss": "Hard animal fat used in candles."
+    },
+    {
+      "word": "TANG",
+      "gloss": "A sharp flavor or smell."
+    },
+    {
+      "word": "TANKARD",
+      "gloss": "A large drinking mug."
+    },
+    {
+      "word": "TAPESTRY",
+      "gloss": "A woven wall hanging."
+    },
+    {
+      "word": "TARN",
+      "gloss": "A small mountain lake."
+    },
+    {
+      "word": "TART",
+      "gloss": "A pastry with a filling; also sharp-tasting."
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "An inn or public house."
+    },
+    {
+      "word": "TEAK",
+      "gloss": "A durable tropical hardwood."
+    },
+    {
+      "word": "TEAPOT",
+      "gloss": "A pot for brewing and pouring tea."
+    },
+    {
+      "word": "TEMPER",
+      "gloss": "A state of mind; also to moderate."
+    },
+    {
+      "word": "TENDER",
+      "gloss": "Gentle; also easily chewed."
+    },
+    {
+      "word": "TENT",
+      "gloss": "A portable fabric shelter."
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area."
+    },
+    {
+      "word": "THATCH",
+      "gloss": "Roof covering of straw or reeds."
+    },
+    {
+      "word": "THAW",
+      "gloss": "To melt after freezing."
+    },
+    {
+      "word": "THICKET",
+      "gloss": "A dense group of bushes."
+    },
+    {
+      "word": "THIMBLE",
+      "gloss": "A small cap worn while sewing."
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant."
+    },
+    {
+      "word": "THYME",
+      "gloss": "An aromatic culinary herb."
+    },
+    {
+      "word": "TILE",
+      "gloss": "A thin flat slab for covering surfaces."
+    },
+    {
+      "word": "TILLER",
+      "gloss": "A lever for steering a boat."
+    },
+    {
+      "word": "TINKLE",
+      "gloss": "A light ringing sound."
+    },
+    {
+      "word": "TISSUE",
+      "gloss": "A thin paper; also living cells."
+    },
+    {
+      "word": "TOAD",
+      "gloss": "A tailless amphibian."
+    },
+    {
+      "word": "TOAST",
+      "gloss": "Bread browned by heat."
+    },
+    {
+      "word": "TOFFEE",
+      "gloss": "A hard chewy candy."
+    },
+    {
+      "word": "TOKEN",
+      "gloss": "A symbol or small item representing something."
+    },
+    {
+      "word": "TOMATO",
+      "gloss": "A red fruit used as a vegetable."
+    },
+    {
+      "word": "TONGS",
+      "gloss": "A tool for gripping hot items."
+    },
+    {
+      "word": "TONIC",
+      "gloss": "Something that invigorates."
+    },
+    {
+      "word": "TOPAZ",
+      "gloss": "A yellow or brown gemstone."
+    },
+    {
+      "word": "TOPSOIL",
+      "gloss": "The upper layer of soil."
+    },
+    {
+      "word": "TORNADO",
+      "gloss": "A violent rotating windstorm."
+    },
+    {
+      "word": "TORTOISE",
+      "gloss": "A land-dwelling turtle."
+    },
+    {
+      "word": "TOTE",
+      "gloss": "A large open bag."
+    },
+    {
+      "word": "TOWEL",
+      "gloss": "An absorbent cloth for drying."
+    },
+    {
+      "word": "TRACE",
+      "gloss": "A mark left behind; also a tiny amount."
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A path or mark left by movement."
+    },
+    {
+      "word": "TRADE",
+      "gloss": "The exchange of goods."
+    },
+    {
+      "word": "TRAIN",
+      "gloss": "A series of connected railroad cars."
+    },
+    {
+      "word": "TRAIT",
+      "gloss": "A distinguishing quality."
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city."
+    },
+    {
+      "word": "TRAP",
+      "gloss": "A device for catching animals."
+    },
+    {
+      "word": "TRAY",
+      "gloss": "A flat board for carrying things."
+    },
+    {
+      "word": "TRELLIS",
+      "gloss": "A framework for climbing plants."
+    },
+    {
+      "word": "TRENCH",
+      "gloss": "A long narrow ditch."
+    },
+    {
+      "word": "TRIANGLE",
+      "gloss": "A three-sided shape."
+    },
+    {
+      "word": "TRIBE",
+      "gloss": "A social group with shared ancestry."
+    },
+    {
+      "word": "TRICKLE",
+      "gloss": "To flow in a thin stream."
+    },
+    {
+      "word": "TRIM",
+      "gloss": "To make neat by cutting."
+    },
+    {
+      "word": "TRIPOD",
+      "gloss": "A three-legged stand."
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A wheeled cart; also a streetcar."
+    },
+    {
+      "word": "TROUGH",
+      "gloss": "A long narrow container for animals to drink from."
+    },
+    {
+      "word": "TROWEL",
+      "gloss": "A small hand tool for gardening."
+    },
+    {
+      "word": "TRUFFLE",
+      "gloss": "An edible underground fungus."
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree; also a large case."
+    },
+    {
+      "word": "TUBER",
+      "gloss": "A thickened underground plant stem."
+    },
+    {
+      "word": "TULLE",
+      "gloss": "A fine net fabric."
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain."
+    },
+    {
+      "word": "TURBAN",
+      "gloss": "A head covering of wound cloth."
+    },
+    {
+      "word": "TURF",
+      "gloss": "A layer of grass and soil."
+    },
+    {
+      "word": "TURKEY",
+      "gloss": "A large bird raised for food."
+    },
+    {
+      "word": "TURNIP",
+      "gloss": "A round root vegetable."
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building."
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell."
+    },
+    {
+      "word": "TUSK",
+      "gloss": "A long pointed tooth."
+    },
+    {
+      "word": "TWEED",
+      "gloss": "A rough woolen cloth."
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset."
+    },
+    {
+      "word": "TWINE",
+      "gloss": "Strong string of twisted strands."
+    },
+    {
+      "word": "TWIRL",
+      "gloss": "To spin quickly."
+    },
+    {
+      "word": "TWIST",
+      "gloss": "To turn into a spiral shape."
+    },
+    {
+      "word": "TYPE",
+      "gloss": "A category; also printed characters."
+    },
+    {
+      "word": "UDDER",
+      "gloss": "The milk organ of a cow."
+    },
+    {
+      "word": "UMBER",
+      "gloss": "A natural brown earth pigment."
+    },
+    {
+      "word": "UMBRELLA",
+      "gloss": "A folding canopy for rain."
+    },
+    {
+      "word": "UNCLE",
+      "gloss": "The brother of a parent."
+    },
+    {
+      "word": "UNDER",
+      "gloss": "Below or beneath."
+    },
+    {
+      "word": "UNION",
+      "gloss": "The act of joining together."
+    },
+    {
+      "word": "UNITY",
+      "gloss": "The state of being one."
+    },
+    {
+      "word": "URBAN",
+      "gloss": "Relating to a city."
+    },
+    {
+      "word": "VALE",
+      "gloss": "A valley."
+    },
+    {
+      "word": "VANILLA",
+      "gloss": "A flavoring from orchid pods."
+    },
+    {
+      "word": "VASE",
+      "gloss": "An open container for flowers."
+    },
+    {
+      "word": "VEIL",
+      "gloss": "A piece of fine material covering the face."
+    },
+    {
+      "word": "VEIN",
+      "gloss": "A blood vessel; also a mineral streak."
+    },
+    {
+      "word": "VELVET",
+      "gloss": "A soft fabric with a short dense pile."
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant."
+    },
+    {
+      "word": "VIOLET",
+      "gloss": "A small purple flower; also a color."
+    },
+    {
+      "word": "VIPER",
+      "gloss": "A venomous snake."
+    },
+    {
+      "word": "VISOR",
+      "gloss": "A brim or shield for the eyes."
+    },
+    {
+      "word": "VOLE",
+      "gloss": "A small rodent like a mouse."
+    },
+    {
+      "word": "WAFER",
+      "gloss": "A thin crisp biscuit."
+    },
+    {
+      "word": "WAGON",
+      "gloss": "A four-wheeled vehicle for loads."
+    },
+    {
+      "word": "WALRUS",
+      "gloss": "A large marine mammal with tusks."
+    },
+    {
+      "word": "WALTZ",
+      "gloss": "A ballroom dance in triple time."
+    },
+    {
+      "word": "WAND",
+      "gloss": "A slender stick."
+    },
+    {
+      "word": "WARDEN",
+      "gloss": "A person in charge of a place."
+    },
+    {
+      "word": "WARBLER",
+      "gloss": "A small songbird."
+    },
+    {
+      "word": "WASH",
+      "gloss": "To clean with water."
+    },
+    {
+      "word": "WASP",
+      "gloss": "A stinging insect."
+    },
+    {
+      "word": "WASTE",
+      "gloss": "Unwanted material; also to use carelessly."
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height."
+    },
+    {
+      "word": "WEALTH",
+      "gloss": "An abundance of valuable possessions."
+    },
+    {
+      "word": "WEAPON",
+      "gloss": "A tool used to harm or defend."
+    },
+    {
+      "word": "WEASEL",
+      "gloss": "A small carnivorous mammal."
+    },
+    {
+      "word": "WEATHER",
+      "gloss": "The state of the atmosphere."
+    },
+    {
+      "word": "WEAVE",
+      "gloss": "To form fabric by interlacing threads."
+    },
+    {
+      "word": "WEDDING",
+      "gloss": "A marriage ceremony."
+    },
+    {
+      "word": "WEDGE",
+      "gloss": "A piece thick at one end and thin at the other."
+    },
+    {
+      "word": "WEED",
+      "gloss": "An unwanted wild plant."
+    },
+    {
+      "word": "WELL",
+      "gloss": "A deep hole for water; also in good health."
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships."
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle."
+    },
+    {
+      "word": "WHEY",
+      "gloss": "The watery part of milk after curdling."
+    },
+    {
+      "word": "WHISK",
+      "gloss": "A kitchen tool for beating; also to move quickly."
+    },
+    {
+      "word": "WHISPER",
+      "gloss": "To speak very softly."
+    },
+    {
+      "word": "WHISTLE",
+      "gloss": "A clear high sound made by forcing air."
+    },
+    {
+      "word": "WHITE",
+      "gloss": "The color of fresh snow."
+    },
+    {
+      "word": "WICK",
+      "gloss": "A cord in a candle that burns."
+    },
+    {
+      "word": "WIDE",
+      "gloss": "Of great width."
+    },
+    {
+      "word": "WIDTH",
+      "gloss": "The measurement from side to side."
+    },
+    {
+      "word": "WILD",
+      "gloss": "Living or growing in a natural state."
+    },
+    {
+      "word": "WIMBREL",
+      "gloss": "A long-billed wading bird."
+    },
+    {
+      "word": "WINCH",
+      "gloss": "A hauling device with a cable."
+    },
+    {
+      "word": "WINDY",
+      "gloss": "Characterized by strong wind."
+    },
+    {
+      "word": "WINE",
+      "gloss": "An alcoholic drink from fermented grapes."
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year."
+    },
+    {
+      "word": "WIPE",
+      "gloss": "To clean or dry by rubbing."
+    },
+    {
+      "word": "WIRE",
+      "gloss": "Metal drawn into a thin flexible thread."
+    },
+    {
+      "word": "WISPY",
+      "gloss": "Thin and delicate."
+    },
+    {
+      "word": "WISTERIA",
+      "gloss": "A climbing plant with hanging flowers."
+    },
+    {
+      "word": "WITCH",
+      "gloss": "A person said to practice magic (folklore)."
+    },
+    {
+      "word": "WITHY",
+      "gloss": "A tough flexible twig."
+    },
+    {
+      "word": "WOAD",
+      "gloss": "A plant once used for blue dye."
+    },
+    {
+      "word": "WOLD",
+      "gloss": "A piece of high open land."
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees."
+    },
+    {
+      "word": "WOOL",
+      "gloss": "Soft fiber from sheep."
+    },
+    {
+      "word": "WORK",
+      "gloss": "Activity involving effort."
+    },
+    {
+      "word": "WORLD",
+      "gloss": "The earth and all its people."
+    },
+    {
+      "word": "WORM",
+      "gloss": "A long soft-bodied invertebrate."
+    },
+    {
+      "word": "WORRY",
+      "gloss": "To feel anxious."
+    },
+    {
+      "word": "WORTH",
+      "gloss": "Value or merit."
+    },
+    {
+      "word": "WOUND",
+      "gloss": "An injury; also past of wind."
+    },
+    {
+      "word": "WRAP",
+      "gloss": "To cover by folding around."
+    },
+    {
+      "word": "WREATH",
+      "gloss": "A ring of flowers or leaves."
+    },
+    {
+      "word": "WRECK",
+      "gloss": "A destroyed ship or vehicle."
+    },
+    {
+      "word": "WREN",
+      "gloss": "A small brown songbird."
+    },
+    {
+      "word": "WRIST",
+      "gloss": "The joint between hand and arm."
+    },
+    {
+      "word": "WRITER",
+      "gloss": "A person who writes."
+    },
+    {
+      "word": "XERIC",
+      "gloss": "Adapted to a dry environment."
+    },
+    {
+      "word": "XYLEM",
+      "gloss": "Plant tissue that carries water."
+    },
+    {
+      "word": "YARDAGE",
+      "gloss": "Length measured in yards."
+    },
+    {
+      "word": "YARN",
+      "gloss": "Spun thread for knitting."
+    },
+    {
+      "word": "YARROW",
+      "gloss": "A flowering plant with flat clusters."
+    },
+    {
+      "word": "YEARLING",
+      "gloss": "An animal between one and two years old."
+    },
+    {
+      "word": "YEAST",
+      "gloss": "A fungus used in baking and brewing."
+    },
+    {
+      "word": "YELLOW",
+      "gloss": "The color of ripe lemons."
+    },
+    {
+      "word": "YEW",
+      "gloss": "An evergreen tree with red berries."
+    },
+    {
+      "word": "YOGA",
+      "gloss": "A practice of postures and breathing."
+    },
+    {
+      "word": "YOGURT",
+      "gloss": "A food made from fermented milk."
+    },
+    {
+      "word": "YOKE",
+      "gloss": "A wooden bar joining draft animals."
+    },
+    {
+      "word": "YOLK",
+      "gloss": "The yellow center of an egg."
+    },
+    {
+      "word": "YONDER",
+      "gloss": "At some distance in that direction."
+    },
+    {
+      "word": "ZEBRA",
+      "gloss": "An African horse with black and white stripes."
+    },
+    {
+      "word": "ZEST",
+      "gloss": "Great enthusiasm; also citrus peel."
+    },
+    {
+      "word": "ZINC",
+      "gloss": "A bluish-white metal."
+    },
+    {
+      "word": "ZONE",
+      "gloss": "An area with a particular character."
+    }
+  ]
+}

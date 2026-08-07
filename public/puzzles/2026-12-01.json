@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-01",
+  "playDate": "2026-12-01",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "I",
+      "G",
+      "L",
+      "A",
+      "S",
+      "S",
+      "H",
+      "I",
+      "Z"
+    ],
+    [
+      "X",
+      "D",
+      "W",
+      "T",
+      "Y",
+      "L",
+      "E",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "B",
+      "V",
+      "B",
+      "D",
+      "E",
+      "Q",
+      "Y",
+      "S",
+      "I",
+      "C"
+    ],
+    [
+      "D",
+      "O",
+      "P",
+      "I",
+      "R",
+      "T",
+      "D",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "X",
+      "K",
+      "C",
+      "S",
+      "X",
+      "S",
+      "N",
+      "I",
+      "S",
+      "N"
+    ],
+    [
+      "Y",
+      "S",
+      "I",
+      "A",
+      "A",
+      "G",
+      "I",
+      "G",
+      "O",
+      "T"
+    ],
+    [
+      "F",
+      "I",
+      "J",
+      "V",
+      "R",
+      "W",
+      "W",
+      "Y",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "Y",
+      "N",
+      "W",
+      "K",
+      "P",
+      "N",
+      "R",
+      "V",
+      "W"
+    ],
+    [
+      "I",
+      "A",
+      "A",
+      "S",
+      "B",
+      "A",
+      "E",
+      "F",
+      "H",
+      "E"
+    ],
+    [
+      "C",
+      "Q",
+      "T",
+      "V",
+      "C",
+      "Y",
+      "N",
+      "T",
+      "O",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANVAS",
+      "gloss": "Strong cloth used for painting or sails.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CARPET",
+      "gloss": "A floor covering of thick fabric.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EASEL",
+      "gloss": "A stand for an artist’s canvas.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GLASS",
+      "gloss": "A hard transparent material.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "REED",
+      "gloss": "A tall slender water plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TRIPOD",
+      "gloss": "A three-legged stand.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WINDY",
+      "gloss": "Characterized by strong wind.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.252Z"
+}

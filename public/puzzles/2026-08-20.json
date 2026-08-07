@@ -1,0 +1,339 @@
+{
+  "id": "daily-2026-08-20",
+  "playDate": "2026-08-20",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "L",
+      "K",
+      "U",
+      "S",
+      "S",
+      "H",
+      "X",
+      "T",
+      "Y"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "F",
+      "H",
+      "Q",
+      "E",
+      "F",
+      "R",
+      "F"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "G",
+      "A",
+      "K",
+      "A",
+      "Y",
+      "V",
+      "A"
+    ],
+    [
+      "U",
+      "A",
+      "N",
+      "W",
+      "R",
+      "R",
+      "W",
+      "Y",
+      "D",
+      "D"
+    ],
+    [
+      "L",
+      "D",
+      "B",
+      "G",
+      "E",
+      "M",
+      "L",
+      "W",
+      "B",
+      "N"
+    ],
+    [
+      "W",
+      "I",
+      "B",
+      "Z",
+      "L",
+      "P",
+      "Y",
+      "Z",
+      "H",
+      "T"
+    ],
+    [
+      "H",
+      "C",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "T",
+      "I",
+      "U",
+      "R",
+      "F",
+      "R",
+      "N",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "G",
+      "Z",
+      "T",
+      "B",
+      "R",
+      "E",
+      "L",
+      "J",
+      "G"
+    ],
+    [
+      "U",
+      "O",
+      "G",
+      "M",
+      "K",
+      "T",
+      "T",
+      "N",
+      "F",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANGLE",
+      "gloss": "The space between two meeting lines.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COPPER",
+      "gloss": "A reddish metal used in wires.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FRUIT",
+      "gloss": "Sweet plant product with seeds.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEWTER",
+      "gloss": "A gray alloy of tin.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RAFT",
+      "gloss": "A flat floating structure.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SALT",
+      "gloss": "A mineral used to season food.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHARE",
+      "gloss": "To give a portion to others.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TREE",
+      "gloss": "A tall plant with a trunk and branches.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.160Z"
+}

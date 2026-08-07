@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-08-11",
+  "playDate": "2026-08-11",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "W",
+      "F",
+      "H",
+      "C",
+      "L",
+      "S",
+      "V",
+      "L",
+      "C"
+    ],
+    [
+      "Z",
+      "N",
+      "S",
+      "S",
+      "I",
+      "M",
+      "P",
+      "L",
+      "E",
+      "Q"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "V",
+      "R",
+      "O",
+      "H",
+      "S",
+      "P",
+      "T"
+    ],
+    [
+      "W",
+      "I",
+      "O",
+      "U",
+      "Q",
+      "Y",
+      "D",
+      "I",
+      "T",
+      "F"
+    ],
+    [
+      "U",
+      "K",
+      "B",
+      "M",
+      "R",
+      "F",
+      "C",
+      "S",
+      "S",
+      "T"
+    ],
+    [
+      "Y",
+      "V",
+      "C",
+      "R",
+      "Q",
+      "K",
+      "C",
+      "J",
+      "U",
+      "U"
+    ],
+    [
+      "O",
+      "I",
+      "E",
+      "A",
+      "L",
+      "F",
+      "N",
+      "R",
+      "P",
+      "M"
+    ],
+    [
+      "L",
+      "F",
+      "X",
+      "E",
+      "T",
+      "L",
+      "B",
+      "F",
+      "P",
+      "L"
+    ],
+    [
+      "K",
+      "C",
+      "T",
+      "C",
+      "J",
+      "A",
+      "R",
+      "U",
+      "E",
+      "X"
+    ],
+    [
+      "H",
+      "M",
+      "A",
+      "K",
+      "N",
+      "E",
+      "P",
+      "N",
+      "R",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PICKLE",
+      "gloss": "Food preserved in vinegar or brine.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SIMPLE",
+      "gloss": "Easy to understand; not complex.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUPPER",
+      "gloss": "An evening meal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TACK",
+      "gloss": "A small nail; also a sailing course.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TURBAN",
+      "gloss": "A head covering of wound cloth.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WISH",
+      "gloss": "A desire for something.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "YOLK",
+      "gloss": "The yellow center of an egg.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.154Z"
+}

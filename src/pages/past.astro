@@ -1,0 +1,146 @@
+---
+/**
+ * Past daily puzzles — product archive.
+ * Release rule: only list dates ≤ today in site TZ (filtered client-side
+ * so static deploys keep working without a rebuild every midnight).
+ */
+import fs from "node:fs";
+import path from "node:path";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Main from "@/components/Main.astro";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const tz = config.site.timezone;
+const homeHref = getRelativeLocaleUrl(locale, "");
+const dailyBase = getRelativeLocaleUrl(locale, "daily").replace(/\/?$/, "/");
+
+const dir = path.join(process.cwd(), "public/puzzles");
+/** All generated dates (may include future stock). */
+const allDates = fs.existsSync(dir)
+  ? fs
+      .readdirSync(dir)
+      .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+      .map(f => f.replace(/\.json$/, ""))
+      .sort()
+  : [];
+---
+
+<Layout
+  title={`Past puzzles | ${config.site.title}`}
+  description="Browse previous Daily Word Hunt puzzles by date."
+>
+  <Header />
+  <Breadcrumb />
+  <Main pageTitle="Past puzzles">
+    <p class="text-muted-foreground mb-6 max-w-xl text-sm leading-relaxed">
+      Today’s game always lives on the
+      <a
+        class="text-accent font-medium underline-offset-2 hover:underline"
+        href={homeHref}>home page</a
+      >. Use this list only if you want an older day. Future dates stay hidden
+      until their calendar day (site timezone).
+    </p>
+
+    <div
+      id="past-root"
+      data-dates={JSON.stringify(allDates)}
+      data-tz={tz}
+      data-daily-base={dailyBase}
+      data-home={homeHref}
+    >
+      <p class="text-muted-foreground text-sm" data-past-status>
+        Loading released puzzles…
+      </p>
+      <div data-past-list class="space-y-8" hidden></div>
+    </div>
+  </Main>
+  <Footer />
+</Layout>
+
+<script>
+  function formatDateInTz(date: Date, timeZone: string) {
+    return new Intl.DateTimeFormat("en-CA", {
+      timeZone,
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    }).format(date);
+  }
+
+  function renderPast() {
+    const root = document.getElementById("past-root");
+    if (!root) return;
+
+    const status = root.querySelector<HTMLElement>("[data-past-status]");
+    const list = root.querySelector<HTMLElement>("[data-past-list]");
+    if (!list) return;
+
+    let dates: string[] = [];
+    try {
+      dates = JSON.parse(root.dataset.dates || "[]") as string[];
+    } catch {
+      dates = [];
+    }
+
+    const tz = root.dataset.tz || "America/New_York";
+    const dailyBase = root.dataset.dailyBase || "/daily/";
+    const today = formatDateInTz(new Date(), tz);
+    const released = dates.filter(d => d <= today).sort().reverse();
+
+    if (!released.length) {
+      if (status) status.textContent = "No past puzzles yet.";
+      list.hidden = true;
+      return;
+    }
+
+    if (status) status.hidden = true;
+    list.hidden = false;
+    list.innerHTML = "";
+
+    const byMonth = new Map<string, string[]>();
+    for (const d of released) {
+      const key = d.slice(0, 7);
+      const arr = byMonth.get(key) ?? [];
+      arr.push(d);
+      byMonth.set(key, arr);
+    }
+
+    for (const [month, days] of byMonth) {
+      const section = document.createElement("section");
+      const h2 = document.createElement("h2");
+      h2.className =
+        "text-muted-foreground mb-3 text-sm font-semibold tracking-wide uppercase";
+      h2.textContent = month;
+      section.appendChild(h2);
+
+      const ul = document.createElement("ul");
+      ul.className = "flex flex-wrap gap-2";
+      for (const d of days) {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `${dailyBase}${d}`;
+        a.className =
+          "border-border inline-block rounded-full border px-3 py-1.5 text-sm font-medium transition-colors hover:border-accent hover:text-accent";
+        if (d === today) {
+          a.className =
+            "bg-accent text-accent-foreground inline-block rounded-full border border-transparent px-3 py-1.5 text-sm font-medium";
+          a.textContent = `Today · ${d}`;
+        } else {
+          a.textContent = d;
+        }
+        li.appendChild(a);
+        ul.appendChild(li);
+      }
+      section.appendChild(ul);
+      list.appendChild(section);
+    }
+  }
+
+  renderPast();
+  document.addEventListener("astro:page-load", renderPast);
+</script>

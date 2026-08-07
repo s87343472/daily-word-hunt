@@ -1,0 +1,323 @@
+{
+  "id": "daily-2026-09-11",
+  "playDate": "2026-09-11",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "N",
+      "L",
+      "Q",
+      "D",
+      "Q",
+      "U",
+      "X",
+      "W",
+      "Z"
+    ],
+    [
+      "S",
+      "N",
+      "J",
+      "V",
+      "O",
+      "S",
+      "K",
+      "T",
+      "M",
+      "V"
+    ],
+    [
+      "Q",
+      "X",
+      "G",
+      "I",
+      "W",
+      "C",
+      "A",
+      "E",
+      "U",
+      "Q"
+    ],
+    [
+      "O",
+      "Q",
+      "W",
+      "I",
+      "O",
+      "J",
+      "D",
+      "I",
+      "O",
+      "P"
+    ],
+    [
+      "Z",
+      "W",
+      "K",
+      "D",
+      "N",
+      "L",
+      "B",
+      "G",
+      "L",
+      "V"
+    ],
+    [
+      "T",
+      "U",
+      "I",
+      "T",
+      "O",
+      "E",
+      "Z",
+      "D",
+      "L",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "L",
+      "O",
+      "A",
+      "J",
+      "Z",
+      "S",
+      "J",
+      "P"
+    ],
+    [
+      "E",
+      "Y",
+      "P",
+      "I",
+      "H",
+      "I",
+      "L",
+      "L",
+      "S",
+      "T"
+    ],
+    [
+      "N",
+      "S",
+      "L",
+      "W",
+      "L",
+      "N",
+      "R",
+      "V",
+      "R",
+      "F"
+    ],
+    [
+      "Q",
+      "L",
+      "F",
+      "E",
+      "I",
+      "Y",
+      "K",
+      "S",
+      "U",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DUSK",
+      "gloss": "The dim light after sunset.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ENGINE",
+      "gloss": "A machine that converts energy into motion.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAIL",
+      "gloss": "A cloth that catches wind to move a boat.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPOOL",
+      "gloss": "A cylinder on which thread is wound.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.180Z"
+}

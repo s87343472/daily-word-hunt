@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-10-28",
+  "playDate": "2026-10-28",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "H",
+      "J",
+      "L",
+      "I",
+      "L",
+      "A",
+      "K",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "X",
+      "O",
+      "V",
+      "S",
+      "G",
+      "R",
+      "R",
+      "O",
+      "Q"
+    ],
+    [
+      "S",
+      "D",
+      "F",
+      "S",
+      "N",
+      "E",
+      "N",
+      "O",
+      "K",
+      "Z"
+    ],
+    [
+      "Y",
+      "H",
+      "A",
+      "H",
+      "H",
+      "E",
+      "W",
+      "S",
+      "C",
+      "B"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "T",
+      "C",
+      "N",
+      "S",
+      "J",
+      "A",
+      "N"
+    ],
+    [
+      "G",
+      "E",
+      "A",
+      "R",
+      "F",
+      "I",
+      "B",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "W",
+      "E",
+      "E",
+      "J",
+      "E",
+      "L",
+      "B",
+      "U",
+      "V",
+      "T"
+    ],
+    [
+      "H",
+      "F",
+      "E",
+      "R",
+      "S",
+      "Y",
+      "Q",
+      "J",
+      "A",
+      "B"
+    ],
+    [
+      "G",
+      "Q",
+      "H",
+      "Q",
+      "G",
+      "K",
+      "A",
+      "F",
+      "S",
+      "N"
+    ],
+    [
+      "Z",
+      "G",
+      "U",
+      "T",
+      "I",
+      "S",
+      "N",
+      "J",
+      "C",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANVAS",
+      "gloss": "Strong cloth used for painting or sails.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GRASS",
+      "gloss": "Green plants covering fields.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SHARE",
+      "gloss": "To give a portion to others.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WOOD",
+      "gloss": "Hard material from trees.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.223Z"
+}

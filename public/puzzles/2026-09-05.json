@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-09-05",
+  "playDate": "2026-09-05",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "N",
+      "D",
+      "E",
+      "C",
+      "U",
+      "Q",
+      "C",
+      "J",
+      "I"
+    ],
+    [
+      "X",
+      "H",
+      "T",
+      "A",
+      "R",
+      "N",
+      "A",
+      "N",
+      "Q",
+      "P"
+    ],
+    [
+      "I",
+      "Z",
+      "F",
+      "E",
+      "M",
+      "M",
+      "E",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "Y",
+      "P",
+      "M",
+      "E",
+      "X",
+      "A",
+      "E",
+      "J",
+      "B"
+    ],
+    [
+      "G",
+      "A",
+      "T",
+      "R",
+      "P",
+      "E",
+      "W",
+      "E",
+      "R",
+      "H"
+    ],
+    [
+      "P",
+      "G",
+      "A",
+      "K",
+      "T",
+      "Z",
+      "H",
+      "T",
+      "F",
+      "G"
+    ],
+    [
+      "L",
+      "X",
+      "A",
+      "S",
+      "L",
+      "L",
+      "E",
+      "M",
+      "S",
+      "P"
+    ],
+    [
+      "W",
+      "I",
+      "S",
+      "D",
+      "O",
+      "M",
+      "A",
+      "S",
+      "D",
+      "T"
+    ],
+    [
+      "I",
+      "C",
+      "X",
+      "C",
+      "V",
+      "O",
+      "T",
+      "J",
+      "J",
+      "Q"
+    ],
+    [
+      "M",
+      "L",
+      "O",
+      "O",
+      "W",
+      "E",
+      "Y",
+      "H",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "gloss": "A device for taking photographs.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PAPER",
+      "gloss": "Thin material used for writing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SMELL",
+      "gloss": "To sense with the nose.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STEAM",
+      "gloss": "Water vapor from boiling.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WHEATY",
+      "gloss": "Having qualities of wheat.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WISDOM",
+      "gloss": "Good judgment from knowledge.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WOOL",
+      "gloss": "Soft fiber from sheep.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.175Z"
+}

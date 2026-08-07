@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-09-01",
+  "playDate": "2026-09-01",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "L",
+      "Q",
+      "T",
+      "W",
+      "O",
+      "D",
+      "A",
+      "H",
+      "S"
+    ],
+    [
+      "P",
+      "F",
+      "K",
+      "R",
+      "U",
+      "Q",
+      "H",
+      "E",
+      "F",
+      "R"
+    ],
+    [
+      "Y",
+      "V",
+      "D",
+      "W",
+      "M",
+      "N",
+      "O",
+      "X",
+      "C",
+      "R"
+    ],
+    [
+      "X",
+      "N",
+      "X",
+      "I",
+      "J",
+      "S",
+      "D",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "X",
+      "P",
+      "D",
+      "H",
+      "Y",
+      "N",
+      "P",
+      "R",
+      "L",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "O",
+      "R",
+      "S",
+      "O",
+      "U",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "U",
+      "L",
+      "Y",
+      "B",
+      "K",
+      "R",
+      "R",
+      "W"
+    ],
+    [
+      "O",
+      "P",
+      "N",
+      "F",
+      "L",
+      "L",
+      "O",
+      "A",
+      "Z",
+      "G"
+    ],
+    [
+      "W",
+      "N",
+      "G",
+      "Q",
+      "W",
+      "E",
+      "Y",
+      "D",
+      "M",
+      "C"
+    ],
+    [
+      "S",
+      "M",
+      "U",
+      "L",
+      "P",
+      "J",
+      "N",
+      "Z",
+      "D",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "NOBLE",
+      "gloss": "Having high moral qualities; also aristocratic.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLUM",
+      "gloss": "A juicy purple or red stone fruit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers for fertilization.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHADOW",
+      "gloss": "A dark shape cast by blocking light.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SYRUP",
+      "gloss": "A thick sweet liquid.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "YARN",
+      "gloss": "Spun thread for knitting.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.171Z"
+}

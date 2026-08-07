@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-09-17",
+  "playDate": "2026-09-17",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "A",
+      "R",
+      "U",
+      "M",
+      "P",
+      "D",
+      "L",
+      "C",
+      "S"
+    ],
+    [
+      "L",
+      "Y",
+      "X",
+      "H",
+      "R",
+      "A",
+      "Y",
+      "W",
+      "Q",
+      "W"
+    ],
+    [
+      "U",
+      "H",
+      "J",
+      "P",
+      "F",
+      "E",
+      "F",
+      "G",
+      "F",
+      "P"
+    ],
+    [
+      "M",
+      "C",
+      "I",
+      "J",
+      "J",
+      "V",
+      "P",
+      "W",
+      "T",
+      "C"
+    ],
+    [
+      "B",
+      "N",
+      "V",
+      "Z",
+      "D",
+      "B",
+      "I",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "J",
+      "A",
+      "R",
+      "W",
+      "L",
+      "U",
+      "W"
+    ],
+    [
+      "R",
+      "W",
+      "X",
+      "G",
+      "E",
+      "F",
+      "B",
+      "J",
+      "B",
+      "S"
+    ],
+    [
+      "T",
+      "C",
+      "N",
+      "M",
+      "M",
+      "A",
+      "Z",
+      "D",
+      "E",
+      "C"
+    ],
+    [
+      "W",
+      "C",
+      "N",
+      "P",
+      "T",
+      "A",
+      "T",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "Y",
+      "B",
+      "Z",
+      "S",
+      "I",
+      "M",
+      "F",
+      "E",
+      "B",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LUMBER",
+      "gloss": "Timber sawn into boards.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STABLE",
+      "gloss": "A building for horses; also steady.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUPPER",
+      "gloss": "An evening meal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WINCH",
+      "gloss": "A hauling device with a cable.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WIRE",
+      "gloss": "Metal drawn into a thin flexible thread.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.185Z"
+}

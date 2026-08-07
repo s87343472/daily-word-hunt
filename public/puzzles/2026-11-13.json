@@ -1,0 +1,331 @@
+{
+  "id": "daily-2026-11-13",
+  "playDate": "2026-11-13",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "U",
+      "B",
+      "E",
+      "K",
+      "Z",
+      "S",
+      "Q",
+      "H",
+      "J"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "D",
+      "Q",
+      "O",
+      "K",
+      "O",
+      "A",
+      "F"
+    ],
+    [
+      "E",
+      "F",
+      "U",
+      "J",
+      "Z",
+      "J",
+      "Y",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "A",
+      "R",
+      "S",
+      "Z",
+      "X",
+      "X",
+      "N",
+      "V"
+    ],
+    [
+      "H",
+      "M",
+      "T",
+      "N",
+      "F",
+      "B",
+      "A",
+      "E",
+      "U",
+      "D"
+    ],
+    [
+      "O",
+      "B",
+      "J",
+      "W",
+      "Q",
+      "G",
+      "L",
+      "B",
+      "X",
+      "W"
+    ],
+    [
+      "F",
+      "E",
+      "E",
+      "D",
+      "Q",
+      "S",
+      "A",
+      "P",
+      "M",
+      "T"
+    ],
+    [
+      "I",
+      "R",
+      "W",
+      "F",
+      "L",
+      "K",
+      "G",
+      "G",
+      "R",
+      "J"
+    ],
+    [
+      "D",
+      "C",
+      "L",
+      "E",
+      "A",
+      "R",
+      "N",
+      "X",
+      "Y",
+      "H"
+    ],
+    [
+      "R",
+      "T",
+      "O",
+      "C",
+      "L",
+      "A",
+      "M",
+      "I",
+      "N",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANIMAL",
+      "gloss": "A living creature that is not a plant.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CLEAR",
+      "gloss": "Easy to see through or understand.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ECHO",
+      "gloss": "A reflected sound.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EMBER",
+      "gloss": "A glowing piece of coal or wood.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "gloss": "A system of stars.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HAT",
+      "gloss": "A covering for the head.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "KIND",
+      "gloss": "Showing care and goodwill.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TURF",
+      "gloss": "A layer of grass and soil.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.237Z"
+}

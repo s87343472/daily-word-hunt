@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-08-07",
+  "playDate": "2026-08-07",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "Z",
+      "B",
+      "G",
+      "L",
+      "S",
+      "V",
+      "P",
+      "D",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "Z",
+      "P",
+      "L",
+      "Y",
+      "G",
+      "X",
+      "W",
+      "I"
+    ],
+    [
+      "O",
+      "Q",
+      "L",
+      "L",
+      "T",
+      "E",
+      "Z",
+      "B",
+      "M",
+      "C"
+    ],
+    [
+      "K",
+      "T",
+      "K",
+      "A",
+      "X",
+      "J",
+      "U",
+      "A",
+      "L",
+      "F"
+    ],
+    [
+      "S",
+      "E",
+      "F",
+      "I",
+      "Z",
+      "X",
+      "M",
+      "E",
+      "H",
+      "X"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "N",
+      "M",
+      "Y",
+      "R",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "I",
+      "R",
+      "F",
+      "R",
+      "P",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "L",
+      "A",
+      "G",
+      "O",
+      "M",
+      "S",
+      "I",
+      "R",
+      "P"
+    ],
+    [
+      "P",
+      "P",
+      "A",
+      "S",
+      "H",
+      "N",
+      "P",
+      "R",
+      "D",
+      "I"
+    ],
+    [
+      "G",
+      "W",
+      "A",
+      "S",
+      "V",
+      "T",
+      "U",
+      "P",
+      "K",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "IRON",
+      "gloss": "A strong metal; also a pressing tool.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MYRTLE",
+      "gloss": "An evergreen shrub.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NIGHT",
+      "gloss": "The dark hours after sunset.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLAIN",
+      "gloss": "A large flat area of land; also simple.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PLANET",
+      "gloss": "A celestial body orbiting a star.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PRISM",
+      "gloss": "A transparent object that splits light.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SORREL",
+      "gloss": "A plant with acidic leaves.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WHISK",
+      "gloss": "A kitchen tool for beating; also to move quickly.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.146Z"
+}

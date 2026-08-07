@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-10-16",
+  "playDate": "2026-10-16",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "R",
+      "B",
+      "A",
+      "N",
+      "G",
+      "U",
+      "H",
+      "I",
+      "X"
+    ],
+    [
+      "X",
+      "V",
+      "O",
+      "P",
+      "A",
+      "R",
+      "R",
+      "O",
+      "T",
+      "Q"
+    ],
+    [
+      "T",
+      "S",
+      "F",
+      "L",
+      "Y",
+      "X",
+      "F",
+      "R",
+      "S",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "K",
+      "O",
+      "Z",
+      "L",
+      "I",
+      "A",
+      "T"
+    ],
+    [
+      "W",
+      "O",
+      "I",
+      "L",
+      "M",
+      "C",
+      "T",
+      "Z",
+      "D",
+      "I"
+    ],
+    [
+      "F",
+      "U",
+      "U",
+      "M",
+      "A",
+      "D",
+      "A",
+      "O",
+      "R",
+      "Z"
+    ],
+    [
+      "J",
+      "Y",
+      "A",
+      "G",
+      "Y",
+      "R",
+      "U",
+      "N",
+      "N",
+      "Y"
+    ],
+    [
+      "B",
+      "E",
+      "D",
+      "R",
+      "E",
+      "R",
+      "T",
+      "M",
+      "M",
+      "J"
+    ],
+    [
+      "I",
+      "O",
+      "W",
+      "A",
+      "T",
+      "L",
+      "A",
+      "S",
+      "G",
+      "W"
+    ],
+    [
+      "Z",
+      "G",
+      "T",
+      "F",
+      "E",
+      "E",
+      "L",
+      "K",
+      "D",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATLAS",
+      "gloss": "A book of maps.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COLOR",
+      "gloss": "Hue as perceived by the eye.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FEEL",
+      "gloss": "To experience an emotion or sensation.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PARROT",
+      "gloss": "A colorful tropical bird.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "gloss": "Relating to the sun.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TRIM",
+      "gloss": "To make neat by cutting.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "URBAN",
+      "gloss": "Relating to a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.212Z"
+}

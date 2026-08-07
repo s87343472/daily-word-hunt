@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-12-04",
+  "playDate": "2026-12-04",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "I",
+      "P",
+      "D",
+      "M",
+      "T",
+      "Y",
+      "M",
+      "L",
+      "Q"
+    ],
+    [
+      "X",
+      "B",
+      "R",
+      "O",
+      "O",
+      "K",
+      "L",
+      "M",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "B",
+      "N",
+      "H",
+      "X",
+      "L",
+      "O",
+      "W",
+      "O",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      "C",
+      "Z",
+      "E",
+      "O",
+      "Q",
+      "S",
+      "C",
+      "I"
+    ],
+    [
+      "Q",
+      "D",
+      "E",
+      "H",
+      "N",
+      "Q",
+      "O",
+      "F",
+      "U",
+      "T"
+    ],
+    [
+      "U",
+      "U",
+      "S",
+      "H",
+      "Y",
+      "R",
+      "J",
+      "K",
+      "S",
+      "C"
+    ],
+    [
+      "J",
+      "L",
+      "I",
+      "L",
+      "R",
+      "S",
+      "E",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "Y",
+      "I",
+      "M",
+      "E",
+      "L",
+      "I",
+      "L",
+      "F",
+      "F",
+      "L"
+    ],
+    [
+      "F",
+      "Z",
+      "L",
+      "Y",
+      "T",
+      "K",
+      "D",
+      "W",
+      "O",
+      "R"
+    ],
+    [
+      "M",
+      "D",
+      "B",
+      "M",
+      "H",
+      "Z",
+      "K",
+      "N",
+      "O",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HEAR",
+      "gloss": "To perceive sound.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LOCUST",
+      "gloss": "A swarming grasshopper.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MOON",
+      "gloss": "Earth's natural satellite.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "QUIET",
+      "gloss": "Making little or no noise.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SORREL",
+      "gloss": "A plant with acidic leaves.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STITCH",
+      "gloss": "A loop of thread in sewing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.254Z"
+}

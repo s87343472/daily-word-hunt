@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-19",
+  "playDate": "2026-12-19",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "H",
+      "K",
+      "E",
+      "K",
+      "L",
+      "E",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "J",
+      "C",
+      "K",
+      "C",
+      "S",
+      "B",
+      "L",
+      "I",
+      "V",
+      "Z"
+    ],
+    [
+      "X",
+      "R",
+      "I",
+      "U",
+      "O",
+      "D",
+      "N",
+      "P",
+      "F",
+      "M"
+    ],
+    [
+      "G",
+      "N",
+      "G",
+      "J",
+      "D",
+      "D",
+      "B",
+      "A",
+      "T",
+      "B"
+    ],
+    [
+      "A",
+      "A",
+      "K",
+      "A",
+      "Y",
+      "Z",
+      "B",
+      "Y",
+      "N",
+      "U"
+    ],
+    [
+      "R",
+      "T",
+      "P",
+      "R",
+      "R",
+      "R",
+      "P",
+      "Q",
+      "M",
+      "Q"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "J",
+      "I",
+      "E",
+      "R",
+      "S",
+      "I",
+      "I"
+    ],
+    [
+      "E",
+      "I",
+      "W",
+      "C",
+      "V",
+      "Z",
+      "N",
+      "Y",
+      "G",
+      "F"
+    ],
+    [
+      "B",
+      "Q",
+      "A",
+      "P",
+      "A",
+      "Z",
+      "A",
+      "A",
+      "Z",
+      "O"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "R",
+      "F",
+      "I",
+      "X",
+      "A",
+      "S",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FABRIC",
+      "gloss": "Cloth produced by weaving or knitting.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PADDLE",
+      "gloss": "A short oar; also to move through water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RAIN",
+      "gloss": "Water falling in drops from clouds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SAXIFRAGE",
+      "gloss": "A rock-garden plant.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUGAR",
+      "gloss": "A sweet substance from plants.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TYPE",
+      "gloss": "A category; also printed characters.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.268Z"
+}

@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-12-11",
+  "playDate": "2026-12-11",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "K",
+      "L",
+      "H",
+      "E",
+      "U",
+      "W",
+      "M",
+      "B",
+      "X"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "F",
+      "I",
+      "V",
+      "G",
+      "O",
+      "F",
+      "K"
+    ],
+    [
+      "L",
+      "L",
+      "C",
+      "K",
+      "K",
+      "V",
+      "T",
+      "N",
+      "Y",
+      "F"
+    ],
+    [
+      "F",
+      "W",
+      "D",
+      "O",
+      "N",
+      "N",
+      "E",
+      "N",
+      "R",
+      "S"
+    ],
+    [
+      "K",
+      "I",
+      "Z",
+      "I",
+      "A",
+      "O",
+      "D",
+      "M",
+      "C",
+      "Q"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "L",
+      "R",
+      "H",
+      "W",
+      "W",
+      "M",
+      "U"
+    ],
+    [
+      "S",
+      "I",
+      "P",
+      "R",
+      "N",
+      "B",
+      "O",
+      "Y",
+      "U",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "X",
+      "S",
+      "X",
+      "A",
+      "K",
+      "U",
+      "R",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "P",
+      "O",
+      "I",
+      "S",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "X",
+      "H",
+      "A",
+      "N",
+      "U",
+      "H",
+      "Q",
+      "F",
+      "L",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRIDLE",
+      "gloss": "Headgear for controlling a horse.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COCOA",
+      "gloss": "Powder from cacao used for chocolate.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "KNOW",
+      "gloss": "To have information or skill.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLANT",
+      "gloss": "A living organism that grows in soil.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PORPOISE",
+      "gloss": "A small toothed whale.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "A shape with four equal sides.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.261Z"
+}

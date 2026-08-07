@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-12-15",
+  "playDate": "2026-12-15",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "C",
+      "K",
+      "S",
+      "T",
+      "A",
+      "M",
+      "E",
+      "N",
+      "V"
+    ],
+    [
+      "K",
+      "B",
+      "L",
+      "N",
+      "E",
+      "M",
+      "I",
+      "Q",
+      "Z",
+      "V"
+    ],
+    [
+      "I",
+      "H",
+      "K",
+      "O",
+      "T",
+      "F",
+      "L",
+      "O",
+      "W",
+      "C"
+    ],
+    [
+      "Z",
+      "S",
+      "C",
+      "L",
+      "V",
+      "U",
+      "Z",
+      "V",
+      "X",
+      "W"
+    ],
+    [
+      "Y",
+      "K",
+      "J",
+      "N",
+      "M",
+      "E",
+      "S",
+      "V",
+      "Q",
+      "E"
+    ],
+    [
+      "U",
+      "J",
+      "T",
+      "O",
+      "I",
+      "U",
+      "R",
+      "K",
+      "R",
+      "Z"
+    ],
+    [
+      "R",
+      "F",
+      "N",
+      "Z",
+      "B",
+      "W",
+      "W",
+      "E",
+      "W",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "A",
+      "W",
+      "O",
+      "H",
+      "L",
+      "Y",
+      "Z"
+    ],
+    [
+      "H",
+      "L",
+      "P",
+      "P",
+      "E",
+      "P",
+      "S",
+      "O",
+      "X",
+      "D"
+    ],
+    [
+      "F",
+      "E",
+      "Q",
+      "N",
+      "S",
+      "N",
+      "M",
+      "D",
+      "D",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOVER",
+      "gloss": "A plant with three-lobed leaves.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MONTH",
+      "gloss": "About one twelfth of a year.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SPHERE",
+      "gloss": "A round solid figure.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STAMEN",
+      "gloss": "The pollen-producing part of a flower.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STRAW",
+      "gloss": "Dried stalks of grain.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TUSK",
+      "gloss": "A long pointed tooth.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WINCH",
+      "gloss": "A hauling device with a cable.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WOLF",
+      "gloss": "A wild canine.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.264Z"
+}

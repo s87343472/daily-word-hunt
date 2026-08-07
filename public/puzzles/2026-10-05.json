@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-10-05",
+  "playDate": "2026-10-05",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "D",
+      "W",
+      "L"
+    ],
+    [
+      "F",
+      "E",
+      "W",
+      "A",
+      "O",
+      "X",
+      "N",
+      "W",
+      "A",
+      "P"
+    ],
+    [
+      "R",
+      "L",
+      "S",
+      "E",
+      "N",
+      "A",
+      "X",
+      "G",
+      "O",
+      "D"
+    ],
+    [
+      "J",
+      "C",
+      "V",
+      "O",
+      "L",
+      "I",
+      "Q",
+      "R",
+      "Y",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "O",
+      "S",
+      "V",
+      "L",
+      "M",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "V",
+      "H",
+      "I",
+      "F",
+      "H",
+      "L",
+      "L",
+      "A",
+      "H",
+      "C"
+    ],
+    [
+      "G",
+      "U",
+      "O",
+      "L",
+      "F",
+      "M",
+      "K",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "G",
+      "S",
+      "V",
+      "P",
+      "H",
+      "E",
+      "P",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "S",
+      "U",
+      "X",
+      "E",
+      "G",
+      "E",
+      "H",
+      "L",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "L",
+      "E",
+      "H",
+      "T",
+      "R",
+      "O",
+      "N",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANIMAL",
+      "gloss": "A living creature that is not a plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLEAN",
+      "gloss": "Free from dirt.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COFFEE",
+      "gloss": "A drink made from roasted beans.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HOPE",
+      "gloss": "A feeling of expectation and desire.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NORTH",
+      "gloss": "The direction toward the Arctic.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "A shape with four equal sides.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WELL",
+      "gloss": "A deep hole for water; also in good health.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.202Z"
+}

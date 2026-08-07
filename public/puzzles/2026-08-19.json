@@ -1,0 +1,347 @@
+{
+  "id": "daily-2026-08-19",
+  "playDate": "2026-08-19",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "L",
+      "S",
+      "E",
+      "C",
+      "R",
+      "O",
+      "C",
+      "U",
+      "S"
+    ],
+    [
+      "C",
+      "I",
+      "C",
+      "K",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "V",
+      "Y",
+      "G",
+      "R",
+      "L",
+      "Y",
+      "P",
+      "N",
+      "Y",
+      "Y"
+    ],
+    [
+      "Y",
+      "I",
+      "M",
+      "O",
+      "B",
+      "U",
+      "S",
+      "L",
+      "A",
+      "T"
+    ],
+    [
+      "C",
+      "K",
+      "S",
+      "W",
+      "S",
+      "C",
+      "P",
+      "R",
+      "S",
+      "K"
+    ],
+    [
+      "D",
+      "R",
+      "W",
+      "T",
+      "O",
+      "I",
+      "T",
+      "O",
+      "S",
+      "G"
+    ],
+    [
+      "I",
+      "L",
+      "O",
+      "T",
+      "A",
+      "F",
+      "R",
+      "J",
+      "U",
+      "B"
+    ],
+    [
+      "S",
+      "X",
+      "T",
+      "Y",
+      "Q",
+      "F",
+      "R",
+      "G",
+      "G",
+      "H"
+    ],
+    [
+      "B",
+      "O",
+      "J",
+      "H",
+      "C",
+      "T",
+      "I",
+      "W",
+      "Q",
+      "D"
+    ],
+    [
+      "N",
+      "I",
+      "M",
+      "T",
+      "R",
+      "R",
+      "Z",
+      "R",
+      "I",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COTTON",
+      "gloss": "A soft fiber from a plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CROCUS",
+      "gloss": "A small spring flower.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAY",
+      "gloss": "A flat board for carrying things.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VISTA",
+      "gloss": "A pleasing distant view.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WITCH",
+      "gloss": "A person said to practice magic (folklore).",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WORK",
+      "gloss": "Activity involving effort.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.160Z"
+}

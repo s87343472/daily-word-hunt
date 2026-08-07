@@ -1,0 +1,355 @@
+{
+  "id": "daily-2026-11-24",
+  "playDate": "2026-11-24",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "T",
+      "W",
+      "I",
+      "N",
+      "E",
+      "R",
+      "N",
+      "V",
+      "R"
+    ],
+    [
+      "D",
+      "A",
+      "W",
+      "J",
+      "S",
+      "Z",
+      "U",
+      "I",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "X",
+      "S",
+      "G",
+      "O",
+      "P",
+      "O",
+      "T",
+      "V",
+      "R"
+    ],
+    [
+      "E",
+      "F",
+      "C",
+      "H",
+      "W",
+      "L",
+      "L",
+      "Z",
+      "R",
+      "P"
+    ],
+    [
+      "C",
+      "B",
+      "T",
+      "N",
+      "E",
+      "E",
+      "I",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "H",
+      "U",
+      "T",
+      "H",
+      "H",
+      "B",
+      "S",
+      "Q",
+      "L"
+    ],
+    [
+      "G",
+      "H",
+      "O",
+      "S",
+      "F",
+      "M",
+      "O",
+      "T",
+      "O",
+      "I"
+    ],
+    [
+      "E",
+      "Z",
+      "B",
+      "K",
+      "U",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "C"
+    ],
+    [
+      "G",
+      "Y",
+      "U",
+      "N",
+      "A",
+      "Y",
+      "A",
+      "R",
+      "B",
+      "A"
+    ],
+    [
+      "U",
+      "F",
+      "I",
+      "L",
+      "I",
+      "L",
+      "Y",
+      "S",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "NUMBER",
+      "gloss": "A symbol used for counting.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "gloss": "A large water bird with a throat pouch.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SHELTER",
+      "gloss": "A place giving protection.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TWINE",
+      "gloss": "Strong string of twisted strands.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "gloss": "A small purple flower; also a color.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WASH",
+      "gloss": "To clean with water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "YARD",
+      "gloss": "Ground around a house.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ZEST",
+      "gloss": "Great enthusiasm; also citrus peel.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.246Z"
+}

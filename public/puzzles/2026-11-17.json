@@ -1,0 +1,363 @@
+{
+  "id": "daily-2026-11-17",
+  "playDate": "2026-11-17",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "A",
+      "L",
+      "L",
+      "B"
+    ],
+    [
+      "B",
+      "B",
+      "M",
+      "X",
+      "L",
+      "G",
+      "L",
+      "O",
+      "B",
+      "E"
+    ],
+    [
+      "Q",
+      "G",
+      "V",
+      "S",
+      "Q",
+      "S",
+      "D",
+      "V",
+      "G",
+      "Y"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      "U",
+      "S",
+      "H",
+      "F",
+      "J",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "R",
+      "P",
+      "D",
+      "U",
+      "A",
+      "T",
+      "D",
+      "L",
+      "T"
+    ],
+    [
+      "T",
+      "F",
+      "N",
+      "A",
+      "T",
+      "D",
+      "R",
+      "Q",
+      "W",
+      "C"
+    ],
+    [
+      "E",
+      "I",
+      "O",
+      "N",
+      "S",
+      "O",
+      "O",
+      "T",
+      "I",
+      "S"
+    ],
+    [
+      "W",
+      "S",
+      "V",
+      "C",
+      "O",
+      "W",
+      "W",
+      "M",
+      "C",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "E",
+      "O",
+      "X",
+      "E",
+      "Z",
+      "R",
+      "J"
+    ],
+    [
+      "Y",
+      "H",
+      "X",
+      "A",
+      "R",
+      "Q",
+      "L",
+      "M",
+      "U",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DANCE",
+      "gloss": "Moving the body to rhythm.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GLOBE",
+      "gloss": "A spherical model of Earth.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "ROOST",
+      "gloss": "A place where birds rest.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SHADOW",
+      "gloss": "A dark shape cast by blocking light.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TROWEL",
+      "gloss": "A small hand tool for gardening.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.240Z"
+}

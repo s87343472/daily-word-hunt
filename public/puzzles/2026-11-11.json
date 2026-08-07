@@ -1,0 +1,351 @@
+{
+  "id": "daily-2026-11-11",
+  "playDate": "2026-11-11",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "P",
+      "Z",
+      "G",
+      "C",
+      "C",
+      "Y",
+      "V",
+      "T",
+      "W"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "O",
+      "H",
+      "D",
+      "G",
+      "T",
+      "R",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "Q",
+      "F",
+      "N",
+      "E",
+      "D",
+      "E",
+      "U",
+      "S"
+    ],
+    [
+      "L",
+      "C",
+      "I",
+      "R",
+      "C",
+      "L",
+      "E",
+      "I",
+      "L",
+      "X"
+    ],
+    [
+      "G",
+      "H",
+      "G",
+      "M",
+      "M",
+      "L",
+      "X",
+      "C",
+      "Q",
+      "V"
+    ],
+    [
+      "N",
+      "I",
+      "D",
+      "H",
+      "B",
+      "S",
+      "A",
+      "M",
+      "F",
+      "F"
+    ],
+    [
+      "A",
+      "V",
+      "L",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R",
+      "L",
+      "R"
+    ],
+    [
+      "H",
+      "T",
+      "U",
+      "O",
+      "A",
+      "V",
+      "A",
+      "O",
+      "G",
+      "T"
+    ],
+    [
+      "X",
+      "X",
+      "R",
+      "J",
+      "S",
+      "H",
+      "U",
+      "M",
+      "Q",
+      "W"
+    ],
+    [
+      "Y",
+      "Y",
+      "P",
+      "L",
+      "W",
+      "R",
+      "Q",
+      "F",
+      "W",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANGLE",
+      "gloss": "The space between two meeting lines.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CIRCLE",
+      "gloss": "A round shape with all points equal from center.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FLOUR",
+      "gloss": "Powder from ground grain.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LETTER",
+      "gloss": "A character of the alphabet.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEACH",
+      "gloss": "A soft fruit with fuzzy skin.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STORY",
+      "gloss": "A narrative of events or fiction.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SUEDE",
+      "gloss": "Leather with a soft napped surface.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.235Z"
+}

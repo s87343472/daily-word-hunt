@@ -1,0 +1,351 @@
+---
+/**
+ * Cookie / analytics consent UI.
+ * Necessary storage (theme) always allowed; analytics off until opt-in.
+ */
+import { getRelativeLocaleUrl } from "astro:i18n";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const privacyHref = getRelativeLocaleUrl(locale, "privacy");
+---
+
+<div class="cc" data-cookie-consent>
+  <!-- First-visit banner -->
+  <div
+    class="cc-banner"
+    data-cc-banner
+    role="dialog"
+    aria-modal="false"
+    aria-labelledby="cc-banner-title"
+    aria-describedby="cc-banner-desc"
+    hidden
+  >
+    <div class="cc-banner-inner">
+      <div class="cc-copy">
+        <p id="cc-banner-title" class="cc-title">Cookies & privacy</p>
+        <p id="cc-banner-desc" class="cc-desc">
+          We use necessary storage so the site works (for example theme).
+          Optional <strong>analytics</strong> help us understand traffic — they
+          stay <strong>off</strong> until you accept.
+          <a class="cc-link" href={privacyHref}>Privacy Policy</a>
+        </p>
+      </div>
+      <div class="cc-actions">
+        <button type="button" class="cc-btn cc-btn--ghost" data-cc-reject>
+          Reject optional
+        </button>
+        <button type="button" class="cc-btn cc-btn--ghost" data-cc-manage>
+          Customize
+        </button>
+        <button type="button" class="cc-btn cc-btn--primary" data-cc-accept>
+          Accept all
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Preferences panel -->
+  <div
+    class="cc-panel"
+    data-cc-panel
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="cc-panel-title"
+    hidden
+  >
+    <div class="cc-panel-card">
+      <div class="cc-panel-head">
+        <h2 id="cc-panel-title" class="cc-panel-title">Cookie preferences</h2>
+        <button
+          type="button"
+          class="cc-icon-btn"
+          data-cc-close
+          aria-label="Close preferences">×</button
+        >
+      </div>
+      <p class="cc-desc">
+        Choose optional categories. You can change this anytime via
+        <strong>Cookie settings</strong> in the footer.
+      </p>
+
+      <ul class="cc-cats">
+        <li class="cc-cat">
+          <div class="cc-cat-row">
+            <div>
+              <p class="cc-cat-name">Necessary</p>
+              <p class="cc-cat-desc">
+                Required for basic site function (theme, consent choice). Always
+                on.
+              </p>
+            </div>
+            <span class="cc-badge" aria-label="Always on">On</span>
+          </div>
+        </li>
+        <li class="cc-cat">
+          <div class="cc-cat-row">
+            <div>
+              <p class="cc-cat-name">Analytics</p>
+              <p class="cc-cat-desc">
+                Anonymous or aggregated usage stats (page views, referrers). Not
+                used to sell your data. <strong>Default: off.</strong>
+              </p>
+            </div>
+            <label class="cc-switch">
+              <input type="checkbox" data-cc-analytics />
+              <span class="cc-switch-ui" aria-hidden="true"></span>
+              <span class="sr-only">Enable analytics</span>
+            </label>
+          </div>
+        </li>
+      </ul>
+
+      <div class="cc-actions cc-actions--end">
+        <button type="button" class="cc-btn cc-btn--ghost" data-cc-reject>
+          Reject optional
+        </button>
+        <button type="button" class="cc-btn cc-btn--primary" data-cc-save>
+          Save choices
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style is:global>
+  .cc-banner {
+    position: fixed;
+    z-index: 90;
+    inset-inline: 0;
+    bottom: 0;
+    padding: 0.75rem;
+    pointer-events: none;
+  }
+  .cc-banner[hidden],
+  .cc-panel[hidden] {
+    display: none !important;
+  }
+  .cc-banner-inner {
+    pointer-events: auto;
+    max-width: 42rem;
+    margin-inline: auto;
+    padding: 0.9rem 1rem;
+    border-radius: 0.85rem;
+    border: 1px solid var(--border, #3a4560);
+    background: color-mix(in oklab, var(--background, #212737) 92%, #000);
+    box-shadow: 0 12px 40px color-mix(in oklab, #000 35%, transparent);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  @media (min-width: 640px) {
+    .cc-banner-inner {
+      flex-direction: row;
+      align-items: flex-end;
+      gap: 1rem;
+    }
+  }
+  .cc-copy {
+    flex: 1;
+    min-width: 0;
+  }
+  .cc-title {
+    margin: 0 0 0.25rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--foreground, #eaedf3);
+  }
+  .cc-desc {
+    margin: 0;
+    font-size: 0.8rem;
+    line-height: 1.45;
+    color: var(--muted-foreground, #afb9ca);
+  }
+  .cc-desc strong {
+    color: var(--foreground, #eaedf3);
+    font-weight: 600;
+  }
+  .cc-link {
+    color: var(--accent, #ff6b01);
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .cc-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    flex-shrink: 0;
+  }
+  .cc-actions--end {
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+  }
+  .cc-btn {
+    appearance: none;
+    border-radius: 999px;
+    font: inherit;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 0.45rem 0.85rem;
+    cursor: pointer;
+    border: 1px solid var(--border, #3a4560);
+    background: var(--muted, #343f60);
+    color: var(--foreground, #eaedf3);
+  }
+  .cc-btn--ghost:hover {
+    border-color: var(--accent, #ff6b01);
+  }
+  .cc-btn--primary {
+    border-color: transparent;
+    background: var(--accent, #ff6b01);
+    color: var(--accent-foreground, #fff);
+  }
+  .cc-btn--primary:hover {
+    filter: brightness(1.05);
+  }
+
+  .cc-panel {
+    position: fixed;
+    inset: 0;
+    z-index: 95;
+    display: grid;
+    place-items: end center;
+    padding: 0.75rem;
+    background: color-mix(in oklab, #000 45%, transparent);
+    backdrop-filter: blur(3px);
+  }
+  @media (min-width: 640px) {
+    .cc-panel {
+      place-items: center;
+    }
+  }
+  .cc-panel-card {
+    width: min(100%, 26rem);
+    max-height: min(90dvh, 36rem);
+    overflow: auto;
+    padding: 1.1rem 1.15rem 1.15rem;
+    border-radius: 1rem;
+    border: 1px solid var(--border, #3a4560);
+    background: var(--background, #212737);
+    box-shadow: 0 20px 50px color-mix(in oklab, #000 40%, transparent);
+  }
+  .cc-panel-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .cc-panel-title {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+  .cc-icon-btn {
+    appearance: none;
+    border: none;
+    background: transparent;
+    color: var(--muted-foreground, #afb9ca);
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 0.25rem;
+  }
+  .cc-icon-btn:hover {
+    color: var(--foreground, #eaedf3);
+  }
+  .cc-cats {
+    list-style: none;
+    margin: 0.85rem 0 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+  .cc-cat {
+    margin: 0;
+    padding: 0.75rem;
+    border-radius: 0.75rem;
+    border: 1px solid color-mix(in oklab, var(--border, #3a4560) 70%, transparent);
+    background: color-mix(in oklab, var(--muted, #343f60) 40%, transparent);
+  }
+  .cc-cat-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+  .cc-cat-name {
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+  .cc-cat-desc {
+    margin: 0.25rem 0 0;
+    font-size: 0.75rem;
+    line-height: 1.4;
+    color: var(--muted-foreground, #afb9ca);
+  }
+  .cc-badge {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.25rem 0.5rem;
+    border-radius: 999px;
+    background: var(--muted, #343f60);
+    color: var(--muted-foreground, #afb9ca);
+  }
+
+  .cc-switch {
+    position: relative;
+    display: inline-flex;
+    flex-shrink: 0;
+    cursor: pointer;
+  }
+  .cc-switch input {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+  }
+  .cc-switch-ui {
+    width: 2.5rem;
+    height: 1.4rem;
+    border-radius: 999px;
+    background: var(--muted, #343f60);
+    border: 1px solid var(--border, #3a4560);
+    transition: background 0.15s ease;
+    position: relative;
+  }
+  .cc-switch-ui::after {
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 999px;
+    background: #fff;
+    transition: transform 0.15s ease;
+  }
+  .cc-switch input:checked + .cc-switch-ui {
+    background: var(--accent, #ff6b01);
+    border-color: transparent;
+  }
+  .cc-switch input:checked + .cc-switch-ui::after {
+    transform: translateX(1.05rem);
+  }
+  .cc-switch input:focus-visible + .cc-switch-ui {
+    outline: 2px solid var(--accent, #ff6b01);
+    outline-offset: 2px;
+  }
+
+  @media print {
+    .cc {
+      display: none !important;
+    }
+  }
+</style>

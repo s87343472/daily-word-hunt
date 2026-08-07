@@ -1,0 +1,371 @@
+{
+  "id": "daily-2026-12-23",
+  "playDate": "2026-12-23",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "G",
+      "K",
+      "K",
+      "X",
+      "E",
+      "X",
+      "Q",
+      "S",
+      "S"
+    ],
+    [
+      "J",
+      "O",
+      "V",
+      "B",
+      "C",
+      "X",
+      "Y",
+      "J",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "R",
+      "T",
+      "M",
+      "S",
+      "O",
+      "U",
+      "M",
+      "J",
+      "R"
+    ],
+    [
+      "C",
+      "D",
+      "M",
+      "A",
+      "Y",
+      "T",
+      "F",
+      "E",
+      "Q",
+      "I"
+    ],
+    [
+      "Q",
+      "A",
+      "V",
+      "Z",
+      "N",
+      "D",
+      "O",
+      "F",
+      "A",
+      "N"
+    ],
+    [
+      "Z",
+      "X",
+      "C",
+      "A",
+      "N",
+      "K",
+      "A",
+      "N",
+      "E",
+      "G"
+    ],
+    [
+      "Z",
+      "F",
+      "Q",
+      "T",
+      "L",
+      "I",
+      "A",
+      "E",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "N",
+      "O",
+      "B",
+      "U",
+      "L",
+      "T",
+      "R",
+      "T",
+      "G"
+    ],
+    [
+      "G",
+      "T",
+      "B",
+      "Q",
+      "I",
+      "S",
+      "E",
+      "Z",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "E",
+      "Z",
+      "J",
+      "O",
+      "Y",
+      "O",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CACTUS",
+      "gloss": "A spiny desert plant.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COFFEE",
+      "gloss": "A drink made from roasted beans.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STEADY",
+      "gloss": "Firmly fixed or constant.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STRING",
+      "gloss": "A thin cord.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TANKARD",
+      "gloss": "A large drinking mug.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "gloss": "An African horse with black and white stripes.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.272Z"
+}

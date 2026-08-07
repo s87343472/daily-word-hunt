@@ -1,0 +1,327 @@
+{
+  "id": "daily-2026-08-04",
+  "playDate": "2026-08-04",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "O",
+      "E",
+      "B",
+      "G",
+      "B",
+      "M",
+      "C",
+      "Y",
+      "X"
+    ],
+    [
+      "C",
+      "G",
+      "G",
+      "U",
+      "O",
+      "B",
+      "S",
+      "Z",
+      "Q",
+      "H"
+    ],
+    [
+      "E",
+      "D",
+      "O",
+      "L",
+      "O",
+      "R",
+      "A",
+      "E",
+      "H",
+      "P"
+    ],
+    [
+      "C",
+      "C",
+      "V",
+      "S",
+      "A",
+      "P",
+      "G",
+      "Q",
+      "F",
+      "L"
+    ],
+    [
+      "B",
+      "N",
+      "I",
+      "K",
+      "N",
+      "S",
+      "A",
+      "W",
+      "I",
+      "Y"
+    ],
+    [
+      "D",
+      "I",
+      "U",
+      "O",
+      "E",
+      "O",
+      "S",
+      "D",
+      "R",
+      "T"
+    ],
+    [
+      "V",
+      "A",
+      "I",
+      "S",
+      "V",
+      "G",
+      "W",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "R",
+      "W",
+      "E",
+      "V",
+      "D",
+      "E",
+      "S",
+      "B",
+      "Z"
+    ],
+    [
+      "L",
+      "B",
+      "G",
+      "E",
+      "E",
+      "B",
+      "Y",
+      "U",
+      "K",
+      "W"
+    ],
+    [
+      "F",
+      "W",
+      "A",
+      "K",
+      "Y",
+      "V",
+      "J",
+      "K",
+      "U",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BERRY",
+      "gloss": "A small juicy fruit.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BRAIN",
+      "gloss": "The organ of thought.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FIRE",
+      "gloss": "Combustion that gives heat and light.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GLASS",
+      "gloss": "A hard transparent material.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HEAR",
+      "gloss": "To perceive sound.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SEEK",
+      "gloss": "To look for.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SNOW",
+      "gloss": "Frozen crystals falling from the sky.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VOICE",
+      "gloss": "Sound produced by speech or song.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-06T09:15:14.976Z"
+}

@@ -1,0 +1,371 @@
+{
+  "id": "daily-2026-09-10",
+  "playDate": "2026-09-10",
+  "pack": "daily",
+  "title": "Daily Word Hunt",
+  "description": "Today's free word search — new words every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "M",
+      "S",
+      "Q",
+      "U",
+      "I",
+      "R",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "W",
+      "O",
+      "G",
+      "A",
+      "R",
+      "L",
+      "I",
+      "C",
+      "W",
+      "D"
+    ],
+    [
+      "V",
+      "C",
+      "Y",
+      "L",
+      "M",
+      "P",
+      "P",
+      "T",
+      "M",
+      "Q"
+    ],
+    [
+      "G",
+      "E",
+      "S",
+      "T",
+      "A",
+      "C",
+      "K",
+      "C",
+      "O",
+      "F"
+    ],
+    [
+      "J",
+      "L",
+      "T",
+      "H",
+      "G",
+      "I",
+      "L",
+      "I",
+      "W",
+      "T"
+    ],
+    [
+      "E",
+      "E",
+      "X",
+      "R",
+      "T",
+      "R",
+      "W",
+      "H",
+      "R",
+      "C"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "S",
+      "A",
+      "I",
+      "W",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "Y",
+      "S",
+      "E",
+      "Q",
+      "I",
+      "U",
+      "R",
+      "H",
+      "K"
+    ],
+    [
+      "Y",
+      "W",
+      "P",
+      "G",
+      "A",
+      "P",
+      "N",
+      "E",
+      "Y",
+      "V"
+    ],
+    [
+      "G",
+      "R",
+      "F",
+      "G",
+      "Z",
+      "O",
+      "U",
+      "P",
+      "B",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CELERY",
+      "gloss": "A crunchy green vegetable.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GARLIC",
+      "gloss": "A pungent bulb used in cooking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEARL",
+      "gloss": "A smooth gem formed in a shellfish.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PERCH",
+      "gloss": "A place to sit or rest; also a fish.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "gloss": "A bushy-tailed rodent.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STACK",
+      "gloss": "A neat pile.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "YOKE",
+      "gloss": "A wooden bar joining draft animals.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-07T01:43:24.179Z"
+}

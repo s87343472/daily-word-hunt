@@ -1,0 +1,4 @@
+---
+/** Legacy /play/print → /print */
+return Astro.redirect(`${import.meta.env.BASE_URL.replace(/\/?$/, "/")}print`, 301);
+---
