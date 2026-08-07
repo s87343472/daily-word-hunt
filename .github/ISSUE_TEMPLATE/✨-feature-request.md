@@ -1,6 +1,6 @@
 ---
 name: "✨ Feature Request"
-about: Suggest an idea for improving AstroPaper
+about: Suggest an idea for Daily Word Hunt
 title: "[Feature Request]: "
 labels: enhancement
 assignees: ""

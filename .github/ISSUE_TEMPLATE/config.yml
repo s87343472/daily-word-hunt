@@ -1,5 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: AstroPaper Discussions
-    url: https://github.com/satnaing/astro-paper/discussions
-    about: Please ask and answer questions here.
+  - name: Live site
+    url: https://daily-word-hunt.pages.dev/
+    about: Play today’s free daily word search
+  - name: Actions (puzzle refill)
+    url: https://github.com/s87343472/daily-word-hunt/actions
+    about: Generate pack puzzles workflow and CI

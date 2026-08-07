@@ -2,6 +2,8 @@
   "name": "daily-word-hunt",
   "type": "module",
   "version": "6.1.0",
+  "private": true,
+  "description": "Free daily word search — themed series, static Cloudflare Pages site",
   "engines": {
     "node": ">=22.12.0"
   },

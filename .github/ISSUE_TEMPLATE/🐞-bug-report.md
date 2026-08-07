@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41E Bug report"
-about: Report a bug or unexpected behavior in AstroPaper
+about: Report a bug in Daily Word Hunt (site, play, packs, puzzles)
 title: "[BUG]: "
 labels: bug
 assignees: ""

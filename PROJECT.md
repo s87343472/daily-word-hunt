@@ -1,83 +1,63 @@
-# Daily Word Hunt — local product map
+# Daily Word Hunt — project map
 
-Play lives on **`/`**. GitHub/Pages comes later; perfect content locally first.
+**Live:** https://daily-word-hunt.pages.dev/  
+**Repo:** https://github.com/s87343472/daily-word-hunt  
 
-## Primary pages
+Play lives on **`/`**. Hosting: Cloudflare Pages + GitHub.
+
+## Routes
 
 | Path | Purpose |
 |------|---------|
-| `/` | **Today’s puzzle** (default series: `daily`) |
+| `/` | Today’s puzzle (series `daily`) |
 | `/packs` | Series & themes directory |
 | `/packs/{id}` | Pack hub (today + archive) |
 | `/packs/{id}/{date}` | One day of a series |
-| `/how-to` | How to play |
 | `/past` | Default-pack date list |
 | `/daily/YYYY-MM-DD` | Short URL for default pack day |
-| `/print` | Printable today (default pack) |
-| `/about` | Product about + roadmap |
-| `/faq` | Frequently asked questions |
-| `/privacy` | Privacy Policy |
-| `/terms` | Terms of Use |
-| `/contact` | Contact (replace template email before launch) |
-| `/posts` | Tips & guides (not the main play entry) |
-| `/search` | Search tips |
+| `/print` | Printable today |
+| `/how-to`, `/faq`, `/about` | Help & product |
+| `/privacy`, `/terms`, `/contact` | Legal & contact |
+| `/posts` | Tips & guides |
+| `/search` | Search tips (`noindex`) |
 
-## Packs / series
+**Nav:** Today · How to · Series · Past · Tips · FAQ · About
 
-- Registry: `packs/catalog.json`
-- Word pools: `wordlists/packs/{id}.json`
-- Grids: `public/puzzles/{id}/YYYY-MM-DD.json`
-- Generate: `pnpm gen:packs` or GitHub Action `generate-puzzles.yml`
+## Packs
 
-## Nav
+| Piece | Location |
+|-------|----------|
+| Registry | `packs/catalog.json` |
+| Word pools | `wordlists/packs/{id}.json` |
+| Generated grids | `public/puzzles/{id}/YYYY-MM-DD.json` |
+| CLI | `pnpm gen:packs` / `pnpm gen:puzzle --pack …` |
+| Action | `.github/workflows/generate-puzzles.yml` |
 
-**Today · How to · Past · Tips · About** (+ theme + search)
-
-## Content sources
-
-- Pages: `src/content/pages/*.md`
-- Tips: `src/content/posts/*.md`
-- Daily grids: `public/puzzles/YYYY-MM-DD.json`
-- Word pool: `wordlists/daily-pool.json`
-- Demo AstroPaper posts archived under `src/content/_archived-demo-posts/` (not published)
-
-## Generate more dailies
-
-```bash
-pnpm gen:puzzle --wordlist wordlists/daily-pool.json --from 2027-01-01 --to 2027-03-31
-```
+Content pages: `src/content/pages/*.md`  
+Tips: `src/content/posts/*.md`  
+Old AstroPaper demo posts: `src/content/_archived-demo-posts/` (not published)
 
 ## Cookie consent
 
 - UI: `src/components/CookieConsent.astro`
 - Logic: `src/scripts/cookie-consent.ts`
-- Storage key: `dwh-cookie-consent` (localStorage)
-- Analytics **default off**; load vendor scripts only when `hasAnalyticsConsent()`
-- Footer: **Cookie settings** reopens the panel
+- Key: `dwh-cookie-consent` (localStorage)
+- Analytics **off** until opt-in; wire vendor in `applyAnalyticsGate`
 
-## SEO (Phase A+)
+## SEO
 
-| Area | Implementation |
-|------|----------------|
-| Meta | Every product page has unique title + description |
-| `noindex` | `/search`; unreleased `/daily/YYYY-MM-DD` (date > today in site TZ) |
-| robots.txt | Disallow `/search`; sitemap link |
-| sitemap | Excludes search, archives (if off), play redirects, future dailies |
-| Home | H1 + copy; JSON-LD `WebSite` + `WebApplication` |
-| FAQ / How-to | `FAQPage` / `HowTo` + breadcrumbs |
-| Daily | Word list in HTML; `WebPage` schema when released |
-| Schemas | `src/lib/seo/schemas.ts`, `JsonLd.astro` |
+- Unique title/description on product pages
+- `noindex`: `/search`, unreleased future pack dates
+- robots + filtered sitemap
+- Home: WebSite + WebApplication JSON-LD
+- FAQ / How-to schemas; daily/pack pages with word lists
 
-### After each deploy (manual)
-
-1. [Google Search Console](https://search.google.com/search-console) → add `https://daily-word-hunt.pages.dev`  
-2. Submit `https://daily-word-hunt.pages.dev/sitemap-index.xml`  
-3. Optional: Bing Webmaster Tools same sitemap  
+After deploy: Search Console → property + submit  
+`https://daily-word-hunt.pages.dev/sitemap-index.xml`
 
 ## Later
 
-- Wire real analytics vendor inside `applyAnalyticsGate`  
-- Themed packs UI  
-- D1 leaderboard  
-- CI auto-generate  
-- Custom domain + update `site.url`
+- D1 leaderboard (optional nicknames)
+- Optional login
+- More packs / languages
+- Real analytics after consent

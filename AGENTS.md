@@ -1,22 +1,43 @@
-## Development
+# Agent notes — Daily Word Hunt
 
-When starting the dev server, use background mode:
+## Product
 
+- Word **search** (划词), not fill-in Wordscapes
+- Home `/` plays **today** from pack `daily`
+- Series live under `/packs` and `public/puzzles/{packId}/`
+- Static-first on Cloudflare Pages; no puzzle generation on request
+
+## Dev
+
+```bash
+pnpm install
+pnpm dev
+pnpm build
+pnpm gen:packs
 ```
-astro dev --background
-```
 
-Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
+Node ≥ 22.12. Prefer `pnpm`.
 
-## Documentation
+## Important paths
 
-Full documentation: https://docs.astro.build
+| Path | Role |
+|------|------|
+| `packs/catalog.json` | Pack registry |
+| `wordlists/packs/` | Theme word pools |
+| `public/puzzles/{id}/` | Dated JSON grids |
+| `scripts/gen-puzzle.mjs` | Generator CLI |
+| `src/components/game/WordSearchGame.astro` | Player UI |
+| `src/lib/puzzle/packs.ts` | Pack helpers |
+| `ARCHITECTURE.md` | System design |
+| `PROJECT.md` | Route / ops map |
 
-Consult these guides before working on related tasks:
+## Do not
 
-- [Adding pages, dynamic routes, or middleware](https://docs.astro.build/en/guides/routing/)
-- [Working with Astro components](https://docs.astro.build/en/basics/astro-components/)
-- [Using React, Vue, Svelte, or other framework components](https://docs.astro.build/en/guides/framework-components/)
-- [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
-- [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
-- [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
+- Generate puzzles on the player request path
+- Commit secrets / `.env`
+- Restore AstroPaper demo posts into the published `posts` collection without intent
+
+## Docs
+
+Astro framework: https://docs.astro.build  
+This product: README + ARCHITECTURE + PROJECT.
