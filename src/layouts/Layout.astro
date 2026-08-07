@@ -1,6 +1,7 @@
 ---
 import { ClientRouter } from "astro:transitions";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import { PUBLIC_GA_MEASUREMENT_ID } from "astro:env/client";
 import { resolveDefaultOgImagePath } from "@/utils/resolveDefaultOgImagePath";
 import { getAssetPath } from "@/utils/withBase";
 import CookieConsent from "@/components/CookieConsent.astro";
@@ -35,6 +36,8 @@ const socialImageURL = new URL(ogImage, Astro.site ?? Astro.url);
 const lang = Astro.currentLocale ?? site.lang;
 const rssHref = getRelativeLocaleUrl(lang, "rss.xml");
 const siteOrigin = new URL(site.url).origin;
+/** Baked at build time — must appear in static HTML for GA installer detection */
+const gaId = PUBLIC_GA_MEASUREMENT_ID?.trim() || "";
 ---
 
 <!doctype html>
@@ -122,6 +125,41 @@ const siteOrigin = new URL(site.url).origin;
         window.__theme = { value: theme };
       })();
     </script>
+
+    {
+      /* Google Analytics 4 + Consent Mode v2 (Advanced).
+         Must be static HTML in <head> so GA installer / Tag Assistant can detect G-XXXX.
+         Default denied → cookieless pings; cookie banner calls gtag('consent','update').
+         @see https://developers.google.com/tag-platform/security/guides/consent */
+      gaId && (
+        <>
+          <script is:inline define:vars={{ gaId }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            window.gtag = gtag;
+            gtag("consent", "default", {
+              ad_storage: "denied",
+              ad_user_data: "denied",
+              ad_personalization: "denied",
+              analytics_storage: "denied",
+              wait_for_update: 500,
+            });
+            gtag("js", new Date());
+            gtag("config", gaId, {
+              anonymize_ip: true,
+              send_page_view: true,
+            });
+          </script>
+          <script
+            is:inline
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+          />
+        </>
+      )
+    }
 
     <ClientRouter />
   </head>

@@ -94,13 +94,17 @@ export default defineConfig({
         context: "client",
         optional: true,
       }),
-      /** Plausible site domain, e.g. words.sagasu.art (loaded only after cookie opt-in) */
+      /** Plausible site domain, e.g. words.sagasu.art (cookieless; always when set) */
       PUBLIC_PLAUSIBLE_DOMAIN: envField.string({
         access: "public",
         context: "client",
         optional: true,
       }),
-      /** GA4 measurement id G-XXXX (loaded only after cookie opt-in) */
+      /**
+       * GA4 measurement id G-XXXX — baked into <head> with Consent Mode v2
+       * (default denied → cookieless pings; Accept → granted). Required at
+       * build time for Google installer detection on static HTML.
+       */
       PUBLIC_GA_MEASUREMENT_ID: envField.string({
         access: "public",
         context: "client",

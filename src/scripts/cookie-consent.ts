@@ -1,19 +1,20 @@
 /**
- * Cookie consent + Google Consent Mode (Advanced).
+ * Cookie consent UI + Google Consent Mode updates.
  *
- * Product requirement: even if the user rejects optional analytics cookies,
- * we still need baseline traffic visibility in GA4.
+ * GA4 gtag + consent defaults live in Layout.astro <head> (static HTML so
+ * Google’s installer / Tag Assistant can detect the measurement ID).
  *
- * Implementation (Google Consent Mode v2 — Advanced style):
- * - gtag always loads when PUBLIC_GA_MEASUREMENT_ID is set
- * - Default: analytics_storage / ad_* = denied → cookieless pings only
+ * This module only:
+ * - updates consent when the user Accept / Reject / Save
+ * - optionally loads Plausible (cookieless aggregate stats)
+ *
+ * Advanced Consent Mode:
+ * - Default (head): analytics_storage / ad_* = denied → cookieless pings
  * - Accept: consent update → granted → full cookies + detailed measurement
  * - Reject: stays denied → still cookieless pings for basic volume/modeling
  *
- * Plausible (if configured) is cookieless and loads for aggregate pageviews.
- *
  * @see https://support.google.com/tagmanager/answer/10000067
- * @see https://support.google.com/tagmanager/answer/13802165
+ * @see https://developers.google.com/tag-platform/security/guides/consent
  */
 
 export type ConsentState = {
@@ -82,9 +83,9 @@ declare global {
 }
 
 /**
- * Apply consent + ensure baseline GA (cookieless when denied).
+ * Apply consent state to DOM + gtag (head already loaded GA when configured).
  * Env (Cloudflare Pages build):
- *   PUBLIC_GA_MEASUREMENT_ID=G-SZMGNMBD0Z
+ *   PUBLIC_GA_MEASUREMENT_ID=G-SZMGNMBD0Z  (Layout head)
  *   PUBLIC_PLAUSIBLE_DOMAIN=words.sagasu.art  (optional, cookieless)
  */
 export function applyAnalyticsGate(
@@ -93,11 +94,7 @@ export function applyAnalyticsGate(
   const allowed = state?.analytics === true;
   document.documentElement.dataset.analytics = allowed ? "granted" : "denied";
 
-  // Always arm GA when configured (Advanced consent mode)
-  ensureGa4Loaded();
   updateGaConsent(allowed);
-
-  // Plausible is cookieless aggregate stats — always on when domain configured
   ensurePlausibleLoaded();
 
   if (import.meta.env.DEV) {
@@ -118,86 +115,17 @@ function env(name: string): string {
   }
 }
 
-function gtag(...args: unknown[]) {
-  window.dataLayer = window.dataLayer || [];
-  // dataLayer.push with Arguments-like object (Google's pattern)
-  window.dataLayer.push(args);
-  if (typeof window.gtag === "function" && window.gtag !== gtag) {
-    window.gtag(...args);
-  }
-}
-
-/**
- * Ensure gtag exists and consent defaults are denied *before* config fires.
- */
-function ensureGa4Loaded() {
-  const id = env("PUBLIC_GA_MEASUREMENT_ID");
-  if (!id) return;
-
-  window.dataLayer = window.dataLayer || [];
-  if (!window.gtag) {
-    window.gtag = function gtagStub() {
-      // eslint-disable-next-line prefer-rest-params
-      window.dataLayer!.push(arguments);
-    } as GtagFn;
-  }
-
-  // Consent defaults must run before any config (Consent Mode v2)
-  if (!document.getElementById("dwh-ga4-consent-default")) {
-    const def = document.createElement("script");
-    def.id = "dwh-ga4-consent-default";
-    def.textContent = `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      window.gtag = gtag;
-      gtag('consent', 'default', {
-        ad_storage: 'denied',
-        ad_user_data: 'denied',
-        ad_personalization: 'denied',
-        analytics_storage: 'denied',
-        wait_for_update: 500
-      });
-    `;
-    document.head.appendChild(def);
-  }
-
-  if (!document.getElementById("dwh-ga4")) {
-    const s = document.createElement("script");
-    s.id = "dwh-ga4";
-    s.async = true;
-    s.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(id)}`;
-    document.head.appendChild(s);
-  }
-
-  if (!document.getElementById("dwh-ga4-config")) {
-    const cfg = document.createElement("script");
-    cfg.id = "dwh-ga4-config";
-    cfg.textContent = `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      window.gtag = gtag;
-      gtag('js', new Date());
-      gtag('config', ${JSON.stringify(id)}, {
-        anonymize_ip: true,
-        send_page_view: true
-      });
-    `;
-    document.head.appendChild(cfg);
-  }
-}
-
 function updateGaConsent(analyticsGranted: boolean) {
-  if (!env("PUBLIC_GA_MEASUREMENT_ID")) return;
-  const storage = analyticsGranted ? "granted" : "denied";
+  // Head snippet only present when PUBLIC_GA_MEASUREMENT_ID was set at build
   const fn = window.gtag;
-  if (typeof fn === "function") {
-    fn("consent", "update", {
-      ad_storage: "denied",
-      ad_user_data: "denied",
-      ad_personalization: "denied",
-      analytics_storage: storage,
-    });
-  }
+  if (typeof fn !== "function") return;
+  const storage = analyticsGranted ? "granted" : "denied";
+  fn("consent", "update", {
+    ad_storage: "denied",
+    ad_user_data: "denied",
+    ad_personalization: "denied",
+    analytics_storage: storage,
+  });
 }
 
 function ensurePlausibleLoaded() {
@@ -270,7 +198,7 @@ function refreshUi() {
   const banner = qs("[data-cc-banner]");
   const panel = qs("[data-cc-panel]");
   const existing = readConsent();
-  // Always start measurement (cookieless until Accept)
+  // Sync consent update (gtag already in head; cookieless until Accept)
   applyAnalyticsGate(existing);
   setVisible(panel, false);
   setVisible(banner, !existing);
