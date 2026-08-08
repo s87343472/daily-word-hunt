@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-01-04",
+  "playDate": "2027-01-04",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "N",
+      "Q",
+      "W",
+      "A",
+      "W",
+      "A",
+      "S",
+      "X",
+      "B"
+    ],
+    [
+      "J",
+      "C",
+      "P",
+      "L",
+      "E",
+      "U",
+      "D",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "D",
+      "U",
+      "O",
+      "L",
+      "C",
+      "T",
+      "S",
+      "Z",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "G",
+      "H",
+      "C",
+      "M",
+      "G",
+      "L",
+      "I",
+      "A",
+      "E"
+    ],
+    [
+      "D",
+      "N",
+      "K",
+      "C",
+      "A",
+      "P",
+      "R",
+      "A",
+      "S",
+      "Z"
+    ],
+    [
+      "X",
+      "I",
+      "X",
+      "Z",
+      "G",
+      "O",
+      "A",
+      "J",
+      "N",
+      "E"
+    ],
+    [
+      "J",
+      "R",
+      "J",
+      "Z",
+      "U",
+      "P",
+      "T",
+      "M",
+      "L",
+      "D"
+    ],
+    [
+      "Y",
+      "P",
+      "H",
+      "U",
+      "T",
+      "X",
+      "C",
+      "P",
+      "K",
+      "D"
+    ],
+    [
+      "C",
+      "S",
+      "N",
+      "C",
+      "U",
+      "H",
+      "E",
+      "L",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "K",
+      "A",
+      "E",
+      "B",
+      "N",
+      "N",
+      "N",
+      "Q",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "gloss": "A visible mass of water vapor in the sky.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-08T11:21:50.605Z"
+}

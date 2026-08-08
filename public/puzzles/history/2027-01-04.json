@@ -1,0 +1,425 @@
+{
+  "id": "history-2027-01-04",
+  "playDate": "2027-01-04",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Q",
+      "S",
+      "P",
+      "A",
+      "P",
+      "Y",
+      "R",
+      "U",
+      "S"
+    ],
+    [
+      "Q",
+      "O",
+      "A",
+      "N",
+      "Q",
+      "X",
+      "L",
+      "D",
+      "F",
+      "U"
+    ],
+    [
+      "M",
+      "U",
+      "I",
+      "N",
+      "N",
+      "E",
+      "L",
+      "L",
+      "I",
+      "M"
+    ],
+    [
+      "C",
+      "P",
+      "S",
+      "T",
+      "C",
+      "N",
+      "I",
+      "Y",
+      "I",
+      "V"
+    ],
+    [
+      "U",
+      "H",
+      "C",
+      "Y",
+      "I",
+      "E",
+      "G",
+      "W",
+      "Y",
+      "I"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "L",
+      "C",
+      "L",
+      "S",
+      "Q",
+      "M",
+      "Z"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "E",
+      "F",
+      "Y",
+      "O",
+      "T",
+      "K",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "E",
+      "D",
+      "I",
+      "L",
+      "B",
+      "O",
+      "U"
+    ],
+    [
+      "O",
+      "O",
+      "C",
+      "H",
+      "W",
+      "Q",
+      "B",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "E",
+      "W",
+      "H",
+      "U",
+      "C",
+      "K",
+      "Z",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ANCESTOR",
+      "gloss": "A person from whom one is descended.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-08T11:21:50.623Z"
+}

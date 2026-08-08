@@ -1,0 +1,405 @@
+{
+  "id": "cities-2027-01-04",
+  "playDate": "2027-01-04",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "A",
+      "Z",
+      "O",
+      "X",
+      "S",
+      "C",
+      "Z",
+      "R",
+      "Y"
+    ],
+    [
+      "H",
+      "D",
+      "G",
+      "Z",
+      "O",
+      "O",
+      "P",
+      "E",
+      "F",
+      "N"
+    ],
+    [
+      "V",
+      "E",
+      "E",
+      "L",
+      "M",
+      "C",
+      "S",
+      "W",
+      "E",
+      "O"
+    ],
+    [
+      "O",
+      "X",
+      "L",
+      "P",
+      "L",
+      "O",
+      "D",
+      "V",
+      "C",
+      "C"
+    ],
+    [
+      "V",
+      "D",
+      "A",
+      "I",
+      "R",
+      "T",
+      "R",
+      "Z",
+      "A",
+      "L"
+    ],
+    [
+      "P",
+      "S",
+      "X",
+      "T",
+      "P",
+      "T",
+      "C",
+      "K",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "W",
+      "K",
+      "J",
+      "J",
+      "A",
+      "Z",
+      "D",
+      "R",
+      "B"
+    ],
+    [
+      "Z",
+      "H",
+      "C",
+      "V",
+      "J",
+      "G",
+      "D",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "Y",
+      "S",
+      "T",
+      "R",
+      "E",
+      "E",
+      "T",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "H",
+      "G",
+      "R",
+      "A",
+      "F",
+      "F",
+      "I",
+      "T",
+      "I",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COTTAGE",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STREET",
+      "gloss": "A public road in a city or town.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-08T11:21:50.614Z"
+}
