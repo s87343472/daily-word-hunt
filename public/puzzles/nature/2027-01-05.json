@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-01-05",
+  "playDate": "2027-01-05",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "P",
+      "O",
+      "N",
+      "A",
+      "C",
+      "X",
+      "D",
+      "K",
+      "C"
+    ],
+    [
+      "S",
+      "W",
+      "A",
+      "M",
+      "P",
+      "F",
+      "R",
+      "A",
+      "P",
+      "V"
+    ],
+    [
+      "G",
+      "Y",
+      "R",
+      "A",
+      "N",
+      "E",
+      "E",
+      "X",
+      "I",
+      "R"
+    ],
+    [
+      "W",
+      "I",
+      "U",
+      "K",
+      "L",
+      "R",
+      "D",
+      "A",
+      "N",
+      "H"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "T",
+      "B",
+      "U",
+      "O",
+      "U",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "N",
+      "Y",
+      "F",
+      "T",
+      "P",
+      "N",
+      "O",
+      "Z"
+    ],
+    [
+      "T",
+      "A",
+      "A",
+      "M",
+      "S",
+      "P",
+      "U",
+      "L",
+      "S",
+      "Y"
+    ],
+    [
+      "L",
+      "D",
+      "L",
+      "Y",
+      "I",
+      "D",
+      "Z",
+      "F",
+      "X",
+      "G"
+    ],
+    [
+      "S",
+      "W",
+      "P",
+      "O",
+      "P",
+      "P",
+      "Y",
+      "J",
+      "J",
+      "S"
+    ],
+    [
+      "Y",
+      "T",
+      "L",
+      "I",
+      "D",
+      "T",
+      "S",
+      "I",
+      "M",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-09T11:22:25.388Z"
+}

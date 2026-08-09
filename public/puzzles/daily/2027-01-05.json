@@ -1,0 +1,333 @@
+{
+  "id": "daily-2027-01-05",
+  "playDate": "2027-01-05",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "E",
+      "O",
+      "H",
+      "S",
+      "W",
+      "C",
+      "P",
+      "N",
+      "H"
+    ],
+    [
+      "P",
+      "T",
+      "G",
+      "U",
+      "C",
+      "F",
+      "B",
+      "I",
+      "R",
+      "M"
+    ],
+    [
+      "Q",
+      "I",
+      "O",
+      "C",
+      "W",
+      "N",
+      "Q",
+      "C",
+      "M",
+      "J"
+    ],
+    [
+      "F",
+      "C",
+      "O",
+      "V",
+      "O",
+      "F",
+      "A",
+      "K",
+      "M",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "Z",
+      "H",
+      "R",
+      "N",
+      "E",
+      "L",
+      "I",
+      "U"
+    ],
+    [
+      "C",
+      "L",
+      "R",
+      "G",
+      "D",
+      "E",
+      "N",
+      "E",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "A",
+      "U",
+      "R",
+      "R",
+      "H",
+      "E",
+      "C",
+      "A",
+      "Y"
+    ],
+    [
+      "R",
+      "B",
+      "N",
+      "C",
+      "O",
+      "L",
+      "V",
+      "M",
+      "N",
+      "I"
+    ],
+    [
+      "V",
+      "G",
+      "B",
+      "I",
+      "F",
+      "N",
+      "O",
+      "R",
+      "G",
+      "K"
+    ],
+    [
+      "E",
+      "C",
+      "Y",
+      "X",
+      "Q",
+      "W",
+      "W",
+      "K",
+      "W",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CARVE",
+      "gloss": "To cut into a hard material.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PICKLE",
+      "gloss": "Food preserved in vinegar or brine.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RUN",
+      "gloss": "To move quickly on foot.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SHOES",
+      "gloss": "Footwear that protects the feet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TANG",
+      "gloss": "A sharp flavor or smell.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WORD",
+      "gloss": "A unit of language with meaning.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WOVEN",
+      "gloss": "Made by weaving.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-09T11:22:25.381Z"
+}
