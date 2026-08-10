@@ -149,9 +149,17 @@ const {
   <p data-ws-status class="ws-status" aria-live="polite"></p>
 
   <div data-ws-win class="ws-win" hidden>
-    <div class="ws-win-card">
+    <div class="ws-win-card" role="dialog" aria-modal="true" aria-labelledby="ws-win-title">
+      <button
+        type="button"
+        class="ws-win-close"
+        data-ws-win-dismiss
+        aria-label="Close"
+      >
+        ×
+      </button>
       <p class="ws-win-emoji" aria-hidden="true">✓</p>
-      <h3 class="ws-win-title">Nice work!</h3>
+      <h3 id="ws-win-title" class="ws-win-title">Nice work!</h3>
       <p data-ws-win-detail class="ws-win-detail"></p>
       <p data-ws-win-streak class="ws-win-streak" hidden></p>
       <div class="ws-win-actions">
@@ -159,7 +167,7 @@ const {
           Share
         </button>
         <button type="button" data-ws-win-dismiss class="ws-win-btn">
-          Keep playing
+          Close
         </button>
       </div>
     </div>
@@ -239,9 +247,9 @@ const {
     const winEl = root.querySelector<HTMLElement>("[data-ws-win]")!;
     const winDetail = root.querySelector<HTMLElement>("[data-ws-win-detail]")!;
     const winStreak = root.querySelector<HTMLElement>("[data-ws-win-streak]");
-    const winDismiss = root.querySelector<HTMLElement>(
+    const winDismissBtns = root.querySelectorAll<HTMLButtonElement>(
       "[data-ws-win-dismiss]"
-    )!;
+    );
     const winShare = root.querySelector<HTMLButtonElement>(
       "[data-ws-win-share]"
     );
@@ -622,6 +630,16 @@ const {
     const onWinDismiss = () => {
       winEl.hidden = true;
     };
+    const onWinBackdrop = (e: MouseEvent) => {
+      // Click dimmed overlay (not the card) closes the dialog
+      if (e.target === winEl) onWinDismiss();
+    };
+    const onWinKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape" && !winEl.hidden) {
+        e.preventDefault();
+        onWinDismiss();
+      }
+    };
     const onWinShare = async () => {
       const text =
         (winEl as HTMLElement & { __share?: string }).__share ||
@@ -711,7 +729,11 @@ const {
       document.addEventListener("pointerup", onDocUp);
       document.addEventListener("pointercancel", onDocUp);
       largeToggle?.addEventListener("change", onLarge);
-      winDismiss?.addEventListener("click", onWinDismiss);
+      winDismissBtns.forEach(btn =>
+        btn.addEventListener("click", onWinDismiss)
+      );
+      winEl.addEventListener("click", onWinBackdrop);
+      document.addEventListener("keydown", onWinKey);
       winShare?.addEventListener("click", onWinShare);
       hintBtn?.addEventListener("click", onHint);
 
@@ -752,7 +774,11 @@ const {
         document.removeEventListener("pointerup", onDocUp);
         document.removeEventListener("pointercancel", onDocUp);
         largeToggle?.removeEventListener("change", onLarge);
-        winDismiss?.removeEventListener("click", onWinDismiss);
+        winDismissBtns.forEach(btn =>
+          btn.removeEventListener("click", onWinDismiss)
+        );
+        winEl.removeEventListener("click", onWinBackdrop);
+        document.removeEventListener("keydown", onWinKey);
         winShare?.removeEventListener("click", onWinShare);
         hintBtn?.removeEventListener("click", onHint);
       },
@@ -1225,6 +1251,7 @@ const {
     display: none !important;
   }
   .ws .ws-win-card {
+    position: relative;
     width: min(100%, 20rem);
     padding: 1.5rem 1.25rem 1.25rem;
     border-radius: 1rem;
@@ -1232,6 +1259,26 @@ const {
     background: var(--ws-bg);
     border: 1px solid var(--ws-border);
     box-shadow: 0 20px 50px color-mix(in oklab, #000 40%, transparent);
+  }
+  .ws .ws-win-close {
+    position: absolute;
+    top: 0.45rem;
+    right: 0.45rem;
+    width: 2.25rem;
+    height: 2.25rem;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 999px;
+    background: transparent;
+    color: var(--ws-muted-fg);
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .ws .ws-win-close:hover {
+    color: var(--ws-fg);
+    background: color-mix(in oklab, var(--ws-muted) 70%, transparent);
   }
   .ws .ws-win-emoji {
     margin: 0 auto;
