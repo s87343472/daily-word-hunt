@@ -1,0 +1,369 @@
+{
+  "id": "daily-2027-01-06",
+  "playDate": "2027-01-06",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "C",
+      "D",
+      "F",
+      "N",
+      "T",
+      "L",
+      "T",
+      "P",
+      "Z"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "E",
+      "U",
+      "E",
+      "M",
+      "N",
+      "K",
+      "R"
+    ],
+    [
+      "S",
+      "H",
+      "V",
+      "O",
+      "R",
+      "N",
+      "T",
+      "H",
+      "E",
+      "S"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "B",
+      "C",
+      "U",
+      "T",
+      "H",
+      "G",
+      "Z"
+    ],
+    [
+      "R",
+      "S",
+      "M",
+      "Y",
+      "R",
+      "U",
+      "T",
+      "D",
+      "K",
+      "Q"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "T",
+      "L",
+      "A",
+      "S",
+      "B",
+      "Z",
+      "E"
+    ],
+    [
+      "W",
+      "H",
+      "L",
+      "X",
+      "E",
+      "F",
+      "H",
+      "N",
+      "N",
+      "R"
+    ],
+    [
+      "J",
+      "E",
+      "Q",
+      "H",
+      "O",
+      "K",
+      "F",
+      "M",
+      "K",
+      "M"
+    ],
+    [
+      "A",
+      "L",
+      "R",
+      "E",
+      "T",
+      "N",
+      "I",
+      "W",
+      "H",
+      "S"
+    ],
+    [
+      "J",
+      "P",
+      "I",
+      "L",
+      "B",
+      "T",
+      "C",
+      "L",
+      "Z",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CROCUS",
+      "gloss": "A small spring flower.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REST",
+      "gloss": "To stop work and relax.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCOUT",
+      "gloss": "Someone sent to gather information.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WIMBREL",
+      "gloss": "A long-billed wading bird.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-10T11:42:55.194Z"
+}
