@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-01-07",
+  "playDate": "2027-01-07",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "V",
+      "S",
+      "W",
+      "T",
+      "Y",
+      "N",
+      "Q",
+      "H",
+      "E"
+    ],
+    [
+      "T",
+      "B",
+      "V",
+      "S",
+      "F",
+      "U",
+      "L",
+      "N",
+      "F",
+      "X"
+    ],
+    [
+      "S",
+      "R",
+      "O",
+      "K",
+      "T",
+      "B",
+      "N",
+      "E",
+      "Q",
+      "T"
+    ],
+    [
+      "C",
+      "V",
+      "M",
+      "U",
+      "O",
+      "O",
+      "R",
+      "D",
+      "W",
+      "H"
+    ],
+    [
+      "H",
+      "N",
+      "W",
+      "X",
+      "L",
+      "U",
+      "R",
+      "I",
+      "R",
+      "J"
+    ],
+    [
+      "O",
+      "R",
+      "Y",
+      "B",
+      "T",
+      "D",
+      "L",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "O",
+      "E",
+      "O",
+      "A",
+      "J",
+      "I",
+      "E",
+      "W",
+      "O",
+      "Z"
+    ],
+    [
+      "L",
+      "T",
+      "N",
+      "A",
+      "G",
+      "N",
+      "I",
+      "R",
+      "V",
+      "P"
+    ],
+    [
+      "R",
+      "F",
+      "D",
+      "H",
+      "R",
+      "N",
+      "J",
+      "Y",
+      "T",
+      "H"
+    ],
+    [
+      "R",
+      "P",
+      "T",
+      "W",
+      "D",
+      "C",
+      "B",
+      "S",
+      "U",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "NATURE",
+      "gloss": "The physical world not made by humans.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-11T11:38:57.057Z"
+}

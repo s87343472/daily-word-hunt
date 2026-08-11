@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-01-07",
+  "playDate": "2027-01-07",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "G",
+      "E",
+      "Z",
+      "T",
+      "B",
+      "L",
+      "T",
+      "C",
+      "M"
+    ],
+    [
+      "U",
+      "C",
+      "D",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "H",
+      "B",
+      "X",
+      "R",
+      "N",
+      "Y",
+      "R",
+      "D",
+      "C",
+      "W"
+    ],
+    [
+      "Z",
+      "F",
+      "R",
+      "T",
+      "R",
+      "H",
+      "C",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "I",
+      "E",
+      "R",
+      "A",
+      "O",
+      "O",
+      "L",
+      "N",
+      "P",
+      "U"
+    ],
+    [
+      "L",
+      "O",
+      "J",
+      "W",
+      "H",
+      "E",
+      "D",
+      "Q",
+      "G",
+      "A"
+    ],
+    [
+      "Z",
+      "A",
+      "M",
+      "U",
+      "T",
+      "O",
+      "Q",
+      "L",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "U",
+      "X",
+      "F",
+      "W",
+      "E",
+      "A",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "P",
+      "R",
+      "D",
+      "N",
+      "O",
+      "P",
+      "L"
+    ],
+    [
+      "B",
+      "J",
+      "H",
+      "O",
+      "E",
+      "V",
+      "P",
+      "A",
+      "U",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BARREL",
+      "gloss": "A cylindrical container.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EASEL",
+      "gloss": "A stand for an artist’s canvas.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GLADE",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A series of musical notes; also size ratio.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WINDOW",
+      "gloss": "An opening that lets in light.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-11T11:38:57.051Z"
+}
