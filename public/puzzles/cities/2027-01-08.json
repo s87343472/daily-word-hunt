@@ -1,0 +1,393 @@
+{
+  "id": "cities-2027-01-08",
+  "playDate": "2027-01-08",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "E",
+      "N",
+      "I",
+      "L",
+      "Y",
+      "K",
+      "S",
+      "H",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "R",
+      "C",
+      "N",
+      "O",
+      "C",
+      "T",
+      "L"
+    ],
+    [
+      "Z",
+      "I",
+      "W",
+      "U",
+      "W",
+      "W",
+      "E",
+      "H",
+      "X",
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "N",
+      "T",
+      "I",
+      "L",
+      "E",
+      "S",
+      "L"
+    ],
+    [
+      "F",
+      "L",
+      "Y",
+      "W",
+      "E",
+      "V",
+      "Q",
+      "D",
+      "Y",
+      "A"
+    ],
+    [
+      "Y",
+      "O",
+      "E",
+      "A",
+      "H",
+      "X",
+      "D",
+      "A",
+      "R",
+      "H"
+    ],
+    [
+      "R",
+      "O",
+      "R",
+      "Y",
+      "U",
+      "Z",
+      "W",
+      "D",
+      "I",
+      "D"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "T",
+      "A",
+      "B",
+      "E",
+      "N",
+      "P",
+      "O"
+    ],
+    [
+      "E",
+      "L",
+      "N",
+      "Y",
+      "U",
+      "E",
+      "P",
+      "J",
+      "N",
+      "O"
+    ],
+    [
+      "F",
+      "Y",
+      "U",
+      "S",
+      "B",
+      "Z",
+      "P",
+      "F",
+      "S",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CONCRETE",
+      "gloss": "A building material of cement and aggregate.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FOODHALL",
+      "gloss": "A large indoor space with many food vendors.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "RUNWAY",
+      "gloss": "A strip for aircraft takeoff and landing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TURNTILE",
+      "gloss": "A revolving gate for controlling entry.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-12T11:41:20.636Z"
+}

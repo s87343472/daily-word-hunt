@@ -1,0 +1,377 @@
+{
+  "id": "nature-2027-01-08",
+  "playDate": "2027-01-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "I",
+      "E",
+      "P",
+      "I",
+      "N",
+      "E",
+      "C",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "J",
+      "C",
+      "G",
+      "V",
+      "T",
+      "R",
+      "G",
+      "N",
+      "I",
+      "W"
+    ],
+    [
+      "E",
+      "O",
+      "J",
+      "U",
+      "D",
+      "U",
+      "N",
+      "I",
+      "W",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      "K",
+      "N",
+      "C",
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "Z",
+      "S",
+      "X",
+      "H",
+      "T",
+      "D",
+      "S",
+      "Y"
+    ],
+    [
+      "U",
+      "L",
+      "T",
+      "C",
+      "U",
+      "U",
+      "B",
+      "H",
+      "R",
+      "I"
+    ],
+    [
+      "G",
+      "R",
+      "W",
+      "L",
+      "O",
+      "M",
+      "E",
+      "O",
+      "C",
+      "A"
+    ],
+    [
+      "F",
+      "E",
+      "Y",
+      "R",
+      "E",
+      "R",
+      "M",
+      "V",
+      "I",
+      "P"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "K",
+      "O",
+      "G",
+      "Y",
+      "E",
+      "Z",
+      "R"
+    ],
+    [
+      "R",
+      "F",
+      "R",
+      "N",
+      "V",
+      "A",
+      "C",
+      "R",
+      "R",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUMMER",
+      "gloss": "The warmest season of the year.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-12T11:41:20.631Z"
+}

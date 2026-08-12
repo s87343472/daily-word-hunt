@@ -1,0 +1,413 @@
+{
+  "id": "history-2027-01-08",
+  "playDate": "2027-01-08",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "B",
+      "L",
+      "R",
+      "T",
+      "F",
+      "N",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "B",
+      "A",
+      "D",
+      "C",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "B",
+      "C",
+      "Y",
+      "J",
+      "A",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "R",
+      "J",
+      "H",
+      "E",
+      "N",
+      "E",
+      "C",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "K",
+      "O",
+      "V",
+      "S",
+      "G",
+      "O",
+      "R",
+      "G"
+    ],
+    [
+      "P",
+      "U",
+      "D",
+      "C",
+      "Q",
+      "R",
+      "D",
+      "K",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "U",
+      "O",
+      "U",
+      "K",
+      "N",
+      "S",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "J",
+      "F",
+      "I",
+      "L",
+      "E",
+      "W",
+      "A",
+      "W"
+    ],
+    [
+      "G",
+      "L",
+      "I",
+      "C",
+      "N",
+      "U",
+      "O",
+      "C",
+      "D",
+      "X"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "T",
+      "U",
+      "L",
+      "O",
+      "V",
+      "E",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CAMPAIGN",
+      "gloss": "A series of military operations.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-12T11:41:20.642Z"
+}
