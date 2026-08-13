@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-01-09",
+  "playDate": "2027-01-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "C",
+      "K",
+      "G",
+      "K",
+      "C",
+      "G",
+      "Q",
+      "O",
+      "P"
+    ],
+    [
+      "Q",
+      "J",
+      "A",
+      "O",
+      "S",
+      "R",
+      "W",
+      "B",
+      "N",
+      "M"
+    ],
+    [
+      "S",
+      "G",
+      "O",
+      "Z",
+      "A",
+      "X",
+      "K",
+      "W",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "R",
+      "B",
+      "N",
+      "H",
+      "L",
+      "Z",
+      "J",
+      "C",
+      "M"
+    ],
+    [
+      "B",
+      "N",
+      "I",
+      "E",
+      "A",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "T",
+      "O",
+      "D",
+      "A",
+      "T",
+      "E",
+      "B",
+      "O",
+      "B"
+    ],
+    [
+      "E",
+      "H",
+      "I",
+      "P",
+      "G",
+      "C",
+      "U",
+      "R",
+      "V",
+      "S"
+    ],
+    [
+      "I",
+      "T",
+      "K",
+      "U",
+      "M",
+      "M",
+      "H",
+      "L",
+      "P",
+      "G"
+    ],
+    [
+      "V",
+      "Y",
+      "A",
+      "B",
+      "K",
+      "U",
+      "F",
+      "I",
+      "I",
+      "K"
+    ],
+    [
+      "N",
+      "Z",
+      "P",
+      "A",
+      "J",
+      "G",
+      "W",
+      "G",
+      "O",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-13T11:41:47.437Z"
+}

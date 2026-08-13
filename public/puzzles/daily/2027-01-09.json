@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-01-09",
+  "playDate": "2027-01-09",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "Y",
+      "L",
+      "L",
+      "P",
+      "I",
+      "H",
+      "N",
+      "F",
+      "Q"
+    ],
+    [
+      "A",
+      "M",
+      "Q",
+      "S",
+      "A",
+      "R",
+      "G",
+      "I",
+      "H",
+      "N"
+    ],
+    [
+      "U",
+      "K",
+      "A",
+      "G",
+      "E",
+      "I",
+      "T",
+      "C",
+      "I",
+      "G"
+    ],
+    [
+      "X",
+      "L",
+      "O",
+      "D",
+      "A",
+      "T",
+      "L",
+      "K",
+      "R",
+      "P"
+    ],
+    [
+      "C",
+      "Y",
+      "D",
+      "N",
+      "C",
+      "X",
+      "P",
+      "E",
+      "A",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "S",
+      "E",
+      "M",
+      "P",
+      "L",
+      "U",
+      "M"
+    ],
+    [
+      "L",
+      "A",
+      "V",
+      "G",
+      "U",
+      "D",
+      "M",
+      "E",
+      "S",
+      "U"
+    ],
+    [
+      "X",
+      "T",
+      "S",
+      "P",
+      "W",
+      "T",
+      "E",
+      "S",
+      "U",
+      "O"
+    ],
+    [
+      "P",
+      "D",
+      "K",
+      "I",
+      "W",
+      "A",
+      "S",
+      "U",
+      "G",
+      "K"
+    ],
+    [
+      "M",
+      "U",
+      "H",
+      "E",
+      "O",
+      "D",
+      "C",
+      "Q",
+      "S",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLASP",
+      "gloss": "A fastening device.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GIANT",
+      "gloss": "Extremely large.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LADDER",
+      "gloss": "A frame of steps for climbing.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NICKEL",
+      "gloss": "A silvery metal; also a coin.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLUM",
+      "gloss": "A juicy purple or red stone fruit.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PUMPKIN",
+      "gloss": "A large orange gourd.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUEDE",
+      "gloss": "Leather with a soft napped surface.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "YOGA",
+      "gloss": "A practice of postures and breathing.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-13T11:41:47.429Z"
+}

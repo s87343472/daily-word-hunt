@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-01-09",
+  "playDate": "2027-01-09",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "M",
+      "B",
+      "A",
+      "S",
+      "S",
+      "A",
+      "D",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "P",
+      "D",
+      "Y",
+      "N",
+      "J",
+      "Y",
+      "O",
+      "K",
+      "M"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      "V",
+      "E",
+      "R",
+      "Y",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "N",
+      "W",
+      "L",
+      "U",
+      "S",
+      "N",
+      "O",
+      "C"
+    ],
+    [
+      "T",
+      "G",
+      "E",
+      "G",
+      "A",
+      "R",
+      "F",
+      "F",
+      "U",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "J",
+      "F",
+      "D",
+      "O",
+      "Q",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "N",
+      "I",
+      "F",
+      "X",
+      "L",
+      "O",
+      "H",
+      "R",
+      "X",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "D",
+      "B",
+      "S",
+      "E",
+      "M",
+      "H",
+      "J",
+      "G"
+    ],
+    [
+      "S",
+      "R",
+      "T",
+      "I",
+      "L",
+      "H",
+      "E",
+      "H",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "Q",
+      "V",
+      "C",
+      "I",
+      "J",
+      "M",
+      "T",
+      "H",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "KINGDOM",
+      "gloss": "A country ruled by a king or queen.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PILGRIM",
+      "gloss": "A person traveling for religious reasons.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-13T11:41:47.455Z"
+}
