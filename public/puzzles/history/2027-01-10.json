@@ -1,0 +1,437 @@
+{
+  "id": "history-2027-01-10",
+  "playDate": "2027-01-10",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "A",
+      "S",
+      "H",
+      "B",
+      "Y",
+      "A",
+      "Y",
+      "D",
+      "F"
+    ],
+    [
+      "A",
+      "C",
+      "Q",
+      "I",
+      "P",
+      "Z",
+      "S",
+      "B",
+      "Y",
+      "D"
+    ],
+    [
+      "I",
+      "L",
+      "F",
+      "E",
+      "S",
+      "D",
+      "T",
+      "P",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "R",
+      "I",
+      "D",
+      "R",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "O",
+      "S",
+      "Q",
+      "O",
+      "E",
+      "M",
+      "O",
+      "E",
+      "I",
+      "R"
+    ],
+    [
+      "T",
+      "S",
+      "T",
+      "G",
+      "G",
+      "R",
+      "N",
+      "L",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "H",
+      "L",
+      "E",
+      "O",
+      "O",
+      "S",
+      "Q",
+      "L"
+    ],
+    [
+      "I",
+      "C",
+      "B",
+      "Y",
+      "I",
+      "F",
+      "M",
+      "C",
+      "L",
+      "P"
+    ],
+    [
+      "H",
+      "A",
+      "G",
+      "P",
+      "M",
+      "E",
+      "Y",
+      "M",
+      "N",
+      "X"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "H",
+      "T",
+      "R",
+      "M",
+      "D",
+      "O",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASTRONOMY",
+      "gloss": "The study of stars and planets.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SIEGE",
+      "gloss": "A military blockade of a place.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-14T11:39:16.865Z"
+}

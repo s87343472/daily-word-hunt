@@ -1,0 +1,393 @@
+{
+  "id": "nature-2027-01-10",
+  "playDate": "2027-01-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "B",
+      "L",
+      "S",
+      "W",
+      "X",
+      "M",
+      "S",
+      "F",
+      "K"
+    ],
+    [
+      "I",
+      "U",
+      "S",
+      "A",
+      "M",
+      "A",
+      "R",
+      "S",
+      "H",
+      "U"
+    ],
+    [
+      "A",
+      "T",
+      "W",
+      "R",
+      "V",
+      "S",
+      "L",
+      "H",
+      "K",
+      "I"
+    ],
+    [
+      "O",
+      "T",
+      "N",
+      "I",
+      "A",
+      "E",
+      "H",
+      "T",
+      "M",
+      "B"
+    ],
+    [
+      "D",
+      "E",
+      "A",
+      "D",
+      "L",
+      "P",
+      "N",
+      "O",
+      "Y",
+      "L"
+    ],
+    [
+      "Q",
+      "R",
+      "Q",
+      "H",
+      "B",
+      "D",
+      "I",
+      "D",
+      "R",
+      "U"
+    ],
+    [
+      "U",
+      "F",
+      "S",
+      "I",
+      "R",
+      "I",
+      "L",
+      "D",
+      "E",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "C",
+      "V",
+      "V",
+      "Q",
+      "H",
+      "I",
+      "S",
+      "R"
+    ],
+    [
+      "M",
+      "Y",
+      "F",
+      "J",
+      "G",
+      "J",
+      "A",
+      "R",
+      "F",
+      "G"
+    ],
+    [
+      "L",
+      "E",
+      "C",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "J",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "IRIS",
+      "gloss": "A flower with showy blooms.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-14T11:39:16.850Z"
+}
