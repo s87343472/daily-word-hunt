@@ -1,0 +1,405 @@
+{
+  "id": "history-2027-01-11",
+  "playDate": "2027-01-11",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "A",
+      "V",
+      "C",
+      "P",
+      "X",
+      "C",
+      "Q",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "K",
+      "U",
+      "R",
+      "W",
+      "I",
+      "S",
+      "M",
+      "I",
+      "Y"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "I",
+      "T",
+      "N",
+      "O",
+      "R",
+      "F",
+      "H"
+    ],
+    [
+      "P",
+      "Y",
+      "H",
+      "A",
+      "S",
+      "S",
+      "R",
+      "E",
+      "N",
+      "C"
+    ],
+    [
+      "U",
+      "S",
+      "D",
+      "A",
+      "R",
+      "W",
+      "W",
+      "X",
+      "A",
+      "R"
+    ],
+    [
+      "B",
+      "E",
+      "S",
+      "Z",
+      "R",
+      "N",
+      "O",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "L",
+      "S",
+      "I",
+      "E",
+      "K",
+      "B",
+      "T",
+      "R",
+      "R",
+      "G"
+    ],
+    [
+      "I",
+      "P",
+      "L",
+      "B",
+      "B",
+      "L",
+      "O",
+      "N",
+      "D",
+      "I"
+    ],
+    [
+      "C",
+      "P",
+      "Y",
+      "Y",
+      "E",
+      "B",
+      "O",
+      "R",
+      "D",
+      "L"
+    ],
+    [
+      "C",
+      "P",
+      "B",
+      "M",
+      "R",
+      "W",
+      "A",
+      "F",
+      "P",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABBESS",
+      "gloss": "A woman heading a convent.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "OLIGARCHY",
+      "gloss": "Rule by a small group.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-15T11:13:04.410Z"
+}

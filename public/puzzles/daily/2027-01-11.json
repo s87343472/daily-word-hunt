@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-01-11",
+  "playDate": "2027-01-11",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "C",
+      "A",
+      "S",
+      "A",
+      "H",
+      "F",
+      "O",
+      "B",
+      "X"
+    ],
+    [
+      "W",
+      "M",
+      "M",
+      "T",
+      "T",
+      "I",
+      "T",
+      "L",
+      "R",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "O",
+      "R",
+      "U",
+      "O",
+      "E",
+      "E",
+      "S",
+      "L"
+    ],
+    [
+      "C",
+      "Y",
+      "X",
+      "U",
+      "B",
+      "C",
+      "D",
+      "I",
+      "V",
+      "P"
+    ],
+    [
+      "S",
+      "O",
+      "E",
+      "T",
+      "C",
+      "L",
+      "W",
+      "D",
+      "F",
+      "L"
+    ],
+    [
+      "E",
+      "H",
+      "D",
+      "H",
+      "U",
+      "T",
+      "O",
+      "I",
+      "I",
+      "I"
+    ],
+    [
+      "W",
+      "M",
+      "A",
+      "O",
+      "H",
+      "V",
+      "S",
+      "Y",
+      "S",
+      "A"
+    ],
+    [
+      "U",
+      "G",
+      "B",
+      "F",
+      "C",
+      "Y",
+      "O",
+      "U",
+      "H",
+      "R"
+    ],
+    [
+      "B",
+      "P",
+      "M",
+      "E",
+      "T",
+      "G",
+      "L",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "M",
+      "W",
+      "J",
+      "M",
+      "R",
+      "W",
+      "M",
+      "I",
+      "C",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EMBER",
+      "gloss": "A glowing piece of coal or wood.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FISH",
+      "gloss": "An animal that lives in water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SHAFT",
+      "gloss": "A long narrow part; also a vertical passage.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SUIT",
+      "gloss": "A set of clothes; also to be appropriate.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked route through nature.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRUTH",
+      "gloss": "That which is true or real.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TWIST",
+      "gloss": "To turn into a spiral shape.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-15T11:13:04.380Z"
+}
