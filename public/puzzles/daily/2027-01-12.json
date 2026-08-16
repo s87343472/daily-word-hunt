@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-01-12",
+  "playDate": "2027-01-12",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "Z",
+      "Y",
+      "R",
+      "H",
+      "A",
+      "P",
+      "P",
+      "Y",
+      "P"
+    ],
+    [
+      "O",
+      "K",
+      "T",
+      "V",
+      "O",
+      "Q",
+      "I",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "M",
+      "G",
+      "N",
+      "D",
+      "O",
+      "T",
+      "G"
+    ],
+    [
+      "N",
+      "A",
+      "W",
+      "U",
+      "F",
+      "F",
+      "O",
+      "S",
+      "M",
+      "O"
+    ],
+    [
+      "A",
+      "U",
+      "E",
+      "Q",
+      "K",
+      "O",
+      "A",
+      "H",
+      "S",
+      "D"
+    ],
+    [
+      "D",
+      "S",
+      "W",
+      "Q",
+      "F",
+      "O",
+      "L",
+      "M",
+      "L",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "J",
+      "W",
+      "T",
+      "K",
+      "K",
+      "R",
+      "E",
+      "Y"
+    ],
+    [
+      "Z",
+      "D",
+      "I",
+      "L",
+      "O",
+      "S",
+      "V",
+      "I",
+      "N",
+      "L"
+    ],
+    [
+      "V",
+      "X",
+      "M",
+      "R",
+      "H",
+      "F",
+      "S",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "Z",
+      "L",
+      "A",
+      "B",
+      "D",
+      "J",
+      "W",
+      "T",
+      "M",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORN",
+      "gloss": "A tall cereal plant with yellow kernels.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GUEST",
+      "gloss": "A person invited to visit.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HAPPY",
+      "gloss": "Feeling joy or contentment.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HONOR",
+      "gloss": "High respect; also to show respect.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PAGODA",
+      "gloss": "A tiered tower in East Asian architecture.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEED",
+      "gloss": "What a plant grows from.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SOLID",
+      "gloss": "Firm and stable in shape.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TOAST",
+      "gloss": "Bread browned by heat.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-16T11:13:37.339Z"
+}

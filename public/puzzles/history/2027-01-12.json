@@ -1,0 +1,397 @@
+{
+  "id": "history-2027-01-12",
+  "playDate": "2027-01-12",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "B",
+      "R",
+      "Y",
+      "M",
+      "S",
+      "I",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "K",
+      "R",
+      "U",
+      "E",
+      "Z",
+      "B",
+      "L",
+      "T",
+      "N",
+      "U"
+    ],
+    [
+      "V",
+      "N",
+      "M",
+      "H",
+      "Q",
+      "O",
+      "J",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "I",
+      "J",
+      "I",
+      "V",
+      "F",
+      "N",
+      "L",
+      "C",
+      "R"
+    ],
+    [
+      "K",
+      "O",
+      "C",
+      "E",
+      "S",
+      "A",
+      "L",
+      "Y",
+      "I",
+      "E"
+    ],
+    [
+      "W",
+      "C",
+      "R",
+      "Z",
+      "V",
+      "T",
+      "G",
+      "M",
+      "D",
+      "A"
+    ],
+    [
+      "D",
+      "P",
+      "A",
+      "A",
+      "Z",
+      "J",
+      "I",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "E",
+      "G",
+      "L",
+      "T",
+      "C",
+      "M",
+      "Y"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "J",
+      "L",
+      "J",
+      "C",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "C",
+      "E",
+      "N",
+      "T",
+      "U",
+      "R",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-16T11:13:37.360Z"
+}

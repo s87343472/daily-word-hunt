@@ -1,0 +1,377 @@
+{
+  "id": "nature-2027-01-12",
+  "playDate": "2027-01-12",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "K",
+      "V",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "L",
+      "E",
+      "E",
+      "B",
+      "Y",
+      "E",
+      "N",
+      "O",
+      "H",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "A",
+      "W",
+      "L",
+      "Z",
+      "Y",
+      "L",
+      "M",
+      "E"
+    ],
+    [
+      "Q",
+      "I",
+      "K",
+      "Z",
+      "P",
+      "H",
+      "I",
+      "D",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "P",
+      "E",
+      "A",
+      "Z",
+      "H",
+      "A",
+      "I",
+      "F"
+    ],
+    [
+      "D",
+      "O",
+      "U",
+      "O",
+      "A",
+      "T",
+      "V",
+      "J",
+      "A",
+      "Z"
+    ],
+    [
+      "S",
+      "N",
+      "Y",
+      "R",
+      "R",
+      "A",
+      "T",
+      "Y",
+      "F",
+      "K"
+    ],
+    [
+      "M",
+      "C",
+      "D",
+      "N",
+      "N",
+      "T",
+      "H",
+      "M",
+      "E",
+      "V"
+    ],
+    [
+      "L",
+      "Z",
+      "D",
+      "N",
+      "A",
+      "X",
+      "E",
+      "K",
+      "C",
+      "Z"
+    ],
+    [
+      "N",
+      "U",
+      "A",
+      "P",
+      "B",
+      "C",
+      "P",
+      "J",
+      "A",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FIREFLY",
+      "gloss": "An insect that glows at night.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "REEF",
+      "gloss": "A ridge of rock or coral near the surface of water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SAVANNA",
+      "gloss": "A grassy plain with scattered trees.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-16T11:13:37.344Z"
+}
