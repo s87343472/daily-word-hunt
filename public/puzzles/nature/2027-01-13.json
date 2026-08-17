@@ -1,0 +1,389 @@
+{
+  "id": "nature-2027-01-13",
+  "playDate": "2027-01-13",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "W",
+      "Y",
+      "E",
+      "I",
+      "A",
+      "N",
+      "A",
+      "G",
+      "C"
+    ],
+    [
+      "O",
+      "E",
+      "J",
+      "E",
+      "T",
+      "C",
+      "N",
+      "V",
+      "N",
+      "O"
+    ],
+    [
+      "O",
+      "Z",
+      "M",
+      "L",
+      "E",
+      "G",
+      "C",
+      "A",
+      "L",
+      "N"
+    ],
+    [
+      "L",
+      "V",
+      "E",
+      "B",
+      "L",
+      "Y",
+      "U",
+      "L",
+      "S",
+      "S"
+    ],
+    [
+      "B",
+      "D",
+      "J",
+      "K",
+      "L",
+      "W",
+      "T",
+      "A",
+      "H",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "V",
+      "E",
+      "C",
+      "O",
+      "F",
+      "N",
+      "Y",
+      "R"
+    ],
+    [
+      "M",
+      "H",
+      "E",
+      "D",
+      "G",
+      "E",
+      "T",
+      "C",
+      "J",
+      "V"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "H",
+      "K",
+      "E"
+    ],
+    [
+      "F",
+      "F",
+      "Y",
+      "P",
+      "V",
+      "A",
+      "J",
+      "E",
+      "S",
+      "H"
+    ],
+    [
+      "U",
+      "L",
+      "L",
+      "A",
+      "F",
+      "T",
+      "H",
+      "G",
+      "I",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-17T11:18:38.997Z"
+}

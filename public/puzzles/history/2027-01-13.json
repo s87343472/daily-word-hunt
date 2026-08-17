@@ -1,0 +1,401 @@
+{
+  "id": "history-2027-01-13",
+  "playDate": "2027-01-13",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "T",
+      "W",
+      "P",
+      "Y",
+      "E",
+      "Q",
+      "E",
+      "V",
+      "V"
+    ],
+    [
+      "A",
+      "E",
+      "E",
+      "H",
+      "R",
+      "G",
+      "J",
+      "G",
+      "W",
+      "I"
+    ],
+    [
+      "I",
+      "L",
+      "C",
+      "I",
+      "U",
+      "Y",
+      "D",
+      "F",
+      "J",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "R",
+      "L",
+      "J",
+      "N",
+      "T",
+      "C",
+      "D",
+      "P"
+    ],
+    [
+      "T",
+      "G",
+      "U",
+      "O",
+      "V",
+      "Y",
+      "N",
+      "Y",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "R",
+      "O",
+      "S",
+      "Y",
+      "R",
+      "V",
+      "R",
+      "Q",
+      "K"
+    ],
+    [
+      "U",
+      "A",
+      "S",
+      "O",
+      "Q",
+      "A",
+      "P",
+      "R",
+      "X",
+      "G"
+    ],
+    [
+      "D",
+      "P",
+      "Q",
+      "P",
+      "N",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "H",
+      "Z",
+      "H",
+      "D",
+      "W",
+      "R",
+      "H",
+      "I",
+      "B"
+    ],
+    [
+      "I",
+      "D",
+      "I",
+      "Y",
+      "E",
+      "T",
+      "A",
+      "R",
+      "I",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-17T11:18:39.011Z"
+}

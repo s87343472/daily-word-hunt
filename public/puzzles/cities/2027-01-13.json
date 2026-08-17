@@ -1,0 +1,405 @@
+{
+  "id": "cities-2027-01-13",
+  "playDate": "2027-01-13",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "N",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "W",
+      "K"
+    ],
+    [
+      "F",
+      "O",
+      "E",
+      "P",
+      "P",
+      "N",
+      "V",
+      "W",
+      "S",
+      "A"
+    ],
+    [
+      "Y",
+      "I",
+      "U",
+      "A",
+      "T",
+      "K",
+      "H",
+      "O",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "T",
+      "J",
+      "R",
+      "R",
+      "S",
+      "I",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "G",
+      "I",
+      "U",
+      "T",
+      "T",
+      "K",
+      "E",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "H",
+      "D",
+      "L",
+      "M",
+      "T",
+      "H",
+      "L",
+      "D",
+      "O",
+      "W"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      "E",
+      "P",
+      "S",
+      "O",
+      "X",
+      "J",
+      "A"
+    ],
+    [
+      "M",
+      "P",
+      "A",
+      "N",
+      "L",
+      "I",
+      "W",
+      "U",
+      "L",
+      "Y"
+    ],
+    [
+      "K",
+      "X",
+      "C",
+      "T",
+      "E",
+      "H",
+      "E",
+      "M",
+      "S",
+      "Z"
+    ],
+    [
+      "J",
+      "E",
+      "T",
+      "V",
+      "I",
+      "S",
+      "A",
+      "R",
+      "C",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "KIOSK",
+      "gloss": "A small open-fronted booth.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-17T11:18:39.004Z"
+}

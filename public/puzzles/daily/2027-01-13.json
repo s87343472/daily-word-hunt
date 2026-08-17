@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-01-13",
+  "playDate": "2027-01-13",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "F",
+      "T",
+      "S",
+      "A",
+      "U",
+      "W",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "D",
+      "Y",
+      "O",
+      "X",
+      "S",
+      "I",
+      "A",
+      "Y",
+      "G",
+      "D"
+    ],
+    [
+      "M",
+      "I",
+      "G",
+      "S",
+      "L",
+      "N",
+      "F",
+      "K",
+      "S",
+      "I"
+    ],
+    [
+      "P",
+      "I",
+      "H",
+      "D",
+      "O",
+      "B",
+      "L",
+      "Z",
+      "G",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "E",
+      "R",
+      "V",
+      "A",
+      "L",
+      "O",
+      "R"
+    ],
+    [
+      "N",
+      "Q",
+      "X",
+      "E",
+      "Y",
+      "I",
+      "O",
+      "A",
+      "F",
+      "A"
+    ],
+    [
+      "C",
+      "E",
+      "I",
+      "M",
+      "R",
+      "S",
+      "C",
+      "K",
+      "C",
+      "D"
+    ],
+    [
+      "I",
+      "A",
+      "J",
+      "K",
+      "T",
+      "A",
+      "S",
+      "F",
+      "E",
+      "A"
+    ],
+    [
+      "L",
+      "C",
+      "I",
+      "V",
+      "I",
+      "C",
+      "L",
+      "R",
+      "U",
+      "O"
+    ],
+    [
+      "H",
+      "M",
+      "I",
+      "I",
+      "R",
+      "S",
+      "S",
+      "N",
+      "W",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANOE",
+      "gloss": "A light narrow boat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CIVIC",
+      "gloss": "Relating to a city or citizens.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MINERAL",
+      "gloss": "A solid natural inorganic substance.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PENCIL",
+      "gloss": "A tool for writing or drawing with graphite.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOAD",
+      "gloss": "A tailless amphibian.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "VALOR",
+      "gloss": "Great courage.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WILD",
+      "gloss": "Living or growing in a natural state.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-17T11:18:38.990Z"
+}
