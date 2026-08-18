@@ -1,0 +1,333 @@
+{
+  "id": "daily-2027-01-14",
+  "playDate": "2027-01-14",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "D",
+      "T",
+      "O",
+      "W",
+      "U",
+      "F",
+      "Z",
+      "K",
+      "B"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "F",
+      "V",
+      "O",
+      "R",
+      "C",
+      "H",
+      "D"
+    ],
+    [
+      "H",
+      "E",
+      "Z",
+      "A",
+      "E",
+      "T",
+      "E",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "H",
+      "T",
+      "C",
+      "P",
+      "D",
+      "R",
+      "Y",
+      "A",
+      "T",
+      "K"
+    ],
+    [
+      "T",
+      "H",
+      "I",
+      "R",
+      "W",
+      "G",
+      "U",
+      "O",
+      "A",
+      "Z"
+    ],
+    [
+      "W",
+      "H",
+      "D",
+      "F",
+      "Q",
+      "G",
+      "T",
+      "Y",
+      "N",
+      "N"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "M",
+      "R",
+      "E",
+      "W",
+      "X",
+      "I",
+      "O"
+    ],
+    [
+      "F",
+      "K",
+      "R",
+      "P",
+      "P",
+      "O",
+      "S",
+      "S",
+      "L",
+      "B"
+    ],
+    [
+      "L",
+      "L",
+      "E",
+      "H",
+      "S",
+      "H",
+      "S",
+      "C",
+      "W",
+      "L"
+    ],
+    [
+      "T",
+      "Z",
+      "T",
+      "M",
+      "M",
+      "X",
+      "L",
+      "T",
+      "A",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CIDER",
+      "gloss": "A drink made from apple juice.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "GUARD",
+      "gloss": "To protect; also a person who protects.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NOBLE",
+      "gloss": "Having high moral qualities; also aristocratic.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SHELL",
+      "gloss": "A hard outer covering of a sea animal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TEA",
+      "gloss": "A drink made from steeped leaves.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TOTE",
+      "gloss": "A large open bag.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WRECK",
+      "gloss": "A destroyed ship or vehicle.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-18T11:18:41.986Z"
+}
