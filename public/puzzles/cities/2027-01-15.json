@@ -1,0 +1,433 @@
+{
+  "id": "cities-2027-01-15",
+  "playDate": "2027-01-15",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "C",
+      "I",
+      "T",
+      "I",
+      "Z",
+      "E",
+      "N",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "Q",
+      "Y",
+      "L",
+      "C",
+      "B",
+      "D",
+      "G",
+      "X",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "U",
+      "W",
+      "O",
+      "M",
+      "I",
+      "S",
+      "L",
+      "N"
+    ],
+    [
+      "C",
+      "I",
+      "O",
+      "O",
+      "N",
+      "Y",
+      "S",
+      "T",
+      "I",
+      "I"
+    ],
+    [
+      "H",
+      "X",
+      "P",
+      "L",
+      "C",
+      "C",
+      "T",
+      "A",
+      "A",
+      "J"
+    ],
+    [
+      "F",
+      "P",
+      "E",
+      "A",
+      "O",
+      "B",
+      "R",
+      "T",
+      "R",
+      "B"
+    ],
+    [
+      "R",
+      "Q",
+      "R",
+      "G",
+      "U",
+      "C",
+      "I",
+      "I",
+      "O",
+      "V"
+    ],
+    [
+      "O",
+      "I",
+      "A",
+      "N",
+      "R",
+      "T",
+      "C",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "N",
+      "H",
+      "G",
+      "U",
+      "S",
+      "T",
+      "T",
+      "N",
+      "O",
+      "M"
+    ],
+    [
+      "T",
+      "Z",
+      "W",
+      "B",
+      "E",
+      "L",
+      "A",
+      "Q",
+      "M",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BUNGALOW",
+      "gloss": "A low house with a wide porch.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "DISTRICT",
+      "gloss": "An area of a city with a particular character.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MONORAIL",
+      "gloss": "A railway with a single rail.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-19T11:18:28.848Z"
+}

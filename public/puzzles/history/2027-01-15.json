@@ -1,0 +1,441 @@
+{
+  "id": "history-2027-01-15",
+  "playDate": "2027-01-15",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Z",
+      "M",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "O",
+      "W",
+      "U",
+      "T",
+      "G",
+      "E",
+      "T",
+      "N",
+      "R",
+      "N"
+    ],
+    [
+      "I",
+      "T",
+      "I",
+      "W",
+      "A",
+      "A",
+      "C",
+      "O",
+      "O",
+      "Y"
+    ],
+    [
+      "T",
+      "T",
+      "N",
+      "X",
+      "Y",
+      "C",
+      "U",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "I",
+      "H",
+      "N",
+      "J",
+      "J",
+      "N",
+      "T",
+      "T",
+      "V",
+      "T"
+    ],
+    [
+      "D",
+      "G",
+      "E",
+      "S",
+      "R",
+      "A",
+      "O",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "L",
+      "K",
+      "R",
+      "O",
+      "C",
+      "L",
+      "C",
+      "P"
+    ],
+    [
+      "P",
+      "N",
+      "L",
+      "G",
+      "L",
+      "P",
+      "O",
+      "O",
+      "O",
+      "S"
+    ],
+    [
+      "X",
+      "K",
+      "I",
+      "D",
+      "I",
+      "W",
+      "N",
+      "B",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "M",
+      "M",
+      "Z",
+      "B",
+      "K",
+      "V",
+      "A",
+      "Z",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MIGRATION",
+      "gloss": "Movement of people from one place to another.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-19T11:18:28.857Z"
+}

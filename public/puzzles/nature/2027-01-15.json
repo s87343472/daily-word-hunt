@@ -1,0 +1,349 @@
+{
+  "id": "nature-2027-01-15",
+  "playDate": "2027-01-15",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "K",
+      "T",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "C"
+    ],
+    [
+      "N",
+      "I",
+      "R",
+      "J",
+      "M",
+      "Q",
+      "X",
+      "N",
+      "H",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "A",
+      "Q",
+      "N",
+      "E",
+      "S",
+      "T",
+      "R"
+    ],
+    [
+      "G",
+      "S",
+      "S",
+      "G",
+      "B",
+      "P",
+      "O",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "Z",
+      "O",
+      "Z",
+      "U",
+      "K",
+      "E",
+      "Z",
+      "L",
+      "E",
+      "L"
+    ],
+    [
+      "D",
+      "R",
+      "L",
+      "J",
+      "I",
+      "R",
+      "I",
+      "P",
+      "T",
+      "R"
+    ],
+    [
+      "M",
+      "E",
+      "F",
+      "J",
+      "K",
+      "V",
+      "H",
+      "O",
+      "G",
+      "E"
+    ],
+    [
+      "P",
+      "M",
+      "L",
+      "T",
+      "R",
+      "K",
+      "O",
+      "D",
+      "V",
+      "E"
+    ],
+    [
+      "D",
+      "S",
+      "A",
+      "T",
+      "W",
+      "H",
+      "H",
+      "F",
+      "S",
+      "F"
+    ],
+    [
+      "O",
+      "F",
+      "A",
+      "M",
+      "A",
+      "J",
+      "R",
+      "T",
+      "T",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-19T11:18:28.843Z"
+}

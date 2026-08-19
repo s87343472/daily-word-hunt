@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-01-15",
+  "playDate": "2027-01-15",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "C",
+      "U",
+      "E",
+      "T",
+      "R",
+      "I",
+      "P",
+      "O",
+      "D"
+    ],
+    [
+      "S",
+      "F",
+      "G",
+      "S",
+      "H",
+      "B",
+      "L",
+      "H",
+      "Y",
+      "Q"
+    ],
+    [
+      "A",
+      "D",
+      "Q",
+      "W",
+      "O",
+      "D",
+      "A",
+      "E",
+      "M",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "F",
+      "M",
+      "O",
+      "S",
+      "Q",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "P",
+      "E",
+      "E",
+      "U",
+      "Z",
+      "D",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "J",
+      "T",
+      "L",
+      "R",
+      "S",
+      "H",
+      "I",
+      "M",
+      "Z",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "L",
+      "O",
+      "P",
+      "E",
+      "C",
+      "Y",
+      "G",
+      "S"
+    ],
+    [
+      "V",
+      "A",
+      "N",
+      "M",
+      "E",
+      "F",
+      "E",
+      "X",
+      "Q",
+      "V"
+    ],
+    [
+      "W",
+      "U",
+      "G",
+      "R",
+      "N",
+      "K",
+      "O",
+      "H",
+      "D",
+      "Z"
+    ],
+    [
+      "U",
+      "P",
+      "E",
+      "P",
+      "A",
+      "L",
+      "M",
+      "L",
+      "C",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHEESE",
+      "gloss": "A food made from milk curds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EDGE",
+      "gloss": "The outside limit of an object.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PALM",
+      "gloss": "A tropical tree; also the inner hand.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches and deserts.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STEM",
+      "gloss": "The main stalk of a plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TRIPOD",
+      "gloss": "A three-legged stand.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "gloss": "A large marine mammal with tusks.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-19T11:18:28.838Z"
+}
