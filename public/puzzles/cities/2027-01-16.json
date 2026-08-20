@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-01-16",
+  "playDate": "2027-01-16",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "C",
+      "P",
+      "O",
+      "T",
+      "S",
+      "S",
+      "U",
+      "B",
+      "E"
+    ],
+    [
+      "L",
+      "U",
+      "O",
+      "W",
+      "N",
+      "M",
+      "R",
+      "P",
+      "N",
+      "N"
+    ],
+    [
+      "A",
+      "A",
+      "Q",
+      "U",
+      "A",
+      "O",
+      "I",
+      "H",
+      "W",
+      "O"
+    ],
+    [
+      "M",
+      "L",
+      "W",
+      "Y",
+      "R",
+      "T",
+      "R",
+      "O",
+      "J",
+      "B"
+    ],
+    [
+      "P",
+      "U",
+      "O",
+      "M",
+      "C",
+      "T",
+      "T",
+      "F",
+      "Z",
+      "V"
+    ],
+    [
+      "O",
+      "R",
+      "U",
+      "H",
+      "X",
+      "P",
+      "Y",
+      "M",
+      "X",
+      "V"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "Y",
+      "U",
+      "S",
+      "C",
+      "A",
+      "Z",
+      "R"
+    ],
+    [
+      "T",
+      "C",
+      "V",
+      "Y",
+      "V",
+      "B",
+      "U",
+      "T",
+      "R",
+      "D"
+    ],
+    [
+      "P",
+      "D",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L",
+      "C",
+      "D"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "W",
+      "A",
+      "L",
+      "K",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUSSTOP",
+      "gloss": "A place where buses pick up passengers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CROSSWALK",
+      "gloss": "A marked place to cross a street.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LAMPOST",
+      "gloss": "A tall post with a light.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAYOR",
+      "gloss": "The elected head of a city.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PITCH",
+      "gloss": "A sports field.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-20T11:20:02.141Z"
+}

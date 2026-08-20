@@ -1,0 +1,349 @@
+{
+  "id": "daily-2027-01-16",
+  "playDate": "2027-01-16",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "W",
+      "T",
+      "I",
+      "D",
+      "H",
+      "E",
+      "G",
+      "W",
+      "B"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "A",
+      "D",
+      "E",
+      "M",
+      "I",
+      "E",
+      "M"
+    ],
+    [
+      "X",
+      "E",
+      "R",
+      "I",
+      "C",
+      "X",
+      "C",
+      "G",
+      "P",
+      "A"
+    ],
+    [
+      "I",
+      "I",
+      "Y",
+      "P",
+      "S",
+      "K",
+      "I",
+      "R",
+      "H",
+      "E"
+    ],
+    [
+      "J",
+      "B",
+      "L",
+      "D",
+      "L",
+      "N",
+      "L",
+      "C",
+      "Z",
+      "R"
+    ],
+    [
+      "V",
+      "Z",
+      "K",
+      "E",
+      "O",
+      "A",
+      "X",
+      "M",
+      "R",
+      "T"
+    ],
+    [
+      "K",
+      "F",
+      "W",
+      "H",
+      "W",
+      "L",
+      "C",
+      "K",
+      "G",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "F",
+      "F",
+      "P",
+      "W",
+      "E",
+      "E",
+      "O",
+      "T"
+    ],
+    [
+      "J",
+      "H",
+      "T",
+      "S",
+      "E",
+      "N",
+      "J",
+      "M",
+      "K",
+      "D"
+    ],
+    [
+      "B",
+      "Z",
+      "Y",
+      "X",
+      "B",
+      "O",
+      "O",
+      "P",
+      "O",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEGIN",
+      "gloss": "To start.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "JEWEL",
+      "gloss": "A precious stone.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MEDAL",
+      "gloss": "A metal disk given as an award.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MELODY",
+      "gloss": "A sequence of musical notes.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "XERIC",
+      "gloss": "Adapted to a dry environment.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-20T11:20:02.131Z"
+}

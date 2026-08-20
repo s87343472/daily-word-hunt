@@ -1,0 +1,437 @@
+{
+  "id": "history-2027-01-16",
+  "playDate": "2027-01-16",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "O",
+      "Q",
+      "U",
+      "E",
+      "X",
+      "E",
+      "J"
+    ],
+    [
+      "C",
+      "C",
+      "L",
+      "A",
+      "S",
+      "S",
+      "I",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      "Y",
+      "R",
+      "E",
+      "G",
+      "R",
+      "U",
+      "S",
+      "F"
+    ],
+    [
+      "E",
+      "R",
+      "N",
+      "Q",
+      "G",
+      "S",
+      "Z",
+      "S",
+      "L",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "T",
+      "I",
+      "D",
+      "E",
+      "P",
+      "X",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "C",
+      "A",
+      "U",
+      "R",
+      "P",
+      "C",
+      "J",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "L"
+    ],
+    [
+      "C",
+      "N",
+      "T",
+      "N",
+      "N",
+      "D",
+      "I",
+      "P",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "O",
+      "O",
+      "O",
+      "N",
+      "B",
+      "C",
+      "O",
+      "Q",
+      "M"
+    ],
+    [
+      "W",
+      "C",
+      "U",
+      "H",
+      "N",
+      "M",
+      "Q",
+      "E",
+      "N",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONGRESS",
+      "gloss": "A national legislative body.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-20T11:20:02.149Z"
+}
