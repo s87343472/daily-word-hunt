@@ -1,0 +1,325 @@
+{
+  "id": "nature-2027-01-17",
+  "playDate": "2027-01-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "O",
+      "R",
+      "P",
+      "D",
+      "T",
+      "C",
+      "J",
+      "N",
+      "Q"
+    ],
+    [
+      "R",
+      "U",
+      "K",
+      "Q",
+      "U",
+      "U",
+      "U",
+      "C",
+      "B",
+      "Z"
+    ],
+    [
+      "R",
+      "Y",
+      "D",
+      "X",
+      "Y",
+      "J",
+      "K",
+      "O",
+      "X",
+      "D"
+    ],
+    [
+      "E",
+      "U",
+      "R",
+      "L",
+      "N",
+      "A",
+      "D",
+      "Q",
+      "R",
+      "C"
+    ],
+    [
+      "B",
+      "P",
+      "I",
+      "T",
+      "J",
+      "A",
+      "Q",
+      "F",
+      "K",
+      "T"
+    ],
+    [
+      "M",
+      "L",
+      "R",
+      "G",
+      "R",
+      "N",
+      "S",
+      "C",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "Z",
+      "X",
+      "H",
+      "B",
+      "U",
+      "E",
+      "P",
+      "U",
+      "M"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "E",
+      "V",
+      "S",
+      "N",
+      "N",
+      "L",
+      "R"
+    ],
+    [
+      "X",
+      "I",
+      "J",
+      "G",
+      "W",
+      "J",
+      "W",
+      "K",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "E",
+      "V",
+      "Q",
+      "R",
+      "V",
+      "D",
+      "A",
+      "P",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-21T11:18:59.811Z"
+}

@@ -1,0 +1,429 @@
+{
+  "id": "cities-2027-01-17",
+  "playDate": "2027-01-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "F",
+      "R",
+      "E",
+      "T",
+      "O",
+      "O",
+      "C",
+      "S"
+    ],
+    [
+      "Q",
+      "E",
+      "U",
+      "E",
+      "G",
+      "A",
+      "I",
+      "D",
+      "N",
+      "S"
+    ],
+    [
+      "U",
+      "G",
+      "C",
+      "Y",
+      "S",
+      "H",
+      "Z",
+      "D",
+      "W",
+      "C"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "A",
+      "A",
+      "T",
+      "Z",
+      "X",
+      "L",
+      "G"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "W",
+      "Y",
+      "M",
+      "I",
+      "I",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "E",
+      "W",
+      "N",
+      "N",
+      "V",
+      "K",
+      "W"
+    ],
+    [
+      "U",
+      "S",
+      "L",
+      "E",
+      "F",
+      "I",
+      "X",
+      "P",
+      "A",
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      "E",
+      "R",
+      "C",
+      "U",
+      "H",
+      "Y",
+      "P",
+      "L"
+    ],
+    [
+      "H",
+      "P",
+      "H",
+      "F",
+      "C",
+      "H",
+      "H",
+      "Y",
+      "C",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CLINIC",
+      "gloss": "A place for medical treatment.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CLOCKTOWER",
+      "gloss": "A tower with a large public clock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-21T11:18:59.817Z"
+}
