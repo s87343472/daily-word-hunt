@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-01-18",
+  "playDate": "2027-01-18",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "C",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "S",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "Z",
+      "A",
+      "S",
+      "Z",
+      "A",
+      "T",
+      "H",
+      "A",
+      "D"
+    ],
+    [
+      "I",
+      "P",
+      "J",
+      "X",
+      "P",
+      "R",
+      "S",
+      "E",
+      "F",
+      "L"
+    ],
+    [
+      "R",
+      "J",
+      "H",
+      "L",
+      "I",
+      "A",
+      "R",
+      "J",
+      "N",
+      "M"
+    ],
+    [
+      "N",
+      "Y",
+      "I",
+      "P",
+      "S",
+      "T",
+      "R",
+      "D",
+      "K",
+      "Z"
+    ],
+    [
+      "D",
+      "Z",
+      "E",
+      "S",
+      "S",
+      "U",
+      "V",
+      "F",
+      "E",
+      "J"
+    ],
+    [
+      "H",
+      "A",
+      "T",
+      "B",
+      "P",
+      "T",
+      "M",
+      "T",
+      "D",
+      "W"
+    ],
+    [
+      "Y",
+      "H",
+      "P",
+      "R",
+      "I",
+      "S",
+      "M",
+      "M",
+      "Z",
+      "I"
+    ],
+    [
+      "I",
+      "J",
+      "J",
+      "Y",
+      "A",
+      "C",
+      "O",
+      "Z",
+      "I",
+      "M"
+    ],
+    [
+      "X",
+      "J",
+      "G",
+      "N",
+      "O",
+      "R",
+      "T",
+      "S",
+      "P",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COPPER",
+      "gloss": "A reddish metal used in wires.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HAT",
+      "gloss": "A covering for the head.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PRISM",
+      "gloss": "A transparent object that splits light.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SPAR",
+      "gloss": "A stout pole for sails.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STREAK",
+      "gloss": "A long thin mark.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STRIPE",
+      "gloss": "A long narrow band of color.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STRONG",
+      "gloss": "Having power or force.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-22T11:14:34.398Z"
+}
