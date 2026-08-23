@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-01-19",
+  "playDate": "2027-01-19",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "L",
+      "E",
+      "Z",
+      "O",
+      "P",
+      "S",
+      "O",
+      "W",
+      "K"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "U",
+      "D",
+      "P",
+      "C",
+      "U",
+      "B",
+      "G"
+    ],
+    [
+      "F",
+      "W",
+      "E",
+      "H",
+      "E",
+      "B",
+      "R",
+      "I",
+      "C",
+      "K"
+    ],
+    [
+      "B",
+      "O",
+      "Y",
+      "C",
+      "F",
+      "M",
+      "K",
+      "K",
+      "Z",
+      "V"
+    ],
+    [
+      "R",
+      "R",
+      "K",
+      "P",
+      "V",
+      "V",
+      "D",
+      "X",
+      "V",
+      "Z"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "S",
+      "T",
+      "T",
+      "O",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "I",
+      "V",
+      "W",
+      "O",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "B"
+    ],
+    [
+      "N",
+      "U",
+      "O",
+      "V",
+      "N",
+      "Q",
+      "F",
+      "G",
+      "Y",
+      "Z"
+    ],
+    [
+      "F",
+      "P",
+      "L",
+      "E",
+      "O",
+      "G",
+      "B",
+      "U",
+      "M",
+      "Q"
+    ],
+    [
+      "B",
+      "H",
+      "Z",
+      "A",
+      "R",
+      "M",
+      "O",
+      "R",
+      "A",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMOR",
+      "gloss": "Protective covering in battle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BRAIN",
+      "gloss": "The organ of thought.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BRICK",
+      "gloss": "A rectangular block used in building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FRUIT",
+      "gloss": "Sweet plant product with seeds.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SONG",
+      "gloss": "Music with or without words.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPECK",
+      "gloss": "A tiny spot or particle.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TONGS",
+      "gloss": "A tool for gripping hot items.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROWEL",
+      "gloss": "A small hand tool for gardening.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-23T11:14:48.171Z"
+}

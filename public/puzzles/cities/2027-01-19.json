@@ -1,0 +1,393 @@
+{
+  "id": "cities-2027-01-19",
+  "playDate": "2027-01-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "D",
+      "R",
+      "A",
+      "O",
+      "B",
+      "L",
+      "L",
+      "I",
+      "B"
+    ],
+    [
+      "U",
+      "E",
+      "T",
+      "O",
+      "N",
+      "R",
+      "U",
+      "S",
+      "L",
+      "M"
+    ],
+    [
+      "J",
+      "B",
+      "L",
+      "S",
+      "I",
+      "I",
+      "F",
+      "J",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "M",
+      "Q",
+      "S",
+      "O",
+      "D",
+      "R",
+      "N",
+      "R",
+      "B"
+    ],
+    [
+      "T",
+      "U",
+      "U",
+      "A",
+      "H",
+      "V",
+      "N",
+      "A",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "E",
+      "G",
+      "R",
+      "O",
+      "I",
+      "E",
+      "T",
+      "M",
+      "L"
+    ],
+    [
+      "P",
+      "S",
+      "R",
+      "A",
+      "Y",
+      "L",
+      "D",
+      "E",
+      "W",
+      "I"
+    ],
+    [
+      "N",
+      "U",
+      "U",
+      "R",
+      "V",
+      "L",
+      "R",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "M",
+      "F",
+      "H",
+      "U",
+      "A",
+      "A",
+      "Y",
+      "Y",
+      "K"
+    ],
+    [
+      "R",
+      "F",
+      "R",
+      "D",
+      "B",
+      "T",
+      "G",
+      "Q",
+      "A",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MARINA",
+      "gloss": "A dock for pleasure boats.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A building that displays collections.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OBELISK",
+      "gloss": "A tall four-sided stone pillar.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAMWAY",
+      "gloss": "Tracks for a tram.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VILLA",
+      "gloss": "A large free-standing house.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-23T11:14:48.183Z"
+}

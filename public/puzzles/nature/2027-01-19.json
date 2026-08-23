@@ -1,0 +1,333 @@
+{
+  "id": "nature-2027-01-19",
+  "playDate": "2027-01-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "C",
+      "R",
+      "W",
+      "B",
+      "C",
+      "J",
+      "U",
+      "S",
+      "W"
+    ],
+    [
+      "E",
+      "C",
+      "A",
+      "W",
+      "F",
+      "O",
+      "X",
+      "F",
+      "Z",
+      "A"
+    ],
+    [
+      "Y",
+      "P",
+      "N",
+      "O",
+      "S",
+      "A",
+      "E",
+      "S",
+      "G",
+      "V"
+    ],
+    [
+      "S",
+      "F",
+      "P",
+      "G",
+      "R",
+      "K",
+      "A",
+      "G",
+      "Z",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "V",
+      "S",
+      "G",
+      "Q",
+      "J",
+      "Y",
+      "O"
+    ],
+    [
+      "R",
+      "T",
+      "V",
+      "G",
+      "F",
+      "A",
+      "H",
+      "K",
+      "C",
+      "P"
+    ],
+    [
+      "K",
+      "X",
+      "X",
+      "R",
+      "C",
+      "G",
+      "C",
+      "E",
+      "M",
+      "P"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "A",
+      "C",
+      "A",
+      "D",
+      "F",
+      "I",
+      "N"
+    ],
+    [
+      "W",
+      "N",
+      "P",
+      "R",
+      "R",
+      "A",
+      "R",
+      "J",
+      "K",
+      "B"
+    ],
+    [
+      "M",
+      "S",
+      "S",
+      "T",
+      "R",
+      "O",
+      "C",
+      "H",
+      "O",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-23T11:14:48.177Z"
+}

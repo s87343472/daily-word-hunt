@@ -1,0 +1,409 @@
+{
+  "id": "history-2027-01-19",
+  "playDate": "2027-01-19",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "R",
+      "U",
+      "T",
+      "P",
+      "L",
+      "U",
+      "C",
+      "S",
+      "J"
+    ],
+    [
+      "Y",
+      "T",
+      "G",
+      "N",
+      "I",
+      "T",
+      "N",
+      "I",
+      "R",
+      "P"
+    ],
+    [
+      "H",
+      "S",
+      "N",
+      "H",
+      "C",
+      "F",
+      "S",
+      "N",
+      "W",
+      "H"
+    ],
+    [
+      "C",
+      "Q",
+      "E",
+      "E",
+      "L",
+      "L",
+      "A",
+      "W",
+      "T",
+      "T"
+    ],
+    [
+      "R",
+      "U",
+      "I",
+      "X",
+      "I",
+      "A",
+      "Z",
+      "X",
+      "V",
+      "S"
+    ],
+    [
+      "A",
+      "I",
+      "V",
+      "H",
+      "B",
+      "C",
+      "D",
+      "D",
+      "U",
+      "H"
+    ],
+    [
+      "G",
+      "R",
+      "R",
+      "I",
+      "G",
+      "K",
+      "N",
+      "S",
+      "D",
+      "L"
+    ],
+    [
+      "I",
+      "E",
+      "C",
+      "B",
+      "G",
+      "M",
+      "N",
+      "A",
+      "J",
+      "R"
+    ],
+    [
+      "L",
+      "H",
+      "M",
+      "I",
+      "D",
+      "E",
+      "J",
+      "T",
+      "F",
+      "L"
+    ],
+    [
+      "O",
+      "X",
+      "N",
+      "T",
+      "C",
+      "N",
+      "H",
+      "J",
+      "R",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CENSUS",
+      "gloss": "An official count of a population.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EXHIBIT",
+      "gloss": "A display of items for the public.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "OLIGARCHY",
+      "gloss": "Rule by a small group.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SQUIRE",
+      "gloss": "A young man attending a knight.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-23T11:14:48.189Z"
+}
