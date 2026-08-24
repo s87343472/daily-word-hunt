@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-01-20",
+  "playDate": "2027-01-20",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "Q",
+      "L",
+      "W",
+      "W",
+      "F",
+      "P",
+      "A",
+      "V",
+      "I"
+    ],
+    [
+      "H",
+      "N",
+      "E",
+      "D",
+      "I",
+      "R",
+      "T",
+      "S",
+      "L",
+      "H"
+    ],
+    [
+      "T",
+      "L",
+      "L",
+      "Y",
+      "M",
+      "C",
+      "Q",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "N",
+      "R",
+      "G",
+      "I",
+      "A",
+      "Y",
+      "N",
+      "N",
+      "G",
+      "J"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "L",
+      "V",
+      "N",
+      "F",
+      "K",
+      "T",
+      "S"
+    ],
+    [
+      "G",
+      "N",
+      "I",
+      "H",
+      "U",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "A",
+      "L",
+      "R",
+      "T",
+      "S",
+      "I",
+      "S",
+      "W",
+      "V",
+      "Z"
+    ],
+    [
+      "W",
+      "R",
+      "K",
+      "R",
+      "A",
+      "L",
+      "V",
+      "M",
+      "X",
+      "F"
+    ],
+    [
+      "Y",
+      "Q",
+      "B",
+      "G",
+      "B",
+      "Y",
+      "C",
+      "W",
+      "X",
+      "K"
+    ],
+    [
+      "T",
+      "P",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "P",
+      "B",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "LARK",
+      "gloss": "A songbird; also a carefree adventure.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PUFFIN",
+      "gloss": "A seabird with a colorful beak.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHIRT",
+      "gloss": "A garment for the upper body.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STRIDE",
+      "gloss": "A long step.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WAGON",
+      "gloss": "A four-wheeled vehicle for loads.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-24T11:20:12.850Z"
+}

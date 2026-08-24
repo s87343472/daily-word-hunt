@@ -1,0 +1,429 @@
+{
+  "id": "history-2027-01-20",
+  "playDate": "2027-01-20",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "E",
+      "D",
+      "E",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "D",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "Y",
+      "G",
+      "O",
+      "L",
+      "A",
+      "E",
+      "N",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "U",
+      "N",
+      "F",
+      "E",
+      "A",
+      "T",
+      "A",
+      "V",
+      "R",
+      "M"
+    ],
+    [
+      "P",
+      "K",
+      "K",
+      "Z",
+      "E",
+      "R",
+      "L",
+      "L",
+      "S",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "V",
+      "K",
+      "C",
+      "Y",
+      "A",
+      "A",
+      "J",
+      "N"
+    ],
+    [
+      "Z",
+      "V",
+      "R",
+      "H",
+      "I",
+      "V",
+      "R",
+      "Q",
+      "C",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "I",
+      "S",
+      "A",
+      "U",
+      "Q",
+      "M",
+      "L",
+      "R"
+    ],
+    [
+      "M",
+      "V",
+      "O",
+      "C",
+      "E",
+      "L",
+      "I",
+      "H",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "S",
+      "E",
+      "P",
+      "O",
+      "C",
+      "H",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CAVALRY",
+      "gloss": "Soldiers who fight on horseback.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DESCENDANT",
+      "gloss": "A person descended from an ancestor.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EPOCH",
+      "gloss": "A notable period in history.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FEDERATION",
+      "gloss": "A union of states under central power.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GENEALOGY",
+      "gloss": "The study of family history.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place for trade.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-24T11:20:12.865Z"
+}
