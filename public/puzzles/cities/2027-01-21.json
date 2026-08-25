@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-01-21",
+  "playDate": "2027-01-21",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "A",
+      "U",
+      "Y",
+      "J",
+      "B",
+      "Y",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "E",
+      "T",
+      "C",
+      "P",
+      "E",
+      "J",
+      "J",
+      "U",
+      "R",
+      "U"
+    ],
+    [
+      "R",
+      "D",
+      "X",
+      "O",
+      "H",
+      "N",
+      "X",
+      "O",
+      "H",
+      "I"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "S",
+      "U",
+      "F",
+      "R",
+      "O",
+      "A",
+      "D"
+    ],
+    [
+      "T",
+      "K",
+      "Z",
+      "R",
+      "M",
+      "N",
+      "T",
+      "U",
+      "I",
+      "Z"
+    ],
+    [
+      "A",
+      "Z",
+      "W",
+      "M",
+      "A",
+      "E",
+      "C",
+      "L",
+      "O",
+      "C"
+    ],
+    [
+      "E",
+      "J",
+      "C",
+      "I",
+      "L",
+      "P",
+      "D",
+      "I",
+      "C",
+      "J"
+    ],
+    [
+      "H",
+      "N",
+      "H",
+      "T",
+      "N",
+      "N",
+      "G",
+      "I",
+      "L",
+      "G"
+    ],
+    [
+      "T",
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "E",
+      "I",
+      "G",
+      "H",
+      "B",
+      "O",
+      "R",
+      "T",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that governs a local area.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HOTEL",
+      "gloss": "A place that provides paid lodging.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "JOURNEY",
+      "gloss": "Travel from one place to another.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MEDIAN",
+      "gloss": "A strip separating opposing traffic.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NEIGHBOR",
+      "gloss": "A person living nearby.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PARADE",
+      "gloss": "A public procession.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-25T11:20:41.498Z"
+}

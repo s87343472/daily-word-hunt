@@ -1,0 +1,369 @@
+{
+  "id": "daily-2027-01-21",
+  "playDate": "2027-01-21",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "P",
+      "P",
+      "P",
+      "T",
+      "H",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "J",
+      "U",
+      "I",
+      "P",
+      "R",
+      "A",
+      "L",
+      "Q",
+      "C",
+      "T"
+    ],
+    [
+      "N",
+      "B",
+      "N",
+      "E",
+      "G",
+      "A",
+      "O",
+      "N",
+      "R",
+      "D"
+    ],
+    [
+      "J",
+      "E",
+      "M",
+      "A",
+      "L",
+      "F",
+      "I",
+      "U",
+      "Z",
+      "I"
+    ],
+    [
+      "V",
+      "P",
+      "M",
+      "T",
+      "Q",
+      "V",
+      "N",
+      "R",
+      "B",
+      "W"
+    ],
+    [
+      "Y",
+      "Z",
+      "A",
+      "A",
+      "U",
+      "E",
+      "E",
+      "G",
+      "I",
+      "K"
+    ],
+    [
+      "O",
+      "G",
+      "W",
+      "N",
+      "S",
+      "N",
+      "C",
+      "T",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      "C",
+      "R",
+      "Y",
+      "B",
+      "Q",
+      "L",
+      "N",
+      "L",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "V",
+      "U",
+      "L",
+      "E",
+      "T",
+      "A",
+      "E",
+      "W"
+    ],
+    [
+      "Q",
+      "P",
+      "M",
+      "Y",
+      "E",
+      "N",
+      "O",
+      "H",
+      "W",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FENCE",
+      "gloss": "A barrier enclosing an area.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FLAME",
+      "gloss": "The visible part of fire.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HONEY",
+      "gloss": "Sweet food made by bees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RIVULET",
+      "gloss": "A very small stream.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "THATCH",
+      "gloss": "Roof covering of straw or reeds.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WALNUT",
+      "gloss": "A tree nut with a hard shell.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WIDTH",
+      "gloss": "The measurement from side to side.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-25T11:20:41.485Z"
+}

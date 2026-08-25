@@ -1,0 +1,345 @@
+{
+  "id": "nature-2027-01-21",
+  "playDate": "2027-01-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "E",
+      "A",
+      "K",
+      "N",
+      "E",
+      "I",
+      "J",
+      "X",
+      "P"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "F",
+      "L",
+      "A",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "E",
+      "O",
+      "C",
+      "S",
+      "C",
+      "Z",
+      "U",
+      "H",
+      "S"
+    ],
+    [
+      "M",
+      "R",
+      "F",
+      "Z",
+      "I",
+      "H",
+      "Z",
+      "F",
+      "I",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "T",
+      "S",
+      "F",
+      "U",
+      "X",
+      "L",
+      "A"
+    ],
+    [
+      "I",
+      "S",
+      "C",
+      "V",
+      "E",
+      "Z",
+      "A",
+      "E",
+      "L",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "I",
+      "X",
+      "E",
+      "L",
+      "C",
+      "A",
+      "A",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "M",
+      "B",
+      "N",
+      "D",
+      "U",
+      "W",
+      "X"
+    ],
+    [
+      "Z",
+      "L",
+      "M",
+      "P",
+      "N",
+      "I",
+      "J",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "S",
+      "C",
+      "Y",
+      "T",
+      "U",
+      "W",
+      "G",
+      "H",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCTIC",
+      "gloss": "Relating to the North Pole region.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SAP",
+      "gloss": "The fluid that circulates in a plant.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-25T11:20:41.492Z"
+}
