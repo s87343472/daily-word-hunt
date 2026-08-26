@@ -1,0 +1,377 @@
+{
+  "id": "nature-2027-01-22",
+  "playDate": "2027-01-22",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "T",
+      "S",
+      "Y",
+      "D",
+      "D",
+      "E",
+      "R",
+      "J",
+      "U"
+    ],
+    [
+      "E",
+      "P",
+      "A",
+      "C",
+      "S",
+      "D",
+      "N",
+      "A",
+      "L",
+      "H"
+    ],
+    [
+      "M",
+      "H",
+      "N",
+      "I",
+      "H",
+      "P",
+      "L",
+      "O",
+      "D",
+      "I"
+    ],
+    [
+      "Z",
+      "A",
+      "A",
+      "E",
+      "E",
+      "K",
+      "K",
+      "P",
+      "C",
+      "Y"
+    ],
+    [
+      "Y",
+      "M",
+      "E",
+      "R",
+      "T",
+      "L",
+      "S",
+      "O",
+      "U",
+      "W"
+    ],
+    [
+      "N",
+      "I",
+      "R",
+      "R",
+      "V",
+      "W",
+      "B",
+      "T",
+      "J",
+      "K"
+    ],
+    [
+      "F",
+      "K",
+      "I",
+      "C",
+      "T",
+      "E",
+      "I",
+      "B",
+      "K",
+      "F"
+    ],
+    [
+      "D",
+      "K",
+      "D",
+      "V",
+      "J",
+      "S",
+      "S",
+      "G",
+      "E",
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "G",
+      "J",
+      "V",
+      "O",
+      "W",
+      "T",
+      "P",
+      "P"
+    ],
+    [
+      "G",
+      "K",
+      "E",
+      "Q",
+      "J",
+      "F",
+      "Q",
+      "J",
+      "C",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-26T11:22:07.968Z"
+}

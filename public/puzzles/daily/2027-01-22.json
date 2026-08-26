@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-01-22",
+  "playDate": "2027-01-22",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "L",
+      "S",
+      "Y",
+      "G",
+      "Z",
+      "K",
+      "W",
+      "K",
+      "J"
+    ],
+    [
+      "E",
+      "E",
+      "N",
+      "A",
+      "K",
+      "W",
+      "U",
+      "R",
+      "X",
+      "O"
+    ],
+    [
+      "Y",
+      "R",
+      "D",
+      "W",
+      "L",
+      "J",
+      "V",
+      "A",
+      "Q",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "X",
+      "E",
+      "Q",
+      "M",
+      "A",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "H",
+      "U",
+      "L",
+      "W",
+      "O",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "U",
+      "O",
+      "L",
+      "I",
+      "B",
+      "N",
+      "N",
+      "E",
+      "U"
+    ],
+    [
+      "X",
+      "Q",
+      "Z",
+      "V",
+      "O",
+      "O",
+      "B",
+      "Q",
+      "W",
+      "U"
+    ],
+    [
+      "D",
+      "S",
+      "F",
+      "F",
+      "Y",
+      "T",
+      "D",
+      "U",
+      "M",
+      "M"
+    ],
+    [
+      "Q",
+      "R",
+      "F",
+      "V",
+      "X",
+      "B",
+      "U",
+      "G",
+      "B",
+      "W"
+    ],
+    [
+      "W",
+      "O",
+      "N",
+      "O",
+      "M",
+      "E",
+      "L",
+      "S",
+      "Z",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUBBLE",
+      "gloss": "A thin film of liquid filled with air.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "JADE",
+      "gloss": "A hard green gemstone.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LEMON",
+      "gloss": "A sour yellow citrus fruit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "gloss": "A water plant with large flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "gloss": "A bushy-tailed rodent.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WRAP",
+      "gloss": "To cover by folding around.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "YONDER",
+      "gloss": "At some distance in that direction.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-26T11:22:07.961Z"
+}

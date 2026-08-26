@@ -1,0 +1,456 @@
+{
+  "id": "history-2027-01-22",
+  "playDate": "2027-01-22",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "N",
+      "A",
+      "P",
+      "I",
+      "R",
+      "A",
+      "T",
+      "E",
+      "H",
+      "M",
+      "V"
+    ],
+    [
+      "D",
+      "O",
+      "C",
+      "G",
+      "V",
+      "M",
+      "G",
+      "X",
+      "H",
+      "H",
+      "Y"
+    ],
+    [
+      "I",
+      "F",
+      "I",
+      "T",
+      "X",
+      "I",
+      "J",
+      "A",
+      "S",
+      "H",
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "H",
+      "T",
+      "F",
+      "L",
+      "O",
+      "C",
+      "C",
+      "Q",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "M",
+      "I",
+      "L",
+      "U",
+      "R",
+      "N",
+      "G",
+      "P"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "J",
+      "V",
+      "L",
+      "A",
+      "Z",
+      "U",
+      "J",
+      "Q"
+    ],
+    [
+      "M",
+      "C",
+      "B",
+      "P",
+      "P",
+      "G",
+      "O",
+      "M",
+      "V",
+      "A",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "F",
+      "T",
+      "I",
+      "L",
+      "T",
+      "B",
+      "T",
+      "S",
+      "M"
+    ],
+    [
+      "C",
+      "H",
+      "U",
+      "L",
+      "E",
+      "C",
+      "W",
+      "L",
+      "A",
+      "T",
+      "M"
+    ],
+    [
+      "Y",
+      "R",
+      "O",
+      "A",
+      "S",
+      "B",
+      "O",
+      "W",
+      "F",
+      "Y",
+      "Z"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FRESCO",
+      "gloss": "A painting on wet plaster.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "OLIGARCHY",
+      "gloss": "Rule by a small group.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community.",
+      "path": [
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-26T11:22:07.992Z"
+}
