@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-01-23",
+  "playDate": "2027-01-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "F",
+      "G",
+      "S",
+      "S",
+      "L",
+      "G",
+      "Y",
+      "E",
+      "A"
+    ],
+    [
+      "V",
+      "M",
+      "O",
+      "S",
+      "S",
+      "O",
+      "L",
+      "B",
+      "V",
+      "W"
+    ],
+    [
+      "P",
+      "U",
+      "P",
+      "V",
+      "U",
+      "A",
+      "M",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "Q",
+      "H",
+      "D",
+      "M",
+      "K",
+      "M",
+      "E",
+      "G",
+      "E",
+      "T"
+    ],
+    [
+      "H",
+      "S",
+      "W",
+      "R",
+      "H",
+      "Q",
+      "X",
+      "D",
+      "S",
+      "A"
+    ],
+    [
+      "J",
+      "S",
+      "S",
+      "X",
+      "Z",
+      "C",
+      "O",
+      "E",
+      "N",
+      "L"
+    ],
+    [
+      "J",
+      "T",
+      "F",
+      "N",
+      "V",
+      "T",
+      "N",
+      "H",
+      "O",
+      "G"
+    ],
+    [
+      "O",
+      "X",
+      "J",
+      "P",
+      "N",
+      "J",
+      "C",
+      "S",
+      "C",
+      "A"
+    ],
+    [
+      "C",
+      "H",
+      "J",
+      "E",
+      "M",
+      "B",
+      "Z",
+      "J",
+      "O",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "F",
+      "Z",
+      "R",
+      "A",
+      "P",
+      "I",
+      "D",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-27T20:52:23.859Z"
+}

@@ -1,0 +1,417 @@
+{
+  "id": "cities-2027-01-23",
+  "playDate": "2027-01-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "A",
+      "D",
+      "D",
+      "R",
+      "E",
+      "S",
+      "S",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "S",
+      "Z",
+      "E",
+      "B",
+      "L",
+      "A",
+      "L",
+      "K",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "B",
+      "D",
+      "I",
+      "O",
+      "E",
+      "L",
+      "T",
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "T",
+      "H",
+      "V",
+      "M",
+      "G",
+      "S",
+      "O"
+    ],
+    [
+      "N",
+      "K",
+      "A",
+      "A",
+      "A",
+      "K",
+      "X",
+      "M",
+      "I",
+      "H"
+    ],
+    [
+      "G",
+      "S",
+      "W",
+      "T",
+      "C",
+      "X",
+      "J",
+      "G",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "D",
+      "O",
+      "J",
+      "H",
+      "E",
+      "I",
+      "V",
+      "U",
+      "R"
+    ],
+    [
+      "O",
+      "R",
+      "D",
+      "L",
+      "I",
+      "X",
+      "Z",
+      "L",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "C",
+      "H",
+      "B",
+      "B",
+      "M",
+      "G",
+      "T",
+      "W"
+    ],
+    [
+      "D",
+      "K",
+      "O",
+      "O",
+      "B",
+      "E",
+      "D",
+      "I",
+      "U",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ELEVATOR",
+      "gloss": "A platform that moves people between floors.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOURIST",
+      "gloss": "A person visiting a place for pleasure.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-27T20:52:23.866Z"
+}

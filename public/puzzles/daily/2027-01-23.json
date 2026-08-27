@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-01-23",
+  "playDate": "2027-01-23",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "F",
+      "J",
+      "Z",
+      "U",
+      "W",
+      "Z",
+      "Y",
+      "D",
+      "X"
+    ],
+    [
+      "Z",
+      "I",
+      "Y",
+      "Q",
+      "L",
+      "P",
+      "I",
+      "T",
+      "X",
+      "Y"
+    ],
+    [
+      "N",
+      "I",
+      "B",
+      "W",
+      "A",
+      "V",
+      "L",
+      "E",
+      "Z",
+      "Y"
+    ],
+    [
+      "A",
+      "F",
+      "X",
+      "Y",
+      "W",
+      "E",
+      "G",
+      "H",
+      "P",
+      "P"
+    ],
+    [
+      "N",
+      "H",
+      "E",
+      "F",
+      "N",
+      "A",
+      "X",
+      "C",
+      "O",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "M",
+      "H",
+      "D",
+      "E",
+      "H",
+      "L",
+      "K",
+      "C"
+    ],
+    [
+      "U",
+      "V",
+      "G",
+      "R",
+      "G",
+      "A",
+      "L",
+      "A",
+      "B",
+      "M"
+    ],
+    [
+      "L",
+      "C",
+      "A",
+      "D",
+      "I",
+      "E",
+      "W",
+      "Y",
+      "Y",
+      "G"
+    ],
+    [
+      "O",
+      "Y",
+      "E",
+      "R",
+      "N",
+      "S",
+      "N",
+      "L",
+      "V",
+      "U"
+    ],
+    [
+      "C",
+      "S",
+      "S",
+      "M",
+      "E",
+      "L",
+      "L",
+      "I",
+      "G",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHAIR",
+      "gloss": "A seat for one person.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LAWN",
+      "gloss": "An area of short mown grass.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers for fertilization.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SEDGE",
+      "gloss": "A grasslike plant of wet ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SMELL",
+      "gloss": "To sense with the nose.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WAKE",
+      "gloss": "To stop sleeping.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "YARDAGE",
+      "gloss": "Length measured in yards.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-27T20:52:23.852Z"
+}
