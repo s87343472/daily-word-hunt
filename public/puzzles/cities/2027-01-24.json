@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-01-24",
+  "playDate": "2027-01-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "C",
+      "O",
+      "L",
+      "B",
+      "R",
+      "E",
+      "W",
+      "O",
+      "T"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "W",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "N",
+      "K",
+      "J",
+      "C",
+      "U",
+      "V",
+      "A"
+    ],
+    [
+      "G",
+      "U",
+      "I",
+      "N",
+      "B",
+      "Z",
+      "W",
+      "B",
+      "X",
+      "I"
+    ],
+    [
+      "Q",
+      "Y",
+      "E",
+      "B",
+      "C",
+      "D",
+      "T",
+      "R",
+      "T",
+      "R"
+    ],
+    [
+      "K",
+      "U",
+      "X",
+      "L",
+      "R",
+      "F",
+      "L",
+      "U",
+      "K",
+      "F"
+    ],
+    [
+      "N",
+      "I",
+      "A",
+      "Y",
+      "J",
+      "U",
+      "X",
+      "C",
+      "S",
+      "I"
+    ],
+    [
+      "D",
+      "M",
+      "Z",
+      "Y",
+      "B",
+      "C",
+      "B",
+      "K",
+      "J",
+      "E"
+    ],
+    [
+      "H",
+      "I",
+      "G",
+      "H",
+      "W",
+      "A",
+      "Y",
+      "U",
+      "H",
+      "L"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "F",
+      "O",
+      "R",
+      "M",
+      "S",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRFIELD",
+      "gloss": "An area for aircraft takeoff and landing.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CURB",
+      "gloss": "The edge of a sidewalk.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIGHWAY",
+      "gloss": "A main public road.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLATFORM",
+      "gloss": "A raised area beside railway tracks.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUBURBIA",
+      "gloss": "Suburban residential areas.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TOWERBLOCK",
+      "gloss": "A tall residential building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-28T21:17:27.002Z"
+}

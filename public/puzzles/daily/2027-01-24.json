@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-01-24",
+  "playDate": "2027-01-24",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "A",
+      "E",
+      "C",
+      "I",
+      "U",
+      "E",
+      "Y",
+      "E",
+      "K"
+    ],
+    [
+      "Q",
+      "N",
+      "N",
+      "I",
+      "P",
+      "V",
+      "S",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "D",
+      "D",
+      "O",
+      "H",
+      "I",
+      "A",
+      "N",
+      "F"
+    ],
+    [
+      "Y",
+      "S",
+      "Y",
+      "L",
+      "K",
+      "M",
+      "T",
+      "E",
+      "H",
+      "O"
+    ],
+    [
+      "F",
+      "M",
+      "S",
+      "F",
+      "S",
+      "N",
+      "C",
+      "C",
+      "T",
+      "S"
+    ],
+    [
+      "F",
+      "I",
+      "Y",
+      "A",
+      "T",
+      "T",
+      "O",
+      "D",
+      "M",
+      "P"
+    ],
+    [
+      "C",
+      "R",
+      "J",
+      "O",
+      "A",
+      "T",
+      "F",
+      "C",
+      "R",
+      "N"
+    ],
+    [
+      "Q",
+      "C",
+      "N",
+      "R",
+      "T",
+      "U",
+      "U",
+      "Q",
+      "A",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "T",
+      "O",
+      "F",
+      "O",
+      "O",
+      "L",
+      "W",
+      "C"
+    ],
+    [
+      "C",
+      "Q",
+      "N",
+      "Y",
+      "F",
+      "B",
+      "J",
+      "I",
+      "O",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COTTON",
+      "gloss": "A soft fiber from a plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CRIMSON",
+      "gloss": "A deep red color.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "gloss": "A fragrant flowering plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOVE",
+      "gloss": "Deep affection.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TACK",
+      "gloss": "A small nail; also a sailing course.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TONIC",
+      "gloss": "Something that invigorates.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WARMTH",
+      "gloss": "The quality of being warm.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-28T21:17:26.983Z"
+}
