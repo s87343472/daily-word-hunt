@@ -1,0 +1,357 @@
+{
+  "id": "daily-2027-01-25",
+  "playDate": "2027-01-25",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "Z",
+      "R",
+      "U",
+      "C",
+      "E",
+      "V",
+      "G",
+      "H",
+      "E"
+    ],
+    [
+      "N",
+      "Z",
+      "E",
+      "R",
+      "R",
+      "S",
+      "X",
+      "D",
+      "E",
+      "U"
+    ],
+    [
+      "Q",
+      "S",
+      "M",
+      "N",
+      "E",
+      "A",
+      "L",
+      "F",
+      "O",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "X",
+      "V",
+      "Q",
+      "V",
+      "F",
+      "Y",
+      "C",
+      "L"
+    ],
+    [
+      "P",
+      "E",
+      "O",
+      "E",
+      "E",
+      "O",
+      "T",
+      "F",
+      "T",
+      "T"
+    ],
+    [
+      "X",
+      "L",
+      "H",
+      "R",
+      "T",
+      "K",
+      "G",
+      "F",
+      "W",
+      "T"
+    ],
+    [
+      "G",
+      "M",
+      "W",
+      "G",
+      "V",
+      "Q",
+      "E",
+      "H",
+      "I",
+      "E"
+    ],
+    [
+      "X",
+      "R",
+      "E",
+      "W",
+      "O",
+      "T",
+      "X",
+      "G",
+      "N",
+      "N"
+    ],
+    [
+      "D",
+      "P",
+      "U",
+      "D",
+      "D",
+      "L",
+      "E",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "J",
+      "S",
+      "I",
+      "M",
+      "P",
+      "L",
+      "E",
+      "I",
+      "P",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GLOVE",
+      "gloss": "A covering for the hand.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "NETTLE",
+      "gloss": "A plant with stinging hairs.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PUDDLE",
+      "gloss": "A small pool of liquid on the ground.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SIMPLE",
+      "gloss": "Easy to understand; not complex.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOFFEE",
+      "gloss": "A hard chewy candy.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOWER",
+      "gloss": "A tall narrow structure.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TWINE",
+      "gloss": "Strong string of twisted strands.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VASE",
+      "gloss": "An open container for flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-29T15:23:43.662Z"
+}

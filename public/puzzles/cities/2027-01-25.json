@@ -1,0 +1,361 @@
+{
+  "id": "cities-2027-01-25",
+  "playDate": "2027-01-25",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "F",
+      "B",
+      "M",
+      "F",
+      "B",
+      "G",
+      "P",
+      "B",
+      "Y"
+    ],
+    [
+      "D",
+      "A",
+      "H",
+      "Q",
+      "D",
+      "I",
+      "N",
+      "N",
+      "V",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "N",
+      "Y",
+      "S",
+      "E",
+      "P",
+      "C",
+      "T",
+      "A"
+    ],
+    [
+      "B",
+      "R",
+      "F",
+      "S",
+      "R",
+      "V",
+      "Z",
+      "O",
+      "I",
+      "F"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "O",
+      "I",
+      "O",
+      "O",
+      "M",
+      "C",
+      "J"
+    ],
+    [
+      "K",
+      "O",
+      "U",
+      "N",
+      "L",
+      "O",
+      "I",
+      "M",
+      "K",
+      "H"
+    ],
+    [
+      "E",
+      "Y",
+      "N",
+      "M",
+      "A",
+      "Y",
+      "N",
+      "U",
+      "E",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "M",
+      "P",
+      "H",
+      "J",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "Y",
+      "G",
+      "Z",
+      "U",
+      "N",
+      "K",
+      "B",
+      "E",
+      "H",
+      "B"
+    ],
+    [
+      "Q",
+      "E",
+      "T",
+      "S",
+      "O",
+      "O",
+      "L",
+      "R",
+      "M",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BAKERY",
+      "gloss": "A place that makes and sells bread.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COMMUTE",
+      "gloss": "Regular travel between home and work.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "INN",
+      "gloss": "A small hotel, often in the countryside.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LOFT",
+      "gloss": "An open upper-level living space.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MANSION",
+      "gloss": "A large impressive house.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TICKET",
+      "gloss": "A pass for travel or entry.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-29T15:23:43.674Z"
+}
