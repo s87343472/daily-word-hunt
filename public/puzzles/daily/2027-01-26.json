@@ -1,0 +1,333 @@
+{
+  "id": "daily-2027-01-26",
+  "playDate": "2027-01-26",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "J",
+      "H",
+      "C",
+      "X",
+      "L",
+      "E",
+      "Z",
+      "Y",
+      "Q"
+    ],
+    [
+      "O",
+      "I",
+      "Y",
+      "E",
+      "A",
+      "J",
+      "P",
+      "Y",
+      "C",
+      "E"
+    ],
+    [
+      "G",
+      "P",
+      "S",
+      "P",
+      "F",
+      "T",
+      "R",
+      "A",
+      "L",
+      "V"
+    ],
+    [
+      "G",
+      "J",
+      "W",
+      "F",
+      "H",
+      "M",
+      "E",
+      "C",
+      "T",
+      "X"
+    ],
+    [
+      "Y",
+      "B",
+      "O",
+      "G",
+      "O",
+      "N",
+      "R",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "W",
+      "J",
+      "I",
+      "Y",
+      "U",
+      "I",
+      "F",
+      "B",
+      "R",
+      "D"
+    ],
+    [
+      "N",
+      "L",
+      "W",
+      "D",
+      "C",
+      "U",
+      "S",
+      "F",
+      "C",
+      "Q"
+    ],
+    [
+      "K",
+      "N",
+      "I",
+      "H",
+      "T",
+      "E",
+      "Y",
+      "M",
+      "K",
+      "K"
+    ],
+    [
+      "X",
+      "Y",
+      "A",
+      "X",
+      "N",
+      "A",
+      "E",
+      "L",
+      "C",
+      "V"
+    ],
+    [
+      "Z",
+      "Q",
+      "L",
+      "B",
+      "Y",
+      "M",
+      "S",
+      "P",
+      "Q",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CIRCLE",
+      "gloss": "A round shape with all points equal from center.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLEAN",
+      "gloss": "Free from dirt.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FOGGY",
+      "gloss": "Full of or covered with fog.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "JOY",
+      "gloss": "A feeling of great pleasure.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIGHT",
+      "gloss": "Brightness that lets us see.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PATH",
+      "gloss": "A way or track for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THINK",
+      "gloss": "To use the mind.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-30T15:08:05.788Z"
+}

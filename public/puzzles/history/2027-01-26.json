@@ -1,0 +1,453 @@
+{
+  "id": "history-2027-01-26",
+  "playDate": "2027-01-26",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "C",
+      "I",
+      "L",
+      "B",
+      "U",
+      "P",
+      "E",
+      "R",
+      "D"
+    ],
+    [
+      "G",
+      "A",
+      "B",
+      "A",
+      "R",
+      "O",
+      "Q",
+      "U",
+      "E",
+      "V"
+    ],
+    [
+      "P",
+      "H",
+      "I",
+      "L",
+      "O",
+      "S",
+      "O",
+      "P",
+      "H",
+      "Y"
+    ],
+    [
+      "C",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "B"
+    ],
+    [
+      "J",
+      "A",
+      "T",
+      "R",
+      "T",
+      "A",
+      "W",
+      "S",
+      "O",
+      "J"
+    ],
+    [
+      "S",
+      "H",
+      "S",
+      "T",
+      "L",
+      "S",
+      "P",
+      "N",
+      "L",
+      "G"
+    ],
+    [
+      "B",
+      "M",
+      "N",
+      "T",
+      "S",
+      "H",
+      "U",
+      "F",
+      "E",
+      "Y"
+    ],
+    [
+      "P",
+      "X",
+      "Q",
+      "R",
+      "L",
+      "S",
+      "J",
+      "D",
+      "U",
+      "Q"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "D",
+      "I",
+      "C",
+      "I",
+      "N",
+      "E",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAROQUE",
+      "gloss": "A highly ornate historical style.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PORTRAIT",
+      "gloss": "A picture of a person.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-30T15:08:05.815Z"
+}
