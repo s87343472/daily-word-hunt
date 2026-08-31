@@ -1,0 +1,409 @@
+{
+  "id": "cities-2027-01-27",
+  "playDate": "2027-01-27",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "E",
+      "E",
+      "M",
+      "I",
+      "J",
+      "M",
+      "A",
+      "K",
+      "P"
+    ],
+    [
+      "W",
+      "B",
+      "D",
+      "W",
+      "J",
+      "X",
+      "L",
+      "S",
+      "O",
+      "U"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "V",
+      "V",
+      "V",
+      "O",
+      "R",
+      "L",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "N",
+      "I",
+      "P",
+      "T",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      "B",
+      "A",
+      "I",
+      "D",
+      "I",
+      "A",
+      "U",
+      "O",
+      "B"
+    ],
+    [
+      "M",
+      "L",
+      "L",
+      "R",
+      "C",
+      "S",
+      "O",
+      "R",
+      "V",
+      "C"
+    ],
+    [
+      "O",
+      "E",
+      "P",
+      "O",
+      "N",
+      "R",
+      "T",
+      "D",
+      "K",
+      "Y"
+    ],
+    [
+      "H",
+      "C",
+      "S",
+      "S",
+      "O",
+      "B",
+      "N",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "V",
+      "A",
+      "E",
+      "B",
+      "C",
+      "O",
+      "O",
+      "P",
+      "N",
+      "P"
+    ],
+    [
+      "K",
+      "R",
+      "H",
+      "Z",
+      "L",
+      "L",
+      "O",
+      "T",
+      "R",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HOMETOWN",
+      "gloss": "The town where someone grew up.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PARK",
+      "gloss": "A public green space for recreation.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PORTICO",
+      "gloss": "A porch with columns.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-31T17:47:06.740Z"
+}

@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-01-27",
+  "playDate": "2027-01-27",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "E",
+      "S",
+      "Y",
+      "R",
+      "A",
+      "U",
+      "T",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "G",
+      "R",
+      "O",
+      "R",
+      "K",
+      "H",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "G",
+      "S",
+      "L",
+      "T",
+      "P",
+      "E",
+      "V",
+      "V",
+      "Y"
+    ],
+    [
+      "G",
+      "J",
+      "F",
+      "E",
+      "A",
+      "I",
+      "F",
+      "A",
+      "M",
+      "G"
+    ],
+    [
+      "O",
+      "F",
+      "B",
+      "E",
+      "E",
+      "C",
+      "C",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "N",
+      "F",
+      "X",
+      "Z",
+      "U",
+      "D",
+      "I",
+      "F",
+      "N",
+      "Z"
+    ],
+    [
+      "F",
+      "M",
+      "S",
+      "P",
+      "H",
+      "S",
+      "L",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "L",
+      "W",
+      "I",
+      "O",
+      "O",
+      "T",
+      "B",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "Y",
+      "S",
+      "W",
+      "U",
+      "Z",
+      "G",
+      "D",
+      "G",
+      "N",
+      "F"
+    ],
+    [
+      "C",
+      "L",
+      "N",
+      "E",
+      "D",
+      "E",
+      "C",
+      "S",
+      "Z",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DEN",
+      "gloss": "A wild animal’s hidden home.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SEEDLING",
+      "gloss": "A young plant grown from a seed.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-31T17:47:06.733Z"
+}

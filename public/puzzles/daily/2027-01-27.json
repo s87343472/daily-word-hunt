@@ -1,0 +1,349 @@
+{
+  "id": "daily-2027-01-27",
+  "playDate": "2027-01-27",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "H",
+      "U",
+      "U",
+      "N",
+      "D",
+      "S",
+      "X",
+      "W",
+      "O"
+    ],
+    [
+      "O",
+      "I",
+      "J",
+      "L",
+      "R",
+      "Y",
+      "A",
+      "R",
+      "P",
+      "S"
+    ],
+    [
+      "M",
+      "N",
+      "C",
+      "O",
+      "G",
+      "J",
+      "C",
+      "W",
+      "P",
+      "L"
+    ],
+    [
+      "P",
+      "T",
+      "H",
+      "E",
+      "Q",
+      "I",
+      "G",
+      "A",
+      "C",
+      "C"
+    ],
+    [
+      "M",
+      "C",
+      "B",
+      "Y",
+      "R",
+      "M",
+      "J",
+      "G",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "E",
+      "B",
+      "C",
+      "M",
+      "V",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "I",
+      "W",
+      "A",
+      "K",
+      "U",
+      "K",
+      "K",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "D",
+      "F",
+      "R",
+      "B",
+      "L",
+      "S",
+      "V",
+      "S",
+      "N",
+      "Y"
+    ],
+    [
+      "K",
+      "B",
+      "T",
+      "A",
+      "A",
+      "R",
+      "M",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "T",
+      "X",
+      "H",
+      "B",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASKET",
+      "gloss": "A container made of woven material.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CHORD",
+      "gloss": "A group of musical notes played together.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "EARTH",
+      "gloss": "The planet we live on; also soil.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FABRIC",
+      "gloss": "Cloth produced by weaving or knitting.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RICE",
+      "gloss": "A grain staple in many cuisines.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "RING",
+      "gloss": "A circular band worn on a finger.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPRAY",
+      "gloss": "Liquid flying in small drops.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-31T17:47:06.725Z"
+}

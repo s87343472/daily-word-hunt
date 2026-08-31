@@ -1,0 +1,429 @@
+{
+  "id": "history-2027-01-27",
+  "playDate": "2027-01-27",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "Q",
+      "U",
+      "I",
+      "R",
+      "E",
+      "J",
+      "R",
+      "L",
+      "P"
+    ],
+    [
+      "U",
+      "B",
+      "N",
+      "E",
+      "J",
+      "H",
+      "A",
+      "E",
+      "P",
+      "H"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "M",
+      "V",
+      "D",
+      "I",
+      "H",
+      "A",
+      "I"
+    ],
+    [
+      "Y",
+      "J",
+      "R",
+      "P",
+      "N",
+      "G",
+      "A",
+      "L",
+      "G",
+      "L"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "E",
+      "P",
+      "R",
+      "T",
+      "O",
+      "H",
+      "O"
+    ],
+    [
+      "A",
+      "W",
+      "L",
+      "R",
+      "A",
+      "Z",
+      "J",
+      "M",
+      "V",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "B",
+      "O",
+      "C",
+      "J",
+      "R",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "C",
+      "K",
+      "H",
+      "R",
+      "S",
+      "D",
+      "I",
+      "W",
+      "H",
+      "P"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "Y",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "M",
+      "Q",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MONASTERY",
+      "gloss": "A community of monks.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PHILOSOPHY",
+      "gloss": "The study of knowledge and existence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SQUIRE",
+      "gloss": "A young man attending a knight.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-08-31T17:47:06.748Z"
+}
