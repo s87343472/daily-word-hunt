@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-01-28",
+  "playDate": "2027-01-28",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "A",
+      "O",
+      "R",
+      "I",
+      "Q",
+      "F",
+      "P",
+      "A",
+      "O"
+    ],
+    [
+      "J",
+      "A",
+      "T",
+      "L",
+      "A",
+      "R",
+      "M",
+      "O",
+      "M",
+      "M"
+    ],
+    [
+      "R",
+      "V",
+      "O",
+      "I",
+      "Z",
+      "M",
+      "Z",
+      "Y",
+      "M",
+      "U"
+    ],
+    [
+      "E",
+      "Q",
+      "W",
+      "M",
+      "O",
+      "Z",
+      "P",
+      "Z",
+      "K",
+      "I"
+    ],
+    [
+      "S",
+      "D",
+      "N",
+      "V",
+      "A",
+      "O",
+      "U",
+      "A",
+      "C",
+      "D"
+    ],
+    [
+      "I",
+      "D",
+      "H",
+      "L",
+      "B",
+      "C",
+      "X",
+      "B",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L",
+      "U",
+      "O",
+      "B",
+      "T"
+    ],
+    [
+      "E",
+      "P",
+      "L",
+      "H",
+      "Z",
+      "O",
+      "O",
+      "W",
+      "L",
+      "S"
+    ],
+    [
+      "N",
+      "W",
+      "L",
+      "G",
+      "Z",
+      "J",
+      "K",
+      "M",
+      "A",
+      "X"
+    ],
+    [
+      "T",
+      "N",
+      "E",
+      "W",
+      "S",
+      "S",
+      "T",
+      "A",
+      "N",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULEVARD",
+      "gloss": "A broad city street often tree-lined.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RAMPART",
+      "gloss": "A defensive wall of a fort.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RESIDENT",
+      "gloss": "A person who lives somewhere permanently.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STADIUM",
+      "gloss": "A large sports arena.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-01T15:21:11.177Z"
+}

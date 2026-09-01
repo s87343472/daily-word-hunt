@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-01-28",
+  "playDate": "2027-01-28",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "B",
+      "K",
+      "G",
+      "M",
+      "R",
+      "M",
+      "V",
+      "I",
+      "N"
+    ],
+    [
+      "X",
+      "A",
+      "T",
+      "F",
+      "Z",
+      "N",
+      "Z",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "K",
+      "U",
+      "W",
+      "S",
+      "M",
+      "Q",
+      "K",
+      "W",
+      "P"
+    ],
+    [
+      "S",
+      "E",
+      "G",
+      "W",
+      "E",
+      "A",
+      "S",
+      "E",
+      "L",
+      "S"
+    ],
+    [
+      "M",
+      "R",
+      "L",
+      "O",
+      "C",
+      "X",
+      "A",
+      "L",
+      "H",
+      "Q"
+    ],
+    [
+      "K",
+      "A",
+      "X",
+      "T",
+      "H",
+      "T",
+      "R",
+      "A",
+      "T",
+      "P"
+    ],
+    [
+      "S",
+      "W",
+      "C",
+      "E",
+      "T",
+      "E",
+      "K",
+      "C",
+      "U",
+      "B"
+    ],
+    [
+      "V",
+      "A",
+      "N",
+      "I",
+      "L",
+      "L",
+      "A",
+      "M",
+      "D",
+      "N"
+    ],
+    [
+      "W",
+      "E",
+      "Z",
+      "T",
+      "M",
+      "E",
+      "W",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "S",
+      "S",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "R",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAKER",
+      "gloss": "Someone who bakes bread and cakes.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BUCKET",
+      "gloss": "An open container with a handle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STAR",
+      "gloss": "A luminous ball of gas in space.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SWIM",
+      "gloss": "To move through water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TART",
+      "gloss": "A pastry with a filling; also sharp-tasting.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "VANILLA",
+      "gloss": "A flavoring from orchid pods.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "gloss": "A small carnivorous mammal.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WOOL",
+      "gloss": "Soft fiber from sheep.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-01T15:21:11.165Z"
+}
