@@ -1,0 +1,408 @@
+{
+  "id": "cities-2027-01-30",
+  "playDate": "2027-01-30",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "I",
+      "O",
+      "I",
+      "D",
+      "U",
+      "T",
+      "S",
+      "Y",
+      "E",
+      "K",
+      "B"
+    ],
+    [
+      "N",
+      "K",
+      "L",
+      "V",
+      "B",
+      "G",
+      "J",
+      "N",
+      "M",
+      "J",
+      "E"
+    ],
+    [
+      "F",
+      "N",
+      "M",
+      "L",
+      "A",
+      "J",
+      "V",
+      "P",
+      "T",
+      "H",
+      "L"
+    ],
+    [
+      "O",
+      "L",
+      "A",
+      "T",
+      "I",
+      "P",
+      "S",
+      "O",
+      "H",
+      "J",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "B",
+      "J",
+      "L",
+      "S",
+      "U",
+      "I",
+      "T",
+      "E",
+      "V"
+    ],
+    [
+      "M",
+      "C",
+      "I",
+      "F",
+      "F",
+      "A",
+      "R",
+      "T",
+      "C",
+      "U",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "S",
+      "X",
+      "G",
+      "Z",
+      "O",
+      "M",
+      "Z",
+      "L",
+      "S"
+    ],
+    [
+      "T",
+      "Z",
+      "T",
+      "I",
+      "F",
+      "K",
+      "X",
+      "M",
+      "A",
+      "P",
+      "Q"
+    ],
+    [
+      "I",
+      "G",
+      "R",
+      "K",
+      "T",
+      "D",
+      "A",
+      "K",
+      "P",
+      "Q",
+      "N"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "L",
+      "B",
+      "F",
+      "T",
+      "U",
+      "W",
+      "V",
+      "O"
+    ],
+    [
+      "N",
+      "K",
+      "E",
+      "Q",
+      "Z",
+      "I",
+      "O",
+      "P",
+      "E",
+      "E",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BELL",
+      "gloss": "A hollow metal object that rings when struck.",
+      "path": [
+        {
+          "r": 0,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "BISTRO",
+      "gloss": "A small informal restaurant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HOSPITAL",
+      "gloss": "A place that cares for the sick.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "INFORMATION",
+      "gloss": "A desk or place that provides help.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAFFIC",
+      "gloss": "Vehicles moving on a road.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-03T14:50:15.610Z"
+}

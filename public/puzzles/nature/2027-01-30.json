@@ -1,0 +1,349 @@
+{
+  "id": "nature-2027-01-30",
+  "playDate": "2027-01-30",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "J",
+      "L",
+      "M",
+      "K",
+      "L",
+      "S",
+      "Y",
+      "O",
+      "T"
+    ],
+    [
+      "E",
+      "C",
+      "I",
+      "M",
+      "U",
+      "R",
+      "Q",
+      "O",
+      "W",
+      "H"
+    ],
+    [
+      "Y",
+      "L",
+      "L",
+      "V",
+      "X",
+      "B",
+      "M",
+      "I",
+      "M",
+      "P"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "W",
+      "G",
+      "E",
+      "L",
+      "B",
+      "M",
+      "T"
+    ],
+    [
+      "L",
+      "F",
+      "C",
+      "M",
+      "B",
+      "I",
+      "Y",
+      "A",
+      "O",
+      "R"
+    ],
+    [
+      "C",
+      "F",
+      "V",
+      "V",
+      "G",
+      "Z",
+      "W",
+      "W",
+      "G",
+      "O"
+    ],
+    [
+      "H",
+      "I",
+      "V",
+      "H",
+      "B",
+      "S",
+      "M",
+      "E",
+      "V",
+      "U"
+    ],
+    [
+      "T",
+      "F",
+      "T",
+      "T",
+      "A",
+      "Y",
+      "N",
+      "E",
+      "J",
+      "T"
+    ],
+    [
+      "U",
+      "I",
+      "W",
+      "I",
+      "D",
+      "U",
+      "D",
+      "U",
+      "T",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "P",
+      "P",
+      "D",
+      "K",
+      "C",
+      "O",
+      "L",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-03T14:50:15.601Z"
+}
