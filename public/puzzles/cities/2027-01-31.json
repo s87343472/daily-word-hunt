@@ -1,0 +1,385 @@
+{
+  "id": "cities-2027-01-31",
+  "playDate": "2027-01-31",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "Z",
+      "Z",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "Q"
+    ],
+    [
+      "Q",
+      "S",
+      "Y",
+      "A",
+      "I",
+      "B",
+      "F",
+      "S",
+      "Q",
+      "U"
+    ],
+    [
+      "L",
+      "T",
+      "W",
+      "E",
+      "E",
+      "A",
+      "U",
+      "L",
+      "W",
+      "E"
+    ],
+    [
+      "H",
+      "N",
+      "N",
+      "X",
+      "L",
+      "O",
+      "C",
+      "G",
+      "T",
+      "W"
+    ],
+    [
+      "K",
+      "N",
+      "I",
+      "E",
+      "H",
+      "L",
+      "N",
+      "U",
+      "A",
+      "H"
+    ],
+    [
+      "L",
+      "T",
+      "H",
+      "N",
+      "M",
+      "I",
+      "A",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "H",
+      "H",
+      "W",
+      "C",
+      "K",
+      "U",
+      "X",
+      "D",
+      "R",
+      "T"
+    ],
+    [
+      "J",
+      "O",
+      "I",
+      "R",
+      "L",
+      "K",
+      "N",
+      "M",
+      "I",
+      "C"
+    ],
+    [
+      "T",
+      "G",
+      "A",
+      "B",
+      "L",
+      "E",
+      "S",
+      "O",
+      "U",
+      "N"
+    ],
+    [
+      "K",
+      "P",
+      "Q",
+      "P",
+      "S",
+      "T",
+      "W",
+      "I",
+      "M",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ATRIUM",
+      "gloss": "A large open central space in a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MONUMENT",
+      "gloss": "A structure built to remember a person or event.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PARKING",
+      "gloss": "A place to leave vehicles.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-04T14:40:35.880Z"
+}

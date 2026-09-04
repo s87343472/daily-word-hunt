@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-01-31",
+  "playDate": "2027-01-31",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "N",
+      "M",
+      "U",
+      "T",
+      "U",
+      "A",
+      "Z",
+      "B",
+      "Z"
+    ],
+    [
+      "N",
+      "C",
+      "O",
+      "M",
+      "A",
+      "P",
+      "Y",
+      "W",
+      "P",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "N",
+      "F",
+      "O",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "Z",
+      "Z",
+      "E",
+      "S",
+      "E",
+      "T",
+      "W",
+      "Y",
+      "C",
+      "L"
+    ],
+    [
+      "I",
+      "X",
+      "X",
+      "E",
+      "R",
+      "D",
+      "K",
+      "J",
+      "J",
+      "A"
+    ],
+    [
+      "R",
+      "R",
+      "E",
+      "E",
+      "R",
+      "Y",
+      "R",
+      "W",
+      "W",
+      "G"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "I",
+      "W",
+      "C",
+      "S",
+      "A",
+      "D",
+      "O"
+    ],
+    [
+      "H",
+      "G",
+      "G",
+      "Y",
+      "V",
+      "U",
+      "F",
+      "T",
+      "G",
+      "O"
+    ],
+    [
+      "T",
+      "Z",
+      "L",
+      "P",
+      "C",
+      "Y",
+      "H",
+      "Y",
+      "S",
+      "N"
+    ],
+    [
+      "W",
+      "J",
+      "E",
+      "A",
+      "H",
+      "B",
+      "Y",
+      "G",
+      "N",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FOREST",
+      "gloss": "A large area covered with trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-04T14:40:35.873Z"
+}

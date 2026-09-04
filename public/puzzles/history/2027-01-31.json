@@ -1,0 +1,413 @@
+{
+  "id": "history-2027-01-31",
+  "playDate": "2027-01-31",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "C",
+      "M",
+      "L",
+      "S",
+      "O",
+      "R",
+      "E",
+      "Z",
+      "Q"
+    ],
+    [
+      "T",
+      "N",
+      "L",
+      "L",
+      "E",
+      "G",
+      "I",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "D",
+      "N",
+      "A",
+      "R",
+      "E",
+      "F",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "L",
+      "V",
+      "I",
+      "M",
+      "S",
+      "O",
+      "Y",
+      "F",
+      "U",
+      "L"
+    ],
+    [
+      "E",
+      "V",
+      "V",
+      "D",
+      "O",
+      "S",
+      "R",
+      "Z",
+      "M",
+      "T"
+    ],
+    [
+      "G",
+      "B",
+      "V",
+      "A",
+      "F",
+      "D",
+      "I",
+      "R",
+      "W",
+      "H"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "T",
+      "E",
+      "C",
+      "F",
+      "N"
+    ],
+    [
+      "A",
+      "Y",
+      "G",
+      "D",
+      "E",
+      "A",
+      "V",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "P",
+      "M",
+      "O",
+      "N",
+      "A",
+      "R",
+      "C",
+      "H",
+      "N",
+      "L"
+    ],
+    [
+      "H",
+      "R",
+      "E",
+      "P",
+      "U",
+      "B",
+      "L",
+      "I",
+      "C",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLASSICAL",
+      "gloss": "Relating to ancient Greek or Roman culture.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-04T14:40:35.887Z"
+}
