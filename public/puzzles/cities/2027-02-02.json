@@ -1,0 +1,405 @@
+{
+  "id": "cities-2027-02-02",
+  "playDate": "2027-02-02",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "Z",
+      "J",
+      "O",
+      "R",
+      "J",
+      "Q",
+      "O",
+      "T",
+      "K"
+    ],
+    [
+      "H",
+      "N",
+      "O",
+      "I",
+      "G",
+      "E",
+      "R",
+      "H",
+      "R",
+      "Z"
+    ],
+    [
+      "G",
+      "U",
+      "U",
+      "C",
+      "T",
+      "E",
+      "O",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "H",
+      "P",
+      "T",
+      "X",
+      "G",
+      "D",
+      "W",
+      "J",
+      "N",
+      "K"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "D",
+      "O",
+      "K",
+      "A",
+      "V",
+      "S",
+      "N"
+    ],
+    [
+      "Y",
+      "X",
+      "I",
+      "G",
+      "C",
+      "T",
+      "L",
+      "W",
+      "F",
+      "E"
+    ],
+    [
+      "Q",
+      "R",
+      "A",
+      "I",
+      "T",
+      "Z",
+      "F",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "I",
+      "V",
+      "W",
+      "D",
+      "R",
+      "R",
+      "F"
+    ],
+    [
+      "V",
+      "B",
+      "C",
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "Y"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATTIC",
+      "gloss": "A room just under the roof.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "BRICKWORK",
+      "gloss": "Construction using bricks.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COLUMN",
+      "gloss": "A vertical pillar.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CONDO",
+      "gloss": "A privately owned apartment unit.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher education.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-06T13:51:56.110Z"
+}

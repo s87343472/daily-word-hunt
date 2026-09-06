@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-02-02",
+  "playDate": "2027-02-02",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "N",
+      "V",
+      "O",
+      "K",
+      "R",
+      "S",
+      "E",
+      "H",
+      "R"
+    ],
+    [
+      "C",
+      "R",
+      "I",
+      "O",
+      "E",
+      "Z",
+      "L",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "P",
+      "V",
+      "M",
+      "V",
+      "M",
+      "A",
+      "R",
+      "T",
+      "B",
+      "T"
+    ],
+    [
+      "F",
+      "B",
+      "A",
+      "O",
+      "H",
+      "D",
+      "S",
+      "F",
+      "K",
+      "T"
+    ],
+    [
+      "Q",
+      "E",
+      "P",
+      "W",
+      "O",
+      "S",
+      "I",
+      "G",
+      "Y",
+      "O"
+    ],
+    [
+      "B",
+      "J",
+      "O",
+      "B",
+      "M",
+      "R",
+      "P",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "L",
+      "Q",
+      "Z",
+      "E",
+      "S",
+      "O",
+      "H",
+      "L",
+      "O",
+      "Y"
+    ],
+    [
+      "O",
+      "O",
+      "D",
+      "L",
+      "W",
+      "G",
+      "S",
+      "S",
+      "Y",
+      "Y"
+    ],
+    [
+      "T",
+      "R",
+      "H",
+      "B",
+      "S",
+      "R",
+      "S",
+      "S",
+      "U",
+      "J"
+    ],
+    [
+      "R",
+      "X",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "X",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FOSSIL",
+      "gloss": "Preserved remains of ancient life.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HERD",
+      "gloss": "A large group of animals.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-06T13:51:56.104Z"
+}
