@@ -1,0 +1,393 @@
+{
+  "id": "history-2027-02-03",
+  "playDate": "2027-02-03",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "P",
+      "I",
+      "R",
+      "C",
+      "S",
+      "U",
+      "N",
+      "A",
+      "M"
+    ],
+    [
+      "I",
+      "R",
+      "C",
+      "A",
+      "M",
+      "P",
+      "A",
+      "I",
+      "G",
+      "N"
+    ],
+    [
+      "T",
+      "U",
+      "I",
+      "V",
+      "S",
+      "J",
+      "G",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "U",
+      "S",
+      "A",
+      "G",
+      "H",
+      "V",
+      "I",
+      "O",
+      "Q"
+    ],
+    [
+      "R",
+      "J",
+      "N",
+      "X",
+      "L",
+      "O",
+      "I",
+      "R",
+      "X",
+      "Z"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "V",
+      "Y",
+      "O",
+      "E",
+      "E",
+      "U",
+      "J"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "A",
+      "M",
+      "P",
+      "V",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "X",
+      "X",
+      "G",
+      "I",
+      "M",
+      "V",
+      "F",
+      "Y",
+      "J",
+      "D"
+    ],
+    [
+      "P",
+      "E",
+      "L",
+      "E",
+      "D",
+      "A",
+      "C",
+      "E",
+      "D",
+      "R"
+    ],
+    [
+      "C",
+      "L",
+      "F",
+      "F",
+      "T",
+      "D",
+      "J",
+      "N",
+      "J",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMPAIGN",
+      "gloss": "A series of military operations.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MANUSCRIPT",
+      "gloss": "A handwritten document.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SHIELD",
+      "gloss": "A protective armor plate.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRIAL",
+      "gloss": "A formal examination of evidence in court.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-07T16:14:08.352Z"
+}

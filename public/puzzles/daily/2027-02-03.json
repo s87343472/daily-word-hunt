@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-02-03",
+  "playDate": "2027-02-03",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "V",
+      "W",
+      "V",
+      "N",
+      "D",
+      "L",
+      "Q",
+      "O",
+      "X"
+    ],
+    [
+      "L",
+      "N",
+      "W",
+      "Y",
+      "Y",
+      "O",
+      "R",
+      "F",
+      "P",
+      "U"
+    ],
+    [
+      "K",
+      "H",
+      "Q",
+      "M",
+      "N",
+      "E",
+      "V",
+      "R",
+      "E",
+      "H"
+    ],
+    [
+      "Y",
+      "B",
+      "Q",
+      "A",
+      "V",
+      "Y",
+      "M",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "W",
+      "N",
+      "I",
+      "O",
+      "J",
+      "S",
+      "T",
+      "M",
+      "W",
+      "R"
+    ],
+    [
+      "O",
+      "P",
+      "L",
+      "G",
+      "T",
+      "L",
+      "P",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "D",
+      "A",
+      "E",
+      "L",
+      "Z",
+      "V",
+      "Q",
+      "Z"
+    ],
+    [
+      "D",
+      "J",
+      "M",
+      "C",
+      "Y",
+      "C",
+      "L",
+      "T",
+      "V",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "Q",
+      "T",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "N",
+      "T",
+      "I",
+      "O",
+      "V",
+      "P",
+      "A",
+      "G",
+      "U",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOVER",
+      "gloss": "A plant with three-lobed leaves.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FRAME",
+      "gloss": "A rigid structure that holds something.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIANO",
+      "gloss": "A keyboard musical instrument.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STAMEN",
+      "gloss": "The pollen-producing part of a flower.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SWEEP",
+      "gloss": "To clean with a broom; also a wide motion.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TENDER",
+      "gloss": "Gentle; also easily chewed.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WOAD",
+      "gloss": "A plant once used for blue dye.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-07T16:14:08.326Z"
+}

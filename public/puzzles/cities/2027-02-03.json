@@ -1,0 +1,413 @@
+{
+  "id": "cities-2027-02-03",
+  "playDate": "2027-02-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "L",
+      "S",
+      "B",
+      "L",
+      "P",
+      "E",
+      "D",
+      "R",
+      "H"
+    ],
+    [
+      "G",
+      "B",
+      "V",
+      "P",
+      "T",
+      "U",
+      "D",
+      "I",
+      "O",
+      "A"
+    ],
+    [
+      "W",
+      "Z",
+      "Q",
+      "O",
+      "I",
+      "I",
+      "A",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "F",
+      "W",
+      "G",
+      "B",
+      "N",
+      "R",
+      "N",
+      "E",
+      "F",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "E",
+      "O",
+      "Q",
+      "F",
+      "E",
+      "C",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "I",
+      "N",
+      "C",
+      "N",
+      "S",
+      "M",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "H",
+      "R",
+      "V",
+      "I",
+      "B",
+      "Y",
+      "O",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "Z",
+      "K",
+      "E",
+      "Q",
+      "N",
+      "K",
+      "R",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "Z",
+      "L",
+      "L",
+      "A",
+      "M",
+      "O",
+      "P",
+      "N",
+      "Z",
+      "D"
+    ],
+    [
+      "T",
+      "A",
+      "V",
+      "E",
+      "R",
+      "N",
+      "Z",
+      "S",
+      "K",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HARBORSIDE",
+      "gloss": "The area beside a harbor.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SPIRE",
+      "gloss": "A tall tapering structure on a roof.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ZONING",
+      "gloss": "Rules about how land may be used.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-07T16:14:08.344Z"
+}

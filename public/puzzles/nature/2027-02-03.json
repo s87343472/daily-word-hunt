@@ -1,0 +1,381 @@
+{
+  "id": "nature-2027-02-03",
+  "playDate": "2027-02-03",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "P",
+      "M",
+      "U",
+      "J",
+      "S",
+      "E",
+      "S",
+      "V",
+      "T"
+    ],
+    [
+      "F",
+      "A",
+      "D",
+      "O",
+      "E",
+      "L",
+      "T",
+      "R",
+      "U",
+      "T"
+    ],
+    [
+      "X",
+      "C",
+      "T",
+      "C",
+      "S",
+      "I",
+      "O",
+      "N",
+      "C",
+      "Y"
+    ],
+    [
+      "T",
+      "E",
+      "I",
+      "E",
+      "V",
+      "S",
+      "W",
+      "V",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "L",
+      "A",
+      "L",
+      "R",
+      "O",
+      "Y",
+      "R",
+      "L",
+      "L"
+    ],
+    [
+      "U",
+      "E",
+      "P",
+      "W",
+      "B",
+      "F",
+      "E",
+      "I",
+      "J",
+      "L"
+    ],
+    [
+      "U",
+      "L",
+      "T",
+      "N",
+      "X",
+      "E",
+      "A",
+      "S",
+      "V",
+      "A"
+    ],
+    [
+      "E",
+      "H",
+      "I",
+      "N",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "V"
+    ],
+    [
+      "C",
+      "A",
+      "I",
+      "Y",
+      "I",
+      "E",
+      "F",
+      "S",
+      "L",
+      "I"
+    ],
+    [
+      "R",
+      "Y",
+      "M",
+      "Y",
+      "M",
+      "W",
+      "L",
+      "V",
+      "U",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "gloss": "An arc of colors in the sky after rain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-07T16:14:08.335Z"
+}
