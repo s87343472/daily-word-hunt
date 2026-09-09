@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-02-05",
+  "playDate": "2027-02-05",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "S",
+      "B",
+      "Q",
+      "M",
+      "S",
+      "Y",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "G",
+      "U",
+      "S",
+      "A",
+      "W",
+      "P",
+      "C",
+      "I",
+      "T",
+      "K"
+    ],
+    [
+      "Z",
+      "R",
+      "A",
+      "C",
+      "O",
+      "E",
+      "L",
+      "W",
+      "D",
+      "A"
+    ],
+    [
+      "M",
+      "H",
+      "O",
+      "N",
+      "D",
+      "U",
+      "O",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "D",
+      "C",
+      "A",
+      "V",
+      "T",
+      "T",
+      "I",
+      "O",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "X",
+      "D",
+      "E",
+      "R",
+      "O",
+      "F",
+      "L",
+      "B"
+    ],
+    [
+      "W",
+      "Q",
+      "N",
+      "Q",
+      "N",
+      "A",
+      "X",
+      "R",
+      "D",
+      "Y"
+    ],
+    [
+      "M",
+      "P",
+      "E",
+      "A",
+      "K",
+      "I",
+      "B",
+      "A",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "V",
+      "O",
+      "U",
+      "R",
+      "L",
+      "T",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "U",
+      "I",
+      "S",
+      "W",
+      "A",
+      "M",
+      "P",
+      "B",
+      "W",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PEAK",
+      "gloss": "The pointed top of a mountain.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TULIP",
+      "gloss": "A spring flower from a bulb.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WOODLAND",
+      "gloss": "Land covered with trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-09T14:57:26.998Z"
+}

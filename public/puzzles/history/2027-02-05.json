@@ -1,0 +1,405 @@
+{
+  "id": "history-2027-02-05",
+  "playDate": "2027-02-05",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "C",
+      "A",
+      "L",
+      "E",
+      "N",
+      "D",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "O",
+      "H",
+      "F",
+      "P",
+      "A",
+      "K",
+      "J",
+      "C",
+      "O",
+      "T"
+    ],
+    [
+      "I",
+      "D",
+      "J",
+      "F",
+      "Y",
+      "R",
+      "R",
+      "I",
+      "S",
+      "X"
+    ],
+    [
+      "R",
+      "X",
+      "V",
+      "I",
+      "J",
+      "C",
+      "G",
+      "I",
+      "U",
+      "J"
+    ],
+    [
+      "U",
+      "T",
+      "Y",
+      "Y",
+      "O",
+      "E",
+      "N",
+      "X",
+      "F",
+      "V"
+    ],
+    [
+      "T",
+      "J",
+      "L",
+      "I",
+      "L",
+      "O",
+      "F",
+      "E",
+      "L",
+      "W"
+    ],
+    [
+      "N",
+      "B",
+      "N",
+      "O",
+      "L",
+      "U",
+      "T",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "E",
+      "K",
+      "X",
+      "O",
+      "V",
+      "F",
+      "F",
+      "K",
+      "X",
+      "L"
+    ],
+    [
+      "C",
+      "V",
+      "C",
+      "J",
+      "W",
+      "E",
+      "H",
+      "F",
+      "K",
+      "L"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "U",
+      "S",
+      "T",
+      "R",
+      "I",
+      "A",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CENTURION",
+      "gloss": "A Roman army officer.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COLONIST",
+      "gloss": "A settler in a colony.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WALL",
+      "gloss": "A defensive barrier.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-09T14:57:27.021Z"
+}

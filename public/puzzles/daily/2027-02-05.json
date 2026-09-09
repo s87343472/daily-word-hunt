@@ -1,0 +1,349 @@
+{
+  "id": "daily-2027-02-05",
+  "playDate": "2027-02-05",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "H",
+      "O",
+      "A",
+      "T",
+      "K",
+      "P",
+      "R",
+      "V",
+      "Q"
+    ],
+    [
+      "W",
+      "Z",
+      "L",
+      "G",
+      "C",
+      "B",
+      "K",
+      "A",
+      "E",
+      "V"
+    ],
+    [
+      "O",
+      "Q",
+      "L",
+      "U",
+      "T",
+      "C",
+      "C",
+      "D",
+      "L",
+      "D"
+    ],
+    [
+      "T",
+      "W",
+      "O",
+      "L",
+      "L",
+      "O",
+      "H",
+      "E",
+      "V",
+      "O"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "J",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "E",
+      "J",
+      "B",
+      "R",
+      "T",
+      "T",
+      "L"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "O",
+      "N",
+      "I",
+      "O",
+      "N",
+      "W",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "S",
+      "E",
+      "M",
+      "J",
+      "H",
+      "S",
+      "P",
+      "C"
+    ],
+    [
+      "U",
+      "I",
+      "N",
+      "H",
+      "B",
+      "W",
+      "I",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "I",
+      "E",
+      "M",
+      "E",
+      "L",
+      "G",
+      "D",
+      "P",
+      "R",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CHERRY",
+      "gloss": "A small red stone fruit.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HOLLOW",
+      "gloss": "An empty space inside.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LINE",
+      "gloss": "A long thin mark.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ONION",
+      "gloss": "A layered bulb vegetable.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VELVET",
+      "gloss": "A soft fabric with a short dense pile.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOLE",
+      "gloss": "A small rodent like a mouse.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WINCH",
+      "gloss": "A hauling device with a cable.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-09T14:57:26.991Z"
+}
