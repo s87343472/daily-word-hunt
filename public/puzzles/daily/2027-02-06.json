@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-02-06",
+  "playDate": "2027-02-06",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "K",
+      "T",
+      "Z",
+      "G",
+      "G",
+      "Y",
+      "B",
+      "I",
+      "E"
+    ],
+    [
+      "W",
+      "R",
+      "D",
+      "K",
+      "I",
+      "I",
+      "Q",
+      "K",
+      "E",
+      "S"
+    ],
+    [
+      "V",
+      "K",
+      "E",
+      "L",
+      "I",
+      "H",
+      "N",
+      "V",
+      "C",
+      "N"
+    ],
+    [
+      "V",
+      "T",
+      "V",
+      "N",
+      "Q",
+      "R",
+      "R",
+      "G",
+      "I",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "U",
+      "E",
+      "C",
+      "A",
+      "H",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "O",
+      "X",
+      "R",
+      "C",
+      "H",
+      "I",
+      "W",
+      "A",
+      "R"
+    ],
+    [
+      "B",
+      "D",
+      "L",
+      "I",
+      "F",
+      "S",
+      "F",
+      "O",
+      "F",
+      "J"
+    ],
+    [
+      "N",
+      "O",
+      "G",
+      "E",
+      "A",
+      "H",
+      "D",
+      "L",
+      "K",
+      "I"
+    ],
+    [
+      "S",
+      "B",
+      "H",
+      "O",
+      "M",
+      "C",
+      "P",
+      "D",
+      "R",
+      "Q"
+    ],
+    [
+      "R",
+      "Q",
+      "F",
+      "B",
+      "O",
+      "J",
+      "Q",
+      "G",
+      "Q",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CARVE",
+      "gloss": "To cut into a hard material.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GINGER",
+      "gloss": "A spicy root used in cooking.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MELON",
+      "gloss": "A large sweet fruit with a thick rind.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OASIS",
+      "gloss": "A fertile spot in a desert.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RINSE",
+      "gloss": "To wash lightly with water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRENCH",
+      "gloss": "A long narrow ditch.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TURF",
+      "gloss": "A layer of grass and soil.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WOLD",
+      "gloss": "A piece of high open land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-10T14:43:05.822Z"
+}
