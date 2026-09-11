@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-02-07",
+  "playDate": "2027-02-07",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "N",
+      "P",
+      "I",
+      "J",
+      "E",
+      "L",
+      "F",
+      "P",
+      "P"
+    ],
+    [
+      "F",
+      "U",
+      "I",
+      "Z",
+      "R",
+      "O",
+      "P",
+      "I",
+      "Z",
+      "K"
+    ],
+    [
+      "Z",
+      "H",
+      "I",
+      "B",
+      "T",
+      "O",
+      "L",
+      "O",
+      "R",
+      "V"
+    ],
+    [
+      "H",
+      "E",
+      "T",
+      "N",
+      "A",
+      "O",
+      "N",
+      "C",
+      "L",
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "F",
+      "T",
+      "C",
+      "J",
+      "O",
+      "Z",
+      "S"
+    ],
+    [
+      "L",
+      "R",
+      "L",
+      "P",
+      "S",
+      "O",
+      "L",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "B",
+      "T",
+      "E",
+      "O",
+      "L",
+      "V",
+      "R",
+      "D",
+      "H",
+      "C"
+    ],
+    [
+      "F",
+      "V",
+      "K",
+      "C",
+      "B",
+      "A",
+      "N",
+      "I",
+      "J",
+      "Y"
+    ],
+    [
+      "V",
+      "E",
+      "C",
+      "R",
+      "Q",
+      "B",
+      "N",
+      "J",
+      "Q",
+      "K"
+    ],
+    [
+      "A",
+      "U",
+      "Y",
+      "X",
+      "P",
+      "V",
+      "Y",
+      "K",
+      "P",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CABIN",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HEART",
+      "gloss": "The organ that pumps blood; also courage.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "IRON",
+      "gloss": "A strong metal; also a pressing tool.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PILOT",
+      "gloss": "A person who flies an aircraft.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PLANK",
+      "gloss": "A long flat piece of timber.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SLOPE",
+      "gloss": "A surface with one end higher than the other.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "gloss": "Relating to the sun.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-11T14:45:59.672Z"
+}

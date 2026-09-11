@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-02-07",
+  "playDate": "2027-02-07",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "C",
+      "W",
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "U",
+      "I",
+      "K",
+      "H",
+      "G",
+      "G",
+      "Q",
+      "H"
+    ],
+    [
+      "I",
+      "Z",
+      "Y",
+      "W",
+      "N",
+      "E",
+      "S",
+      "Z",
+      "M",
+      "B"
+    ],
+    [
+      "R",
+      "B",
+      "M",
+      "P",
+      "Q",
+      "D",
+      "S",
+      "R",
+      "G",
+      "T"
+    ],
+    [
+      "A",
+      "K",
+      "U",
+      "T",
+      "O",
+      "C",
+      "M",
+      "P",
+      "S",
+      "K"
+    ],
+    [
+      "E",
+      "C",
+      "S",
+      "R",
+      "H",
+      "R",
+      "O",
+      "O",
+      "V",
+      "R"
+    ],
+    [
+      "L",
+      "Y",
+      "O",
+      "O",
+      "R",
+      "P",
+      "C",
+      "P",
+      "J",
+      "M"
+    ],
+    [
+      "C",
+      "P",
+      "O",
+      "B",
+      "P",
+      "O",
+      "Y",
+      "H",
+      "H",
+      "J"
+    ],
+    [
+      "Q",
+      "L",
+      "L",
+      "Y",
+      "O",
+      "B",
+      "W",
+      "U",
+      "I",
+      "J"
+    ],
+    [
+      "K",
+      "L",
+      "Q",
+      "N",
+      "A",
+      "T",
+      "U",
+      "R",
+      "E",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NATURE",
+      "gloss": "The physical world not made by humans.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-11T14:45:59.678Z"
+}
