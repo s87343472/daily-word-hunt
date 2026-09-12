@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-02-08",
+  "playDate": "2027-02-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "S",
+      "P",
+      "W",
+      "T",
+      "R",
+      "T",
+      "Y",
+      "R",
+      "N"
+    ],
+    [
+      "P",
+      "T",
+      "F",
+      "I",
+      "A",
+      "U",
+      "G",
+      "G",
+      "C",
+      "O"
+    ],
+    [
+      "D",
+      "O",
+      "Y",
+      "O",
+      "N",
+      "W",
+      "N",
+      "B",
+      "S",
+      "R"
+    ],
+    [
+      "F",
+      "R",
+      "R",
+      "B",
+      "G",
+      "E",
+      "Q",
+      "D",
+      "Y",
+      "E"
+    ],
+    [
+      "S",
+      "M",
+      "Q",
+      "L",
+      "O",
+      "R",
+      "C",
+      "U",
+      "R",
+      "H"
+    ],
+    [
+      "Y",
+      "U",
+      "A",
+      "G",
+      "R",
+      "U",
+      "E",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "M",
+      "V",
+      "Q",
+      "C",
+      "L",
+      "E",
+      "N",
+      "M"
+    ],
+    [
+      "G",
+      "F",
+      "Z",
+      "M",
+      "S",
+      "T",
+      "H",
+      "D",
+      "N",
+      "E"
+    ],
+    [
+      "Y",
+      "N",
+      "W",
+      "A",
+      "E",
+      "C",
+      "R",
+      "Y",
+      "E",
+      "V"
+    ],
+    [
+      "R",
+      "L",
+      "V",
+      "R",
+      "J",
+      "R",
+      "C",
+      "D",
+      "D",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SUMMER",
+      "gloss": "The warmest season of the year.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-12T13:49:15.179Z"
+}
