@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-02-09",
+  "playDate": "2027-02-09",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "C",
+      "J",
+      "D",
+      "M",
+      "A",
+      "R",
+      "N",
+      "H",
+      "R"
+    ],
+    [
+      "V",
+      "M",
+      "D",
+      "C",
+      "F",
+      "O",
+      "R",
+      "G",
+      "E",
+      "U"
+    ],
+    [
+      "E",
+      "C",
+      "B",
+      "V",
+      "B",
+      "K",
+      "R",
+      "V",
+      "F",
+      "C"
+    ],
+    [
+      "A",
+      "G",
+      "C",
+      "A",
+      "A",
+      "I",
+      "O",
+      "E",
+      "L",
+      "U"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "O",
+      "S",
+      "L",
+      "N",
+      "Z",
+      "E",
+      "L"
+    ],
+    [
+      "Z",
+      "U",
+      "Z",
+      "T",
+      "U",
+      "S",
+      "P",
+      "U",
+      "E",
+      "T"
+    ],
+    [
+      "H",
+      "I",
+      "S",
+      "T",
+      "I",
+      "N",
+      "A",
+      "T",
+      "T",
+      "U"
+    ],
+    [
+      "U",
+      "I",
+      "I",
+      "N",
+      "W",
+      "R",
+      "C",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "W",
+      "O",
+      "Y",
+      "M",
+      "O",
+      "Y",
+      "E",
+      "I",
+      "O",
+      "E"
+    ],
+    [
+      "N",
+      "U",
+      "E",
+      "I",
+      "B",
+      "C",
+      "Z",
+      "H",
+      "L",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HERITAGE",
+      "gloss": "Traditions and culture from the past.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-13T14:45:16.225Z"
+}

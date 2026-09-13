@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-02-09",
+  "playDate": "2027-02-09",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "C",
+      "P",
+      "K",
+      "T",
+      "K",
+      "Y",
+      "N",
+      "U",
+      "J"
+    ],
+    [
+      "K",
+      "T",
+      "I",
+      "P",
+      "T",
+      "R",
+      "L",
+      "D",
+      "Z",
+      "G"
+    ],
+    [
+      "I",
+      "C",
+      "D",
+      "P",
+      "L",
+      "U",
+      "U",
+      "C",
+      "N",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "I",
+      "L",
+      "O",
+      "A",
+      "D",
+      "N",
+      "Z",
+      "E"
+    ],
+    [
+      "H",
+      "V",
+      "U",
+      "U",
+      "K",
+      "R",
+      "I",
+      "E",
+      "K",
+      "V"
+    ],
+    [
+      "L",
+      "Z",
+      "T",
+      "M",
+      "O",
+      "E",
+      "T",
+      "N",
+      "S",
+      "A"
+    ],
+    [
+      "J",
+      "I",
+      "B",
+      "V",
+      "S",
+      "S",
+      "V",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "K",
+      "L",
+      "Z",
+      "X",
+      "Y",
+      "V",
+      "V",
+      "U",
+      "B"
+    ],
+    [
+      "J",
+      "L",
+      "D",
+      "A",
+      "J",
+      "E",
+      "W",
+      "V",
+      "F",
+      "F"
+    ],
+    [
+      "D",
+      "Q",
+      "C",
+      "A",
+      "C",
+      "G",
+      "I",
+      "L",
+      "H",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SOIL",
+      "gloss": "The upper layer of earth where plants grow.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-13T14:45:16.210Z"
+}

@@ -1,0 +1,425 @@
+{
+  "id": "cities-2027-02-09",
+  "playDate": "2027-02-09",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "J",
+      "I",
+      "M",
+      "S",
+      "L",
+      "H",
+      "N",
+      "L",
+      "C"
+    ],
+    [
+      "O",
+      "O",
+      "T",
+      "Y",
+      "S",
+      "I",
+      "L",
+      "Z",
+      "R",
+      "Y"
+    ],
+    [
+      "S",
+      "E",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "J",
+      "A",
+      "O",
+      "C"
+    ],
+    [
+      "T",
+      "M",
+      "F",
+      "Z",
+      "P",
+      "W",
+      "M",
+      "F",
+      "R",
+      "L"
+    ],
+    [
+      "C",
+      "B",
+      "F",
+      "L",
+      "R",
+      "C",
+      "N",
+      "U",
+      "U",
+      "I"
+    ],
+    [
+      "O",
+      "A",
+      "A",
+      "Q",
+      "E",
+      "U",
+      "L",
+      "U",
+      "F",
+      "S"
+    ],
+    [
+      "D",
+      "S",
+      "R",
+      "W",
+      "D",
+      "W",
+      "G",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "S",
+      "G",
+      "Z",
+      "N",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "I",
+      "Y",
+      "U",
+      "X",
+      "U",
+      "Q",
+      "D",
+      "A",
+      "Z",
+      "T"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BENCH",
+      "gloss": "A long seat for several people.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CYCLIST",
+      "gloss": "A person who rides a bicycle.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EMBASSY",
+      "gloss": "The office of a foreign country’s representatives.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "POSTCODE",
+      "gloss": "A code for a postal area.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RUNWAY",
+      "gloss": "A strip for aircraft takeoff and landing.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "UNDERPASS",
+      "gloss": "A passage under a road or railway.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WATERTOWER",
+      "gloss": "A tower storing water for a town.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-13T14:45:16.219Z"
+}
