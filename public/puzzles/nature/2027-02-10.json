@@ -1,0 +1,389 @@
+{
+  "id": "nature-2027-02-10",
+  "playDate": "2027-02-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "Q",
+      "D",
+      "C",
+      "B",
+      "H",
+      "J",
+      "V",
+      "P",
+      "Z"
+    ],
+    [
+      "U",
+      "T",
+      "X",
+      "J",
+      "X",
+      "R",
+      "Z",
+      "F",
+      "J",
+      "Z"
+    ],
+    [
+      "T",
+      "Y",
+      "O",
+      "P",
+      "B",
+      "I",
+      "O",
+      "M",
+      "C",
+      "C"
+    ],
+    [
+      "T",
+      "B",
+      "G",
+      "J",
+      "R",
+      "A",
+      "U",
+      "O",
+      "T",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "B",
+      "O",
+      "I",
+      "E",
+      "A",
+      "I",
+      "K",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "F",
+      "I",
+      "L",
+      "D",
+      "L",
+      "I",
+      "W",
+      "M"
+    ],
+    [
+      "F",
+      "Q",
+      "P",
+      "O",
+      "J",
+      "O",
+      "U",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "M",
+      "A",
+      "R",
+      "S",
+      "H",
+      "C",
+      "E",
+      "F",
+      "P"
+    ],
+    [
+      "Y",
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "F",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "H",
+      "J",
+      "H",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-14T16:43:32.095Z"
+}
