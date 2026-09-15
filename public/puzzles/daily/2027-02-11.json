@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-02-11",
+  "playDate": "2027-02-11",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "U",
+      "O",
+      "C",
+      "S",
+      "N",
+      "S",
+      "E",
+      "K",
+      "H"
+    ],
+    [
+      "A",
+      "Z",
+      "Z",
+      "E",
+      "U",
+      "T",
+      "I",
+      "J",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "A",
+      "X",
+      "O",
+      "P",
+      "F",
+      "D",
+      "W",
+      "U",
+      "P"
+    ],
+    [
+      "G",
+      "F",
+      "O",
+      "M",
+      "Y",
+      "E",
+      "C",
+      "H",
+      "O",
+      "M"
+    ],
+    [
+      "Y",
+      "I",
+      "T",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T",
+      "K"
+    ],
+    [
+      "B",
+      "N",
+      "A",
+      "P",
+      "T",
+      "M",
+      "N",
+      "Z",
+      "N",
+      "Q"
+    ],
+    [
+      "F",
+      "D",
+      "M",
+      "H",
+      "W",
+      "R",
+      "N",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "V",
+      "E",
+      "Y",
+      "L",
+      "B",
+      "A",
+      "E"
+    ],
+    [
+      "J",
+      "Q",
+      "T",
+      "T",
+      "U",
+      "Z",
+      "K",
+      "R",
+      "P",
+      "M"
+    ],
+    [
+      "A",
+      "O",
+      "S",
+      "X",
+      "L",
+      "U",
+      "O",
+      "A",
+      "S",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ECHO",
+      "gloss": "A reflected sound.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FIND",
+      "gloss": "To discover or locate.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PAINT",
+      "gloss": "Colored liquid spread on a surface.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLANET",
+      "gloss": "A celestial body orbiting a star.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCOUT",
+      "gloss": "Someone sent to gather information.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STERN",
+      "gloss": "The rear of a ship; also strict.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TOMATO",
+      "gloss": "A red fruit used as a vegetable.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "gloss": "An African horse with black and white stripes.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-15T15:22:22.368Z"
+}

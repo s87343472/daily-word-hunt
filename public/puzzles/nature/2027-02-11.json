@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-02-11",
+  "playDate": "2027-02-11",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "G",
+      "K",
+      "S",
+      "H",
+      "B",
+      "C",
+      "T",
+      "X",
+      "L",
+      "B"
+    ],
+    [
+      "N",
+      "G",
+      "R",
+      "E",
+      "C",
+      "L",
+      "U",
+      "D",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "M",
+      "N",
+      "E",
+      "V",
+      "A",
+      "F",
+      "V",
+      "V",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "E",
+      "O",
+      "S",
+      "I",
+      "E",
+      "S",
+      "E",
+      "F"
+    ],
+    [
+      "P",
+      "Z",
+      "V",
+      "A",
+      "N",
+      "I",
+      "O",
+      "B",
+      "N",
+      "D"
+    ],
+    [
+      "B",
+      "U",
+      "F",
+      "Q",
+      "D",
+      "A",
+      "N",
+      "G",
+      "D",
+      "A"
+    ],
+    [
+      "X",
+      "H",
+      "B",
+      "N",
+      "Y",
+      "O",
+      "C",
+      "G",
+      "E",
+      "Z"
+    ],
+    [
+      "Q",
+      "A",
+      "Q",
+      "B",
+      "M",
+      "O",
+      "W",
+      "L",
+      "R",
+      "L"
+    ],
+    [
+      "Y",
+      "G",
+      "A",
+      "L",
+      "P",
+      "I",
+      "N",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "U",
+      "B",
+      "V",
+      "B",
+      "A",
+      "B",
+      "O",
+      "Z",
+      "H",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALPINE",
+      "gloss": "Relating to high mountains.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PINE",
+      "gloss": "An evergreen tree with needles.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-15T15:22:22.375Z"
+}
