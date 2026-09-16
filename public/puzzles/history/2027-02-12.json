@@ -1,0 +1,432 @@
+{
+  "id": "history-2027-02-12",
+  "playDate": "2027-02-12",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "D",
+      "G",
+      "M",
+      "V",
+      "W",
+      "L",
+      "Q",
+      "A",
+      "V",
+      "F",
+      "S"
+    ],
+    [
+      "K",
+      "E",
+      "G",
+      "F",
+      "E",
+      "L",
+      "D",
+      "Z",
+      "V",
+      "G",
+      "E"
+    ],
+    [
+      "A",
+      "J",
+      "C",
+      "E",
+      "R",
+      "N",
+      "S",
+      "O",
+      "B",
+      "L",
+      "I"
+    ],
+    [
+      "N",
+      "J",
+      "H",
+      "L",
+      "C",
+      "U",
+      "Y",
+      "D",
+      "T",
+      "Z",
+      "P"
+    ],
+    [
+      "H",
+      "W",
+      "X",
+      "Y",
+      "A",
+      "A",
+      "C",
+      "T",
+      "K",
+      "G",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "B",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      "L",
+      "E",
+      "R",
+      "B",
+      "A",
+      "K",
+      "B",
+      "L",
+      "G"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "A",
+      "R",
+      "C",
+      "H",
+      "T",
+      "C",
+      "M",
+      "T"
+    ],
+    [
+      "L",
+      "Q",
+      "A",
+      "B",
+      "Y",
+      "L",
+      "W",
+      "A",
+      "I",
+      "V",
+      "T"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "N",
+      "O",
+      "N",
+      "R",
+      "P",
+      "Q",
+      "O",
+      "I"
+    ],
+    [
+      "W",
+      "K",
+      "O",
+      "L",
+      "X",
+      "O",
+      "M",
+      "A",
+      "H",
+      "U",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "CANNON",
+      "gloss": "A large gun on wheels or a mount.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "MONARCH",
+      "gloss": "A king or queen.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy.",
+      "path": [
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAPH",
+      "gloss": "A system for sending messages by wire.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-16T15:15:08.502Z"
+}

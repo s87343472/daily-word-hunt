@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-02-12",
+  "playDate": "2027-02-12",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "E",
+      "L",
+      "L",
+      "A",
+      "H",
+      "D",
+      "O",
+      "O",
+      "F"
+    ],
+    [
+      "A",
+      "C",
+      "X",
+      "N",
+      "R",
+      "Q",
+      "Z",
+      "G",
+      "Q",
+      "N"
+    ],
+    [
+      "I",
+      "I",
+      "B",
+      "A",
+      "C",
+      "K",
+      "P",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "L",
+      "F",
+      "D",
+      "O",
+      "V",
+      "H",
+      "P",
+      "Y",
+      "M",
+      "M"
+    ],
+    [
+      "W",
+      "F",
+      "S",
+      "U",
+      "I",
+      "T",
+      "C",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "X",
+      "N",
+      "N",
+      "T",
+      "N",
+      "D",
+      "W",
+      "F"
+    ],
+    [
+      "Y",
+      "T",
+      "F",
+      "R",
+      "R",
+      "Q",
+      "C",
+      "H",
+      "R",
+      "Y"
+    ],
+    [
+      "R",
+      "S",
+      "G",
+      "O",
+      "A",
+      "T",
+      "R",
+      "A",
+      "M",
+      "X"
+    ],
+    [
+      "A",
+      "O",
+      "F",
+      "Z",
+      "Z",
+      "Q",
+      "H",
+      "F",
+      "O",
+      "Z"
+    ],
+    [
+      "Q",
+      "P",
+      "Y",
+      "A",
+      "E",
+      "W",
+      "Q",
+      "D",
+      "P",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "gloss": "A bag carried on the back.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FOODHALL",
+      "gloss": "A large indoor space with many food vendors.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "POSTOFFICE",
+      "gloss": "A place for sending mail.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RAILWAY",
+      "gloss": "A track for trains.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUITCASE",
+      "gloss": "A case for carrying clothes while traveling.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-16T15:15:08.488Z"
+}
