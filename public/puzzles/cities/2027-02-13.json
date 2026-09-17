@@ -1,0 +1,424 @@
+{
+  "id": "cities-2027-02-13",
+  "playDate": "2027-02-13",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "Y",
+      "A",
+      "H",
+      "C",
+      "A",
+      "L",
+      "H",
+      "A",
+      "X",
+      "L",
+      "V"
+    ],
+    [
+      "K",
+      "U",
+      "T",
+      "C",
+      "O",
+      "R",
+      "F",
+      "R",
+      "B",
+      "C",
+      "I"
+    ],
+    [
+      "Y",
+      "S",
+      "O",
+      "K",
+      "R",
+      "T",
+      "C",
+      "V",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "F",
+      "N",
+      "O",
+      "S",
+      "V",
+      "O",
+      "R",
+      "H",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "C",
+      "J",
+      "B",
+      "S",
+      "Q",
+      "E",
+      "S",
+      "A",
+      "W",
+      "F",
+      "J"
+    ],
+    [
+      "S",
+      "L",
+      "T",
+      "A",
+      "I",
+      "E",
+      "Z",
+      "S",
+      "E",
+      "A",
+      "O"
+    ],
+    [
+      "T",
+      "D",
+      "E",
+      "P",
+      "A",
+      "A",
+      "T",
+      "O",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "R",
+      "B",
+      "K",
+      "Y",
+      "B",
+      "X",
+      "M",
+      "C",
+      "N",
+      "N",
+      "R"
+    ],
+    [
+      "Y",
+      "E",
+      "C",
+      "B",
+      "R",
+      "L",
+      "D",
+      "Z",
+      "V",
+      "J",
+      "G"
+    ],
+    [
+      "P",
+      "U",
+      "I",
+      "P",
+      "R",
+      "O",
+      "V",
+      "I",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "T",
+      "R",
+      "S",
+      "M",
+      "I",
+      "J",
+      "S",
+      "H",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHWAY",
+      "gloss": "A curved structure forming a passage.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CROSSING",
+      "gloss": "A place where roads or paths cross.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PROVINCE",
+      "gloss": "A main administrative division of a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "TICKETBOOTH",
+      "gloss": "A small office that sells tickets.",
+      "path": [
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country.",
+      "path": [
+        {
+          "r": 0,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-17T15:23:49.458Z"
+}

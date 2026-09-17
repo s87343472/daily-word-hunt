@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-02-13",
+  "playDate": "2027-02-13",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "D",
+      "C",
+      "A",
+      "N",
+      "O",
+      "P",
+      "Y",
+      "W",
+      "W"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "I",
+      "G",
+      "S",
+      "W",
+      "O",
+      "Q",
+      "S"
+    ],
+    [
+      "M",
+      "X",
+      "S",
+      "X",
+      "M",
+      "E",
+      "D",
+      "K",
+      "V",
+      "Y"
+    ],
+    [
+      "E",
+      "M",
+      "T",
+      "P",
+      "T",
+      "A",
+      "U",
+      "Z",
+      "G",
+      "B"
+    ],
+    [
+      "V",
+      "G",
+      "U",
+      "L",
+      "E",
+      "A",
+      "I",
+      "O",
+      "O",
+      "U"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "M",
+      "S",
+      "J",
+      "L",
+      "X",
+      "F",
+      "R"
+    ],
+    [
+      "G",
+      "N",
+      "R",
+      "W",
+      "Z",
+      "O",
+      "T",
+      "R",
+      "V",
+      "R"
+    ],
+    [
+      "D",
+      "P",
+      "Y",
+      "O",
+      "C",
+      "A",
+      "V",
+      "Z",
+      "W",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "E",
+      "Q",
+      "X",
+      "L",
+      "P",
+      "I",
+      "W"
+    ],
+    [
+      "Y",
+      "W",
+      "D",
+      "Q",
+      "H",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PAW",
+      "gloss": "An animal’s foot with claws or pads.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WETLAND",
+      "gloss": "Land saturated with water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-17T15:23:49.444Z"
+}
