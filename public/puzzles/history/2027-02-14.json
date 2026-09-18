@@ -1,0 +1,385 @@
+{
+  "id": "history-2027-02-14",
+  "playDate": "2027-02-14",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "E",
+      "S",
+      "Z",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "C",
+      "C",
+      "J",
+      "Y",
+      "D",
+      "W",
+      "C",
+      "Y",
+      "N"
+    ],
+    [
+      "M",
+      "R",
+      "F",
+      "Y",
+      "R",
+      "G",
+      "S",
+      "R",
+      "N",
+      "B"
+    ],
+    [
+      "I",
+      "U",
+      "V",
+      "V",
+      "E",
+      "Y",
+      "S",
+      "P",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "Z",
+      "V",
+      "W",
+      "X",
+      "J",
+      "V",
+      "M"
+    ],
+    [
+      "T",
+      "S",
+      "T",
+      "A",
+      "O",
+      "X",
+      "B",
+      "R",
+      "A",
+      "X"
+    ],
+    [
+      "I",
+      "T",
+      "N",
+      "R",
+      "C",
+      "R",
+      "B",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "C",
+      "I",
+      "D",
+      "B",
+      "S",
+      "U",
+      "S",
+      "F",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "O",
+      "R",
+      "I",
+      "I",
+      "B",
+      "C",
+      "C",
+      "U"
+    ],
+    [
+      "O",
+      "G",
+      "C",
+      "N",
+      "D",
+      "N",
+      "R",
+      "T",
+      "W",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CARAVAN",
+      "gloss": "A group traveling together for trade.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-18T14:43:34.475Z"
+}

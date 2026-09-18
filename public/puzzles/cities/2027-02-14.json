@@ -1,0 +1,409 @@
+{
+  "id": "cities-2027-02-14",
+  "playDate": "2027-02-14",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "F",
+      "L",
+      "V",
+      "C",
+      "S",
+      "I",
+      "W",
+      "E",
+      "K"
+    ],
+    [
+      "R",
+      "T",
+      "I",
+      "F",
+      "J",
+      "I",
+      "N",
+      "H",
+      "Y",
+      "E"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "R",
+      "U",
+      "E",
+      "N",
+      "P",
+      "T",
+      "D"
+    ],
+    [
+      "Y",
+      "Z",
+      "S",
+      "D",
+      "E",
+      "I",
+      "A",
+      "E",
+      "J",
+      "G"
+    ],
+    [
+      "P",
+      "P",
+      "L",
+      "H",
+      "T",
+      "W",
+      "R",
+      "Z",
+      "M",
+      "R"
+    ],
+    [
+      "I",
+      "E",
+      "P",
+      "Q",
+      "H",
+      "C",
+      "O",
+      "W",
+      "R",
+      "A"
+    ],
+    [
+      "H",
+      "F",
+      "D",
+      "V",
+      "N",
+      "O",
+      "X",
+      "R",
+      "W",
+      "W"
+    ],
+    [
+      "S",
+      "A",
+      "X",
+      "O",
+      "F",
+      "O",
+      "U",
+      "F",
+      "K",
+      "L"
+    ],
+    [
+      "X",
+      "C",
+      "C",
+      "W",
+      "U",
+      "X",
+      "K",
+      "R",
+      "F",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CINEMA",
+      "gloss": "A place for watching films.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONCRETE",
+      "gloss": "A building material of cement and aggregate.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COURTHOUSE",
+      "gloss": "A building for law courts.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FIREWORKS",
+      "gloss": "Explosive devices used for display.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHIPYARD",
+      "gloss": "A place where ships are built.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-18T14:43:34.469Z"
+}

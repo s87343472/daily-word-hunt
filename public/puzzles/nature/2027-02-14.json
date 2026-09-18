@@ -1,0 +1,393 @@
+{
+  "id": "nature-2027-02-14",
+  "playDate": "2027-02-14",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "F",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "H",
+      "X",
+      "C",
+      "M",
+      "R",
+      "A",
+      "R",
+      "Z",
+      "K",
+      "D"
+    ],
+    [
+      "C",
+      "S",
+      "G",
+      "L",
+      "C",
+      "C",
+      "U",
+      "A",
+      "H",
+      "N"
+    ],
+    [
+      "N",
+      "U",
+      "I",
+      "K",
+      "P",
+      "O",
+      "H",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "N",
+      "B",
+      "R",
+      "A",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "L",
+      "X",
+      "X",
+      "P",
+      "W",
+      "N",
+      "T",
+      "S",
+      "Z",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "F",
+      "U",
+      "X",
+      "I",
+      "I",
+      "K",
+      "T",
+      "I"
+    ],
+    [
+      "V",
+      "H",
+      "M",
+      "W",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "H"
+    ],
+    [
+      "A",
+      "D",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "L",
+      "E",
+      "W",
+      "R"
+    ],
+    [
+      "U",
+      "W",
+      "H",
+      "U",
+      "I",
+      "K",
+      "L",
+      "U",
+      "T",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ACORN",
+      "gloss": "The nut of an oak tree.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COAST",
+      "gloss": "Land along the sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HABITAT",
+      "gloss": "The natural home of a plant or animal.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-18T14:43:34.459Z"
+}
