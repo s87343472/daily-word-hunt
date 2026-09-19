@@ -1,0 +1,381 @@
+{
+  "id": "nature-2027-02-15",
+  "playDate": "2027-02-15",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "C",
+      "Y",
+      "O",
+      "D",
+      "I",
+      "S",
+      "V",
+      "M",
+      "Y"
+    ],
+    [
+      "A",
+      "V",
+      "O",
+      "D",
+      "I",
+      "K",
+      "M",
+      "S",
+      "F",
+      "D"
+    ],
+    [
+      "T",
+      "D",
+      "B",
+      "R",
+      "O",
+      "G",
+      "D",
+      "U",
+      "A",
+      "B"
+    ],
+    [
+      "E",
+      "A",
+      "J",
+      "O",
+      "A",
+      "Q",
+      "H",
+      "N",
+      "P",
+      "P"
+    ],
+    [
+      "R",
+      "Y",
+      "R",
+      "F",
+      "K",
+      "L",
+      "E",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "F",
+      "B",
+      "E",
+      "Q",
+      "S",
+      "F",
+      "D",
+      "B",
+      "M",
+      "W"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "C",
+      "R",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "Q",
+      "Q",
+      "I",
+      "G",
+      "L",
+      "U",
+      "F",
+      "F"
+    ],
+    [
+      "L",
+      "A",
+      "L",
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "K",
+      "K",
+      "D",
+      "C",
+      "L",
+      "W",
+      "T",
+      "U",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BROOK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-19T14:05:04.977Z"
+}

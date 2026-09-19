@@ -1,0 +1,333 @@
+{
+  "id": "daily-2027-02-15",
+  "playDate": "2027-02-15",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Q",
+      "D",
+      "Z",
+      "R",
+      "E",
+      "W",
+      "S",
+      "M",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "Y",
+      "T",
+      "H",
+      "V",
+      "R",
+      "Z",
+      "P",
+      "A"
+    ],
+    [
+      "G",
+      "O",
+      "X",
+      "U",
+      "X",
+      "A",
+      "S",
+      "Y",
+      "R",
+      "I"
+    ],
+    [
+      "Q",
+      "E",
+      "A",
+      "Z",
+      "C",
+      "C",
+      "K",
+      "D",
+      "J",
+      "L"
+    ],
+    [
+      "W",
+      "F",
+      "V",
+      "C",
+      "P",
+      "L",
+      "U",
+      "M",
+      "D",
+      "D"
+    ],
+    [
+      "D",
+      "X",
+      "F",
+      "E",
+      "A",
+      "J",
+      "D",
+      "O",
+      "R",
+      "G"
+    ],
+    [
+      "L",
+      "Y",
+      "F",
+      "N",
+      "N",
+      "L",
+      "P",
+      "U",
+      "O",
+      "S"
+    ],
+    [
+      "I",
+      "V",
+      "I",
+      "V",
+      "I",
+      "I",
+      "M",
+      "V",
+      "S",
+      "S"
+    ],
+    [
+      "O",
+      "E",
+      "F",
+      "X",
+      "R",
+      "L",
+      "N",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "V",
+      "V",
+      "R",
+      "T",
+      "P",
+      "Q",
+      "E",
+      "G",
+      "H",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALM",
+      "gloss": "Peaceful and free from agitation.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "EVENING",
+      "gloss": "The later part of the day.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLUM",
+      "gloss": "A juicy purple or red stone fruit.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns; also a color.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SAIL",
+      "gloss": "A cloth that catches wind to move a boat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRIPOD",
+      "gloss": "A three-legged stand.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VEIN",
+      "gloss": "A blood vessel; also a mineral streak.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-19T14:05:04.965Z"
+}
