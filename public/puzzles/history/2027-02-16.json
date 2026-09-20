@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-02-16",
+  "playDate": "2027-02-16",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "H",
+      "S",
+      "B",
+      "V",
+      "V",
+      "X",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "M",
+      "U",
+      "F",
+      "Y",
+      "T",
+      "Z",
+      "O",
+      "O"
+    ],
+    [
+      "C",
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "Q",
+      "O",
+      "K",
+      "M",
+      "C",
+      "G",
+      "T",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "V",
+      "O",
+      "N",
+      "T",
+      "A",
+      "I",
+      "E",
+      "H",
+      "Y",
+      "E"
+    ],
+    [
+      "C",
+      "D",
+      "I",
+      "G",
+      "D",
+      "R",
+      "G",
+      "R",
+      "F",
+      "N"
+    ],
+    [
+      "S",
+      "C",
+      "J",
+      "E",
+      "R",
+      "I",
+      "Y",
+      "I",
+      "Y",
+      "X"
+    ],
+    [
+      "S",
+      "G",
+      "P",
+      "U",
+      "N",
+      "E",
+      "S",
+      "I",
+      "T",
+      "B"
+    ],
+    [
+      "Q",
+      "X",
+      "Y",
+      "K",
+      "R",
+      "G",
+      "S",
+      "B",
+      "T",
+      "R"
+    ],
+    [
+      "E",
+      "F",
+      "Y",
+      "X",
+      "T",
+      "Y",
+      "O",
+      "S",
+      "A",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CONGRESS",
+      "gloss": "A national legislative body.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a purpose.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MIGRATION",
+      "gloss": "Movement of people from one place to another.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PRIMARY",
+      "gloss": "An original historical source.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TACTICS",
+      "gloss": "Methods used in battle.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-20T14:23:56.029Z"
+}

@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-02-16",
+  "playDate": "2027-02-16",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "A",
+      "W",
+      "I",
+      "N",
+      "D",
+      "G",
+      "C",
+      "Q",
+      "B"
+    ],
+    [
+      "P",
+      "N",
+      "A",
+      "X",
+      "T",
+      "R",
+      "R",
+      "F",
+      "D",
+      "N"
+    ],
+    [
+      "P",
+      "Z",
+      "R",
+      "O",
+      "M",
+      "A",
+      "W",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "T",
+      "P",
+      "V",
+      "O",
+      "F",
+      "R",
+      "E",
+      "U",
+      "P",
+      "J"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "T",
+      "T",
+      "R",
+      "V",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "A",
+      "K",
+      "U",
+      "H",
+      "X",
+      "W",
+      "C",
+      "U",
+      "Q",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "C",
+      "A",
+      "O",
+      "A",
+      "W",
+      "X",
+      "U",
+      "W"
+    ],
+    [
+      "T",
+      "D",
+      "B",
+      "R",
+      "M",
+      "N",
+      "B",
+      "L",
+      "A",
+      "Q"
+    ],
+    [
+      "L",
+      "S",
+      "K",
+      "U",
+      "S",
+      "K",
+      "O",
+      "V",
+      "S",
+      "J"
+    ],
+    [
+      "E",
+      "U",
+      "S",
+      "A",
+      "W",
+      "W",
+      "P",
+      "R",
+      "H",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CRAFT",
+      "gloss": "Skill in making things; also a boat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HONOR",
+      "gloss": "High respect; also to show respect.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REED",
+      "gloss": "A tall slender water plant.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SQUASH",
+      "gloss": "A vegetable; also to crush.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUMAC",
+      "gloss": "A shrub with clustered fruit.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WORK",
+      "gloss": "Activity involving effort.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-20T14:23:56.004Z"
+}

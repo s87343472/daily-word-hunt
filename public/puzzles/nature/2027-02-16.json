@@ -1,0 +1,377 @@
+{
+  "id": "nature-2027-02-16",
+  "playDate": "2027-02-16",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "U",
+      "R",
+      "E",
+      "Q",
+      "F",
+      "Y"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "A",
+      "L",
+      "R",
+      "E",
+      "E",
+      "F",
+      "R"
+    ],
+    [
+      "U",
+      "G",
+      "W",
+      "A",
+      "O",
+      "J",
+      "O",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "U",
+      "F",
+      "K",
+      "H",
+      "J",
+      "Y",
+      "N",
+      "D",
+      "N",
+      "T"
+    ],
+    [
+      "J",
+      "H",
+      "T",
+      "O",
+      "L",
+      "I",
+      "T",
+      "E",
+      "B",
+      "S"
+    ],
+    [
+      "P",
+      "Q",
+      "S",
+      "Q",
+      "V",
+      "U",
+      "S",
+      "A",
+      "W",
+      "R"
+    ],
+    [
+      "V",
+      "H",
+      "D",
+      "A",
+      "R",
+      "O",
+      "R",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "U",
+      "R",
+      "R",
+      "Z",
+      "R",
+      "K",
+      "T",
+      "Q",
+      "N",
+      "D"
+    ],
+    [
+      "G",
+      "N",
+      "B",
+      "W",
+      "A",
+      "A",
+      "W",
+      "M",
+      "G",
+      "N"
+    ],
+    [
+      "Y",
+      "L",
+      "H",
+      "O",
+      "O",
+      "T",
+      "J",
+      "G",
+      "T",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HOOT",
+      "gloss": "The call of an owl.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PASTURE",
+      "gloss": "Land covered with grass for grazing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAVINE",
+      "gloss": "A deep narrow gorge.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "UNDERSTORY",
+      "gloss": "Vegetation under the forest canopy.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-20T14:23:56.010Z"
+}
