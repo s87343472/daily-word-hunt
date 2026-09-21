@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-02-17",
+  "playDate": "2027-02-17",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "D",
+      "C",
+      "X",
+      "Z",
+      "P",
+      "R",
+      "G",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "H",
+      "P",
+      "A",
+      "F",
+      "P",
+      "R",
+      "P",
+      "W",
+      "F"
+    ],
+    [
+      "K",
+      "E",
+      "C",
+      "R",
+      "N",
+      "O",
+      "F",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "L",
+      "A",
+      "Y",
+      "O",
+      "P",
+      "Z",
+      "W",
+      "W"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "T",
+      "E",
+      "L",
+      "P",
+      "O",
+      "J",
+      "S"
+    ],
+    [
+      "L",
+      "L",
+      "L",
+      "B",
+      "N",
+      "B",
+      "D",
+      "Y",
+      "N",
+      "U"
+    ],
+    [
+      "Y",
+      "U",
+      "G",
+      "Y",
+      "F",
+      "A",
+      "E",
+      "L",
+      "F",
+      "M"
+    ],
+    [
+      "T",
+      "S",
+      "Z",
+      "N",
+      "E",
+      "T",
+      "O",
+      "L",
+      "J",
+      "M"
+    ],
+    [
+      "V",
+      "W",
+      "J",
+      "M",
+      "U",
+      "H",
+      "P",
+      "E",
+      "V",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "W",
+      "W",
+      "E",
+      "J",
+      "N",
+      "K",
+      "X",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANTLER",
+      "gloss": "A branched horn of a deer.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BEACH",
+      "gloss": "Sandy shore by the sea.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-21T16:43:45.295Z"
+}

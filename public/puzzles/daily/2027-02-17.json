@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-02-17",
+  "playDate": "2027-02-17",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "W",
+      "N",
+      "O",
+      "F",
+      "S",
+      "P",
+      "I",
+      "O",
+      "L"
+    ],
+    [
+      "Q",
+      "H",
+      "I",
+      "P",
+      "Y",
+      "L",
+      "V",
+      "Z",
+      "V",
+      "Q"
+    ],
+    [
+      "J",
+      "T",
+      "A",
+      "P",
+      "E",
+      "S",
+      "T",
+      "R",
+      "Y",
+      "J"
+    ],
+    [
+      "V",
+      "V",
+      "H",
+      "H",
+      "P",
+      "K",
+      "E",
+      "S",
+      "F",
+      "L"
+    ],
+    [
+      "W",
+      "P",
+      "C",
+      "F",
+      "R",
+      "C",
+      "R",
+      "V",
+      "Q",
+      "P"
+    ],
+    [
+      "Z",
+      "A",
+      "A",
+      "O",
+      "M",
+      "H",
+      "I",
+      "J",
+      "U",
+      "A"
+    ],
+    [
+      "I",
+      "F",
+      "O",
+      "T",
+      "J",
+      "E",
+      "W",
+      "R",
+      "U",
+      "A"
+    ],
+    [
+      "N",
+      "M",
+      "K",
+      "Q",
+      "Z",
+      "E",
+      "Y",
+      "Y",
+      "M",
+      "T"
+    ],
+    [
+      "C",
+      "F",
+      "K",
+      "W",
+      "E",
+      "S",
+      "U",
+      "G",
+      "R",
+      "O"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "B",
+      "L",
+      "E",
+      "Z",
+      "X",
+      "U",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHAIN",
+      "gloss": "Linked metal rings in a line.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CHEESE",
+      "gloss": "A food made from milk curds.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HELP",
+      "gloss": "To make it easier for someone.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HUMBLE",
+      "gloss": "Modest; not proud.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOOR",
+      "gloss": "Open uncultivated upland.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SYRUP",
+      "gloss": "A thick sweet liquid.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TAPESTRY",
+      "gloss": "A woven wall hanging.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WIRE",
+      "gloss": "Metal drawn into a thin flexible thread.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-21T16:43:45.286Z"
+}

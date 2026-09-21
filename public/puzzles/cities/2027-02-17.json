@@ -1,0 +1,413 @@
+{
+  "id": "cities-2027-02-17",
+  "playDate": "2027-02-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "P",
+      "K",
+      "R",
+      "A",
+      "M",
+      "D",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "Y",
+      "Q",
+      "J",
+      "H"
+    ],
+    [
+      "I",
+      "S",
+      "A",
+      "W",
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "S",
+      "W",
+      "X",
+      "L",
+      "O",
+      "W",
+      "T",
+      "C",
+      "S"
+    ],
+    [
+      "G",
+      "E",
+      "S",
+      "H",
+      "I",
+      "P",
+      "H",
+      "G",
+      "C",
+      "Q"
+    ],
+    [
+      "P",
+      "N",
+      "S",
+      "C",
+      "N",
+      "Q",
+      "Y",
+      "O",
+      "R",
+      "O"
+    ],
+    [
+      "V",
+      "G",
+      "O",
+      "T",
+      "I",
+      "N",
+      "O",
+      "O",
+      "X",
+      "O"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "N",
+      "C",
+      "T",
+      "Y",
+      "D",
+      "W",
+      "U"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "L",
+      "E",
+      "A",
+      "G",
+      "W",
+      "K",
+      "I"
+    ],
+    [
+      "H",
+      "C",
+      "I",
+      "R",
+      "M",
+      "S",
+      "S",
+      "O",
+      "O",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A large fortified residence.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLINIC",
+      "gloss": "A place for medical treatment.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CROSSWALK",
+      "gloss": "A marked place to cross a street.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "LANDMARK",
+      "gloss": "A feature that is easily recognized.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MAYOR",
+      "gloss": "The elected head of a city.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-21T16:43:45.306Z"
+}
