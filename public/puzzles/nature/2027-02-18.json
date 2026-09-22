@@ -1,0 +1,357 @@
+{
+  "id": "nature-2027-02-18",
+  "playDate": "2027-02-18",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "E",
+      "T",
+      "W",
+      "C",
+      "J",
+      "X",
+      "S",
+      "R",
+      "S"
+    ],
+    [
+      "L",
+      "S",
+      "W",
+      "N",
+      "R",
+      "W",
+      "R",
+      "C",
+      "Z",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "F",
+      "W",
+      "E",
+      "E",
+      "I",
+      "A",
+      "X",
+      "G"
+    ],
+    [
+      "N",
+      "J",
+      "E",
+      "Z",
+      "B",
+      "R",
+      "D",
+      "L",
+      "S",
+      "S"
+    ],
+    [
+      "K",
+      "B",
+      "I",
+      "M",
+      "F",
+      "E",
+      "R",
+      "E",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "D",
+      "A",
+      "H",
+      "W",
+      "P",
+      "E",
+      "U",
+      "H",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "D",
+      "D",
+      "S",
+      "B",
+      "L",
+      "B",
+      "C",
+      "Y"
+    ],
+    [
+      "N",
+      "T",
+      "R",
+      "S",
+      "F",
+      "B",
+      "S",
+      "B",
+      "L",
+      "Z"
+    ],
+    [
+      "O",
+      "O",
+      "D",
+      "C",
+      "U",
+      "U",
+      "I",
+      "I",
+      "W",
+      "Z"
+    ],
+    [
+      "P",
+      "E",
+      "I",
+      "D",
+      "M",
+      "N",
+      "L",
+      "V",
+      "V",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "BUD",
+      "gloss": "A compact growth that becomes a leaf or flower.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DEWDROP",
+      "gloss": "A drop of moisture on cool surfaces.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ISLE",
+      "gloss": "A small island.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCALE",
+      "gloss": "A small plate on fish or reptiles.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-22T15:19:20.337Z"
+}

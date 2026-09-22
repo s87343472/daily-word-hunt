@@ -1,0 +1,357 @@
+{
+  "id": "daily-2027-02-18",
+  "playDate": "2027-02-18",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "N",
+      "V",
+      "P",
+      "N",
+      "W",
+      "H",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "N",
+      "Z",
+      "Z",
+      "A",
+      "N",
+      "F",
+      "U",
+      "N",
+      "E",
+      "G"
+    ],
+    [
+      "X",
+      "A",
+      "W",
+      "P",
+      "K",
+      "G",
+      "P",
+      "W",
+      "V",
+      "E"
+    ],
+    [
+      "E",
+      "O",
+      "T",
+      "E",
+      "L",
+      "B",
+      "A",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "F",
+      "F",
+      "U",
+      "A",
+      "S",
+      "Y",
+      "Q"
+    ],
+    [
+      "O",
+      "A",
+      "U",
+      "H",
+      "A",
+      "D",
+      "A",
+      "D",
+      "N",
+      "N"
+    ],
+    [
+      "Q",
+      "Y",
+      "N",
+      "L",
+      "U",
+      "W",
+      "M",
+      "G",
+      "D",
+      "W"
+    ],
+    [
+      "O",
+      "E",
+      "R",
+      "Q",
+      "F",
+      "W",
+      "V",
+      "W",
+      "A",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "G",
+      "N",
+      "O",
+      "L",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "E",
+      "C",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "C",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FLUTE",
+      "gloss": "A woodwind musical instrument.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "gloss": "A tree with large fragrant flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROWAN",
+      "gloss": "A tree with red berries.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab; also a pill.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TRAIN",
+      "gloss": "A series of connected railroad cars.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WASTE",
+      "gloss": "Unwanted material; also to use carelessly.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHISK",
+      "gloss": "A kitchen tool for beating; also to move quickly.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WINE",
+      "gloss": "An alcoholic drink from fermented grapes.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-22T15:19:20.331Z"
+}

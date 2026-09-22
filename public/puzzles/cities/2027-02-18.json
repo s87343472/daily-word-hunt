@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-02-18",
+  "playDate": "2027-02-18",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "M",
+      "R",
+      "B",
+      "V",
+      "M",
+      "W",
+      "F",
+      "U",
+      "F"
+    ],
+    [
+      "N",
+      "O",
+      "K",
+      "L",
+      "E",
+      "N",
+      "L",
+      "B",
+      "F",
+      "J"
+    ],
+    [
+      "M",
+      "T",
+      "N",
+      "O",
+      "P",
+      "A",
+      "X",
+      "R",
+      "Q",
+      "U"
+    ],
+    [
+      "I",
+      "A",
+      "U",
+      "C",
+      "A",
+      "Q",
+      "E",
+      "G",
+      "J",
+      "N"
+    ],
+    [
+      "H",
+      "L",
+      "Z",
+      "K",
+      "O",
+      "E",
+      "F",
+      "L",
+      "L",
+      "C"
+    ],
+    [
+      "T",
+      "C",
+      "W",
+      "A",
+      "W",
+      "U",
+      "A",
+      "N",
+      "D",
+      "T"
+    ],
+    [
+      "T",
+      "G",
+      "T",
+      "A",
+      "L",
+      "C",
+      "R",
+      "T",
+      "D",
+      "I"
+    ],
+    [
+      "W",
+      "R",
+      "Y",
+      "I",
+      "O",
+      "P",
+      "K",
+      "S",
+      "J",
+      "O"
+    ],
+    [
+      "H",
+      "I",
+      "U",
+      "L",
+      "P",
+      "X",
+      "L",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "R",
+      "F",
+      "H",
+      "C",
+      "A",
+      "E",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BLOCK",
+      "gloss": "A group of buildings between streets.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FREEWAY",
+      "gloss": "A multi-lane high-speed road.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "JUNCTION",
+      "gloss": "A place where roads meet.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LOCAL",
+      "gloss": "A person who lives in an area.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PITCH",
+      "gloss": "A sports field.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PLAZA",
+      "gloss": "A public open square.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-22T15:19:20.343Z"
+}
