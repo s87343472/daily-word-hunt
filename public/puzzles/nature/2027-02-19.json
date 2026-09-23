@@ -1,0 +1,337 @@
+{
+  "id": "nature-2027-02-19",
+  "playDate": "2027-02-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "Z",
+      "V",
+      "H",
+      "D",
+      "F",
+      "M",
+      "T",
+      "J",
+      "D"
+    ],
+    [
+      "N",
+      "O",
+      "O",
+      "E",
+      "Q",
+      "C",
+      "C",
+      "S",
+      "U",
+      "F"
+    ],
+    [
+      "O",
+      "D",
+      "L",
+      "Y",
+      "W",
+      "A",
+      "E",
+      "Z",
+      "Y",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "C",
+      "C",
+      "H",
+      "D",
+      "D",
+      "R",
+      "G"
+    ],
+    [
+      "A",
+      "F",
+      "N",
+      "D",
+      "N",
+      "I",
+      "F",
+      "O",
+      "A",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "C",
+      "A",
+      "L",
+      "X",
+      "H",
+      "U",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "M",
+      "H",
+      "I",
+      "Y",
+      "T",
+      "D",
+      "M",
+      "F",
+      "F"
+    ],
+    [
+      "G",
+      "S",
+      "I",
+      "X",
+      "D",
+      "A",
+      "I",
+      "S",
+      "Y",
+      "S"
+    ],
+    [
+      "H",
+      "J",
+      "R",
+      "T",
+      "A",
+      "Z",
+      "F",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "B",
+      "Q",
+      "P",
+      "O",
+      "N",
+      "N",
+      "B",
+      "Q",
+      "P",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DELTA",
+      "gloss": "Land formed at a river mouth.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "FROG",
+      "gloss": "An amphibian that jumps and croaks.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-23T15:14:50.920Z"
+}

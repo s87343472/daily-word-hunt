@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-02-19",
+  "playDate": "2027-02-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "T",
+      "C",
+      "I",
+      "R",
+      "T",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "U",
+      "C",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "X"
+    ],
+    [
+      "Y",
+      "I",
+      "S",
+      "T",
+      "U",
+      "R",
+      "R",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "Z",
+      "U",
+      "L",
+      "E",
+      "B",
+      "T",
+      "B",
+      "G",
+      "Y",
+      "E"
+    ],
+    [
+      "F",
+      "F",
+      "D",
+      "L",
+      "U",
+      "G",
+      "A",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "W",
+      "I",
+      "J",
+      "L",
+      "B",
+      "M",
+      "Q",
+      "E",
+      "O",
+      "I"
+    ],
+    [
+      "G",
+      "F",
+      "G",
+      "M",
+      "Q",
+      "O",
+      "D",
+      "N",
+      "D",
+      "T"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "L",
+      "B",
+      "R",
+      "A",
+      "J",
+      "V",
+      "I"
+    ],
+    [
+      "M",
+      "G",
+      "Q",
+      "J",
+      "A",
+      "U",
+      "P",
+      "R",
+      "B",
+      "O"
+    ],
+    [
+      "B",
+      "U",
+      "N",
+      "G",
+      "A",
+      "L",
+      "O",
+      "W",
+      "D",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BUNGALOW",
+      "gloss": "A low house with a wide porch.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DISTRICT",
+      "gloss": "An area of a city with a particular character.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A building that displays collections.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-23T15:14:50.926Z"
+}
