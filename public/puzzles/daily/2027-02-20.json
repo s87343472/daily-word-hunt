@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-02-20",
+  "playDate": "2027-02-20",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "L",
+      "G",
+      "N",
+      "I",
+      "H",
+      "S",
+      "B",
+      "V",
+      "B"
+    ],
+    [
+      "M",
+      "A",
+      "W",
+      "P",
+      "Q",
+      "Q",
+      "M",
+      "J",
+      "N",
+      "Z"
+    ],
+    [
+      "F",
+      "H",
+      "J",
+      "C",
+      "L",
+      "S",
+      "M",
+      "Q",
+      "J",
+      "W"
+    ],
+    [
+      "O",
+      "Y",
+      "N",
+      "S",
+      "T",
+      "A",
+      "G",
+      "X",
+      "H",
+      "M"
+    ],
+    [
+      "Q",
+      "I",
+      "R",
+      "R",
+      "A",
+      "Y",
+      "T",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "Z",
+      "J",
+      "O",
+      "B",
+      "N",
+      "F",
+      "P",
+      "E",
+      "G",
+      "L"
+    ],
+    [
+      "G",
+      "N",
+      "T",
+      "I",
+      "W",
+      "J",
+      "F",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "G",
+      "X",
+      "G",
+      "U",
+      "G",
+      "L",
+      "T",
+      "R",
+      "I",
+      "U"
+    ],
+    [
+      "E",
+      "E",
+      "J",
+      "M",
+      "G",
+      "H",
+      "I",
+      "J",
+      "O",
+      "W"
+    ],
+    [
+      "B",
+      "D",
+      "P",
+      "W",
+      "G",
+      "M",
+      "L",
+      "E",
+      "B",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEGIN",
+      "gloss": "To start.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MILK",
+      "gloss": "A white liquid from mammals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SAFFRON",
+      "gloss": "A yellow spice from crocus stigmas.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SHINGLE",
+      "gloss": "A thin tile for covering roofs.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STRONG",
+      "gloss": "Having power or force.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WISPY",
+      "gloss": "Thin and delicate.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "ZINC",
+      "gloss": "A bluish-white metal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-24T15:39:04.401Z"
+}

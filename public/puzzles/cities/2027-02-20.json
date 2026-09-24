@@ -1,0 +1,445 @@
+{
+  "id": "cities-2027-02-20",
+  "playDate": "2027-02-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "M",
+      "M",
+      "Z",
+      "N",
+      "K",
+      "N",
+      "N",
+      "C",
+      "P"
+    ],
+    [
+      "A",
+      "Y",
+      "R",
+      "S",
+      "J",
+      "Y",
+      "I",
+      "K",
+      "L",
+      "L"
+    ],
+    [
+      "V",
+      "M",
+      "E",
+      "M",
+      "V",
+      "A",
+      "S",
+      "L",
+      "O",
+      "A"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "L",
+      "T",
+      "I",
+      "M",
+      "T",
+      "C",
+      "Y"
+    ],
+    [
+      "T",
+      "X",
+      "V",
+      "N",
+      "L",
+      "A",
+      "Z",
+      "G",
+      "K",
+      "G"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "E",
+      "R",
+      "O",
+      "F",
+      "V",
+      "T",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "B",
+      "I",
+      "K",
+      "V",
+      "R",
+      "O",
+      "O",
+      "O"
+    ],
+    [
+      "F",
+      "O",
+      "N",
+      "A",
+      "R",
+      "O",
+      "F",
+      "T",
+      "W",
+      "U"
+    ],
+    [
+      "Q",
+      "A",
+      "C",
+      "X",
+      "J",
+      "L",
+      "C",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "W",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "R",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLOCKTOWER",
+      "gloss": "A tower with a large public clock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MARINA",
+      "gloss": "A dock for pleasure boats.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OBELISK",
+      "gloss": "A tall four-sided stone pillar.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A streetcar or wheeled cart.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-24T15:39:04.417Z"
+}
