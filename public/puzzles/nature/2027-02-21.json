@@ -1,0 +1,357 @@
+{
+  "id": "nature-2027-02-21",
+  "playDate": "2027-02-21",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "I",
+      "X",
+      "C",
+      "S",
+      "X",
+      "R",
+      "P",
+      "H",
+      "F"
+    ],
+    [
+      "H",
+      "W",
+      "G",
+      "J",
+      "N",
+      "Z",
+      "P",
+      "M",
+      "U",
+      "B"
+    ],
+    [
+      "N",
+      "R",
+      "Z",
+      "F",
+      "O",
+      "E",
+      "B",
+      "F",
+      "J",
+      "H"
+    ],
+    [
+      "U",
+      "A",
+      "B",
+      "N",
+      "W",
+      "P",
+      "V",
+      "G",
+      "C",
+      "A"
+    ],
+    [
+      "B",
+      "X",
+      "U",
+      "V",
+      "F",
+      "Z",
+      "L",
+      "A",
+      "V",
+      "Q"
+    ],
+    [
+      "D",
+      "O",
+      "S",
+      "A",
+      "L",
+      "M",
+      "O",
+      "N",
+      "R",
+      "O"
+    ],
+    [
+      "M",
+      "I",
+      "G",
+      "Q",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "W",
+      "K",
+      "K",
+      "Q",
+      "O",
+      "C",
+      "M"
+    ],
+    [
+      "L",
+      "D",
+      "H",
+      "K",
+      "E",
+      "V",
+      "K",
+      "A",
+      "O",
+      "H"
+    ],
+    [
+      "J",
+      "X",
+      "J",
+      "H",
+      "E",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCTIC",
+      "gloss": "Relating to the North Pole region.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-25T15:42:03.541Z"
+}

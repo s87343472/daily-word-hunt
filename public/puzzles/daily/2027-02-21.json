@@ -1,0 +1,337 @@
+{
+  "id": "daily-2027-02-21",
+  "playDate": "2027-02-21",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "T",
+      "B",
+      "W",
+      "R",
+      "V",
+      "I",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "H",
+      "C",
+      "O",
+      "L",
+      "F",
+      "E",
+      "H",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "Y",
+      "J",
+      "T",
+      "V",
+      "A",
+      "W",
+      "D",
+      "E",
+      "P",
+      "J"
+    ],
+    [
+      "K",
+      "C",
+      "H",
+      "E",
+      "Z",
+      "H",
+      "M",
+      "D",
+      "E",
+      "U"
+    ],
+    [
+      "C",
+      "E",
+      "P",
+      "I",
+      "R",
+      "T",
+      "S",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "J",
+      "M",
+      "G",
+      "L",
+      "I",
+      "A",
+      "V",
+      "Z",
+      "N",
+      "L"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "Y",
+      "B",
+      "N",
+      "I",
+      "I",
+      "V",
+      "K"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "T",
+      "A",
+      "T",
+      "I",
+      "S",
+      "F",
+      "K"
+    ],
+    [
+      "B",
+      "C",
+      "I",
+      "J",
+      "A",
+      "L",
+      "B",
+      "A",
+      "I",
+      "M"
+    ],
+    [
+      "J",
+      "E",
+      "T",
+      "A",
+      "F",
+      "H",
+      "Z",
+      "Q",
+      "R",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "HAT",
+      "gloss": "A covering for the head.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LADDER",
+      "gloss": "A frame of steps for climbing.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RAIN",
+      "gloss": "Water falling in drops from clouds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RAISIN",
+      "gloss": "A dried grape.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEED",
+      "gloss": "What a plant grows from.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STRIPE",
+      "gloss": "A long narrow band of color.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VEIL",
+      "gloss": "A piece of fine material covering the face.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "VISOR",
+      "gloss": "A brim or shield for the eyes.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-25T15:42:03.531Z"
+}
