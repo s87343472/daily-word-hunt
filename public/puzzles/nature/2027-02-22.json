@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-02-22",
+  "playDate": "2027-02-22",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "D",
+      "A",
+      "Z",
+      "P",
+      "B",
+      "P",
+      "Z",
+      "F",
+      "G"
+    ],
+    [
+      "T",
+      "N",
+      "G",
+      "D",
+      "H",
+      "I",
+      "L",
+      "L",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "D",
+      "A",
+      "E",
+      "P",
+      "K",
+      "T",
+      "X",
+      "P",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "O",
+      "Z",
+      "O",
+      "S",
+      "C",
+      "I",
+      "A",
+      "Y"
+    ],
+    [
+      "R",
+      "E",
+      "I",
+      "L",
+      "E",
+      "D",
+      "E",
+      "J",
+      "C",
+      "P"
+    ],
+    [
+      "E",
+      "T",
+      "F",
+      "V",
+      "P",
+      "F",
+      "E",
+      "W",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "I",
+      "Y",
+      "H",
+      "Z",
+      "F",
+      "D",
+      "G"
+    ],
+    [
+      "M",
+      "A",
+      "X",
+      "D",
+      "J",
+      "Q",
+      "I",
+      "R",
+      "N",
+      "D"
+    ],
+    [
+      "H",
+      "M",
+      "D",
+      "P",
+      "U",
+      "H",
+      "M",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "Y",
+      "E",
+      "I",
+      "Z",
+      "L",
+      "G",
+      "Z",
+      "E",
+      "L",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GEODE",
+      "gloss": "A rock cavity lined with crystals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANDSCAPE",
+      "gloss": "The visible features of an area of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-26T14:49:46.797Z"
+}

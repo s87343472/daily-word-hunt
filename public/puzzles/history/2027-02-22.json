@@ -1,0 +1,389 @@
+{
+  "id": "history-2027-02-22",
+  "playDate": "2027-02-22",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "Q",
+      "K",
+      "R",
+      "X",
+      "I",
+      "A",
+      "Y",
+      "I",
+      "C"
+    ],
+    [
+      "M",
+      "M",
+      "M",
+      "D",
+      "O",
+      "D",
+      "Y",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "F",
+      "K",
+      "R",
+      "P",
+      "V",
+      "N",
+      "C",
+      "J",
+      "C",
+      "M"
+    ],
+    [
+      "S",
+      "I",
+      "E",
+      "E",
+      "O",
+      "M",
+      "U",
+      "J",
+      "N",
+      "P"
+    ],
+    [
+      "Q",
+      "D",
+      "R",
+      "L",
+      "I",
+      "H",
+      "X",
+      "F",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "C",
+      "O",
+      "N",
+      "S",
+      "U",
+      "L",
+      "O",
+      "I",
+      "S"
+    ],
+    [
+      "I",
+      "C",
+      "L",
+      "J",
+      "L",
+      "L",
+      "O",
+      "R",
+      "C",
+      "S"
+    ],
+    [
+      "R",
+      "G",
+      "P",
+      "O",
+      "H",
+      "D",
+      "E",
+      "U",
+      "S",
+      "N"
+    ],
+    [
+      "E",
+      "M",
+      "X",
+      "O",
+      "G",
+      "V",
+      "F",
+      "M",
+      "K",
+      "G"
+    ],
+    [
+      "C",
+      "V",
+      "E",
+      "V",
+      "B",
+      "F",
+      "O",
+      "Y",
+      "J",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FORUM",
+      "gloss": "A public square in ancient Rome.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of writing material.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SQUIRE",
+      "gloss": "A young man attending a knight.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-26T14:49:46.807Z"
+}
