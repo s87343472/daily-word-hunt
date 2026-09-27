@@ -1,0 +1,349 @@
+{
+  "id": "nature-2027-02-23",
+  "playDate": "2027-02-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "R",
+      "R",
+      "J",
+      "S",
+      "V",
+      "L",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "Z",
+      "O",
+      "R",
+      "E",
+      "Y",
+      "L",
+      "L",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "I",
+      "O",
+      "U",
+      "S",
+      "D",
+      "R",
+      "I",
+      "P",
+      "M",
+      "U"
+    ],
+    [
+      "G",
+      "T",
+      "S",
+      "H",
+      "A",
+      "L",
+      "B",
+      "L",
+      "J",
+      "K"
+    ],
+    [
+      "S",
+      "N",
+      "B",
+      "X",
+      "M",
+      "V",
+      "U",
+      "Z",
+      "Y",
+      "S"
+    ],
+    [
+      "T",
+      "J",
+      "I",
+      "M",
+      "C",
+      "T",
+      "A",
+      "O",
+      "X",
+      "Q"
+    ],
+    [
+      "P",
+      "W",
+      "V",
+      "R",
+      "W",
+      "O",
+      "D",
+      "N",
+      "B",
+      "T"
+    ],
+    [
+      "L",
+      "S",
+      "Y",
+      "I",
+      "P",
+      "M",
+      "R",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "E",
+      "V",
+      "G",
+      "W",
+      "C",
+      "S",
+      "I",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "K",
+      "Q",
+      "Y",
+      "Y",
+      "S",
+      "V",
+      "R",
+      "Z",
+      "L",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SAVANNA",
+      "gloss": "A grassy plain with scattered trees.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "gloss": "The season after winter.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-27T15:28:45.076Z"
+}

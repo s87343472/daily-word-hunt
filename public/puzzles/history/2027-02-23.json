@@ -1,0 +1,425 @@
+{
+  "id": "history-2027-02-23",
+  "playDate": "2027-02-23",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "S",
+      "I",
+      "L",
+      "K",
+      "R",
+      "O",
+      "A",
+      "D",
+      "K"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "Y",
+      "L",
+      "U",
+      "L",
+      "B",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "N",
+      "W",
+      "I",
+      "E",
+      "U",
+      "F",
+      "S",
+      "B"
+    ],
+    [
+      "W",
+      "N",
+      "Q",
+      "G",
+      "C",
+      "S",
+      "G",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "J",
+      "F",
+      "A",
+      "U",
+      "P",
+      "L",
+      "M",
+      "E",
+      "L"
+    ],
+    [
+      "B",
+      "U",
+      "E",
+      "A",
+      "O",
+      "A",
+      "L",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "L",
+      "P",
+      "G",
+      "K",
+      "N",
+      "Y",
+      "G",
+      "N",
+      "D",
+      "T"
+    ],
+    [
+      "F",
+      "G",
+      "M",
+      "A",
+      "E",
+      "T",
+      "O",
+      "E",
+      "A",
+      "I"
+    ],
+    [
+      "V",
+      "X",
+      "T",
+      "J",
+      "L",
+      "C",
+      "R",
+      "Q",
+      "N",
+      "O"
+    ],
+    [
+      "O",
+      "Z",
+      "P",
+      "L",
+      "P",
+      "P",
+      "J",
+      "Y",
+      "T",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DESCENDANT",
+      "gloss": "A person descended from an ancestor.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FAMINE",
+      "gloss": "Extreme shortage of food.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "INFANTRY",
+      "gloss": "Soldiers who fight on foot.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SILKROAD",
+      "gloss": "Historic trade routes across Asia.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-27T15:28:45.094Z"
+}

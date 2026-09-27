@@ -1,0 +1,405 @@
+{
+  "id": "cities-2027-02-23",
+  "playDate": "2027-02-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "E",
+      "C",
+      "A",
+      "L",
+      "A",
+      "P",
+      "S",
+      "Y",
+      "R"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "R",
+      "I",
+      "S",
+      "T",
+      "S",
+      "B",
+      "I"
+    ],
+    [
+      "D",
+      "S",
+      "O",
+      "H",
+      "H",
+      "Z",
+      "N",
+      "U",
+      "B",
+      "N"
+    ],
+    [
+      "H",
+      "D",
+      "C",
+      "P",
+      "I",
+      "Z",
+      "T",
+      "B",
+      "O",
+      "G"
+    ],
+    [
+      "S",
+      "P",
+      "W",
+      "L",
+      "G",
+      "E",
+      "E",
+      "U",
+      "L",
+      "R"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "E",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "O"
+    ],
+    [
+      "H",
+      "Z",
+      "C",
+      "T",
+      "R",
+      "R",
+      "A",
+      "S",
+      "Y",
+      "A"
+    ],
+    [
+      "K",
+      "J",
+      "Y",
+      "O",
+      "I",
+      "Z",
+      "E",
+      "T",
+      "R",
+      "D"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "H",
+      "S",
+      "Z",
+      "T",
+      "O",
+      "E",
+      "D"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "X",
+      "E",
+      "V",
+      "B",
+      "P",
+      "N",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUSSTOP",
+      "gloss": "A place where buses pick up passengers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HIGHRISE",
+      "gloss": "A tall multi-story building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HOTEL",
+      "gloss": "A place that provides paid lodging.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LOBBY",
+      "gloss": "An entrance hall.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "gloss": "A grand residence for royalty.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "RINGROAD",
+      "gloss": "A road encircling a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOURIST",
+      "gloss": "A person visiting a place for pleasure.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WAREHOUSE",
+      "gloss": "A large building for storing goods.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-27T15:28:45.082Z"
+}

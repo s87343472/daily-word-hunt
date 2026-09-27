@@ -1,0 +1,349 @@
+{
+  "id": "daily-2027-02-23",
+  "playDate": "2027-02-23",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "W",
+      "X",
+      "S",
+      "K",
+      "P",
+      "F",
+      "G",
+      "F",
+      "F"
+    ],
+    [
+      "T",
+      "Y",
+      "J",
+      "N",
+      "K",
+      "O",
+      "O",
+      "N",
+      "A",
+      "F"
+    ],
+    [
+      "H",
+      "W",
+      "Y",
+      "C",
+      "A",
+      "Y",
+      "Z",
+      "K",
+      "L",
+      "X"
+    ],
+    [
+      "X",
+      "P",
+      "A",
+      "Z",
+      "D",
+      "H",
+      "L",
+      "L",
+      "C",
+      "V"
+    ],
+    [
+      "Y",
+      "Q",
+      "E",
+      "R",
+      "T",
+      "M",
+      "T",
+      "I",
+      "O",
+      "Z"
+    ],
+    [
+      "I",
+      "R",
+      "Q",
+      "O",
+      "D",
+      "U",
+      "B",
+      "T",
+      "N",
+      "B"
+    ],
+    [
+      "Z",
+      "M",
+      "M",
+      "O",
+      "B",
+      "E",
+      "S",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "H",
+      "N",
+      "I",
+      "E",
+      "Z",
+      "R",
+      "N",
+      "K",
+      "E",
+      "V"
+    ],
+    [
+      "B",
+      "K",
+      "R",
+      "S",
+      "E",
+      "T",
+      "F",
+      "I",
+      "W",
+      "S"
+    ],
+    [
+      "N",
+      "I",
+      "Y",
+      "X",
+      "T",
+      "P",
+      "L",
+      "T",
+      "T",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FALCON",
+      "gloss": "A bird of prey used in hunting.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MOTH",
+      "gloss": "An insect related to butterflies.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SWIFT",
+      "gloss": "Moving very fast.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUBER",
+      "gloss": "A thickened underground plant stem.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TUSK",
+      "gloss": "A long pointed tooth.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WARDEN",
+      "gloss": "A person in charge of a place.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-27T15:28:45.069Z"
+}
