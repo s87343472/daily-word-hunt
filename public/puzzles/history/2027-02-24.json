@@ -1,0 +1,421 @@
+{
+  "id": "history-2027-02-24",
+  "playDate": "2027-02-24",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "I",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "Q",
+      "T",
+      "F",
+      "I",
+      "F",
+      "J",
+      "L",
+      "Q",
+      "E",
+      "L"
+    ],
+    [
+      "Y",
+      "E",
+      "R",
+      "U",
+      "S",
+      "E",
+      "H",
+      "X",
+      "S",
+      "I"
+    ],
+    [
+      "I",
+      "O",
+      "M",
+      "A",
+      "D",
+      "N",
+      "P",
+      "W",
+      "C",
+      "K"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "A",
+      "D",
+      "L",
+      "E",
+      "E",
+      "H",
+      "W"
+    ],
+    [
+      "U",
+      "W",
+      "T",
+      "X",
+      "O",
+      "E",
+      "B",
+      "B",
+      "W",
+      "L"
+    ],
+    [
+      "K",
+      "I",
+      "Z",
+      "R",
+      "X",
+      "N",
+      "Y",
+      "U",
+      "K",
+      "B"
+    ],
+    [
+      "C",
+      "B",
+      "E",
+      "P",
+      "I",
+      "O",
+      "N",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "R",
+      "S",
+      "U",
+      "F",
+      "F",
+      "R",
+      "A",
+      "G",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress overlooking a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PIONEER",
+      "gloss": "A person who is among the first to explore.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUFFRAGE",
+      "gloss": "The right to vote.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRADE",
+      "gloss": "The exchange of goods.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher learning.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-28T18:19:53.917Z"
+}

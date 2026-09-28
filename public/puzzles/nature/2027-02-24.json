@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-02-24",
+  "playDate": "2027-02-24",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "E",
+      "G",
+      "T",
+      "K",
+      "R",
+      "T",
+      "I",
+      "T",
+      "L"
+    ],
+    [
+      "R",
+      "Y",
+      "D",
+      "T",
+      "E",
+      "N",
+      "E",
+      "E",
+      "T",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "P",
+      "O",
+      "S",
+      "T",
+      "V",
+      "U",
+      "W"
+    ],
+    [
+      "H",
+      "Z",
+      "B",
+      "X",
+      "T",
+      "O",
+      "N",
+      "A",
+      "I",
+      "E"
+    ],
+    [
+      "M",
+      "R",
+      "N",
+      "L",
+      "X",
+      "W",
+      "E",
+      "U",
+      "F",
+      "R"
+    ],
+    [
+      "I",
+      "V",
+      "P",
+      "Z",
+      "O",
+      "T",
+      "T",
+      "Y",
+      "S",
+      "R"
+    ],
+    [
+      "S",
+      "R",
+      "M",
+      "N",
+      "A",
+      "S",
+      "L",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "V",
+      "C",
+      "L",
+      "R",
+      "X",
+      "S",
+      "P",
+      "E",
+      "H"
+    ],
+    [
+      "U",
+      "W",
+      "P",
+      "Z",
+      "X",
+      "E",
+      "N",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "T",
+      "B",
+      "F",
+      "J",
+      "J",
+      "X",
+      "F",
+      "P",
+      "M",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FERN",
+      "gloss": "A plant with feathery fronds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MIST",
+      "gloss": "A thin fog.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PLATEAU",
+      "gloss": "An area of high flat land.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-28T18:19:53.891Z"
+}
