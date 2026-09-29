@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-02-25",
+  "playDate": "2027-02-25",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "J",
+      "P",
+      "K",
+      "N",
+      "H",
+      "O",
+      "C",
+      "V",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "O",
+      "V",
+      "J",
+      "R",
+      "W",
+      "N",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "F",
+      "B",
+      "J",
+      "K",
+      "K",
+      "T",
+      "E",
+      "C",
+      "L"
+    ],
+    [
+      "W",
+      "J",
+      "J",
+      "Q",
+      "T",
+      "F",
+      "G",
+      "O",
+      "D",
+      "U"
+    ],
+    [
+      "B",
+      "C",
+      "D",
+      "R",
+      "O",
+      "A",
+      "U",
+      "J",
+      "F",
+      "S"
+    ],
+    [
+      "R",
+      "J",
+      "L",
+      "L",
+      "Y",
+      "N",
+      "X",
+      "Y",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "O",
+      "C",
+      "F",
+      "H",
+      "I",
+      "Z",
+      "R"
+    ],
+    [
+      "D",
+      "T",
+      "V",
+      "I",
+      "C",
+      "D",
+      "O",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "G",
+      "M",
+      "L",
+      "J",
+      "M",
+      "K",
+      "E",
+      "H",
+      "T",
+      "D"
+    ],
+    [
+      "E",
+      "W",
+      "O",
+      "R",
+      "K",
+      "S",
+      "H",
+      "O",
+      "P",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALUSTRADE",
+      "gloss": "A railing supported by balusters.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLOCK",
+      "gloss": "A device that shows the time.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that governs a local area.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DRAWBRIDGE",
+      "gloss": "A bridge that can be raised.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LOFT",
+      "gloss": "An open upper-level living space.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea or air.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WORKSHOP",
+      "gloss": "A room or building for making things.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-29T16:42:48.609Z"
+}

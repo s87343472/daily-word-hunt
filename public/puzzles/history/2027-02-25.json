@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-02-25",
+  "playDate": "2027-02-25",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "K",
+      "Z",
+      "C",
+      "Q",
+      "E",
+      "L",
+      "R",
+      "G",
+      "X"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "O",
+      "C",
+      "W",
+      "A",
+      "S",
+      "N",
+      "C"
+    ],
+    [
+      "C",
+      "B",
+      "C",
+      "I",
+      "F",
+      "I",
+      "T",
+      "L",
+      "G",
+      "A"
+    ],
+    [
+      "A",
+      "H",
+      "H",
+      "N",
+      "L",
+      "Q",
+      "I",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "X",
+      "K",
+      "R",
+      "E",
+      "C",
+      "F",
+      "Q",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "X",
+      "O",
+      "X",
+      "N",
+      "R",
+      "G",
+      "T",
+      "B",
+      "N"
+    ],
+    [
+      "Y",
+      "A",
+      "N",
+      "U",
+      "P",
+      "L",
+      "R",
+      "O",
+      "D",
+      "D"
+    ],
+    [
+      "D",
+      "F",
+      "O",
+      "P",
+      "K",
+      "S",
+      "K",
+      "U",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E",
+      "C",
+      "C",
+      "R"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "L",
+      "E",
+      "N",
+      "N",
+      "I",
+      "U",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CALENDAR",
+      "gloss": "A system for organizing days.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CURRENCY",
+      "gloss": "A system of money.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DECADE",
+      "gloss": "A period of ten years.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RAILROAD",
+      "gloss": "A track system for trains.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SCIENCE",
+      "gloss": "Systematic study of the natural world.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-29T16:42:48.617Z"
+}
