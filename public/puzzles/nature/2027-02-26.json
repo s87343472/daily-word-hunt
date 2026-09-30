@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-02-26",
+  "playDate": "2027-02-26",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "P",
+      "B",
+      "E",
+      "X",
+      "T",
+      "C",
+      "Q",
+      "B",
+      "W"
+    ],
+    [
+      "G",
+      "T",
+      "R",
+      "X",
+      "U",
+      "U",
+      "W",
+      "M",
+      "F",
+      "J"
+    ],
+    [
+      "Y",
+      "F",
+      "A",
+      "R",
+      "G",
+      "O",
+      "R",
+      "G",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "D",
+      "X",
+      "R",
+      "E",
+      "S",
+      "A",
+      "X"
+    ],
+    [
+      "S",
+      "E",
+      "C",
+      "W",
+      "E",
+      "P",
+      "C",
+      "R",
+      "G",
+      "T"
+    ],
+    [
+      "P",
+      "Y",
+      "H",
+      "C",
+      "I",
+      "S",
+      "F",
+      "W",
+      "H",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "O",
+      "L",
+      "Y",
+      "L",
+      "E",
+      "W",
+      "Q",
+      "J"
+    ],
+    [
+      "Y",
+      "E",
+      "N",
+      "O",
+      "T",
+      "S",
+      "L",
+      "R",
+      "Y",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "D",
+      "U",
+      "K",
+      "Y",
+      "D",
+      "O",
+      "T",
+      "V"
+    ],
+    [
+      "B",
+      "K",
+      "S",
+      "D",
+      "I",
+      "P",
+      "A",
+      "R",
+      "W",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GORGE",
+      "gloss": "A narrow valley with steep sides.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "STONE",
+      "gloss": "Hard mineral matter from the earth.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-30T16:35:33.540Z"
+}

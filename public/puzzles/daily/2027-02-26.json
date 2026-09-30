@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-02-26",
+  "playDate": "2027-02-26",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "P",
+      "A",
+      "R",
+      "I",
+      "K",
+      "D",
+      "X",
+      "L",
+      "N"
+    ],
+    [
+      "W",
+      "I",
+      "S",
+      "H",
+      "K",
+      "U",
+      "L",
+      "P",
+      "U",
+      "G"
+    ],
+    [
+      "B",
+      "V",
+      "B",
+      "Q",
+      "W",
+      "I",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "N",
+      "S",
+      "I",
+      "I",
+      "U",
+      "M",
+      "F",
+      "V",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "H",
+      "W",
+      "S",
+      "R",
+      "A",
+      "H",
+      "D",
+      "Z",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "J",
+      "Z",
+      "T",
+      "O",
+      "R",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "P",
+      "B",
+      "X",
+      "W",
+      "A",
+      "I",
+      "T",
+      "Z",
+      "N"
+    ],
+    [
+      "S",
+      "E",
+      "I",
+      "B",
+      "Q",
+      "O",
+      "T",
+      "T",
+      "B",
+      "M"
+    ],
+    [
+      "D",
+      "L",
+      "P",
+      "E",
+      "V",
+      "O",
+      "R",
+      "L",
+      "A",
+      "W"
+    ],
+    [
+      "L",
+      "V",
+      "H",
+      "J",
+      "G",
+      "K",
+      "P",
+      "D",
+      "Z",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PATIO",
+      "gloss": "A paved outdoor area by a house.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "QUART",
+      "gloss": "A unit of liquid measure.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHAPE",
+      "gloss": "The form of an object.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VISTA",
+      "gloss": "A pleasing distant view.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender branches.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WISH",
+      "gloss": "A desire for something.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WORD",
+      "gloss": "A unit of language with meaning.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-09-30T16:35:33.533Z"
+}
