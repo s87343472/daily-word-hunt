@@ -1,0 +1,373 @@
+{
+  "id": "daily-2027-02-27",
+  "playDate": "2027-02-27",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "I",
+      "B",
+      "B",
+      "R",
+      "K",
+      "B",
+      "R",
+      "P",
+      "A"
+    ],
+    [
+      "Q",
+      "O",
+      "R",
+      "Q",
+      "A",
+      "O",
+      "M",
+      "S",
+      "I",
+      "Q"
+    ],
+    [
+      "M",
+      "H",
+      "S",
+      "S",
+      "F",
+      "Y",
+      "V",
+      "J",
+      "N",
+      "T"
+    ],
+    [
+      "D",
+      "L",
+      "C",
+      "C",
+      "R",
+      "U",
+      "G",
+      "K",
+      "E",
+      "Q"
+    ],
+    [
+      "S",
+      "A",
+      "A",
+      "T",
+      "A",
+      "T",
+      "W",
+      "X",
+      "C",
+      "N"
+    ],
+    [
+      "V",
+      "M",
+      "L",
+      "N",
+      "I",
+      "R",
+      "P",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "U",
+      "O",
+      "D",
+      "T",
+      "W",
+      "F",
+      "O",
+      "N",
+      "L"
+    ],
+    [
+      "S",
+      "H",
+      "K",
+      "O",
+      "N",
+      "E",
+      "G",
+      "P",
+      "E",
+      "M"
+    ],
+    [
+      "N",
+      "N",
+      "E",
+      "Q",
+      "T",
+      "A",
+      "R",
+      "Q",
+      "S",
+      "I"
+    ],
+    [
+      "V",
+      "J",
+      "Y",
+      "K",
+      "L",
+      "H",
+      "W",
+      "N",
+      "H",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LANTERN",
+      "gloss": "A portable light in a case.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCARF",
+      "gloss": "A length of fabric worn around the neck.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SMOOTH",
+      "gloss": "Having an even surface.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SULTRY",
+      "gloss": "Hot and humid.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WAND",
+      "gloss": "A slender stick.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WITCH",
+      "gloss": "A person said to practice magic (folklore).",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-01T17:13:09.641Z"
+}

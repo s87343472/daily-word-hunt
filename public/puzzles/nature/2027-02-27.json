@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-02-27",
+  "playDate": "2027-02-27",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "Z",
+      "E",
+      "X",
+      "Z",
+      "E",
+      "T",
+      "B",
+      "I",
+      "M"
+    ],
+    [
+      "D",
+      "E",
+      "U",
+      "R",
+      "O",
+      "Z",
+      "X",
+      "D",
+      "A",
+      "F"
+    ],
+    [
+      "R",
+      "P",
+      "L",
+      "Z",
+      "Q",
+      "M",
+      "E",
+      "E",
+      "D",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "H",
+      "L",
+      "N",
+      "P",
+      "B",
+      "B",
+      "F",
+      "B"
+    ],
+    [
+      "G",
+      "A",
+      "O",
+      "J",
+      "O",
+      "N",
+      "L",
+      "V",
+      "U",
+      "U"
+    ],
+    [
+      "O",
+      "I",
+      "W",
+      "S",
+      "O",
+      "P",
+      "T",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "N",
+      "R",
+      "L",
+      "O",
+      "M",
+      "S",
+      "G",
+      "I",
+      "V",
+      "Y"
+    ],
+    [
+      "F",
+      "I",
+      "M",
+      "Q",
+      "J",
+      "D",
+      "Q",
+      "A",
+      "D",
+      "W"
+    ],
+    [
+      "L",
+      "E",
+      "L",
+      "Q",
+      "E",
+      "M",
+      "C",
+      "Y",
+      "I",
+      "E"
+    ],
+    [
+      "Y",
+      "M",
+      "E",
+      "H",
+      "P",
+      "U",
+      "X",
+      "N",
+      "O",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-01T17:13:09.646Z"
+}
