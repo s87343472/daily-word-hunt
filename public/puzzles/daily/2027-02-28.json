@@ -1,0 +1,369 @@
+{
+  "id": "daily-2027-02-28",
+  "playDate": "2027-02-28",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "A",
+      "U",
+      "T",
+      "J",
+      "N",
+      "K",
+      "E",
+      "M",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "L",
+      "I",
+      "E",
+      "P",
+      "D",
+      "E",
+      "B",
+      "J"
+    ],
+    [
+      "R",
+      "V",
+      "R",
+      "D",
+      "X",
+      "D",
+      "V",
+      "U",
+      "S",
+      "M"
+    ],
+    [
+      "Y",
+      "E",
+      "N",
+      "A",
+      "N",
+      "G",
+      "B",
+      "I",
+      "H",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "I",
+      "V",
+      "V",
+      "B",
+      "K",
+      "I",
+      "A",
+      "O"
+    ],
+    [
+      "L",
+      "J",
+      "B",
+      "C",
+      "L",
+      "E",
+      "B",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "S",
+      "I",
+      "E",
+      "A",
+      "G",
+      "N",
+      "N",
+      "Q",
+      "G"
+    ],
+    [
+      "S",
+      "E",
+      "M",
+      "O",
+      "D",
+      "L",
+      "T",
+      "Y",
+      "F",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "M",
+      "B",
+      "O",
+      "O",
+      "G",
+      "N",
+      "O",
+      "H"
+    ],
+    [
+      "K",
+      "I",
+      "C",
+      "H",
+      "I",
+      "M",
+      "N",
+      "E",
+      "Y",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAMBOO",
+      "gloss": "A tall woody grass.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BUBBLE",
+      "gloss": "A thin film of liquid filled with air.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CHIMNEY",
+      "gloss": "A vertical flue for smoke.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DOME",
+      "gloss": "A rounded roof.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GLOOM",
+      "gloss": "Partial darkness.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LINDEN",
+      "gloss": "A deciduous tree with heart-shaped leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "gloss": "A large black bird.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-02T16:26:52.159Z"
+}

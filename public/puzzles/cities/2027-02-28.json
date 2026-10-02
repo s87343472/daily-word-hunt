@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-02-28",
+  "playDate": "2027-02-28",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "E",
+      "C",
+      "P",
+      "A",
+      "I",
+      "M",
+      "X",
+      "H",
+      "P"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "I",
+      "S",
+      "W",
+      "G",
+      "X",
+      "L",
+      "D"
+    ],
+    [
+      "S",
+      "C",
+      "L",
+      "N",
+      "S",
+      "W",
+      "T",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "K",
+      "N",
+      "U",
+      "T",
+      "A",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "L",
+      "E",
+      "G",
+      "M",
+      "F",
+      "V",
+      "V",
+      "D",
+      "R"
+    ],
+    [
+      "A",
+      "A",
+      "G",
+      "G",
+      "O",
+      "E",
+      "X",
+      "F",
+      "E",
+      "W"
+    ],
+    [
+      "N",
+      "T",
+      "E",
+      "R",
+      "L",
+      "U",
+      "W",
+      "W",
+      "B",
+      "T"
+    ],
+    [
+      "A",
+      "O",
+      "M",
+      "U",
+      "Q",
+      "H",
+      "E",
+      "A",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "R",
+      "O",
+      "X",
+      "M",
+      "S",
+      "H",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "B",
+      "B",
+      "A",
+      "S",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASEMENT",
+      "gloss": "The floor of a building below ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOULEVARD",
+      "gloss": "A broad city street often tree-lined.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COLLEGE",
+      "gloss": "A school for higher education.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ESCALATOR",
+      "gloss": "A moving staircase.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ESPLANADE",
+      "gloss": "A long open level area for walking.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOAT",
+      "gloss": "A deep ditch around a castle.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLATFORM",
+      "gloss": "A raised area beside railway tracks.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SEWER",
+      "gloss": "An underground drain for waste water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-02T16:26:52.171Z"
+}

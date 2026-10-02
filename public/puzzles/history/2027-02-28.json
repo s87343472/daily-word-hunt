@@ -1,0 +1,421 @@
+{
+  "id": "history-2027-02-28",
+  "playDate": "2027-02-28",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "H",
+      "J",
+      "A",
+      "O",
+      "R",
+      "H",
+      "T",
+      "U",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "T",
+      "S",
+      "A",
+      "C",
+      "A",
+      "D",
+      "N",
+      "I"
+    ],
+    [
+      "L",
+      "L",
+      "H",
+      "F",
+      "Z",
+      "D",
+      "X",
+      "I",
+      "I",
+      "P"
+    ],
+    [
+      "A",
+      "O",
+      "Z",
+      "A",
+      "A",
+      "M",
+      "P",
+      "S",
+      "V",
+      "L"
+    ],
+    [
+      "P",
+      "H",
+      "D",
+      "M",
+      "O",
+      "O",
+      "U",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "F",
+      "R",
+      "I",
+      "L",
+      "R",
+      "G",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "A",
+      "A",
+      "N",
+      "N",
+      "G",
+      "Z",
+      "W",
+      "V",
+      "S",
+      "A"
+    ],
+    [
+      "G",
+      "M",
+      "P",
+      "E",
+      "G",
+      "I",
+      "B",
+      "E",
+      "I",
+      "C"
+    ],
+    [
+      "U",
+      "B",
+      "R",
+      "S",
+      "D",
+      "E",
+      "F",
+      "R",
+      "T",
+      "Y"
+    ],
+    [
+      "E",
+      "Y",
+      "S",
+      "V",
+      "S",
+      "Q",
+      "P",
+      "Y",
+      "Y",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FAMINE",
+      "gloss": "Extreme shortage of food.",
+      "path": [
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher learning.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-02T16:26:52.178Z"
+}
