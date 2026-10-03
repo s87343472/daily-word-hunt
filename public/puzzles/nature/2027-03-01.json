@@ -1,0 +1,349 @@
+{
+  "id": "nature-2027-03-01",
+  "playDate": "2027-03-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "Y",
+      "H",
+      "H",
+      "M",
+      "T",
+      "W",
+      "Y",
+      "A",
+      "M"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "C",
+      "M",
+      "F",
+      "L",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "E",
+      "V",
+      "U",
+      "L",
+      "L",
+      "Q",
+      "H",
+      "G",
+      "B"
+    ],
+    [
+      "G",
+      "D",
+      "H",
+      "E",
+      "N",
+      "U",
+      "F",
+      "C",
+      "Q",
+      "A"
+    ],
+    [
+      "D",
+      "C",
+      "R",
+      "T",
+      "Y",
+      "R",
+      "M",
+      "U",
+      "W",
+      "Y"
+    ],
+    [
+      "D",
+      "M",
+      "N",
+      "A",
+      "A",
+      "B",
+      "I",
+      "H",
+      "R",
+      "J"
+    ],
+    [
+      "Q",
+      "G",
+      "N",
+      "M",
+      "H",
+      "E",
+      "X",
+      "S",
+      "W",
+      "G"
+    ],
+    [
+      "G",
+      "R",
+      "V",
+      "M",
+      "F",
+      "C",
+      "F",
+      "S",
+      "E",
+      "V"
+    ],
+    [
+      "R",
+      "S",
+      "P",
+      "E",
+      "I",
+      "G",
+      "R",
+      "T",
+      "S",
+      "V"
+    ],
+    [
+      "U",
+      "X",
+      "N",
+      "L",
+      "F",
+      "F",
+      "Y",
+      "O",
+      "R",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FUR",
+      "gloss": "The short fine hair of certain animals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-03T15:01:22.797Z"
+}

@@ -1,0 +1,417 @@
+{
+  "id": "cities-2027-03-01",
+  "playDate": "2027-03-01",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "C",
+      "X",
+      "A",
+      "D",
+      "D",
+      "R",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "P",
+      "O",
+      "R",
+      "T",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "T",
+      "G",
+      "T",
+      "Z",
+      "O",
+      "N",
+      "O",
+      "O",
+      "U"
+    ],
+    [
+      "E",
+      "A",
+      "E",
+      "M",
+      "H",
+      "B",
+      "P",
+      "Z",
+      "V",
+      "A"
+    ],
+    [
+      "D",
+      "D",
+      "Y",
+      "V",
+      "B",
+      "E",
+      "Z",
+      "H",
+      "N",
+      "C"
+    ],
+    [
+      "I",
+      "I",
+      "M",
+      "U",
+      "P",
+      "A",
+      "D",
+      "E",
+      "M",
+      "Q"
+    ],
+    [
+      "S",
+      "U",
+      "Q",
+      "P",
+      "L",
+      "J",
+      "R",
+      "R",
+      "Q",
+      "J"
+    ],
+    [
+      "E",
+      "M",
+      "J",
+      "A",
+      "W",
+      "A",
+      "K",
+      "T",
+      "A",
+      "O"
+    ],
+    [
+      "R",
+      "M",
+      "P",
+      "H",
+      "F",
+      "S",
+      "H",
+      "D",
+      "G",
+      "L"
+    ],
+    [
+      "A",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "I",
+      "U",
+      "M",
+      "E",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ADDRESS",
+      "gloss": "The details of where a building is.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PORTICO",
+      "gloss": "A porch with columns.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RESIDENT",
+      "gloss": "A person who lives somewhere permanently.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STADIUM",
+      "gloss": "A large sports arena.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-03T15:01:22.802Z"
+}
