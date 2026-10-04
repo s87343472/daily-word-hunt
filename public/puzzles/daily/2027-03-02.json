@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-03-02",
+  "playDate": "2027-03-02",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "V",
+      "L",
+      "S",
+      "R",
+      "Q",
+      "I",
+      "T",
+      "W",
+      "E"
+    ],
+    [
+      "P",
+      "M",
+      "B",
+      "T",
+      "A",
+      "I",
+      "L",
+      "O",
+      "R",
+      "W"
+    ],
+    [
+      "Y",
+      "S",
+      "F",
+      "R",
+      "W",
+      "K",
+      "J",
+      "X",
+      "W",
+      "Q"
+    ],
+    [
+      "S",
+      "Z",
+      "E",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "V",
+      "T",
+      "B",
+      "L",
+      "R",
+      "B",
+      "R",
+      "P",
+      "C",
+      "E"
+    ],
+    [
+      "G",
+      "R",
+      "R",
+      "A",
+      "C",
+      "F",
+      "U",
+      "N",
+      "F",
+      "H"
+    ],
+    [
+      "R",
+      "K",
+      "I",
+      "O",
+      "L",
+      "I",
+      "E",
+      "U",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "I",
+      "K",
+      "A",
+      "K",
+      "F",
+      "C",
+      "U",
+      "U",
+      "K"
+    ],
+    [
+      "I",
+      "J",
+      "S",
+      "C",
+      "H",
+      "E",
+      "T",
+      "I",
+      "I",
+      "T"
+    ],
+    [
+      "N",
+      "X",
+      "P",
+      "I",
+      "Q",
+      "C",
+      "U",
+      "A",
+      "T",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASKET",
+      "gloss": "A container made of woven material.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CHAIR",
+      "gloss": "A seat for one person.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FENCE",
+      "gloss": "A barrier enclosing an area.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FRUIT",
+      "gloss": "Sweet plant product with seeds.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GRAIN",
+      "gloss": "Seeds of cereal plants used as food.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "gloss": "A hanging spike of ice.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STROKE",
+      "gloss": "A single movement; also a medical event.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TAILOR",
+      "gloss": "Someone who makes clothes.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-04T15:35:57.816Z"
+}

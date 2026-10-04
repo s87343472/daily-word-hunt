@@ -1,0 +1,429 @@
+{
+  "id": "history-2027-03-02",
+  "playDate": "2027-03-02",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "G",
+      "A",
+      "U",
+      "G",
+      "N",
+      "A",
+      "L",
+      "D",
+      "Y"
+    ],
+    [
+      "A",
+      "T",
+      "P",
+      "N",
+      "G",
+      "O",
+      "A",
+      "E",
+      "I",
+      "C"
+    ],
+    [
+      "B",
+      "E",
+      "W",
+      "V",
+      "D",
+      "K",
+      "R",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "O",
+      "B",
+      "V",
+      "T",
+      "W",
+      "I",
+      "M",
+      "Y",
+      "C",
+      "M"
+    ],
+    [
+      "L",
+      "B",
+      "F",
+      "I",
+      "P",
+      "M",
+      "A",
+      "A",
+      "O",
+      "O"
+    ],
+    [
+      "I",
+      "F",
+      "K",
+      "M",
+      "D",
+      "W",
+      "D",
+      "Z",
+      "V",
+      "L"
+    ],
+    [
+      "T",
+      "S",
+      "E",
+      "R",
+      "O",
+      "E",
+      "A",
+      "W",
+      "E",
+      "P"
+    ],
+    [
+      "I",
+      "S",
+      "K",
+      "H",
+      "C",
+      "A",
+      "N",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "O",
+      "F",
+      "T",
+      "J",
+      "I",
+      "O",
+      "A",
+      "C",
+      "Y",
+      "D"
+    ],
+    [
+      "N",
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M",
+      "G",
+      "E",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABOLITION",
+      "gloss": "The ending of a practice such as slavery.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ARMADA",
+      "gloss": "A large fleet of warships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EMPIRE",
+      "gloss": "A group of lands under one ruler.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EVIDENCE",
+      "gloss": "Information used to support a claim.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A place that preserves historic objects.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-04T15:35:57.836Z"
+}
