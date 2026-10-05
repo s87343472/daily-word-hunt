@@ -1,0 +1,389 @@
+{
+  "id": "cities-2027-03-03",
+  "playDate": "2027-03-03",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "T",
+      "O",
+      "I",
+      "D",
+      "U",
+      "T",
+      "S",
+      "M",
+      "W"
+    ],
+    [
+      "R",
+      "Q",
+      "K",
+      "C",
+      "P",
+      "F",
+      "O",
+      "H",
+      "U",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      "J",
+      "S",
+      "I",
+      "D",
+      "W",
+      "S",
+      "O",
+      "J"
+    ],
+    [
+      "T",
+      "O",
+      "Y",
+      "D",
+      "U",
+      "S",
+      "N",
+      "P",
+      "Y",
+      "K"
+    ],
+    [
+      "A",
+      "W",
+      "B",
+      "C",
+      "O",
+      "R",
+      "H",
+      "A",
+      "T",
+      "T"
+    ],
+    [
+      "E",
+      "N",
+      "X",
+      "H",
+      "G",
+      "U",
+      "O",
+      "R",
+      "O",
+      "B"
+    ],
+    [
+      "H",
+      "H",
+      "T",
+      "I",
+      "X",
+      "E",
+      "U",
+      "K",
+      "U",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "M",
+      "C",
+      "U",
+      "N",
+      "S",
+      "I",
+      "I",
+      "G"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "A",
+      "B",
+      "N",
+      "E",
+      "N",
+      "J",
+      "P"
+    ],
+    [
+      "O",
+      "L",
+      "D",
+      "B",
+      "P",
+      "K",
+      "I",
+      "G",
+      "G",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOROUGH",
+      "gloss": "A district within a city.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PARKING",
+      "gloss": "A place to leave vehicles.",
+      "path": [
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "gloss": "A one-room apartment or workspace.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TOWNHALL",
+      "gloss": "A building for local government.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-05T19:27:29.822Z"
+}
