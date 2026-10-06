@@ -1,0 +1,365 @@
+{
+  "id": "nature-2027-03-04",
+  "playDate": "2027-03-04",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "X",
+      "S",
+      "R",
+      "T",
+      "F",
+      "V",
+      "F",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "B",
+      "M",
+      "E",
+      "G",
+      "R",
+      "E",
+      "M",
+      "S"
+    ],
+    [
+      "L",
+      "C",
+      "L",
+      "A",
+      "T",
+      "D",
+      "E",
+      "O",
+      "T",
+      "B"
+    ],
+    [
+      "U",
+      "M",
+      "D",
+      "E",
+      "F",
+      "V",
+      "N",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "C",
+      "D",
+      "C",
+      "T",
+      "O",
+      "Q",
+      "R",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "L",
+      "C",
+      "S",
+      "C",
+      "O",
+      "L",
+      "L",
+      "D",
+      "H",
+      "Y"
+    ],
+    [
+      "A",
+      "A",
+      "M",
+      "D",
+      "I",
+      "F",
+      "E",
+      "L",
+      "Y",
+      "T"
+    ],
+    [
+      "Y",
+      "A",
+      "V",
+      "G",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "F",
+      "H",
+      "E",
+      "A",
+      "G",
+      "L",
+      "A",
+      "J",
+      "H"
+    ],
+    [
+      "V",
+      "T",
+      "Z",
+      "M",
+      "F",
+      "F",
+      "I",
+      "L",
+      "C",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "gloss": "The sound that follows lightning.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-06T17:01:03.242Z"
+}

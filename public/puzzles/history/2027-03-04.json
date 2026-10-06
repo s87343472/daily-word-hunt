@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-03-04",
+  "playDate": "2027-03-04",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "E",
+      "K",
+      "O",
+      "T",
+      "D",
+      "D",
+      "W",
+      "G",
+      "C"
+    ],
+    [
+      "Y",
+      "R",
+      "E",
+      "V",
+      "O",
+      "C",
+      "S",
+      "I",
+      "D",
+      "H"
+    ],
+    [
+      "X",
+      "S",
+      "P",
+      "I",
+      "L",
+      "G",
+      "R",
+      "I",
+      "M",
+      "R"
+    ],
+    [
+      "I",
+      "S",
+      "J",
+      "Y",
+      "Y",
+      "V",
+      "H",
+      "J",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "L",
+      "R",
+      "O",
+      "A",
+      "D",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "P",
+      "E",
+      "X",
+      "U",
+      "A",
+      "K",
+      "A",
+      "V",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "K",
+      "O",
+      "T",
+      "F",
+      "R",
+      "X",
+      "Y",
+      "C"
+    ],
+    [
+      "R",
+      "O",
+      "Q",
+      "C",
+      "N",
+      "I",
+      "P",
+      "B",
+      "I",
+      "L"
+    ],
+    [
+      "O",
+      "C",
+      "G",
+      "D",
+      "E",
+      "A",
+      "J",
+      "J",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "Z",
+      "V",
+      "D",
+      "C",
+      "Y",
+      "Y",
+      "C",
+      "H",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CENTURY",
+      "gloss": "A period of one hundred years.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CHRONICLE",
+      "gloss": "A written record of events.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DISCOVERY",
+      "gloss": "The finding of something new.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PILGRIM",
+      "gloss": "A person traveling for religious reasons.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RAILROAD",
+      "gloss": "A track system for trains.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-06T17:01:03.262Z"
+}

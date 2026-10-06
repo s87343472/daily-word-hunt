@@ -1,0 +1,429 @@
+{
+  "id": "cities-2027-03-04",
+  "playDate": "2027-03-04",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "C",
+      "A",
+      "B",
+      "L",
+      "E",
+      "C",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "X",
+      "N",
+      "E",
+      "W",
+      "S",
+      "S",
+      "T",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "N",
+      "D",
+      "S",
+      "T",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "R",
+      "O",
+      "P",
+      "S",
+      "S",
+      "A",
+      "P"
+    ],
+    [
+      "F",
+      "U",
+      "N",
+      "I",
+      "C",
+      "U",
+      "L",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "I",
+      "P",
+      "D",
+      "I",
+      "B",
+      "F",
+      "N",
+      "U",
+      "H",
+      "R"
+    ],
+    [
+      "O",
+      "Y",
+      "Q",
+      "P",
+      "M",
+      "T",
+      "Z",
+      "M",
+      "K",
+      "I"
+    ],
+    [
+      "H",
+      "C",
+      "D",
+      "W",
+      "N",
+      "R",
+      "U",
+      "I",
+      "X",
+      "V"
+    ],
+    [
+      "N",
+      "X",
+      "L",
+      "L",
+      "O",
+      "T",
+      "E",
+      "Y",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "I",
+      "E",
+      "Q",
+      "C",
+      "T",
+      "Y",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DRIVER",
+      "gloss": "A person who drives a vehicle.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PASSPORT",
+      "gloss": "An official travel document.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TERMINAL",
+      "gloss": "A station at the end of a transport line.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-06T17:01:03.254Z"
+}
