@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-03-05",
+  "playDate": "2027-03-05",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "C",
+      "A",
+      "L",
+      "I",
+      "L",
+      "B",
+      "P",
+      "P",
+      "O"
+    ],
+    [
+      "S",
+      "N",
+      "T",
+      "E",
+      "T",
+      "H",
+      "R",
+      "P",
+      "M",
+      "B"
+    ],
+    [
+      "T",
+      "C",
+      "T",
+      "T",
+      "B",
+      "B",
+      "E",
+      "W",
+      "A",
+      "K"
+    ],
+    [
+      "N",
+      "A",
+      "H",
+      "L",
+      "Y",
+      "F",
+      "E",
+      "M",
+      "W",
+      "V"
+    ],
+    [
+      "Q",
+      "O",
+      "O",
+      "O",
+      "N",
+      "T",
+      "Z",
+      "W",
+      "S",
+      "K"
+    ],
+    [
+      "M",
+      "O",
+      "E",
+      "I",
+      "O",
+      "A",
+      "E",
+      "K",
+      "C",
+      "F"
+    ],
+    [
+      "M",
+      "U",
+      "F",
+      "S",
+      "R",
+      "L",
+      "R",
+      "L",
+      "J",
+      "H"
+    ],
+    [
+      "E",
+      "S",
+      "I",
+      "R",
+      "N",
+      "U",
+      "S",
+      "U",
+      "F",
+      "Y"
+    ],
+    [
+      "Z",
+      "S",
+      "V",
+      "K",
+      "N",
+      "S",
+      "Q",
+      "Q",
+      "R",
+      "R"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "F",
+      "A",
+      "L",
+      "L",
+      "W"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLOOM",
+      "gloss": "To produce flowers.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "gloss": "A gentle wind.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "LILAC",
+      "gloss": "A shrub with purple or white flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "NIGHTFALL",
+      "gloss": "The coming of night.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUNRISE",
+      "gloss": "The daily appearance of the sun.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-07T17:37:26.093Z"
+}

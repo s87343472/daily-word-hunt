@@ -1,0 +1,381 @@
+{
+  "id": "daily-2027-03-05",
+  "playDate": "2027-03-05",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "C",
+      "P",
+      "Y",
+      "G",
+      "I",
+      "S",
+      "R",
+      "M",
+      "T"
+    ],
+    [
+      "L",
+      "S",
+      "A",
+      "P",
+      "Y",
+      "S",
+      "N",
+      "S",
+      "L",
+      "D"
+    ],
+    [
+      "S",
+      "L",
+      "X",
+      "N",
+      "P",
+      "W",
+      "A",
+      "A",
+      "S",
+      "L"
+    ],
+    [
+      "T",
+      "O",
+      "A",
+      "Y",
+      "V",
+      "J",
+      "C",
+      "U",
+      "G",
+      "O"
+    ],
+    [
+      "S",
+      "R",
+      "U",
+      "F",
+      "J",
+      "A",
+      "K",
+      "C",
+      "Q",
+      "Q"
+    ],
+    [
+      "Z",
+      "S",
+      "O",
+      "T",
+      "R",
+      "G",
+      "S",
+      "E",
+      "O",
+      "D"
+    ],
+    [
+      "W",
+      "G",
+      "A",
+      "L",
+      "H",
+      "E",
+      "J",
+      "R",
+      "N",
+      "K"
+    ],
+    [
+      "P",
+      "I",
+      "C",
+      "K",
+      "L",
+      "E",
+      "T",
+      "U",
+      "M",
+      "R"
+    ],
+    [
+      "H",
+      "Z",
+      "J",
+      "B",
+      "R",
+      "E",
+      "O",
+      "A",
+      "G",
+      "L"
+    ],
+    [
+      "O",
+      "S",
+      "J",
+      "J",
+      "B",
+      "W",
+      "Y",
+      "O",
+      "W",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANVAS",
+      "gloss": "Strong cloth used for painting or sails.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PICKLE",
+      "gloss": "Food preserved in vinegar or brine.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SAUCER",
+      "gloss": "A small shallow dish for a cup.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SNACK",
+      "gloss": "A small amount of food between meals.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SOUTH",
+      "gloss": "The direction opposite north.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A wheeled cart; also a streetcar.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WOUND",
+      "gloss": "An injury; also past of wind.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-07T17:37:26.088Z"
+}
