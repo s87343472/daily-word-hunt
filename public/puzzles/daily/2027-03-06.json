@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-03-06",
+  "playDate": "2027-03-06",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "H",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "T",
+      "B",
+      "S"
+    ],
+    [
+      "C",
+      "C",
+      "B",
+      "E",
+      "G",
+      "D",
+      "I",
+      "R",
+      "B",
+      "H"
+    ],
+    [
+      "X",
+      "Z",
+      "Z",
+      "B",
+      "N",
+      "L",
+      "G",
+      "Z",
+      "V",
+      "U"
+    ],
+    [
+      "Y",
+      "Q",
+      "Q",
+      "E",
+      "J",
+      "P",
+      "A",
+      "U",
+      "C",
+      "T"
+    ],
+    [
+      "K",
+      "E",
+      "S",
+      "O",
+      "T",
+      "S",
+      "Y",
+      "D",
+      "S",
+      "T"
+    ],
+    [
+      "Z",
+      "T",
+      "L",
+      "K",
+      "L",
+      "R",
+      "Q",
+      "E",
+      "E",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      "S",
+      "T",
+      "V",
+      "W",
+      "B",
+      "V",
+      "R"
+    ],
+    [
+      "M",
+      "S",
+      "B",
+      "S",
+      "R",
+      "N",
+      "W",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "X",
+      "N",
+      "A",
+      "T",
+      "H",
+      "O",
+      "G"
+    ],
+    [
+      "R",
+      "P",
+      "V",
+      "C",
+      "M",
+      "S",
+      "P",
+      "I",
+      "E",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "GLADE",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PARSLEY",
+      "gloss": "A green herb used as garnish.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PASTRY",
+      "gloss": "Baked dough used for pies and tarts.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SHUTTER",
+      "gloss": "A movable cover for a window.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WOOL",
+      "gloss": "Soft fiber from sheep.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-08T17:40:26.245Z"
+}

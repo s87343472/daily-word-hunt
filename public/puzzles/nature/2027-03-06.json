@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-03-06",
+  "playDate": "2027-03-06",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "S",
+      "R",
+      "L",
+      "D",
+      "R",
+      "O",
+      "S",
+      "V",
+      "R"
+    ],
+    [
+      "S",
+      "D",
+      "R",
+      "E",
+      "T",
+      "T",
+      "O",
+      "C",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "S",
+      "N",
+      "D",
+      "M",
+      "Q",
+      "K",
+      "O",
+      "V",
+      "D"
+    ],
+    [
+      "M",
+      "T",
+      "Y",
+      "N",
+      "O",
+      "Z",
+      "I",
+      "R",
+      "O",
+      "H"
+    ],
+    [
+      "F",
+      "E",
+      "T",
+      "S",
+      "C",
+      "H",
+      "Y",
+      "B",
+      "S",
+      "O"
+    ],
+    [
+      "B",
+      "L",
+      "G",
+      "F",
+      "S",
+      "F",
+      "D",
+      "A",
+      "U",
+      "O"
+    ],
+    [
+      "O",
+      "T",
+      "D",
+      "J",
+      "E",
+      "O",
+      "V",
+      "L",
+      "P",
+      "T"
+    ],
+    [
+      "H",
+      "R",
+      "H",
+      "E",
+      "V",
+      "X",
+      "M",
+      "B",
+      "Z",
+      "H"
+    ],
+    [
+      "Q",
+      "U",
+      "R",
+      "Y",
+      "E",
+      "L",
+      "L",
+      "A",
+      "V",
+      "L"
+    ],
+    [
+      "F",
+      "T",
+      "M",
+      "U",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "gloss": "A reptile with a shell.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-08T17:40:26.251Z"
+}
