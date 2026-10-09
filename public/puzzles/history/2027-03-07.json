@@ -1,0 +1,397 @@
+{
+  "id": "history-2027-03-07",
+  "playDate": "2027-03-07",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "M",
+      "R",
+      "Q",
+      "H",
+      "D",
+      "M",
+      "H",
+      "L",
+      "Q"
+    ],
+    [
+      "C",
+      "S",
+      "T",
+      "O",
+      "O",
+      "O",
+      "L",
+      "B",
+      "W",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      "E",
+      "R",
+      "B",
+      "O",
+      "H",
+      "K",
+      "V"
+    ],
+    [
+      "E",
+      "H",
+      "U",
+      "R",
+      "K",
+      "E",
+      "O",
+      "F",
+      "Y",
+      "I"
+    ],
+    [
+      "B",
+      "M",
+      "Z",
+      "N",
+      "A",
+      "S",
+      "P",
+      "K",
+      "K",
+      "H"
+    ],
+    [
+      "R",
+      "T",
+      "P",
+      "B",
+      "C",
+      "T",
+      "U",
+      "M",
+      "P",
+      "C"
+    ],
+    [
+      "E",
+      "Q",
+      "U",
+      "I",
+      "G",
+      "I",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "E",
+      "C",
+      "R",
+      "V",
+      "L",
+      "G",
+      "F",
+      "A"
+    ],
+    [
+      "I",
+      "H",
+      "A",
+      "R",
+      "V",
+      "E",
+      "S",
+      "T",
+      "Y",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "K",
+      "Y",
+      "J",
+      "L",
+      "W",
+      "H",
+      "J",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "EMPIRE",
+      "gloss": "A group of lands under one ruler.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MUSKET",
+      "gloss": "An early type of gun.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STRATEGY",
+      "gloss": "A plan for achieving a goal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-09T17:15:48.682Z"
+}

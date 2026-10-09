@@ -1,0 +1,381 @@
+{
+  "id": "cities-2027-03-07",
+  "playDate": "2027-03-07",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "U",
+      "T",
+      "R",
+      "O",
+      "S",
+      "E",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "N",
+      "N",
+      "O",
+      "Y",
+      "I",
+      "P",
+      "N",
+      "I",
+      "R",
+      "L"
+    ],
+    [
+      "Y",
+      "M",
+      "A",
+      "L",
+      "L",
+      "O",
+      "H",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      "T",
+      "T",
+      "K",
+      "T",
+      "I",
+      "F",
+      "M",
+      "B",
+      "N",
+      "C"
+    ],
+    [
+      "O",
+      "B",
+      "F",
+      "S",
+      "T",
+      "E",
+      "V",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "Q",
+      "H",
+      "N",
+      "Y",
+      "N",
+      "I",
+      "E",
+      "K",
+      "L",
+      "M"
+    ],
+    [
+      "J",
+      "A",
+      "N",
+      "A",
+      "Y",
+      "V",
+      "C",
+      "C",
+      "I",
+      "R"
+    ],
+    [
+      "M",
+      "Q",
+      "D",
+      "N",
+      "A",
+      "V",
+      "P",
+      "G",
+      "P",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "A",
+      "T",
+      "Q",
+      "N",
+      "R",
+      "Q",
+      "F",
+      "H"
+    ],
+    [
+      "F",
+      "Q",
+      "U",
+      "A",
+      "Y",
+      "F",
+      "X",
+      "W",
+      "D",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATTIC",
+      "gloss": "A room just under the roof.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MALL",
+      "gloss": "A large enclosed shopping center.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "MANSION",
+      "gloss": "A large impressive house.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PHARMACY",
+      "gloss": "A shop that sells medicines.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RESORT",
+      "gloss": "A place for holidays and recreation.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TAVERN",
+      "gloss": "A place serving drinks and food.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-09T17:15:48.675Z"
+}

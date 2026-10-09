@@ -1,0 +1,377 @@
+{
+  "id": "nature-2027-03-07",
+  "playDate": "2027-03-07",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "S",
+      "K",
+      "G",
+      "N",
+      "G",
+      "W",
+      "X",
+      "R",
+      "Z"
+    ],
+    [
+      "Y",
+      "C",
+      "N",
+      "N",
+      "O",
+      "F",
+      "F",
+      "G",
+      "E",
+      "A"
+    ],
+    [
+      "Z",
+      "L",
+      "O",
+      "I",
+      "X",
+      "B",
+      "B",
+      "X",
+      "D",
+      "J"
+    ],
+    [
+      "N",
+      "P",
+      "F",
+      "O",
+      "A",
+      "Q",
+      "K",
+      "N",
+      "N",
+      "X"
+    ],
+    [
+      "Z",
+      "A",
+      "Z",
+      "R",
+      "Z",
+      "L",
+      "F",
+      "C",
+      "E",
+      "C"
+    ],
+    [
+      "F",
+      "P",
+      "E",
+      "J",
+      "E",
+      "A",
+      "P",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "W",
+      "S",
+      "C",
+      "C",
+      "R",
+      "T",
+      "J",
+      "V",
+      "A",
+      "M"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "D",
+      "D",
+      "Y",
+      "T",
+      "E",
+      "L",
+      "P"
+    ],
+    [
+      "T",
+      "S",
+      "E",
+      "V",
+      "R",
+      "A",
+      "H",
+      "U",
+      "E",
+      "K"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "B",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ECOLOGY",
+      "gloss": "The study of living things and their environment.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "EDDY",
+      "gloss": "A circular movement of water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HARVEST",
+      "gloss": "The gathering of crops.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLAINS",
+      "gloss": "Large flat areas of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-09T17:15:48.666Z"
+}
