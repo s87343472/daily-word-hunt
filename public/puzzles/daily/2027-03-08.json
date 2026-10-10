@@ -1,0 +1,373 @@
+{
+  "id": "daily-2027-03-08",
+  "playDate": "2027-03-08",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "P",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "T",
+      "R",
+      "D",
+      "G"
+    ],
+    [
+      "O",
+      "A",
+      "J",
+      "A",
+      "G",
+      "H",
+      "M",
+      "H",
+      "O",
+      "V"
+    ],
+    [
+      "F",
+      "Y",
+      "E",
+      "N",
+      "R",
+      "P",
+      "S",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "R",
+      "K",
+      "E",
+      "A",
+      "R",
+      "E",
+      "F",
+      "F",
+      "C"
+    ],
+    [
+      "Z",
+      "A",
+      "A",
+      "N",
+      "A",
+      "L",
+      "M",
+      "H",
+      "I",
+      "R"
+    ],
+    [
+      "R",
+      "D",
+      "V",
+      "M",
+      "I",
+      "V",
+      "O",
+      "U",
+      "B",
+      "O"
+    ],
+    [
+      "E",
+      "I",
+      "E",
+      "C",
+      "L",
+      "H",
+      "N",
+      "C",
+      "H",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "D",
+      "C",
+      "M",
+      "T",
+      "J",
+      "Q",
+      "L"
+    ],
+    [
+      "V",
+      "N",
+      "Z",
+      "O",
+      "N",
+      "A",
+      "H",
+      "Z",
+      "D",
+      "L"
+    ],
+    [
+      "M",
+      "T",
+      "C",
+      "P",
+      "M",
+      "X",
+      "Z",
+      "O",
+      "E",
+      "A"
+    ]
+  ],
+  "words": [
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MONTH",
+      "gloss": "About one twelfth of a year.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "gloss": "A large water bird with a throat pouch.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PUFFIN",
+      "gloss": "A seabird with a colorful beak.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RADIANT",
+      "gloss": "Shining brightly.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of paper or parchment.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THINK",
+      "gloss": "To use the mind.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "THREAD",
+      "gloss": "A thin strand used in sewing.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-10T16:04:26.970Z"
+}
