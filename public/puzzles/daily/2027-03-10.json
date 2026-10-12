@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-03-10",
+  "playDate": "2027-03-10",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "S",
+      "A",
+      "T",
+      "K",
+      "E",
+      "H",
+      "G",
+      "T",
+      "Y"
+    ],
+    [
+      "G",
+      "G",
+      "K",
+      "Z",
+      "E",
+      "D",
+      "F",
+      "F",
+      "S",
+      "G"
+    ],
+    [
+      "D",
+      "T",
+      "X",
+      "T",
+      "R",
+      "V",
+      "J",
+      "C",
+      "R",
+      "W"
+    ],
+    [
+      "T",
+      "K",
+      "H",
+      "I",
+      "E",
+      "C",
+      "L",
+      "O",
+      "Z",
+      "Z"
+    ],
+    [
+      "K",
+      "U",
+      "B",
+      "O",
+      "R",
+      "N",
+      "B",
+      "E",
+      "J",
+      "S"
+    ],
+    [
+      "X",
+      "F",
+      "L",
+      "E",
+      "I",
+      "R",
+      "N",
+      "U",
+      "V",
+      "W"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "L",
+      "A",
+      "C",
+      "Q",
+      "O",
+      "Z",
+      "K"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "H",
+      "E",
+      "U",
+      "X",
+      "C",
+      "B",
+      "Y"
+    ],
+    [
+      "E",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D",
+      "P",
+      "A",
+      "J"
+    ],
+    [
+      "Y",
+      "S",
+      "L",
+      "E",
+      "E",
+      "T",
+      "S",
+      "K",
+      "B",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "gloss": "A feathered animal that can often fly.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BONNET",
+      "gloss": "A hat tied under the chin.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CREATE",
+      "gloss": "To bring something into existence.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "gloss": "A plant known for showy flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SLEET",
+      "gloss": "Icy rain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TULLE",
+      "gloss": "A fine net fabric.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VELVET",
+      "gloss": "A soft fabric with a short dense pile.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-12T20:04:16.867Z"
+}

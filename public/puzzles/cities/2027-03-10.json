@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-03-10",
+  "playDate": "2027-03-10",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "D",
+      "U",
+      "Z",
+      "S",
+      "K",
+      "H",
+      "R",
+      "P",
+      "S"
+    ],
+    [
+      "B",
+      "V",
+      "P",
+      "L",
+      "J",
+      "A",
+      "U",
+      "E",
+      "X",
+      "S"
+    ],
+    [
+      "R",
+      "J",
+      "X",
+      "A",
+      "M",
+      "Y",
+      "U",
+      "E",
+      "Y",
+      "A"
+    ],
+    [
+      "I",
+      "L",
+      "N",
+      "L",
+      "V",
+      "T",
+      "K",
+      "T",
+      "F",
+      "P"
+    ],
+    [
+      "C",
+      "S",
+      "E",
+      "O",
+      "A",
+      "E",
+      "N",
+      "B",
+      "I",
+      "R"
+    ],
+    [
+      "K",
+      "T",
+      "A",
+      "T",
+      "X",
+      "U",
+      "M",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "W",
+      "G",
+      "S",
+      "P",
+      "O",
+      "E",
+      "G",
+      "E",
+      "L",
+      "V"
+    ],
+    [
+      "O",
+      "A",
+      "L",
+      "C",
+      "Z",
+      "Q",
+      "M",
+      "B",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "M",
+      "P",
+      "U",
+      "S",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "B",
+      "C",
+      "A",
+      "N",
+      "A",
+      "L",
+      "I"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRICKWORK",
+      "gloss": "Construction using bricks.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CAMPUS",
+      "gloss": "The grounds of a university or school.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CANAL",
+      "gloss": "An artificial waterway.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "COUNTY",
+      "gloss": "A territorial division within a country.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HAMLET",
+      "gloss": "A very small village.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OVERPASS",
+      "gloss": "A bridge carrying one road over another.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PAVEMENT",
+      "gloss": "A hard road or walkway surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STATUE",
+      "gloss": "A carved or cast figure of a person or animal.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-12T20:04:16.883Z"
+}
