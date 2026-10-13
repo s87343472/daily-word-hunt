@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-03-11",
+  "playDate": "2027-03-11",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "Y",
+      "Y",
+      "E",
+      "W",
+      "X",
+      "B",
+      "I",
+      "P",
+      "L"
+    ],
+    [
+      "T",
+      "Z",
+      "I",
+      "T",
+      "U",
+      "K",
+      "N",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R",
+      "A",
+      "X",
+      "N",
+      "U"
+    ],
+    [
+      "V",
+      "Q",
+      "W",
+      "D",
+      "R",
+      "N",
+      "D",
+      "O",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "M",
+      "F",
+      "S",
+      "D",
+      "O",
+      "R",
+      "A",
+      "C",
+      "D"
+    ],
+    [
+      "R",
+      "O",
+      "A",
+      "R",
+      "M",
+      "E",
+      "T",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "K",
+      "H",
+      "M",
+      "Q",
+      "S",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "F",
+      "C",
+      "O",
+      "V",
+      "Y",
+      "E",
+      "L",
+      "E",
+      "H"
+    ],
+    [
+      "M",
+      "A",
+      "A",
+      "P",
+      "K",
+      "N",
+      "D",
+      "P",
+      "L",
+      "Z"
+    ],
+    [
+      "P",
+      "O",
+      "B",
+      "N",
+      "E",
+      "U",
+      "M",
+      "B",
+      "R",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PINECONE",
+      "gloss": "The seed-bearing cone of a pine tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ROAR",
+      "gloss": "A deep loud cry of a large animal.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUMMER",
+      "gloss": "The warmest season of the year.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TUNDRA",
+      "gloss": "A cold treeless plain.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-13T17:52:55.336Z"
+}

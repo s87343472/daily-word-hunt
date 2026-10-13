@@ -1,0 +1,373 @@
+{
+  "id": "daily-2027-03-11",
+  "playDate": "2027-03-11",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "P",
+      "S",
+      "M",
+      "A",
+      "C",
+      "L",
+      "W",
+      "Y",
+      "H"
+    ],
+    [
+      "U",
+      "X",
+      "F",
+      "T",
+      "Q",
+      "C",
+      "G",
+      "H",
+      "D",
+      "L"
+    ],
+    [
+      "R",
+      "R",
+      "D",
+      "V",
+      "R",
+      "T",
+      "I",
+      "H",
+      "F",
+      "W"
+    ],
+    [
+      "T",
+      "L",
+      "E",
+      "M",
+      "U",
+      "O",
+      "S",
+      "R",
+      "C",
+      "I"
+    ],
+    [
+      "I",
+      "T",
+      "Z",
+      "R",
+      "O",
+      "A",
+      "L",
+      "O",
+      "E",
+      "B"
+    ],
+    [
+      "C",
+      "R",
+      "B",
+      "D",
+      "O",
+      "M",
+      "H",
+      "L",
+      "A",
+      "X"
+    ],
+    [
+      "T",
+      "A",
+      "E",
+      "H",
+      "M",
+      "B",
+      "C",
+      "G",
+      "Z",
+      "P"
+    ],
+    [
+      "N",
+      "R",
+      "E",
+      "D",
+      "N",
+      "E",
+      "V",
+      "A",
+      "L",
+      "N"
+    ],
+    [
+      "Z",
+      "O",
+      "C",
+      "E",
+      "A",
+      "R",
+      "O",
+      "N",
+      "P",
+      "F"
+    ],
+    [
+      "N",
+      "V",
+      "P",
+      "T",
+      "E",
+      "K",
+      "N",
+      "A",
+      "L",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "A fossil resin; also a warm color.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CITRUS",
+      "gloss": "Fruits such as oranges and lemons.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LAVENDER",
+      "gloss": "A plant with fragrant purple flowers.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SOAP",
+      "gloss": "A substance used for washing.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STROLL",
+      "gloss": "A leisurely walk.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TURBAN",
+      "gloss": "A head covering of wound cloth.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "XERIC",
+      "gloss": "Adapted to a dry environment.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-13T17:52:55.332Z"
+}

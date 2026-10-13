@@ -1,0 +1,373 @@
+{
+  "id": "cities-2027-03-11",
+  "playDate": "2027-03-11",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "F",
+      "O",
+      "R",
+      "M",
+      "Z",
+      "B",
+      "C",
+      "F",
+      "I"
+    ],
+    [
+      "F",
+      "R",
+      "R",
+      "S",
+      "U",
+      "Q",
+      "S",
+      "G",
+      "J",
+      "T"
+    ],
+    [
+      "W",
+      "E",
+      "H",
+      "E",
+      "L",
+      "I",
+      "P",
+      "A",
+      "D",
+      "B"
+    ],
+    [
+      "D",
+      "D",
+      "N",
+      "V",
+      "Y",
+      "L",
+      "J",
+      "E",
+      "A",
+      "A"
+    ],
+    [
+      "F",
+      "R",
+      "B",
+      "O",
+      "F",
+      "O",
+      "G",
+      "T",
+      "V",
+      "S"
+    ],
+    [
+      "D",
+      "O",
+      "J",
+      "V",
+      "I",
+      "C",
+      "F",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "D",
+      "B",
+      "M",
+      "J",
+      "G",
+      "G",
+      "G",
+      "U",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "J",
+      "T",
+      "Q",
+      "O",
+      "D",
+      "E",
+      "S",
+      "U",
+      "O"
+    ],
+    [
+      "I",
+      "K",
+      "D",
+      "W",
+      "O",
+      "R",
+      "C",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "B",
+      "J",
+      "F",
+      "Y",
+      "E",
+      "R",
+      "O",
+      "A",
+      "A",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVENUE",
+      "gloss": "A wide road in a city.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BASTION",
+      "gloss": "A projecting part of a fortification.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "gloss": "A line separating countries or regions.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "CROWD",
+      "gloss": "A large group of people.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FOYER",
+      "gloss": "An entrance area in a building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SUITE",
+      "gloss": "A set of connected rooms.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-13T17:52:55.340Z"
+}
