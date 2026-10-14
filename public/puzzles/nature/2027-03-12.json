@@ -1,0 +1,357 @@
+{
+  "id": "nature-2027-03-12",
+  "playDate": "2027-03-12",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "A",
+      "K",
+      "I",
+      "H",
+      "X",
+      "Q",
+      "Y",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "J",
+      "V",
+      "G",
+      "T",
+      "K",
+      "H",
+      "P",
+      "P",
+      "W"
+    ],
+    [
+      "P",
+      "Y",
+      "W",
+      "R",
+      "E",
+      "E",
+      "S",
+      "F",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "U",
+      "W",
+      "Z",
+      "R",
+      "A",
+      "C",
+      "O",
+      "X",
+      "R"
+    ],
+    [
+      "N",
+      "M",
+      "G",
+      "O",
+      "S",
+      "D",
+      "H",
+      "E",
+      "M",
+      "O"
+    ],
+    [
+      "E",
+      "C",
+      "N",
+      "D",
+      "B",
+      "W",
+      "O",
+      "E",
+      "R",
+      "P"
+    ],
+    [
+      "H",
+      "U",
+      "P",
+      "O",
+      "F",
+      "D",
+      "O",
+      "J",
+      "Z",
+      "I"
+    ],
+    [
+      "L",
+      "N",
+      "G",
+      "I",
+      "Q",
+      "S",
+      "L",
+      "K",
+      "U",
+      "C"
+    ],
+    [
+      "M",
+      "C",
+      "O",
+      "R",
+      "A",
+      "L",
+      "R",
+      "E",
+      "E",
+      "F"
+    ],
+    [
+      "E",
+      "K",
+      "E",
+      "A",
+      "G",
+      "L",
+      "A",
+      "I",
+      "I",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALGAE",
+      "gloss": "Simple water plants.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ALPINE",
+      "gloss": "Relating to high mountains.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CORALREEF",
+      "gloss": "A ridge of coral near the sea surface.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HERON",
+      "gloss": "A long-legged wading bird.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "IVY",
+      "gloss": "A climbing evergreen plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-14T15:39:29.134Z"
+}
