@@ -1,0 +1,393 @@
+{
+  "id": "nature-2027-03-13",
+  "playDate": "2027-03-13",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "Q",
+      "S",
+      "A",
+      "N",
+      "D",
+      "I",
+      "C",
+      "E",
+      "Y",
+      "S"
+    ],
+    [
+      "E",
+      "X",
+      "F",
+      "M",
+      "D",
+      "A",
+      "C",
+      "O",
+      "C",
+      "N"
+    ],
+    [
+      "U",
+      "Z",
+      "D",
+      "G",
+      "R",
+      "V",
+      "W",
+      "M",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "H",
+      "E",
+      "Y",
+      "K",
+      "G",
+      "I",
+      "U",
+      "E",
+      "W"
+    ],
+    [
+      "K",
+      "I",
+      "A",
+      "J",
+      "M",
+      "E",
+      "L",
+      "G",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "R",
+      "A",
+      "K",
+      "F",
+      "Y",
+      "L",
+      "T",
+      "R",
+      "L"
+    ],
+    [
+      "B",
+      "Q",
+      "V",
+      "R",
+      "X",
+      "S",
+      "O",
+      "V",
+      "I",
+      "A"
+    ],
+    [
+      "Q",
+      "M",
+      "Z",
+      "X",
+      "T",
+      "E",
+      "W",
+      "L",
+      "N",
+      "K"
+    ],
+    [
+      "O",
+      "Z",
+      "W",
+      "F",
+      "D",
+      "R",
+      "H",
+      "I",
+      "G",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BUTTERFLY",
+      "gloss": "An insect with large colorful wings.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CLEARING",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GEYSER",
+      "gloss": "A hot spring that erupts.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RIDGE",
+      "gloss": "A long narrow elevation of land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-15T15:25:46.010Z"
+}

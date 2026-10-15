@@ -1,0 +1,397 @@
+{
+  "id": "history-2027-03-13",
+  "playDate": "2027-03-13",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "M",
+      "R",
+      "C",
+      "Q",
+      "M",
+      "N",
+      "Q",
+      "M",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "T",
+      "G",
+      "X",
+      "M",
+      "L",
+      "F",
+      "L"
+    ],
+    [
+      "I",
+      "G",
+      "V",
+      "E",
+      "K",
+      "A",
+      "B",
+      "O",
+      "W",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "O",
+      "E",
+      "A",
+      "F",
+      "R",
+      "P",
+      "N",
+      "E"
+    ],
+    [
+      "U",
+      "T",
+      "L",
+      "L",
+      "R",
+      "G",
+      "R",
+      "C",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "U",
+      "F",
+      "E",
+      "R",
+      "I",
+      "I",
+      "G",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "T",
+      "O",
+      "U",
+      "E",
+      "A",
+      "O",
+      "P",
+      "I"
+    ],
+    [
+      "U",
+      "E",
+      "I",
+      "K",
+      "N",
+      "S",
+      "U",
+      "E",
+      "P",
+      "Z"
+    ],
+    [
+      "R",
+      "H",
+      "O",
+      "T",
+      "O",
+      "Z",
+      "A",
+      "T",
+      "L",
+      "M"
+    ],
+    [
+      "E",
+      "D",
+      "N",
+      "M",
+      "S",
+      "R",
+      "Y",
+      "G",
+      "V",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CULTURE",
+      "gloss": "Shared customs and arts of a people.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FLEET",
+      "gloss": "A group of ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FORGE",
+      "gloss": "A place where metal is heated and shaped.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HERITAGE",
+      "gloss": "Traditions and culture from the past.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "REVOLUTION",
+      "gloss": "A major political upheaval.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-15T15:25:46.019Z"
+}

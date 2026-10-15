@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-03-13",
+  "playDate": "2027-03-13",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "I",
+      "T",
+      "H",
+      "O",
+      "R",
+      "N",
+      "Z",
+      "J",
+      "W"
+    ],
+    [
+      "J",
+      "I",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "I",
+      "D",
+      "I",
+      "K",
+      "K",
+      "J",
+      "R",
+      "R"
+    ],
+    [
+      "V",
+      "L",
+      "N",
+      "G",
+      "R",
+      "Z",
+      "U",
+      "I",
+      "R",
+      "B"
+    ],
+    [
+      "K",
+      "H",
+      "D",
+      "P",
+      "O",
+      "K",
+      "C",
+      "X",
+      "K",
+      "L"
+    ],
+    [
+      "N",
+      "G",
+      "I",
+      "D",
+      "N",
+      "E",
+      "L",
+      "Q",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "K",
+      "F",
+      "W",
+      "A",
+      "K",
+      "A",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "R",
+      "V",
+      "F",
+      "P",
+      "H",
+      "O",
+      "C",
+      "Z"
+    ],
+    [
+      "P",
+      "L",
+      "P",
+      "C",
+      "I",
+      "I",
+      "F",
+      "L",
+      "N",
+      "Z"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "J",
+      "G",
+      "Z",
+      "L",
+      "U",
+      "X",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "IRON",
+      "gloss": "A strong metal; also a pressing tool.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PADDLE",
+      "gloss": "A short oar; also to move through water.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PLANK",
+      "gloss": "A long flat piece of timber.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RICE",
+      "gloss": "A grain staple in many cuisines.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TEAK",
+      "gloss": "A durable tropical hardwood.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "WARBLER",
+      "gloss": "A small songbird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-15T15:25:46.005Z"
+}
