@@ -1,0 +1,381 @@
+{
+  "id": "daily-2027-03-14",
+  "playDate": "2027-03-14",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "Q",
+      "U",
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "L",
+      "J",
+      "S",
+      "A",
+      "D",
+      "S",
+      "H",
+      "D",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "O",
+      "T",
+      "D",
+      "Q",
+      "S",
+      "H",
+      "H"
+    ],
+    [
+      "N",
+      "O",
+      "U",
+      "A",
+      "J",
+      "R",
+      "Q",
+      "P",
+      "N",
+      "O"
+    ],
+    [
+      "T",
+      "N",
+      "Z",
+      "C",
+      "R",
+      "A",
+      "E",
+      "I",
+      "H",
+      "R"
+    ],
+    [
+      "L",
+      "G",
+      "X",
+      "I",
+      "Z",
+      "M",
+      "T",
+      "A",
+      "Q",
+      "I"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "N",
+      "R",
+      "A",
+      "O",
+      "H",
+      "M",
+      "Z"
+    ],
+    [
+      "B",
+      "D",
+      "Q",
+      "D",
+      "S",
+      "A",
+      "F",
+      "N",
+      "Q",
+      "O"
+    ],
+    [
+      "E",
+      "Y",
+      "U",
+      "E",
+      "N",
+      "M",
+      "H",
+      "D",
+      "Y",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "A",
+      "R",
+      "T",
+      "W",
+      "V",
+      "T",
+      "J",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CINDER",
+      "gloss": "A piece of partly burned coal or wood.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GENTLE",
+      "gloss": "Mild and kind in manner.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HARMONY",
+      "gloss": "Agreement in sound or feeling.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SATIN",
+      "gloss": "A smooth glossy fabric.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TONGS",
+      "gloss": "A tool for gripping hot items.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-16T15:05:18.234Z"
+}

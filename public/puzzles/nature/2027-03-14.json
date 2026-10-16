@@ -1,0 +1,345 @@
+{
+  "id": "nature-2027-03-14",
+  "playDate": "2027-03-14",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "D",
+      "H",
+      "D",
+      "B",
+      "Y",
+      "D",
+      "U",
+      "U",
+      "J"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "O",
+      "N",
+      "A",
+      "C",
+      "L",
+      "O",
+      "V"
+    ],
+    [
+      "S",
+      "M",
+      "U",
+      "K",
+      "C",
+      "B",
+      "A",
+      "Y",
+      "Z",
+      "S"
+    ],
+    [
+      "W",
+      "H",
+      "A",
+      "N",
+      "B",
+      "E",
+      "A",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "P",
+      "K",
+      "O",
+      "P",
+      "K",
+      "G",
+      "B",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "V",
+      "S",
+      "R",
+      "L",
+      "S",
+      "S",
+      "P",
+      "E",
+      "M"
+    ],
+    [
+      "B",
+      "I",
+      "I",
+      "V",
+      "E",
+      "E",
+      "E",
+      "S",
+      "T",
+      "Z"
+    ],
+    [
+      "O",
+      "N",
+      "D",
+      "Y",
+      "I",
+      "W",
+      "I",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "A",
+      "E",
+      "N",
+      "E",
+      "X",
+      "W",
+      "O"
+    ],
+    [
+      "H",
+      "D",
+      "S",
+      "Y",
+      "C",
+      "H",
+      "M",
+      "I",
+      "R",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MAPLE",
+      "gloss": "A tree known for syrup and autumn leaves.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "RESIN",
+      "gloss": "A sticky substance from some trees.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SHORE",
+      "gloss": "Land along the edge of a body of water.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRUNK",
+      "gloss": "The main stem of a tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VINE",
+      "gloss": "A climbing plant.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "VOLCANO",
+      "gloss": "A mountain that can erupt lava.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-16T15:05:18.243Z"
+}
