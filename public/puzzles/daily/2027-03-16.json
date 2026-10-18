@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-03-16",
+  "playDate": "2027-03-16",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "H",
+      "K",
+      "B",
+      "U",
+      "J",
+      "C",
+      "V",
+      "I",
+      "M",
+      "L"
+    ],
+    [
+      "X",
+      "W",
+      "G",
+      "X",
+      "T",
+      "E",
+      "T",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "G",
+      "C",
+      "I",
+      "C",
+      "J",
+      "S",
+      "U",
+      "R",
+      "V"
+    ],
+    [
+      "H",
+      "I",
+      "U",
+      "U",
+      "N",
+      "O",
+      "K",
+      "J",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "L",
+      "G",
+      "N",
+      "P",
+      "S",
+      "P",
+      "W"
+    ],
+    [
+      "R",
+      "Z",
+      "Z",
+      "M",
+      "Z",
+      "B",
+      "H",
+      "P",
+      "G",
+      "K"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "R",
+      "T",
+      "O",
+      "I",
+      "S",
+      "E",
+      "B"
+    ],
+    [
+      "I",
+      "R",
+      "C",
+      "S",
+      "U",
+      "N",
+      "S",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "T",
+      "H",
+      "M",
+      "W",
+      "P",
+      "A",
+      "P",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "P",
+      "E",
+      "S",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COPPER",
+      "gloss": "A reddish metal used in wires.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PAPER",
+      "gloss": "Thin material used for writing.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "A shape with four equal sides.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUIT",
+      "gloss": "A set of clothes; also to be appropriate.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "gloss": "A land-dwelling turtle.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TRAIT",
+      "gloss": "A distinguishing quality.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-18T14:13:26.567Z"
+}
