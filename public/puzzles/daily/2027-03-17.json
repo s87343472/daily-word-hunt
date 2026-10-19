@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-03-17",
+  "playDate": "2027-03-17",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "C",
+      "M",
+      "D",
+      "T",
+      "Q",
+      "X",
+      "E",
+      "O",
+      "K"
+    ],
+    [
+      "Q",
+      "C",
+      "L",
+      "R",
+      "U",
+      "G",
+      "A",
+      "N",
+      "L",
+      "T"
+    ],
+    [
+      "Y",
+      "M",
+      "G",
+      "O",
+      "O",
+      "S",
+      "L",
+      "G",
+      "N",
+      "A"
+    ],
+    [
+      "J",
+      "T",
+      "Z",
+      "F",
+      "T",
+      "T",
+      "K",
+      "X",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "L",
+      "A",
+      "O",
+      "K",
+      "H",
+      "S",
+      "L",
+      "Q",
+      "A"
+    ],
+    [
+      "O",
+      "H",
+      "S",
+      "C",
+      "Y",
+      "Y",
+      "E",
+      "S",
+      "P",
+      "U"
+    ],
+    [
+      "O",
+      "Y",
+      "X",
+      "U",
+      "K",
+      "R",
+      "P",
+      "R",
+      "D",
+      "X"
+    ],
+    [
+      "S",
+      "T",
+      "T",
+      "R",
+      "B",
+      "U",
+      "O",
+      "W",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "D",
+      "S",
+      "M",
+      "W",
+      "N",
+      "D",
+      "Y",
+      "Z",
+      "L"
+    ],
+    [
+      "K",
+      "F",
+      "U",
+      "B",
+      "P",
+      "Z",
+      "R",
+      "Q",
+      "O",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APRON",
+      "gloss": "A garment worn to protect clothes.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CLOTH",
+      "gloss": "Fabric made by weaving fibers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "DUSK",
+      "gloss": "The dim light after sunset.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FLAX",
+      "gloss": "A plant grown for fiber and seeds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROOST",
+      "gloss": "A place where birds rest.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "TACK",
+      "gloss": "A small nail; also a sailing course.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "UMBRELLA",
+      "gloss": "A folding canopy for rain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-19T17:17:18.997Z"
+}
