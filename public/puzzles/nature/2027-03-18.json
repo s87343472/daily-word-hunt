@@ -1,0 +1,385 @@
+{
+  "id": "nature-2027-03-18",
+  "playDate": "2027-03-18",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "C",
+      "R",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T",
+      "X",
+      "F"
+    ],
+    [
+      "P",
+      "A",
+      "V",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "A",
+      "X",
+      "C",
+      "Q",
+      "F",
+      "H",
+      "B",
+      "N",
+      "Q",
+      "P"
+    ],
+    [
+      "R",
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E",
+      "Q",
+      "Q"
+    ],
+    [
+      "Z",
+      "J",
+      "J",
+      "P",
+      "P",
+      "A",
+      "W",
+      "G",
+      "G",
+      "J"
+    ],
+    [
+      "P",
+      "D",
+      "A",
+      "Y",
+      "B",
+      "R",
+      "E",
+      "A",
+      "K",
+      "V"
+    ],
+    [
+      "W",
+      "A",
+      "L",
+      "W",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "P",
+      "I",
+      "S",
+      "E",
+      "A",
+      "R",
+      "K",
+      "D",
+      "U",
+      "S"
+    ],
+    [
+      "C",
+      "U",
+      "N",
+      "S",
+      "I",
+      "Q",
+      "N",
+      "H",
+      "C",
+      "N"
+    ],
+    [
+      "Y",
+      "S",
+      "Y",
+      "D",
+      "J",
+      "F",
+      "A",
+      "P",
+      "O",
+      "J"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AVALANCHE",
+      "gloss": "A mass of snow sliding down a slope.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRICKET",
+      "gloss": "A chirping insect.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DAYBREAK",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FIELD",
+      "gloss": "An open area of land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WIND",
+      "gloss": "Moving air.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-20T15:30:45.665Z"
+}

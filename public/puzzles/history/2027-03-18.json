@@ -1,0 +1,381 @@
+{
+  "id": "history-2027-03-18",
+  "playDate": "2027-03-18",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "D",
+      "E",
+      "M",
+      "O",
+      "C",
+      "R",
+      "A",
+      "C",
+      "Y"
+    ],
+    [
+      "S",
+      "A",
+      "S",
+      "H",
+      "S",
+      "Y",
+      "S",
+      "E",
+      "Q",
+      "A"
+    ],
+    [
+      "Z",
+      "C",
+      "T",
+      "N",
+      "A",
+      "X",
+      "D",
+      "C",
+      "R",
+      "Z"
+    ],
+    [
+      "Z",
+      "R",
+      "I",
+      "E",
+      "B",
+      "R",
+      "C",
+      "R",
+      "K",
+      "D"
+    ],
+    [
+      "Z",
+      "U",
+      "M",
+      "K",
+      "B",
+      "W",
+      "B",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "S",
+      "X",
+      "U",
+      "E",
+      "D",
+      "Q",
+      "O",
+      "O",
+      "V"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "T",
+      "S",
+      "I",
+      "W",
+      "S",
+      "R",
+      "J"
+    ],
+    [
+      "C",
+      "D",
+      "G",
+      "S",
+      "S",
+      "S",
+      "B",
+      "W",
+      "P",
+      "Q"
+    ],
+    [
+      "F",
+      "E",
+      "E",
+      "T",
+      "A",
+      "R",
+      "I",
+      "P",
+      "K",
+      "E"
+    ],
+    [
+      "J",
+      "B",
+      "Y",
+      "R",
+      "W",
+      "F",
+      "Y",
+      "R",
+      "S",
+      "Y"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ABBESS",
+      "gloss": "A woman heading a convent.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DEMOCRACY",
+      "gloss": "Government by the people.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "gloss": "A person who attacks ships at sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "RUIN",
+      "gloss": "The remains of an old building.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SWORD",
+      "gloss": "A long bladed weapon.",
+      "path": [
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-20T15:30:45.682Z"
+}
