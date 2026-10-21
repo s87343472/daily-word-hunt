@@ -1,0 +1,357 @@
+{
+  "id": "cities-2027-03-19",
+  "playDate": "2027-03-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "I",
+      "M",
+      "J",
+      "P",
+      "O",
+      "I",
+      "B",
+      "G",
+      "H"
+    ],
+    [
+      "U",
+      "U",
+      "V",
+      "V",
+      "O",
+      "B",
+      "E",
+      "Z",
+      "A",
+      "G"
+    ],
+    [
+      "F",
+      "M",
+      "N",
+      "B",
+      "S",
+      "V",
+      "I",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "C",
+      "H",
+      "B",
+      "J",
+      "T",
+      "Z",
+      "L",
+      "X",
+      "I",
+      "H"
+    ],
+    [
+      "W",
+      "I",
+      "R",
+      "Q",
+      "O",
+      "Y",
+      "V",
+      "K",
+      "M",
+      "J"
+    ],
+    [
+      "F",
+      "Z",
+      "B",
+      "O",
+      "F",
+      "C",
+      "W",
+      "C",
+      "E",
+      "W"
+    ],
+    [
+      "E",
+      "H",
+      "J",
+      "Z",
+      "F",
+      "A",
+      "N",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "F",
+      "P",
+      "S",
+      "L",
+      "I",
+      "W",
+      "G",
+      "F",
+      "R",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "F",
+      "C",
+      "L",
+      "X",
+      "E",
+      "O",
+      "M"
+    ],
+    [
+      "V",
+      "I",
+      "K",
+      "N",
+      "E",
+      "Z",
+      "I",
+      "T",
+      "I",
+      "C"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GAZEBO",
+      "gloss": "An open garden shelter.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "METRO",
+      "gloss": "An urban rail system.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "POSTOFFICE",
+      "gloss": "A place for sending mail.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "VISA",
+      "gloss": "Permission to enter a foreign country.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-21T15:47:05.325Z"
+}

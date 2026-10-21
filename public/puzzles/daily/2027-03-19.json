@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-03-19",
+  "playDate": "2027-03-19",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "Y",
+      "H",
+      "R",
+      "H",
+      "C",
+      "Q",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "X",
+      "X",
+      "B",
+      "C",
+      "Y",
+      "G",
+      "T",
+      "E",
+      "I",
+      "S"
+    ],
+    [
+      "Q",
+      "H",
+      "A",
+      "D",
+      "F",
+      "L",
+      "S",
+      "S",
+      "N",
+      "R"
+    ],
+    [
+      "X",
+      "E",
+      "Y",
+      "S",
+      "A",
+      "Y",
+      "A",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "Y",
+      "E",
+      "B",
+      "T",
+      "O",
+      "A",
+      "I",
+      "I",
+      "Y"
+    ],
+    [
+      "W",
+      "S",
+      "O",
+      "V",
+      "R",
+      "A",
+      "A",
+      "R",
+      "L",
+      "A"
+    ],
+    [
+      "J",
+      "C",
+      "Z",
+      "N",
+      "V",
+      "A",
+      "R",
+      "M",
+      "G",
+      "S"
+    ],
+    [
+      "F",
+      "Y",
+      "X",
+      "N",
+      "D",
+      "G",
+      "V",
+      "C",
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "W",
+      "W",
+      "Q",
+      "N",
+      "E",
+      "L",
+      "E",
+      "H",
+      "E"
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "F",
+      "F",
+      "U",
+      "R",
+      "T",
+      "E",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASPEN",
+      "gloss": "A tree with trembling leaves.",
+      "path": [
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BRAVE",
+      "gloss": "Ready to face danger or difficulty.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "COBALT",
+      "gloss": "A hard silver-white metal; also a blue.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OASIS",
+      "gloss": "A fertile spot in a desert.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STARCH",
+      "gloss": "A carbohydrate in plants used in food.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TEACH",
+      "gloss": "To help someone learn.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRUFFLE",
+      "gloss": "An edible underground fungus.",
+      "path": [
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "YONDER",
+      "gloss": "At some distance in that direction.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-21T15:47:05.309Z"
+}
