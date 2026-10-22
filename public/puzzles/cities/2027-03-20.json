@@ -1,0 +1,413 @@
+{
+  "id": "cities-2027-03-20",
+  "playDate": "2027-03-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "N",
+      "W",
+      "O",
+      "T",
+      "N",
+      "W",
+      "O",
+      "D",
+      "P"
+    ],
+    [
+      "H",
+      "A",
+      "Z",
+      "W",
+      "H",
+      "I",
+      "V",
+      "S",
+      "E",
+      "H"
+    ],
+    [
+      "I",
+      "B",
+      "Z",
+      "R",
+      "E",
+      "B",
+      "P",
+      "D",
+      "T",
+      "D"
+    ],
+    [
+      "L",
+      "Y",
+      "Z",
+      "A",
+      "M",
+      "I",
+      "E",
+      "K",
+      "U",
+      "D"
+    ],
+    [
+      "L",
+      "P",
+      "Q",
+      "N",
+      "A",
+      "S",
+      "C",
+      "C",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "W",
+      "T",
+      "R",
+      "P",
+      "E",
+      "B",
+      "C"
+    ],
+    [
+      "I",
+      "S",
+      "G",
+      "R",
+      "O",
+      "P",
+      "O",
+      "P",
+      "P",
+      "K"
+    ],
+    [
+      "D",
+      "S",
+      "I",
+      "P",
+      "P",
+      "O",
+      "G",
+      "W",
+      "H",
+      "W"
+    ],
+    [
+      "E",
+      "A",
+      "O",
+      "S",
+      "T",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      "R",
+      "U",
+      "O",
+      "H",
+      "H",
+      "S",
+      "U",
+      "R",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "DOCK",
+      "gloss": "A platform for boats.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DOWNTOWN",
+      "gloss": "The central business area of a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HILLSIDE",
+      "gloss": "The side of a hill in a city.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEDESTRIAN",
+      "gloss": "A person walking in a city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RUSHHOUR",
+      "gloss": "The busy time of day for traffic.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STATION",
+      "gloss": "A place where trains or buses stop.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-22T15:45:28.326Z"
+}
