@@ -1,0 +1,413 @@
+{
+  "id": "history-2027-03-21",
+  "playDate": "2027-03-21",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "I",
+      "N",
+      "V",
+      "E",
+      "N",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "J",
+      "U",
+      "L",
+      "K",
+      "S",
+      "K",
+      "A",
+      "E",
+      "O",
+      "M"
+    ],
+    [
+      "P",
+      "T",
+      "I",
+      "A",
+      "M",
+      "Z",
+      "I",
+      "N",
+      "S",
+      "Q"
+    ],
+    [
+      "R",
+      "A",
+      "E",
+      "N",
+      "N",
+      "I",
+      "N",
+      "Q",
+      "K",
+      "Y"
+    ],
+    [
+      "I",
+      "B",
+      "G",
+      "N",
+      "N",
+      "G",
+      "L",
+      "K",
+      "G",
+      "K"
+    ],
+    [
+      "M",
+      "L",
+      "G",
+      "M",
+      "S",
+      "E",
+      "U",
+      "L",
+      "S",
+      "U"
+    ],
+    [
+      "A",
+      "E",
+      "G",
+      "G",
+      "P",
+      "N",
+      "L",
+      "A",
+      "P",
+      "O"
+    ],
+    [
+      "R",
+      "T",
+      "E",
+      "S",
+      "L",
+      "H",
+      "P",
+      "L",
+      "G",
+      "J"
+    ],
+    [
+      "Y",
+      "M",
+      "S",
+      "E",
+      "N",
+      "A",
+      "T",
+      "E",
+      "I",
+      "E"
+    ],
+    [
+      "F",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "T",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "gloss": "A system of communication.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRIMARY",
+      "gloss": "An original historical source.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-23T15:34:40.878Z"
+}
