@@ -1,0 +1,401 @@
+{
+  "id": "history-2027-03-22",
+  "playDate": "2027-03-22",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "P",
+      "R",
+      "E",
+      "P",
+      "U",
+      "B",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "T",
+      "N",
+      "E",
+      "I",
+      "C",
+      "N",
+      "A"
+    ],
+    [
+      "E",
+      "P",
+      "K",
+      "U",
+      "I",
+      "A",
+      "C",
+      "Y",
+      "R",
+      "Z"
+    ],
+    [
+      "F",
+      "Y",
+      "T",
+      "V",
+      "R",
+      "F",
+      "V",
+      "M",
+      "N",
+      "B"
+    ],
+    [
+      "O",
+      "R",
+      "S",
+      "W",
+      "U",
+      "G",
+      "I",
+      "V",
+      "R",
+      "V"
+    ],
+    [
+      "R",
+      "U",
+      "F",
+      "N",
+      "R",
+      "S",
+      "E",
+      "N",
+      "E",
+      "O"
+    ],
+    [
+      "M",
+      "S",
+      "Z",
+      "J",
+      "T",
+      "H",
+      "B",
+      "R",
+      "P",
+      "Y"
+    ],
+    [
+      "R",
+      "Z",
+      "B",
+      "I",
+      "U",
+      "G",
+      "V",
+      "Q",
+      "Y",
+      "A"
+    ],
+    [
+      "Q",
+      "Z",
+      "C",
+      "B",
+      "O",
+      "R",
+      "I",
+      "A",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "E",
+      "Q",
+      "D",
+      "G",
+      "W",
+      "Y",
+      "B",
+      "M",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "ARMISTICE",
+      "gloss": "An agreement to stop fighting.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PAPYRUS",
+      "gloss": "A paper-like material from a plant.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "gloss": "A state with elected representatives.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "gloss": "A long journey by sea.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-24T14:11:20.858Z"
+}
