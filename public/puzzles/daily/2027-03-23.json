@@ -1,0 +1,353 @@
+{
+  "id": "daily-2027-03-23",
+  "playDate": "2027-03-23",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "U",
+      "P",
+      "G",
+      "T",
+      "E",
+      "F",
+      "M",
+      "Y",
+      "N"
+    ],
+    [
+      "C",
+      "Y",
+      "C",
+      "S",
+      "I",
+      "D",
+      "K",
+      "G",
+      "K",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "D",
+      "O",
+      "O",
+      "O",
+      "S",
+      "I",
+      "H",
+      "E"
+    ],
+    [
+      "S",
+      "D",
+      "K",
+      "O",
+      "R",
+      "R",
+      "M",
+      "L",
+      "T",
+      "R"
+    ],
+    [
+      "S",
+      "I",
+      "W",
+      "T",
+      "T",
+      "A",
+      "G",
+      "X",
+      "D",
+      "R"
+    ],
+    [
+      "O",
+      "J",
+      "E",
+      "D",
+      "M",
+      "O",
+      "L",
+      "O",
+      "I",
+      "A"
+    ],
+    [
+      "R",
+      "C",
+      "H",
+      "L",
+      "I",
+      "A",
+      "U",
+      "P",
+      "W",
+      "C"
+    ],
+    [
+      "S",
+      "X",
+      "S",
+      "P",
+      "H",
+      "Z",
+      "S",
+      "C",
+      "M",
+      "E"
+    ],
+    [
+      "B",
+      "V",
+      "C",
+      "B",
+      "L",
+      "P",
+      "J",
+      "T",
+      "H",
+      "J"
+    ],
+    [
+      "D",
+      "R",
+      "Y",
+      "H",
+      "O",
+      "Y",
+      "O",
+      "G",
+      "A",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MAST",
+      "gloss": "A tall spar on a ship holding sails.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCISSORS",
+      "gloss": "A cutting tool with two blades.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TERRACE",
+      "gloss": "A flat paved outdoor area.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TOUCH",
+      "gloss": "To come into contact with.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WIDTH",
+      "gloss": "The measurement from side to side.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WOOD",
+      "gloss": "Hard material from trees.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "YOGA",
+      "gloss": "A practice of postures and breathing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-25T14:42:43.420Z"
+}

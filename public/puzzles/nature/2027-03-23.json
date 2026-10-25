@@ -1,0 +1,353 @@
+{
+  "id": "nature-2027-03-23",
+  "playDate": "2027-03-23",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "I",
+      "K",
+      "R",
+      "T",
+      "I",
+      "D",
+      "A",
+      "L",
+      "C"
+    ],
+    [
+      "U",
+      "A",
+      "B",
+      "T",
+      "P",
+      "P",
+      "A",
+      "T",
+      "N",
+      "Y"
+    ],
+    [
+      "X",
+      "W",
+      "S",
+      "B",
+      "L",
+      "P",
+      "M",
+      "E",
+      "T",
+      "Q"
+    ],
+    [
+      "V",
+      "E",
+      "K",
+      "F",
+      "A",
+      "C",
+      "A",
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      "N",
+      "J",
+      "F",
+      "M",
+      "N",
+      "X",
+      "L",
+      "S",
+      "P",
+      "F"
+    ],
+    [
+      "H",
+      "A",
+      "F",
+      "Q",
+      "K",
+      "D",
+      "N",
+      "A",
+      "S",
+      "V"
+    ],
+    [
+      "U",
+      "L",
+      "Y",
+      "G",
+      "T",
+      "R",
+      "X",
+      "D",
+      "Y",
+      "Q"
+    ],
+    [
+      "R",
+      "V",
+      "Y",
+      "P",
+      "O",
+      "N",
+      "A",
+      "C",
+      "A",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "C",
+      "H",
+      "N",
+      "R",
+      "N",
+      "S",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "B",
+      "R",
+      "A",
+      "N",
+      "C",
+      "H",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CANOPY",
+      "gloss": "The upper layer of trees in a forest.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CLAY",
+      "gloss": "Fine earth used for pottery.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NEST",
+      "gloss": "A structure birds build for eggs.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "THORN",
+      "gloss": "A sharp point on a plant.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TIDAL",
+      "gloss": "Relating to the tide.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-25T14:42:43.426Z"
+}

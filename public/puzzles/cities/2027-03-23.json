@@ -1,0 +1,453 @@
+{
+  "id": "cities-2027-03-23",
+  "playDate": "2027-03-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "E",
+      "S",
+      "T",
+      "I",
+      "V",
+      "A",
+      "L",
+      "A",
+      "D"
+    ],
+    [
+      "E",
+      "F",
+      "D",
+      "F",
+      "Q",
+      "C",
+      "X",
+      "W",
+      "R",
+      "F"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "R",
+      "F",
+      "H",
+      "C",
+      "A",
+      "E",
+      "B"
+    ],
+    [
+      "X",
+      "N",
+      "J",
+      "Y",
+      "D",
+      "V",
+      "G",
+      "U",
+      "P",
+      "A"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "E",
+      "D",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "A",
+      "N",
+      "D",
+      "M",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "G",
+      "S",
+      "T",
+      "K",
+      "F",
+      "W",
+      "W",
+      "O",
+      "J",
+      "R"
+    ],
+    [
+      "B",
+      "I",
+      "L",
+      "L",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "G"
+    ],
+    [
+      "C",
+      "M",
+      "O",
+      "O",
+      "B",
+      "E",
+      "L",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "D",
+      "N",
+      "U",
+      "O",
+      "R",
+      "G",
+      "Y",
+      "A",
+      "L",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "EXPEDITION",
+      "gloss": "A journey for a specific purpose.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "gloss": "A series of events for celebration.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "LANDMARK",
+      "gloss": "A feature that is easily recognized.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OBELISK",
+      "gloss": "A tall four-sided stone pillar.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-25T14:42:43.431Z"
+}
