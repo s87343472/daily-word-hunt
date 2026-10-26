@@ -1,0 +1,417 @@
+{
+  "id": "cities-2027-03-24",
+  "playDate": "2027-03-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "E",
+      "G",
+      "N",
+      "E",
+      "S",
+      "S",
+      "A",
+      "P",
+      "J"
+    ],
+    [
+      "E",
+      "F",
+      "I",
+      "W",
+      "H",
+      "M",
+      "Y",
+      "V",
+      "Q",
+      "B"
+    ],
+    [
+      "F",
+      "E",
+      "X",
+      "C",
+      "A",
+      "Z",
+      "F",
+      "N",
+      "N",
+      "S"
+    ],
+    [
+      "O",
+      "J",
+      "T",
+      "R",
+      "A",
+      "M",
+      "W",
+      "A",
+      "Y",
+      "B"
+    ],
+    [
+      "Z",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O",
+      "B",
+      "B",
+      "D",
+      "D"
+    ],
+    [
+      "P",
+      "N",
+      "R",
+      "F",
+      "T",
+      "N",
+      "V",
+      "A",
+      "F",
+      "B"
+    ],
+    [
+      "A",
+      "N",
+      "Q",
+      "P",
+      "I",
+      "U",
+      "V",
+      "M",
+      "G",
+      "M"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "C",
+      "I",
+      "T",
+      "A",
+      "D",
+      "E",
+      "L",
+      "P",
+      "W",
+      "K"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "N",
+      "C",
+      "O",
+      "U",
+      "R",
+      "S",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CITADEL",
+      "gloss": "A fortress commanding a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CONCOURSE",
+      "gloss": "A large open area in a station.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MARINA",
+      "gloss": "A dock for pleasure boats.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PASSENGER",
+      "gloss": "A person traveling in a vehicle.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PITCH",
+      "gloss": "A sports field.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRAMWAY",
+      "gloss": "Tracks for a tram.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "UPTOWN",
+      "gloss": "A residential area away from the center.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-26T17:04:52.291Z"
+}
