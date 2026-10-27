@@ -1,0 +1,413 @@
+{
+  "id": "history-2027-03-25",
+  "playDate": "2027-03-25",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "M",
+      "A",
+      "L",
+      "L",
+      "I",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "L",
+      "O",
+      "R",
+      "C",
+      "S",
+      "S",
+      "S"
+    ],
+    [
+      "Z",
+      "D",
+      "E",
+      "D",
+      "D",
+      "H",
+      "S",
+      "C",
+      "K",
+      "E"
+    ],
+    [
+      "W",
+      "I",
+      "J",
+      "J",
+      "L",
+      "U",
+      "U",
+      "H",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "S",
+      "E",
+      "L",
+      "O",
+      "I",
+      "H",
+      "Y"
+    ],
+    [
+      "A",
+      "V",
+      "W",
+      "O",
+      "P",
+      "L",
+      "C",
+      "C",
+      "N",
+      "Q"
+    ],
+    [
+      "O",
+      "A",
+      "F",
+      "T",
+      "N",
+      "I",
+      "C",
+      "O",
+      "A",
+      "X"
+    ],
+    [
+      "R",
+      "L",
+      "U",
+      "M",
+      "D",
+      "S",
+      "L",
+      "A",
+      "O",
+      "T"
+    ],
+    [
+      "R",
+      "R",
+      "C",
+      "E",
+      "T",
+      "O",
+      "U",
+      "H",
+      "R",
+      "Z"
+    ],
+    [
+      "E",
+      "Q",
+      "M",
+      "X",
+      "C",
+      "R",
+      "O",
+      "L",
+      "P",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ALLIANCE",
+      "gloss": "A union for mutual benefit.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COLONY",
+      "gloss": "A settlement under foreign control.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CONSUL",
+      "gloss": "A chief magistrate in ancient Rome.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MEDIEVAL",
+      "gloss": "Relating to the Middle Ages.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ORACLE",
+      "gloss": "A place or person believed to give prophecy.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SCROLL",
+      "gloss": "A roll of writing material.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SCULPTURE",
+      "gloss": "Art made by carving or molding.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-27T16:07:54.994Z"
+}

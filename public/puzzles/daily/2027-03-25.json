@@ -1,0 +1,357 @@
+{
+  "id": "daily-2027-03-25",
+  "playDate": "2027-03-25",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "V",
+      "I",
+      "H",
+      "J",
+      "J",
+      "U",
+      "Z",
+      "B",
+      "Z",
+      "W"
+    ],
+    [
+      "Z",
+      "O",
+      "M",
+      "Z",
+      "Y",
+      "B",
+      "Y",
+      "R",
+      "A",
+      "G"
+    ],
+    [
+      "Z",
+      "C",
+      "I",
+      "J",
+      "G",
+      "D",
+      "F",
+      "I",
+      "T",
+      "W"
+    ],
+    [
+      "S",
+      "I",
+      "W",
+      "C",
+      "R",
+      "Q",
+      "M",
+      "C",
+      "A",
+      "T"
+    ],
+    [
+      "F",
+      "O",
+      "M",
+      "U",
+      "E",
+      "O",
+      "D",
+      "K",
+      "U",
+      "S"
+    ],
+    [
+      "E",
+      "W",
+      "T",
+      "Q",
+      "D",
+      "N",
+      "J",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "Q",
+      "S",
+      "A",
+      "I",
+      "R",
+      "A",
+      "U",
+      "P"
+    ],
+    [
+      "Q",
+      "L",
+      "I",
+      "S",
+      "R",
+      "P",
+      "L",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "W",
+      "Y",
+      "I",
+      "S",
+      "C",
+      "I",
+      "N",
+      "N",
+      "L"
+    ],
+    [
+      "C",
+      "S",
+      "C",
+      "E",
+      "N",
+      "E",
+      "Y",
+      "M",
+      "O",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AUTUMN",
+      "gloss": "The season between summer and winter.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BRICK",
+      "gloss": "A rectangular block used in building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SAND",
+      "gloss": "Fine grains of rock on beaches and deserts.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SCENE",
+      "gloss": "A view or part of a play.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPROUT",
+      "gloss": "A young shoot of a plant.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STURDY",
+      "gloss": "Strongly built.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "VOICE",
+      "gloss": "Sound produced by speech or song.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WISDOM",
+      "gloss": "Good judgment from knowledge.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-27T16:07:54.975Z"
+}

@@ -1,0 +1,365 @@
+{
+  "id": "nature-2027-03-25",
+  "playDate": "2027-03-25",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "C",
+      "H",
+      "I",
+      "R",
+      "P",
+      "Q",
+      "S",
+      "L",
+      "M"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "O",
+      "H",
+      "C",
+      "S",
+      "K",
+      "R",
+      "K"
+    ],
+    [
+      "N",
+      "N",
+      "T",
+      "H",
+      "F",
+      "A",
+      "P",
+      "O",
+      "Y",
+      "C"
+    ],
+    [
+      "O",
+      "R",
+      "H",
+      "Y",
+      "P",
+      "O",
+      "T",
+      "F",
+      "H",
+      "G"
+    ],
+    [
+      "W",
+      "E",
+      "D",
+      "M",
+      "J",
+      "S",
+      "D",
+      "R",
+      "I",
+      "H"
+    ],
+    [
+      "F",
+      "I",
+      "B",
+      "J",
+      "F",
+      "Y",
+      "U",
+      "W",
+      "I",
+      "B"
+    ],
+    [
+      "L",
+      "C",
+      "O",
+      "H",
+      "Z",
+      "S",
+      "T",
+      "P",
+      "B",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "W",
+      "L",
+      "Z",
+      "I",
+      "O",
+      "U",
+      "N",
+      "N"
+    ],
+    [
+      "K",
+      "L",
+      "J",
+      "M",
+      "H",
+      "A",
+      "D",
+      "L",
+      "Y",
+      "N"
+    ],
+    [
+      "E",
+      "G",
+      "K",
+      "R",
+      "D",
+      "D",
+      "Z",
+      "T",
+      "Z",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CHIRP",
+      "gloss": "A short high bird sound.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SCHOOL",
+      "gloss": "A group of fish swimming together.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-27T16:07:54.980Z"
+}
