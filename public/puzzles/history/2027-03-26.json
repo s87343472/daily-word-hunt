@@ -1,0 +1,429 @@
+{
+  "id": "history-2027-03-26",
+  "playDate": "2027-03-26",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "A",
+      "J",
+      "Q",
+      "E",
+      "U",
+      "G",
+      "A",
+      "L",
+      "P",
+      "N"
+    ],
+    [
+      "M",
+      "R",
+      "T",
+      "R",
+      "R",
+      "Z",
+      "X",
+      "K",
+      "A",
+      "L"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "M",
+      "H",
+      "R",
+      "Y",
+      "I",
+      "Z",
+      "I"
+    ],
+    [
+      "A",
+      "G",
+      "J",
+      "T",
+      "Y",
+      "O",
+      "R",
+      "T",
+      "D",
+      "B"
+    ],
+    [
+      "S",
+      "C",
+      "W",
+      "D",
+      "A",
+      "O",
+      "P",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "C",
+      "Y",
+      "R",
+      "T",
+      "R",
+      "R",
+      "W",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "Q",
+      "S",
+      "T",
+      "C",
+      "U",
+      "D",
+      "K",
+      "R"
+    ],
+    [
+      "D",
+      "L",
+      "I",
+      "D",
+      "H",
+      "R",
+      "U",
+      "C",
+      "R",
+      "Y"
+    ],
+    [
+      "O",
+      "H",
+      "R",
+      "E",
+      "R",
+      "O",
+      "L",
+      "P",
+      "X",
+      "E"
+    ],
+    [
+      "R",
+      "C",
+      "R",
+      "E",
+      "I",
+      "T",
+      "N",
+      "O",
+      "R",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBASSADOR",
+      "gloss": "A high-ranking diplomat.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ARCHER",
+      "gloss": "A person who shoots with a bow.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CURATOR",
+      "gloss": "A person who manages a museum collection.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "EXPLORER",
+      "gloss": "A person who travels to unknown places.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "HISTORIAN",
+      "gloss": "A person who studies history.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books and records.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PLAGUE",
+      "gloss": "A widespread deadly disease.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-28T16:56:05.473Z"
+}

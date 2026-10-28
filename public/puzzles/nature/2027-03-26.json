@@ -1,0 +1,333 @@
+{
+  "id": "nature-2027-03-26",
+  "playDate": "2027-03-26",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "J",
+      "D",
+      "S",
+      "N",
+      "G",
+      "V",
+      "Y",
+      "P",
+      "K"
+    ],
+    [
+      "P",
+      "L",
+      "L",
+      "R",
+      "O",
+      "O",
+      "T",
+      "K",
+      "A",
+      "C"
+    ],
+    [
+      "E",
+      "W",
+      "B",
+      "R",
+      "J",
+      "D",
+      "U",
+      "O",
+      "Q",
+      "M"
+    ],
+    [
+      "J",
+      "I",
+      "O",
+      "E",
+      "X",
+      "G",
+      "K",
+      "V",
+      "H",
+      "P"
+    ],
+    [
+      "G",
+      "L",
+      "U",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "G"
+    ],
+    [
+      "J",
+      "T",
+      "L",
+      "L",
+      "Q",
+      "D",
+      "X",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "Q",
+      "J",
+      "D",
+      "I",
+      "H",
+      "O",
+      "Y",
+      "L",
+      "D",
+      "C"
+    ],
+    [
+      "J",
+      "J",
+      "E",
+      "P",
+      "H",
+      "L",
+      "E",
+      "H",
+      "Y",
+      "E"
+    ],
+    [
+      "U",
+      "S",
+      "R",
+      "A",
+      "I",
+      "K",
+      "A",
+      "V",
+      "M",
+      "U"
+    ],
+    [
+      "J",
+      "H",
+      "P",
+      "L",
+      "V",
+      "Q",
+      "D",
+      "A",
+      "Z",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOULDER",
+      "gloss": "A large rock.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GEODE",
+      "gloss": "A rock cavity lined with crystals.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "KELP",
+      "gloss": "A large brown seaweed.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "LILY",
+      "gloss": "A plant with large showy flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ROOT",
+      "gloss": "The underground part of a plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-28T16:56:05.459Z"
+}

@@ -1,0 +1,337 @@
+{
+  "id": "daily-2027-03-26",
+  "playDate": "2027-03-26",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "C",
+      "U",
+      "C",
+      "M",
+      "B",
+      "D",
+      "G",
+      "U",
+      "V"
+    ],
+    [
+      "R",
+      "U",
+      "D",
+      "M",
+      "S",
+      "Y",
+      "K",
+      "Y",
+      "C",
+      "K"
+    ],
+    [
+      "O",
+      "E",
+      "P",
+      "V",
+      "K",
+      "S",
+      "E",
+      "S",
+      "R",
+      "H"
+    ],
+    [
+      "D",
+      "P",
+      "T",
+      "A",
+      "F",
+      "T",
+      "E",
+      "I",
+      "O",
+      "M"
+    ],
+    [
+      "I",
+      "K",
+      "C",
+      "Z",
+      "U",
+      "O",
+      "G",
+      "A",
+      "W",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "P",
+      "L",
+      "N",
+      "V",
+      "A",
+      "D",
+      "N",
+      "S"
+    ],
+    [
+      "R",
+      "J",
+      "Q",
+      "H",
+      "I",
+      "E",
+      "T",
+      "L",
+      "V",
+      "E"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "Z",
+      "K",
+      "F",
+      "S",
+      "G",
+      "Q",
+      "R"
+    ],
+    [
+      "N",
+      "X",
+      "R",
+      "U",
+      "U",
+      "S",
+      "F",
+      "Y",
+      "M",
+      "U"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "R",
+      "G",
+      "N",
+      "U",
+      "C",
+      "E",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRAID",
+      "gloss": "Interwoven strands of hair or cord.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CLIFF",
+      "gloss": "A steep rock face.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CROWN",
+      "gloss": "A royal headdress.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEAR",
+      "gloss": "A sweet fruit with a rounded base.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "REST",
+      "gloss": "To stop work and relax.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "STAGE",
+      "gloss": "A raised platform for performances.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STOVE",
+      "gloss": "An apparatus for cooking or heating.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-28T16:56:05.452Z"
+}
