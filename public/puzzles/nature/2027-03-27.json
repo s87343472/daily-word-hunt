@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-03-27",
+  "playDate": "2027-03-27",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "G",
+      "R",
+      "W",
+      "D",
+      "C",
+      "C",
+      "Q",
+      "S",
+      "H"
+    ],
+    [
+      "N",
+      "I",
+      "I",
+      "B",
+      "X",
+      "R",
+      "R",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "Q",
+      "N",
+      "M",
+      "I",
+      "F",
+      "G",
+      "L",
+      "I",
+      "J",
+      "P"
+    ],
+    [
+      "G",
+      "G",
+      "O",
+      "C",
+      "C",
+      "M",
+      "B",
+      "W",
+      "E",
+      "L"
+    ],
+    [
+      "S",
+      "U",
+      "S",
+      "Y",
+      "O",
+      "O",
+      "V",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "U",
+      "N",
+      "S",
+      "N",
+      "F",
+      "M",
+      "R",
+      "V",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "K",
+      "O",
+      "Q",
+      "G",
+      "E",
+      "P",
+      "A",
+      "I",
+      "K"
+    ],
+    [
+      "S",
+      "N",
+      "L",
+      "A",
+      "V",
+      "Q",
+      "K",
+      "O",
+      "L",
+      "K"
+    ],
+    [
+      "E",
+      "O",
+      "B",
+      "I",
+      "Y",
+      "D",
+      "D",
+      "T",
+      "S",
+      "O"
+    ],
+    [
+      "T",
+      "V",
+      "R",
+      "P",
+      "E",
+      "N",
+      "T",
+      "P",
+      "Y",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEAK",
+      "gloss": "A bird’s bill.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BLOSSOM",
+      "gloss": "A flower or mass of flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COMPOST",
+      "gloss": "Decayed organic matter used as fertilizer.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SALMON",
+      "gloss": "A fish that migrates from sea to river.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WING",
+      "gloss": "A bird’s limb used for flying.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-29T17:14:08.564Z"
+}

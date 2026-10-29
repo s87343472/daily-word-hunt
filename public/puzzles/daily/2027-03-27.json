@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-03-27",
+  "playDate": "2027-03-27",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "B",
+      "L",
+      "Q",
+      "B",
+      "I"
+    ],
+    [
+      "J",
+      "E",
+      "Z",
+      "S",
+      "U",
+      "E",
+      "D",
+      "E",
+      "R",
+      "W"
+    ],
+    [
+      "H",
+      "U",
+      "A",
+      "G",
+      "Y",
+      "R",
+      "L",
+      "W",
+      "A",
+      "G"
+    ],
+    [
+      "H",
+      "M",
+      "E",
+      "N",
+      "Y",
+      "W",
+      "P",
+      "L",
+      "F",
+      "N"
+    ],
+    [
+      "Z",
+      "Y",
+      "C",
+      "V",
+      "I",
+      "T",
+      "N",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "Z",
+      "T",
+      "I",
+      "S",
+      "U",
+      "R",
+      "E",
+      "A",
+      "W"
+    ],
+    [
+      "R",
+      "Z",
+      "C",
+      "A",
+      "T",
+      "X",
+      "L",
+      "I",
+      "Y",
+      "C"
+    ],
+    [
+      "N",
+      "T",
+      "I",
+      "D",
+      "E",
+      "I",
+      "V",
+      "H",
+      "B",
+      "X"
+    ],
+    [
+      "E",
+      "P",
+      "U",
+      "B",
+      "C",
+      "H",
+      "N",
+      "R",
+      "C",
+      "E"
+    ],
+    [
+      "Q",
+      "O",
+      "O",
+      "T",
+      "N",
+      "V",
+      "W",
+      "C",
+      "H",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "RELIC",
+      "gloss": "An object surviving from the past.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SUEDE",
+      "gloss": "Leather with a soft napped surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TEA",
+      "gloss": "A drink made from steeped leaves.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "THYME",
+      "gloss": "An aromatic culinary herb.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TRIBE",
+      "gloss": "A social group with shared ancestry.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WALNUT",
+      "gloss": "A tree nut with a hard shell.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WHEATY",
+      "gloss": "Having qualities of wheat.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-29T17:14:08.554Z"
+}
