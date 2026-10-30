@@ -1,0 +1,397 @@
+{
+  "id": "nature-2027-03-28",
+  "playDate": "2027-03-28",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "B",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D",
+      "M",
+      "N"
+    ],
+    [
+      "F",
+      "E",
+      "M",
+      "S",
+      "A",
+      "Y",
+      "Y",
+      "B",
+      "O",
+      "K"
+    ],
+    [
+      "X",
+      "X",
+      "A",
+      "Z",
+      "L",
+      "C",
+      "U",
+      "V",
+      "S",
+      "H"
+    ],
+    [
+      "H",
+      "B",
+      "G",
+      "T",
+      "H",
+      "O",
+      "F",
+      "Q",
+      "S",
+      "C"
+    ],
+    [
+      "L",
+      "U",
+      "F",
+      "J",
+      "H",
+      "F",
+      "O",
+      "Q",
+      "P",
+      "U"
+    ],
+    [
+      "M",
+      "O",
+      "O",
+      "N",
+      "B",
+      "E",
+      "A",
+      "M",
+      "P",
+      "R"
+    ],
+    [
+      "O",
+      "J",
+      "C",
+      "D",
+      "H",
+      "N",
+      "R",
+      "R",
+      "P",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "L",
+      "N",
+      "E",
+      "E",
+      "L",
+      "G",
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "I",
+      "C",
+      "A",
+      "L",
+      "G",
+      "M",
+      "N"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "F",
+      "L",
+      "A",
+      "K",
+      "E",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CURRENT",
+      "gloss": "A continuous flow of water or air.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "gloss": "A large bird of prey.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GLACIER",
+      "gloss": "A large slow-moving mass of ice.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "gloss": "A reptile with a long body and tail.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MOONBEAM",
+      "gloss": "A ray of moonlight.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MOSS",
+      "gloss": "A small green plant growing in clumps.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-10-30T16:55:01.625Z"
+}
