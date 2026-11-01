@@ -1,0 +1,369 @@
+{
+  "id": "nature-2027-03-30",
+  "playDate": "2027-03-30",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "E",
+      "H",
+      "Q",
+      "U",
+      "E",
+      "D",
+      "I",
+      "T",
+      "D"
+    ],
+    [
+      "C",
+      "Q",
+      "G",
+      "B",
+      "S",
+      "B",
+      "E",
+      "N",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "U",
+      "J",
+      "D",
+      "H",
+      "L",
+      "I",
+      "K",
+      "W",
+      "A"
+    ],
+    [
+      "V",
+      "H",
+      "X",
+      "S",
+      "E",
+      "E",
+      "R",
+      "G",
+      "M",
+      "G"
+    ],
+    [
+      "E",
+      "H",
+      "R",
+      "G",
+      "L",
+      "H",
+      "I",
+      "G",
+      "I",
+      "O"
+    ],
+    [
+      "F",
+      "A",
+      "J",
+      "A",
+      "I",
+      "M",
+      "A",
+      "C",
+      "R",
+      "N"
+    ],
+    [
+      "L",
+      "L",
+      "H",
+      "L",
+      "P",
+      "G",
+      "R",
+      "X",
+      "K",
+      "F"
+    ],
+    [
+      "P",
+      "W",
+      "Z",
+      "N",
+      "A",
+      "I",
+      "P",
+      "F",
+      "J",
+      "L"
+    ],
+    [
+      "N",
+      "E",
+      "L",
+      "L",
+      "O",
+      "P",
+      "D",
+      "Q",
+      "K",
+      "Y"
+    ],
+    [
+      "T",
+      "O",
+      "G",
+      "P",
+      "N",
+      "A",
+      "V",
+      "S",
+      "Q",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DRAGONFLY",
+      "gloss": "A long-bodied flying insect.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "POLLEN",
+      "gloss": "Fine powder from flowers.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRAIRIE",
+      "gloss": "A wide grassland.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAPIDS",
+      "gloss": "A fast-flowing part of a river.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TIDE",
+      "gloss": "The rise and fall of the sea.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WHALE",
+      "gloss": "A large marine mammal.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-01T16:58:11.635Z"
+}

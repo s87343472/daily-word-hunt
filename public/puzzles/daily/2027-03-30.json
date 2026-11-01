@@ -1,0 +1,369 @@
+{
+  "id": "daily-2027-03-30",
+  "playDate": "2027-03-30",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "J",
+      "T",
+      "H",
+      "G",
+      "I",
+      "N",
+      "F",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "B",
+      "X",
+      "V",
+      "N",
+      "X",
+      "N",
+      "R",
+      "L"
+    ],
+    [
+      "H",
+      "M",
+      "L",
+      "J",
+      "E",
+      "F",
+      "I",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "L",
+      "T",
+      "B",
+      "Z",
+      "I",
+      "A",
+      "C"
+    ],
+    [
+      "T",
+      "H",
+      "B",
+      "E",
+      "A",
+      "U",
+      "H",
+      "Q",
+      "S",
+      "H"
+    ],
+    [
+      "R",
+      "Y",
+      "F",
+      "C",
+      "K",
+      "R",
+      "F",
+      "A",
+      "U",
+      "I"
+    ],
+    [
+      "E",
+      "K",
+      "O",
+      "M",
+      "U",
+      "N",
+      "E",
+      "B",
+      "R",
+      "L"
+    ],
+    [
+      "N",
+      "N",
+      "J",
+      "A",
+      "S",
+      "M",
+      "I",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "N",
+      "V",
+      "T",
+      "Q",
+      "A",
+      "B",
+      "S",
+      "A",
+      "D"
+    ],
+    [
+      "H",
+      "I",
+      "E",
+      "J",
+      "K",
+      "G",
+      "E",
+      "T",
+      "P",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARENA",
+      "gloss": "A place for sports or performance.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CABIN",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CHILL",
+      "gloss": "A feeling of cold.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "gloss": "A fragrant flowering plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NIGHT",
+      "gloss": "The dark hours after sunset.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "STILT",
+      "gloss": "A pole for walking above ground.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "gloss": "Valuable stored wealth.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TRENCH",
+      "gloss": "A long narrow ditch.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-01T16:58:11.627Z"
+}
