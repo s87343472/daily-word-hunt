@@ -1,0 +1,345 @@
+{
+  "id": "nature-2027-03-31",
+  "playDate": "2027-03-31",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "E",
+      "E",
+      "X",
+      "T",
+      "O",
+      "S",
+      "S",
+      "K",
+      "F"
+    ],
+    [
+      "T",
+      "V",
+      "R",
+      "Y",
+      "R",
+      "F",
+      "I",
+      "G",
+      "Q",
+      "Q"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "S",
+      "O",
+      "S",
+      "L",
+      "T",
+      "V",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "T",
+      "H",
+      "P",
+      "C",
+      "U",
+      "Y",
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "G",
+      "C",
+      "E",
+      "I",
+      "T",
+      "O",
+      "E",
+      "M",
+      "S"
+    ],
+    [
+      "E",
+      "F",
+      "E",
+      "U",
+      "C",
+      "M",
+      "B",
+      "R",
+      "T",
+      "W"
+    ],
+    [
+      "K",
+      "V",
+      "N",
+      "H",
+      "C",
+      "M",
+      "A",
+      "R",
+      "Q",
+      "B"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "V",
+      "A",
+      "J",
+      "E",
+      "O",
+      "A",
+      "X"
+    ],
+    [
+      "B",
+      "L",
+      "N",
+      "C",
+      "W",
+      "A",
+      "T",
+      "R",
+      "L",
+      "C"
+    ],
+    [
+      "Q",
+      "Q",
+      "M",
+      "J",
+      "M",
+      "P",
+      "K",
+      "N",
+      "L",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BARK",
+      "gloss": "The outer covering of a tree.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CAVE",
+      "gloss": "A natural underground chamber.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GROVE",
+      "gloss": "A small group of trees.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LOAM",
+      "gloss": "Rich fertile soil.",
+      "path": [
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "gloss": "A small flowing body of water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TROPIC",
+      "gloss": "Relating to warm regions near the equator.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-02T20:36:02.265Z"
+}
