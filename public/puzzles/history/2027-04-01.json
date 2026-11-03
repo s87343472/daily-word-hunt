@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-04-01",
+  "playDate": "2027-04-01",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "P",
+      "D",
+      "C",
+      "P",
+      "L",
+      "T",
+      "B",
+      "U",
+      "Z"
+    ],
+    [
+      "Y",
+      "M",
+      "R",
+      "E",
+      "O",
+      "N",
+      "B",
+      "U",
+      "P",
+      "H"
+    ],
+    [
+      "T",
+      "R",
+      "Z",
+      "I",
+      "I",
+      "M",
+      "S",
+      "W",
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "O",
+      "A",
+      "O",
+      "N",
+      "E",
+      "P",
+      "B",
+      "S",
+      "G"
+    ],
+    [
+      "M",
+      "T",
+      "C",
+      "M",
+      "N",
+      "T",
+      "O",
+      "A",
+      "T",
+      "P"
+    ],
+    [
+      "P",
+      "B",
+      "R",
+      "A",
+      "I",
+      "T",
+      "I",
+      "C",
+      "S",
+      "I"
+    ],
+    [
+      "L",
+      "N",
+      "T",
+      "M",
+      "J",
+      "R",
+      "D",
+      "N",
+      "B",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "Q",
+      "R",
+      "L",
+      "L",
+      "P",
+      "J",
+      "G",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "R",
+      "T",
+      "S",
+      "U",
+      "D",
+      "N",
+      "I"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "L",
+      "E",
+      "N",
+      "N",
+      "I",
+      "U",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COIN",
+      "gloss": "A metal piece used as money.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "COMPASS",
+      "gloss": "A device showing magnetic north.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "INDUSTRIAL",
+      "gloss": "Relating to industry and factories.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILLENNIUM",
+      "gloss": "A period of one thousand years.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PRIMARY",
+      "gloss": "An original historical source.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SENATE",
+      "gloss": "A governing assembly.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "gloss": "A building for worship.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-03T18:11:17.122Z"
+}

@@ -1,0 +1,329 @@
+{
+  "id": "nature-2027-04-01",
+  "playDate": "2027-04-01",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "E",
+      "F",
+      "L",
+      "K",
+      "G",
+      "U",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "O",
+      "U",
+      "C",
+      "Z",
+      "T",
+      "R",
+      "A",
+      "U",
+      "Q",
+      "C"
+    ],
+    [
+      "U",
+      "Q",
+      "P",
+      "B",
+      "G",
+      "M",
+      "M",
+      "C",
+      "F",
+      "F"
+    ],
+    [
+      "L",
+      "W",
+      "O",
+      "H",
+      "D",
+      "N",
+      "J",
+      "L",
+      "W",
+      "L"
+    ],
+    [
+      "T",
+      "K",
+      "E",
+      "O",
+      "E",
+      "K",
+      "L",
+      "O",
+      "Z",
+      "I"
+    ],
+    [
+      "S",
+      "W",
+      "R",
+      "C",
+      "L",
+      "C",
+      "Z",
+      "M",
+      "V",
+      "N"
+    ],
+    [
+      "U",
+      "F",
+      "Q",
+      "E",
+      "B",
+      "A",
+      "A",
+      "E",
+      "P",
+      "T"
+    ],
+    [
+      "M",
+      "B",
+      "V",
+      "V",
+      "B",
+      "R",
+      "F",
+      "A",
+      "V",
+      "T"
+    ],
+    [
+      "K",
+      "I",
+      "C",
+      "C",
+      "E",
+      "T",
+      "A",
+      "U",
+      "M",
+      "V"
+    ],
+    [
+      "H",
+      "R",
+      "O",
+      "X",
+      "P",
+      "D",
+      "Y",
+      "I",
+      "R",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FLINT",
+      "gloss": "A hard gray rock that sparks.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FUR",
+      "gloss": "The short fine hair of certain animals.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HIVE",
+      "gloss": "A structure where bees live.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "HOWL",
+      "gloss": "A long loud cry of a wolf.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEBBLE",
+      "gloss": "A small smooth stone.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TRACK",
+      "gloss": "A mark left by an animal.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-03T18:11:17.112Z"
+}

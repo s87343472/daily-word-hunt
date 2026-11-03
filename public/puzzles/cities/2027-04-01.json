@@ -1,0 +1,421 @@
+{
+  "id": "cities-2027-04-01",
+  "playDate": "2027-04-01",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "G",
+      "R",
+      "T",
+      "L",
+      "V",
+      "M",
+      "J",
+      "H",
+      "C"
+    ],
+    [
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "R",
+      "T",
+      "C",
+      "M",
+      "L"
+    ],
+    [
+      "Y",
+      "G",
+      "D",
+      "G",
+      "P",
+      "C",
+      "O",
+      "U",
+      "F",
+      "O"
+    ],
+    [
+      "E",
+      "U",
+      "Q",
+      "B",
+      "A",
+      "L",
+      "I",
+      "A",
+      "O",
+      "C"
+    ],
+    [
+      "Z",
+      "E",
+      "U",
+      "T",
+      "L",
+      "R",
+      "N",
+      "R",
+      "U",
+      "K"
+    ],
+    [
+      "X",
+      "Q",
+      "G",
+      "E",
+      "A",
+      "R",
+      "H",
+      "R",
+      "N",
+      "T"
+    ],
+    [
+      "U",
+      "F",
+      "G",
+      "U",
+      "Z",
+      "X",
+      "F",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "E",
+      "Q",
+      "U",
+      "Z",
+      "U",
+      "I",
+      "H",
+      "A",
+      "W"
+    ],
+    [
+      "E",
+      "A",
+      "V",
+      "C",
+      "O",
+      "N",
+      "Z",
+      "C",
+      "I",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "M",
+      "U",
+      "T",
+      "E",
+      "R",
+      "N",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AQUARIUM",
+      "gloss": "A place to view aquatic animals.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CLOCKTOWER",
+      "gloss": "A tower with a large public clock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COLLEGE",
+      "gloss": "A school for higher education.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "COMMUTER",
+      "gloss": "A person who travels daily to work.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FOUNTAIN",
+      "gloss": "A structure that sends water into the air.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PALAZZO",
+      "gloss": "A large Italian-style building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TAXI",
+      "gloss": "A car for hire with a driver.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TROLLEY",
+      "gloss": "A streetcar or wheeled cart.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-03T18:11:17.117Z"
+}
