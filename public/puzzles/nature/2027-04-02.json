@@ -1,0 +1,381 @@
+{
+  "id": "nature-2027-04-02",
+  "playDate": "2027-04-02",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Y",
+      "M",
+      "A",
+      "R",
+      "B",
+      "L",
+      "E",
+      "P",
+      "E",
+      "A"
+    ],
+    [
+      "W",
+      "I",
+      "L",
+      "D",
+      "L",
+      "I",
+      "F",
+      "E",
+      "Y",
+      "R"
+    ],
+    [
+      "B",
+      "U",
+      "R",
+      "R",
+      "O",
+      "W",
+      "D",
+      "Q",
+      "R",
+      "Q"
+    ],
+    [
+      "H",
+      "K",
+      "P",
+      "J",
+      "N",
+      "V",
+      "O",
+      "P",
+      "I",
+      "O"
+    ],
+    [
+      "M",
+      "M",
+      "A",
+      "R",
+      "S",
+      "H",
+      "L",
+      "R",
+      "R",
+      "V"
+    ],
+    [
+      "U",
+      "D",
+      "N",
+      "R",
+      "A",
+      "K",
+      "P",
+      "C",
+      "M",
+      "X"
+    ],
+    [
+      "L",
+      "F",
+      "S",
+      "E",
+      "C",
+      "W",
+      "H",
+      "T",
+      "Y",
+      "H"
+    ],
+    [
+      "C",
+      "F",
+      "O",
+      "Q",
+      "E",
+      "A",
+      "I",
+      "O",
+      "A",
+      "N"
+    ],
+    [
+      "H",
+      "Y",
+      "I",
+      "J",
+      "R",
+      "R",
+      "N",
+      "P",
+      "Y",
+      "T"
+    ],
+    [
+      "S",
+      "S",
+      "O",
+      "D",
+      "N",
+      "H",
+      "G",
+      "F",
+      "J",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BURROW",
+      "gloss": "A hole dug by an animal as a home.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "gloss": "A smart toothed marine mammal.",
+      "path": [
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "GREEN",
+      "gloss": "The color of grass and many leaves.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "gloss": "A hard crystalline rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MARSH",
+      "gloss": "Wet low land.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MULCH",
+      "gloss": "Material spread on soil to protect plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ORCHARD",
+      "gloss": "A planted area of fruit trees.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WILDLIFE",
+      "gloss": "Animals living in natural conditions.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-04T18:21:47.514Z"
+}

@@ -1,0 +1,401 @@
+{
+  "id": "history-2027-04-02",
+  "playDate": "2027-04-02",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "T",
+      "N",
+      "E",
+      "M",
+      "A",
+      "I",
+      "L",
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      "T",
+      "P",
+      "E",
+      "M",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "M"
+    ],
+    [
+      "N",
+      "R",
+      "N",
+      "A",
+      "V",
+      "Y",
+      "Z",
+      "I",
+      "Y",
+      "P"
+    ],
+    [
+      "E",
+      "I",
+      "F",
+      "A",
+      "G",
+      "K",
+      "J",
+      "M",
+      "V",
+      "X"
+    ],
+    [
+      "M",
+      "N",
+      "L",
+      "J",
+      "E",
+      "O",
+      "N",
+      "U",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "T",
+      "N",
+      "S",
+      "M",
+      "K",
+      "T",
+      "C",
+      "R",
+      "Z"
+    ],
+    [
+      "N",
+      "I",
+      "J",
+      "Z",
+      "P",
+      "R",
+      "Z",
+      "H",
+      "R",
+      "Y"
+    ],
+    [
+      "E",
+      "N",
+      "M",
+      "G",
+      "I",
+      "C",
+      "J",
+      "P",
+      "I",
+      "Q"
+    ],
+    [
+      "M",
+      "G",
+      "P",
+      "C",
+      "R",
+      "P",
+      "O",
+      "S",
+      "H",
+      "C"
+    ],
+    [
+      "A",
+      "G",
+      "L",
+      "P",
+      "E",
+      "H",
+      "F",
+      "G",
+      "H",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMENDMENT",
+      "gloss": "A formal change to a law or constitution.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EMPIRE",
+      "gloss": "A group of lands under one ruler.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "EMPRESS",
+      "gloss": "A female emperor or emperor’s wife.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GOTHIC",
+      "gloss": "A medieval architectural style.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "JURY",
+      "gloss": "A group deciding a verdict in court.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "NAVY",
+      "gloss": "A nation’s fleet of warships.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PARLIAMENT",
+      "gloss": "A legislature of elected members.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "gloss": "The process of producing text and images.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-04T18:21:47.524Z"
+}
