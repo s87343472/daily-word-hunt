@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-04-03",
+  "playDate": "2027-04-03",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "H",
+      "T",
+      "X",
+      "T",
+      "C",
+      "W",
+      "D",
+      "V",
+      "Q"
+    ],
+    [
+      "M",
+      "N",
+      "Z",
+      "H",
+      "E",
+      "F",
+      "E",
+      "J",
+      "S",
+      "K"
+    ],
+    [
+      "M",
+      "X",
+      "O",
+      "D",
+      "G",
+      "G",
+      "U",
+      "S",
+      "C",
+      "H"
+    ],
+    [
+      "T",
+      "O",
+      "A",
+      "P",
+      "E",
+      "I",
+      "C",
+      "O",
+      "F",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "U",
+      "A",
+      "B",
+      "A",
+      "L",
+      "N",
+      "C",
+      "L"
+    ],
+    [
+      "O",
+      "L",
+      "O",
+      "N",
+      "I",
+      "F",
+      "W",
+      "I",
+      "E",
+      "D"
+    ],
+    [
+      "R",
+      "T",
+      "Z",
+      "G",
+      "T",
+      "Q",
+      "E",
+      "A",
+      "W",
+      "H"
+    ],
+    [
+      "E",
+      "O",
+      "C",
+      "T",
+      "N",
+      "A",
+      "F",
+      "I",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "R",
+      "D",
+      "U",
+      "U",
+      "Y",
+      "I",
+      "U",
+      "J",
+      "T"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "O",
+      "G",
+      "A",
+      "L",
+      "N",
+      "G",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FLOCK",
+      "gloss": "A group of birds or sheep.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FOREST",
+      "gloss": "A large area covered with trees.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LAGOON",
+      "gloss": "A shallow body of water near the sea.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "LEAFY",
+      "gloss": "Having many leaves.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MOUNTAIN",
+      "gloss": "A large natural elevation of land.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "POND",
+      "gloss": "A small body of still water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "gloss": "Soft light after sunset.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-05T18:25:30.636Z"
+}

@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-04-03",
+  "playDate": "2027-04-03",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "D",
+      "Y",
+      "N",
+      "E",
+      "Q",
+      "D",
+      "A",
+      "V",
+      "S"
+    ],
+    [
+      "L",
+      "T",
+      "Y",
+      "Q",
+      "O",
+      "D",
+      "E",
+      "T",
+      "C",
+      "W"
+    ],
+    [
+      "C",
+      "H",
+      "J",
+      "X",
+      "F",
+      "F",
+      "E",
+      "U",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "I",
+      "V",
+      "Y",
+      "S",
+      "K",
+      "S",
+      "A",
+      "W",
+      "Z"
+    ],
+    [
+      "M",
+      "S",
+      "Z",
+      "N",
+      "S",
+      "U",
+      "V",
+      "W",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "T",
+      "Z",
+      "A",
+      "W",
+      "E",
+      "B",
+      "P",
+      "T",
+      "G"
+    ],
+    [
+      "L",
+      "L",
+      "B",
+      "Z",
+      "N",
+      "X",
+      "B",
+      "T",
+      "W",
+      "W"
+    ],
+    [
+      "A",
+      "E",
+      "H",
+      "D",
+      "X",
+      "X",
+      "A",
+      "T",
+      "L",
+      "Z"
+    ],
+    [
+      "N",
+      "K",
+      "L",
+      "I",
+      "M",
+      "T",
+      "Q",
+      "R",
+      "D",
+      "E"
+    ],
+    [
+      "T",
+      "D",
+      "A",
+      "I",
+      "L",
+      "O",
+      "N",
+      "G",
+      "A",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BASKET",
+      "gloss": "A container made of woven material.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "gloss": "A tree with large fragrant flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MILK",
+      "gloss": "A white liquid from mammals.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PLANT",
+      "gloss": "A living organism that grows in soil.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SEED",
+      "gloss": "What a plant grows from.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SUBTLE",
+      "gloss": "Delicate or precise.",
+      "path": [
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WEAVE",
+      "gloss": "To form fabric by interlacing threads.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-05T18:25:30.627Z"
+}
