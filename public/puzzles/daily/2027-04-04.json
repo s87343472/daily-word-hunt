@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-04-04",
+  "playDate": "2027-04-04",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "Q",
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N",
+      "V"
+    ],
+    [
+      "A",
+      "C",
+      "B",
+      "G",
+      "F",
+      "D",
+      "A",
+      "G",
+      "S",
+      "K"
+    ],
+    [
+      "I",
+      "H",
+      "H",
+      "A",
+      "J",
+      "K",
+      "B",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "L",
+      "D",
+      "H",
+      "P",
+      "Z",
+      "E",
+      "H",
+      "N",
+      "O",
+      "D"
+    ],
+    [
+      "R",
+      "S",
+      "K",
+      "R",
+      "O",
+      "W",
+      "O",
+      "A",
+      "W",
+      "H"
+    ],
+    [
+      "G",
+      "A",
+      "F",
+      "F",
+      "Y",
+      "B",
+      "N",
+      "R",
+      "L",
+      "T"
+    ],
+    [
+      "W",
+      "Z",
+      "T",
+      "D",
+      "B",
+      "Y",
+      "O",
+      "F",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "F",
+      "N",
+      "I",
+      "F",
+      "I",
+      "O",
+      "M",
+      "V",
+      "S"
+    ],
+    [
+      "F",
+      "A",
+      "R",
+      "P",
+      "A",
+      "L",
+      "N",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "T",
+      "A",
+      "I",
+      "L",
+      "Y",
+      "V",
+      "M",
+      "D",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANDY",
+      "gloss": "A sweet confection.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "LANTERN",
+      "gloss": "A portable light in a case.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "NOON",
+      "gloss": "Twelve o'clock in the daytime.",
+      "path": [
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RAIL",
+      "gloss": "A bar forming a barrier or track.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "RIBBON",
+      "gloss": "A narrow strip of fabric.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHAFT",
+      "gloss": "A long narrow part; also a vertical passage.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SLOW",
+      "gloss": "Moving with little speed.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "WORK",
+      "gloss": "Activity involving effort.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-06T17:46:12.731Z"
+}
