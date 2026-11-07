@@ -1,0 +1,357 @@
+{
+  "id": "daily-2027-04-05",
+  "playDate": "2027-04-05",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "O",
+      "H",
+      "A",
+      "Z",
+      "E",
+      "L",
+      "F",
+      "V",
+      "S"
+    ],
+    [
+      "U",
+      "D",
+      "M",
+      "T",
+      "L",
+      "D",
+      "H",
+      "K",
+      "A",
+      "I"
+    ],
+    [
+      "C",
+      "U",
+      "A",
+      "A",
+      "C",
+      "F",
+      "R",
+      "L",
+      "X",
+      "C"
+    ],
+    [
+      "K",
+      "A",
+      "G",
+      "R",
+      "N",
+      "E",
+      "T",
+      "K",
+      "P",
+      "Q"
+    ],
+    [
+      "E",
+      "A",
+      "P",
+      "N",
+      "T",
+      "A",
+      "R",
+      "U",
+      "R",
+      "J"
+    ],
+    [
+      "T",
+      "O",
+      "S",
+      "A",
+      "X",
+      "J",
+      "D",
+      "E",
+      "B",
+      "S"
+    ],
+    [
+      "H",
+      "L",
+      "R",
+      "E",
+      "J",
+      "D",
+      "G",
+      "X",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "C",
+      "U",
+      "Q",
+      "L",
+      "J",
+      "S",
+      "H",
+      "C",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "E",
+      "J",
+      "H",
+      "H",
+      "G",
+      "N",
+      "F"
+    ],
+    [
+      "P",
+      "Z",
+      "A",
+      "P",
+      "O",
+      "T",
+      "J",
+      "S",
+      "X",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ATLAS",
+      "gloss": "A book of maps.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BUCKET",
+      "gloss": "An open container with a handle.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CEREAL",
+      "gloss": "A grain used as food.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRATER",
+      "gloss": "A bowl-shaped hole.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HAZEL",
+      "gloss": "A light brown color; also a tree.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PUDDLE",
+      "gloss": "A small pool of liquid on the ground.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TARN",
+      "gloss": "A small mountain lake.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TOPAZ",
+      "gloss": "A yellow or brown gemstone.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-07T16:42:23.524Z"
+}

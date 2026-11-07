@@ -1,0 +1,425 @@
+{
+  "id": "cities-2027-04-05",
+  "playDate": "2027-04-05",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "A",
+      "N",
+      "D",
+      "S",
+      "T",
+      "A",
+      "N",
+      "D",
+      "B"
+    ],
+    [
+      "G",
+      "P",
+      "C",
+      "A",
+      "B",
+      "L",
+      "E",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "U",
+      "I",
+      "X",
+      "R",
+      "P",
+      "M",
+      "H",
+      "R",
+      "S",
+      "M"
+    ],
+    [
+      "I",
+      "E",
+      "S",
+      "U",
+      "O",
+      "H",
+      "N",
+      "W",
+      "O",
+      "T"
+    ],
+    [
+      "D",
+      "C",
+      "E",
+      "Y",
+      "K",
+      "C",
+      "J",
+      "N",
+      "P",
+      "X"
+    ],
+    [
+      "E",
+      "Y",
+      "J",
+      "X",
+      "K",
+      "A",
+      "U",
+      "L",
+      "C",
+      "C"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "N",
+      "I",
+      "M",
+      "R",
+      "E",
+      "T",
+      "G"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "R",
+      "E",
+      "C",
+      "A",
+      "A",
+      "I",
+      "P"
+    ],
+    [
+      "O",
+      "Y",
+      "G",
+      "N",
+      "S",
+      "E",
+      "W",
+      "E",
+      "R",
+      "V"
+    ],
+    [
+      "K",
+      "T",
+      "T",
+      "L",
+      "I",
+      "E",
+      "X",
+      "I",
+      "T",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BANDSTAND",
+      "gloss": "A platform for outdoor music.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CABLECAR",
+      "gloss": "A car pulled by a cable on rails.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "EXIT",
+      "gloss": "A way out of a highway or building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "GUIDEBOOK",
+      "gloss": "A book with travel information.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MONUMENT",
+      "gloss": "A structure built to remember a person or event.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "SEWER",
+      "gloss": "An underground drain for waste water.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TERMINAL",
+      "gloss": "A station at the end of a transport line.",
+      "path": [
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TOWNHOUSE",
+      "gloss": "A multi-story house sharing walls.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-07T16:42:23.548Z"
+}
