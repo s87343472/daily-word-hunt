@@ -1,0 +1,373 @@
+{
+  "id": "nature-2027-04-06",
+  "playDate": "2027-04-06",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "X",
+      "V",
+      "N",
+      "O",
+      "Z",
+      "I",
+      "R",
+      "O",
+      "H"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "A",
+      "O",
+      "T",
+      "W",
+      "R",
+      "P",
+      "M"
+    ],
+    [
+      "U",
+      "B",
+      "D",
+      "T",
+      "L",
+      "V",
+      "D",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "J",
+      "T",
+      "N",
+      "A",
+      "L",
+      "S",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "H",
+      "E",
+      "N",
+      "P",
+      "U",
+      "J",
+      "E",
+      "O",
+      "G",
+      "A"
+    ],
+    [
+      "R",
+      "F",
+      "M",
+      "I",
+      "W",
+      "H",
+      "I",
+      "Y",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "Y",
+      "O",
+      "K",
+      "F",
+      "H",
+      "T",
+      "X",
+      "R",
+      "X"
+    ],
+    [
+      "O",
+      "A",
+      "S",
+      "T",
+      "S",
+      "X",
+      "P",
+      "D",
+      "D",
+      "S"
+    ],
+    [
+      "M",
+      "J",
+      "S",
+      "I",
+      "V",
+      "E",
+      "F",
+      "X",
+      "E",
+      "A"
+    ],
+    [
+      "F",
+      "Z",
+      "Y",
+      "J",
+      "I",
+      "Z",
+      "J",
+      "D",
+      "N",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FIN",
+      "gloss": "A thin flat part of a fish used for swimming.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "gloss": "Ground used for growing plants.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HORIZON",
+      "gloss": "The line where earth and sky appear to meet.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MOSSY",
+      "gloss": "Covered with moss.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MUSHROOM",
+      "gloss": "A fleshy fungus with a cap.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "OTTER",
+      "gloss": "A playful aquatic mammal.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "gloss": "The sound that follows lightning.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "gloss": "Low land between hills or mountains.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-08T16:52:53.538Z"
+}

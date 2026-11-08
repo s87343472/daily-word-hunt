@@ -1,0 +1,401 @@
+{
+  "id": "cities-2027-04-06",
+  "playDate": "2027-04-06",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "S",
+      "F",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "E",
+      "T",
+      "H",
+      "E",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "F",
+      "W",
+      "G",
+      "I",
+      "M",
+      "U",
+      "H"
+    ],
+    [
+      "E",
+      "W",
+      "O",
+      "P",
+      "A",
+      "M",
+      "O",
+      "K",
+      "G",
+      "H"
+    ],
+    [
+      "C",
+      "S",
+      "W",
+      "F",
+      "Z",
+      "S",
+      "X",
+      "E",
+      "I",
+      "H"
+    ],
+    [
+      "T",
+      "S",
+      "O",
+      "Q",
+      "F",
+      "V",
+      "O",
+      "Y",
+      "X",
+      "U"
+    ],
+    [
+      "I",
+      "T",
+      "R",
+      "R",
+      "J",
+      "I",
+      "U",
+      "M",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "A",
+      "N",
+      "I",
+      "Z",
+      "Z",
+      "C",
+      "U",
+      "S",
+      "I"
+    ],
+    [
+      "N",
+      "N",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "G",
+      "D"
+    ],
+    [
+      "S",
+      "D",
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "DIRECTIONS",
+      "gloss": "Instructions for how to go somewhere.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "GALLERY",
+      "gloss": "A room or building for art displays.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "gloss": "A sheltered place for ships.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MAP",
+      "gloss": "A drawing of an area’s features.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "NEWSSTAND",
+      "gloss": "A stall that sells newspapers.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OFFICE",
+      "gloss": "A room or building for work.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SQUARE",
+      "gloss": "An open area in a town.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "THEATER",
+      "gloss": "A building for plays and performances.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-08T16:52:53.545Z"
+}
