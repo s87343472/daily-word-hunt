@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-04-07",
+  "playDate": "2027-04-07",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "A",
+      "H",
+      "S",
+      "W",
+      "Q",
+      "A",
+      "G",
+      "A",
+      "Q",
+      "U"
+    ],
+    [
+      "L",
+      "D",
+      "E",
+      "U",
+      "Z",
+      "U",
+      "W",
+      "I",
+      "O",
+      "Q"
+    ],
+    [
+      "L",
+      "Y",
+      "A",
+      "V",
+      "I",
+      "G",
+      "B",
+      "R",
+      "A",
+      "B"
+    ],
+    [
+      "E",
+      "Y",
+      "L",
+      "D",
+      "T",
+      "X",
+      "A",
+      "P",
+      "X",
+      "R"
+    ],
+    [
+      "Y",
+      "C",
+      "F",
+      "V",
+      "F",
+      "Z",
+      "Z",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "P",
+      "U",
+      "G",
+      "N",
+      "U",
+      "X",
+      "B",
+      "R",
+      "H",
+      "D"
+    ],
+    [
+      "O",
+      "T",
+      "O",
+      "L",
+      "L",
+      "G",
+      "A",
+      "T",
+      "C",
+      "G"
+    ],
+    [
+      "P",
+      "H",
+      "A",
+      "R",
+      "M",
+      "A",
+      "C",
+      "Y",
+      "S",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "A",
+      "N",
+      "E",
+      "M",
+      "O",
+      "R",
+      "P",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "gloss": "A place for aircraft to take off and land.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "ALLEY",
+      "gloss": "A narrow passage between buildings.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BRIDGE",
+      "gloss": "A structure spanning a gap.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PHARMACY",
+      "gloss": "A shop that sells medicines.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PROMENADE",
+      "gloss": "A public walkway, often by the water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "QUAY",
+      "gloss": "A stone or metal platform beside water for ships.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "TOLL",
+      "gloss": "A fee for using a road or bridge.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher education.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-09T21:14:35.376Z"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "daily-2027-04-07",
+  "playDate": "2027-04-07",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "C",
+      "P",
+      "D",
+      "N",
+      "S",
+      "R",
+      "R",
+      "C",
+      "T"
+    ],
+    [
+      "M",
+      "T",
+      "R",
+      "L",
+      "Q",
+      "S",
+      "E",
+      "B",
+      "T",
+      "T"
+    ],
+    [
+      "W",
+      "Z",
+      "V",
+      "X",
+      "L",
+      "D",
+      "S",
+      "X",
+      "S",
+      "E"
+    ],
+    [
+      "G",
+      "I",
+      "Y",
+      "P",
+      "N",
+      "H",
+      "N",
+      "V",
+      "T",
+      "S"
+    ],
+    [
+      "S",
+      "N",
+      "N",
+      "E",
+      "U",
+      "M",
+      "W",
+      "Y",
+      "A",
+      "N"
+    ],
+    [
+      "V",
+      "U",
+      "T",
+      "D",
+      "F",
+      "R",
+      "J",
+      "A",
+      "B",
+      "I"
+    ],
+    [
+      "A",
+      "U",
+      "N",
+      "C",
+      "O",
+      "Y",
+      "Y",
+      "U",
+      "L",
+      "R"
+    ],
+    [
+      "U",
+      "A",
+      "R",
+      "E",
+      "U",
+      "W",
+      "B",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "L",
+      "L",
+      "E",
+      "J",
+      "Z",
+      "N",
+      "E",
+      "W",
+      "J",
+      "X"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "C",
+      "L",
+      "A",
+      "S",
+      "P",
+      "M",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CLASP",
+      "gloss": "A fastening device.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "RINSE",
+      "gloss": "To wash lightly with water.",
+      "path": [
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SEE",
+      "gloss": "To perceive with the eyes.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "STABLE",
+      "gloss": "A building for horses; also steady.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SYRUP",
+      "gloss": "A thick sweet liquid.",
+      "path": [
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TENDER",
+      "gloss": "Gentle; also easily chewed.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "VAULT",
+      "gloss": "An arched roof; also a secure room.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WINDOW",
+      "gloss": "An opening that lets in light.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-09T21:14:35.366Z"
+}

@@ -1,0 +1,444 @@
+{
+  "id": "history-2027-04-07",
+  "playDate": "2027-04-07",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "S",
+      "W",
+      "X",
+      "T",
+      "W",
+      "B",
+      "C",
+      "B",
+      "B",
+      "S",
+      "C"
+    ],
+    [
+      "W",
+      "G",
+      "H",
+      "R",
+      "A",
+      "M",
+      "X",
+      "M",
+      "J",
+      "O",
+      "F"
+    ],
+    [
+      "I",
+      "J",
+      "F",
+      "I",
+      "P",
+      "N",
+      "V",
+      "O",
+      "M",
+      "U",
+      "I"
+    ],
+    [
+      "E",
+      "D",
+      "A",
+      "S",
+      "U",
+      "R",
+      "C",
+      "D",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "T",
+      "L",
+      "E",
+      "O",
+      "E",
+      "B",
+      "C",
+      "Y"
+    ],
+    [
+      "V",
+      "L",
+      "F",
+      "Z",
+      "P",
+      "Q",
+      "P",
+      "R",
+      "A",
+      "E",
+      "Y"
+    ],
+    [
+      "Y",
+      "N",
+      "I",
+      "S",
+      "D",
+      "P",
+      "H",
+      "N",
+      "B",
+      "V",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "L",
+      "A",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "X",
+      "N",
+      "O",
+      "I",
+      "T",
+      "N",
+      "E",
+      "V",
+      "N",
+      "I"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "V",
+      "O",
+      "L",
+      "T",
+      "U",
+      "H",
+      "G",
+      "Y"
+    ],
+    [
+      "C",
+      "F",
+      "U",
+      "E",
+      "N",
+      "I",
+      "C",
+      "I",
+      "D",
+      "E",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BATTLE",
+      "gloss": "A fight between armed forces.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "CRUSADE",
+      "gloss": "A medieval religious military campaign.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "DECLARATION",
+      "gloss": "A formal announcement.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "INVENTION",
+      "gloss": "A new device or process.",
+      "path": [
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "gloss": "The practice of healing.",
+      "path": [
+        {
+          "r": 10,
+          "c": 10
+        },
+        {
+          "r": 10,
+          "c": 9
+        },
+        {
+          "r": 10,
+          "c": 8
+        },
+        {
+          "r": 10,
+          "c": 7
+        },
+        {
+          "r": 10,
+          "c": 6
+        },
+        {
+          "r": 10,
+          "c": 5
+        },
+        {
+          "r": 10,
+          "c": 4
+        },
+        {
+          "r": 10,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "gloss": "Relating to recent times.",
+      "path": [
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "REVOLT",
+      "gloss": "An uprising against authority.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "SOURCE",
+      "gloss": "A document or object providing evidence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-09T21:14:35.387Z"
+}
