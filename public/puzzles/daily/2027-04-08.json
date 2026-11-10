@@ -1,0 +1,341 @@
+{
+  "id": "daily-2027-04-08",
+  "playDate": "2027-04-08",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "I",
+      "S",
+      "M",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "V",
+      "B"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "D",
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "Z",
+      "X",
+      "P",
+      "H",
+      "L",
+      "L",
+      "E",
+      "W",
+      "D"
+    ],
+    [
+      "O",
+      "C",
+      "D",
+      "E",
+      "J",
+      "E",
+      "B",
+      "O",
+      "I",
+      "E"
+    ],
+    [
+      "Z",
+      "U",
+      "N",
+      "B",
+      "I",
+      "O",
+      "X",
+      "X",
+      "L",
+      "A"
+    ],
+    [
+      "H",
+      "A",
+      "D",
+      "S",
+      "O",
+      "I",
+      "I",
+      "J",
+      "M",
+      "F"
+    ],
+    [
+      "I",
+      "C",
+      "X",
+      "K",
+      "D",
+      "H",
+      "G",
+      "C",
+      "P",
+      "O"
+    ],
+    [
+      "P",
+      "B",
+      "U",
+      "U",
+      "U",
+      "Q",
+      "B",
+      "Y",
+      "L",
+      "T"
+    ],
+    [
+      "X",
+      "N",
+      "N",
+      "B",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "E",
+      "L",
+      "X",
+      "S",
+      "F",
+      "J",
+      "O",
+      "R",
+      "D"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BALCONY",
+      "gloss": "A platform projecting from a building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BANANA",
+      "gloss": "A long curved yellow fruit.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BOOK",
+      "gloss": "Pages bound together to read.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "DUNE",
+      "gloss": "A hill of sand.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FJORD",
+      "gloss": "A long narrow sea inlet between cliffs.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "KIND",
+      "gloss": "Showing care and goodwill.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "PORCH",
+      "gloss": "A covered entrance to a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WELL",
+      "gloss": "A deep hole for water; also in good health.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-10T18:24:03.017Z"
+}

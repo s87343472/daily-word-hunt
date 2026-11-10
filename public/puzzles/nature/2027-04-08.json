@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-04-08",
+  "playDate": "2027-04-08",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Q",
+      "L",
+      "B",
+      "P",
+      "J",
+      "C",
+      "J",
+      "L",
+      "D",
+      "F"
+    ],
+    [
+      "K",
+      "R",
+      "M",
+      "V",
+      "O",
+      "O",
+      "V",
+      "L",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "X",
+      "E",
+      "R",
+      "D",
+      "I",
+      "M",
+      "A",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "J",
+      "A",
+      "N",
+      "W",
+      "S",
+      "E",
+      "F",
+      "H",
+      "M"
+    ],
+    [
+      "O",
+      "L",
+      "B",
+      "E",
+      "A",
+      "V",
+      "E",
+      "R",
+      "T",
+      "B"
+    ],
+    [
+      "R",
+      "S",
+      "N",
+      "Q",
+      "P",
+      "W",
+      "V",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "F",
+      "R",
+      "P",
+      "D",
+      "Y",
+      "X",
+      "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "Z",
+      "S",
+      "N",
+      "A",
+      "R",
+      "O",
+      "I",
+      "A",
+      "F",
+      "W"
+    ],
+    [
+      "B",
+      "D",
+      "B",
+      "P",
+      "S",
+      "M",
+      "X",
+      "W",
+      "H",
+      "L"
+    ],
+    [
+      "D",
+      "K",
+      "G",
+      "E",
+      "L",
+      "H",
+      "M",
+      "Z",
+      "F",
+      "K"
+    ]
+  ],
+  "words": [
+    {
+      "word": "AMBER",
+      "gloss": "Fossilized tree resin.",
+      "path": [
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BAY",
+      "gloss": "A broad inlet of the sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "gloss": "A rodent that builds dams.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "CORAL",
+      "gloss": "Hard marine growth forming reefs.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FEATHER",
+      "gloss": "One of the light growths covering a bird.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FROST",
+      "gloss": "Ice crystals on a cold surface.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "ROSE",
+      "gloss": "A flower with thorns.",
+      "path": [
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-10T18:24:03.025Z"
+}
