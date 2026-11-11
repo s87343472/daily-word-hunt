@@ -1,0 +1,345 @@
+{
+  "id": "daily-2027-04-09",
+  "playDate": "2027-04-09",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "B",
+      "J",
+      "C",
+      "T",
+      "P",
+      "T",
+      "O",
+      "N",
+      "U"
+    ],
+    [
+      "E",
+      "B",
+      "F",
+      "A",
+      "T",
+      "U",
+      "H",
+      "F",
+      "U",
+      "Z"
+    ],
+    [
+      "D",
+      "V",
+      "F",
+      "S",
+      "D",
+      "U",
+      "N",
+      "J",
+      "H",
+      "G"
+    ],
+    [
+      "A",
+      "K",
+      "U",
+      "Q",
+      "F",
+      "E",
+      "J",
+      "N",
+      "M",
+      "H"
+    ],
+    [
+      "R",
+      "R",
+      "M",
+      "M",
+      "L",
+      "E",
+      "F",
+      "L",
+      "E",
+      "Q"
+    ],
+    [
+      "T",
+      "N",
+      "M",
+      "S",
+      "U",
+      "S",
+      "I",
+      "E",
+      "G",
+      "L"
+    ],
+    [
+      "C",
+      "I",
+      "V",
+      "I",
+      "C",
+      "R",
+      "D",
+      "L",
+      "I",
+      "W"
+    ],
+    [
+      "O",
+      "A",
+      "K",
+      "B",
+      "R",
+      "A",
+      "A",
+      "T",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "R",
+      "M",
+      "A",
+      "H",
+      "D",
+      "U",
+      "L",
+      "E",
+      "J"
+    ],
+    [
+      "C",
+      "S",
+      "Q",
+      "S",
+      "E",
+      "P",
+      "N",
+      "E",
+      "N",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CEDAR",
+      "gloss": "An evergreen tree with fragrant wood.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CIVIC",
+      "gloss": "Relating to a city or citizens.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "GLADE",
+      "gloss": "An open space in a forest.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "JADE",
+      "gloss": "A hard green gemstone.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MURAL",
+      "gloss": "A painting on a wall.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHADE",
+      "gloss": "Comparative darkness; also a tint.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TRUST",
+      "gloss": "Firm belief in reliability.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "TUNNEL",
+      "gloss": "An underground passage.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-11T18:15:51.428Z"
+}

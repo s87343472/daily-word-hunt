@@ -1,0 +1,460 @@
+{
+  "id": "history-2027-04-09",
+  "playDate": "2027-04-09",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "H",
+      "C",
+      "V",
+      "E",
+      "X",
+      "L",
+      "O",
+      "F",
+      "B",
+      "K",
+      "H"
+    ],
+    [
+      "H",
+      "H",
+      "A",
+      "F",
+      "M",
+      "K",
+      "Q",
+      "E",
+      "K",
+      "L",
+      "N"
+    ],
+    [
+      "V",
+      "P",
+      "C",
+      "S",
+      "V",
+      "G",
+      "N",
+      "Y",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "C",
+      "Y",
+      "A",
+      "I",
+      "T",
+      "N",
+      "C",
+      "D",
+      "A",
+      "J",
+      "I"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "I",
+      "D",
+      "L",
+      "U",
+      "M",
+      "R",
+      "Y",
+      "T"
+    ],
+    [
+      "T",
+      "G",
+      "H",
+      "H",
+      "K",
+      "E",
+      "E",
+      "J",
+      "C",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "O",
+      "E",
+      "V",
+      "F",
+      "A",
+      "X",
+      "Z",
+      "H",
+      "R",
+      "R"
+    ],
+    [
+      "P",
+      "R",
+      "D",
+      "C",
+      "O",
+      "U",
+      "N",
+      "C",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "U",
+      "E",
+      "R",
+      "Z",
+      "Q",
+      "S",
+      "E",
+      "F",
+      "V",
+      "T",
+      "D"
+    ],
+    [
+      "L",
+      "I",
+      "A",
+      "S",
+      "P",
+      "O",
+      "U",
+      "Z",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "H",
+      "L",
+      "F",
+      "B",
+      "R",
+      "C",
+      "W",
+      "E",
+      "E",
+      "F"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCHIVE",
+      "gloss": "A collection of historical records.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "gloss": "A fortified residence.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CATAPULT",
+      "gloss": "A machine for hurling large objects.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CATHEDRAL",
+      "gloss": "A large important church.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 10,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "COUNCIL",
+      "gloss": "A group that makes decisions.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FEDERATION",
+      "gloss": "A union of states under central power.",
+      "path": [
+        {
+          "r": 10,
+          "c": 10
+        },
+        {
+          "r": 9,
+          "c": 10
+        },
+        {
+          "r": 8,
+          "c": 10
+        },
+        {
+          "r": 7,
+          "c": 10
+        },
+        {
+          "r": 6,
+          "c": 10
+        },
+        {
+          "r": 5,
+          "c": 10
+        },
+        {
+          "r": 4,
+          "c": 10
+        },
+        {
+          "r": 3,
+          "c": 10
+        },
+        {
+          "r": 2,
+          "c": 10
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "FEUDAL",
+      "gloss": "Relating to the medieval social system.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HIEROGLYPH",
+      "gloss": "A picture symbol used in ancient writing.",
+      "path": [
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-11T18:15:51.467Z"
+}
