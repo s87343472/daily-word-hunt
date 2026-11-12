@@ -1,0 +1,393 @@
+{
+  "id": "nature-2027-04-10",
+  "playDate": "2027-04-10",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "N",
+      "T",
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "J",
+      "D",
+      "N",
+      "A",
+      "L",
+      "S",
+      "I",
+      "K",
+      "U",
+      "D"
+    ],
+    [
+      "T",
+      "I",
+      "V",
+      "N",
+      "R",
+      "C",
+      "R",
+      "O",
+      "C",
+      "M"
+    ],
+    [
+      "G",
+      "K",
+      "T",
+      "T",
+      "Z",
+      "Y",
+      "R",
+      "L",
+      "C",
+      "R"
+    ],
+    [
+      "N",
+      "W",
+      "B",
+      "L",
+      "I",
+      "T",
+      "S",
+      "K",
+      "S",
+      "I"
+    ],
+    [
+      "J",
+      "O",
+      "P",
+      "L",
+      "A",
+      "N",
+      "K",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "D",
+      "P",
+      "J",
+      "U",
+      "N",
+      "G",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "A",
+      "L",
+      "L",
+      "R"
+    ],
+    [
+      "Y",
+      "E",
+      "B",
+      "K",
+      "R",
+      "E",
+      "E",
+      "F",
+      "Y",
+      "M"
+    ],
+    [
+      "S",
+      "M",
+      "W",
+      "I",
+      "G",
+      "T",
+      "M",
+      "T",
+      "M",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "GRANITE",
+      "gloss": "A hard igneous rock.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "gloss": "Land surrounded by water.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "gloss": "Dense tropical forest.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "gloss": "A field of grass and wildflowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "PLANKTON",
+      "gloss": "Tiny drifting water organisms.",
+      "path": [
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REEFY",
+      "gloss": "Relating to a reef.",
+      "path": [
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TROUT",
+      "gloss": "A freshwater fish.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WATERFALL",
+      "gloss": "Water falling from a height.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-12T18:39:51.532Z"
+}
