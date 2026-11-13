@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-04-11",
+  "playDate": "2027-04-11",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "C",
+      "L",
+      "Q",
+      "J",
+      "P",
+      "X",
+      "O",
+      "X",
+      "N"
+    ],
+    [
+      "U",
+      "W",
+      "O",
+      "L",
+      "L",
+      "A",
+      "T",
+      "Z",
+      "S",
+      "I"
+    ],
+    [
+      "Y",
+      "W",
+      "H",
+      "L",
+      "E",
+      "Z",
+      "Q",
+      "W",
+      "Z",
+      "G"
+    ],
+    [
+      "M",
+      "C",
+      "C",
+      "P",
+      "T",
+      "D",
+      "P",
+      "H",
+      "L",
+      "D"
+    ],
+    [
+      "D",
+      "U",
+      "N",
+      "F",
+      "E",
+      "I",
+      "G",
+      "E",
+      "Z",
+      "S"
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      "O",
+      "J",
+      "P",
+      "M",
+      "E",
+      "D",
+      "U"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "M",
+      "E",
+      "M",
+      "P",
+      "L",
+      "U",
+      "O"
+    ],
+    [
+      "N",
+      "F",
+      "B",
+      "P",
+      "L",
+      "A",
+      "C",
+      "E",
+      "M",
+      "L"
+    ],
+    [
+      "I",
+      "T",
+      "O",
+      "F",
+      "L",
+      "X",
+      "P",
+      "W",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "L",
+      "L",
+      "O",
+      "T",
+      "X",
+      "N",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRANCH",
+      "gloss": "A limb of a tree.",
+      "path": [
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "DAWN",
+      "gloss": "The first light of morning.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "LEDGE",
+      "gloss": "A narrow shelf projecting from a wall or cliff.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PEPPER",
+      "gloss": "A spicy seasoning; also a vegetable.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PLACE",
+      "gloss": "A particular position or area.",
+      "path": [
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SHALLOT",
+      "gloss": "A small onion-like vegetable.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TALLOW",
+      "gloss": "Hard animal fat used in candles.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WHEEL",
+      "gloss": "A circular object that rotates on an axle.",
+      "path": [
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-13T18:19:02.945Z"
+}
