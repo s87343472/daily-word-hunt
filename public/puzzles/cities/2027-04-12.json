@@ -1,0 +1,405 @@
+{
+  "id": "cities-2027-04-12",
+  "playDate": "2027-04-12",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "X",
+      "S",
+      "D",
+      "W",
+      "R",
+      "E",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "O",
+      "Z",
+      "L",
+      "J",
+      "V",
+      "L",
+      "E",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "N",
+      "H",
+      "M",
+      "U",
+      "B",
+      "T",
+      "N",
+      "Y",
+      "I",
+      "D"
+    ],
+    [
+      "G",
+      "X",
+      "O",
+      "A",
+      "R",
+      "V",
+      "R",
+      "O",
+      "O",
+      "I"
+    ],
+    [
+      "J",
+      "V",
+      "G",
+      "U",
+      "Q",
+      "W",
+      "Q",
+      "M",
+      "S",
+      "F"
+    ],
+    [
+      "Y",
+      "R",
+      "O",
+      "T",
+      "C",
+      "A",
+      "F",
+      "J",
+      "E",
+      "V"
+    ],
+    [
+      "P",
+      "C",
+      "P",
+      "A",
+      "V",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "I",
+      "P",
+      "A",
+      "C",
+      "H",
+      "M",
+      "F"
+    ],
+    [
+      "Z",
+      "O",
+      "U",
+      "T",
+      "S",
+      "K",
+      "I",
+      "R",
+      "T",
+      "S"
+    ],
+    [
+      "Y",
+      "E",
+      "N",
+      "I",
+      "N",
+      "A",
+      "Z",
+      "Z",
+      "E",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAPITAL",
+      "gloss": "The city where a government is based.",
+      "path": [
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "COURT",
+      "gloss": "An area for ball games; also a law court.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "FACTORY",
+      "gloss": "A building where goods are made.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "FOYER",
+      "gloss": "An entrance area in a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GABLE",
+      "gloss": "The triangular upper wall of a building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MEZZANINE",
+      "gloss": "A partial floor between main floors.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "OUTSKIRTS",
+      "gloss": "The outer parts of a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PAVEMENT",
+      "gloss": "A hard road or walkway surface.",
+      "path": [
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-14T16:48:33.843Z"
+}
