@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-04-13",
+  "playDate": "2027-04-13",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "H",
+      "E",
+      "L",
+      "P",
+      "A",
+      "U",
+      "L",
+      "D",
+      "L"
+    ],
+    [
+      "B",
+      "N",
+      "I",
+      "B",
+      "O",
+      "R",
+      "K",
+      "O",
+      "H",
+      "D"
+    ],
+    [
+      "L",
+      "G",
+      "O",
+      "E",
+      "T",
+      "U",
+      "R",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "I",
+      "I",
+      "W",
+      "N",
+      "H",
+      "Q",
+      "R",
+      "P",
+      "P"
+    ],
+    [
+      "N",
+      "V",
+      "J",
+      "R",
+      "U",
+      "I",
+      "R",
+      "D",
+      "T",
+      "S"
+    ],
+    [
+      "K",
+      "F",
+      "F",
+      "M",
+      "Z",
+      "O",
+      "L",
+      "I",
+      "X",
+      "G"
+    ],
+    [
+      "E",
+      "D",
+      "B",
+      "P",
+      "L",
+      "I",
+      "M",
+      "Y",
+      "G",
+      "D"
+    ],
+    [
+      "T",
+      "L",
+      "C",
+      "B",
+      "R",
+      "M",
+      "L",
+      "O",
+      "K",
+      "U"
+    ],
+    [
+      "E",
+      "S",
+      "Y",
+      "O",
+      "U",
+      "W",
+      "J",
+      "B",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "U",
+      "N",
+      "S",
+      "T",
+      "A",
+      "E",
+      "I",
+      "S",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "gloss": "A large piece of cloth for warmth.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "HELP",
+      "gloss": "To make it easier for someone.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "HUMBLE",
+      "gloss": "Modest; not proud.",
+      "path": [
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "IRON",
+      "gloss": "A strong metal; also a pressing tool.",
+      "path": [
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "gloss": "A songbird with a red breast.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-15T17:31:00.884Z"
+}
