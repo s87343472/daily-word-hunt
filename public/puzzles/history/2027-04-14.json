@@ -1,0 +1,381 @@
+{
+  "id": "history-2027-04-14",
+  "playDate": "2027-04-14",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "X",
+      "U",
+      "U",
+      "E",
+      "M",
+      "O",
+      "S",
+      "A",
+      "I",
+      "C"
+    ],
+    [
+      "S",
+      "Z",
+      "Z",
+      "X",
+      "P",
+      "Q",
+      "Q",
+      "S",
+      "W",
+      "A"
+    ],
+    [
+      "P",
+      "I",
+      "J",
+      "W",
+      "P",
+      "O",
+      "U",
+      "L",
+      "S",
+      "P"
+    ],
+    [
+      "H",
+      "G",
+      "L",
+      "H",
+      "O",
+      "L",
+      "C",
+      "P",
+      "R",
+      "B"
+    ],
+    [
+      "A",
+      "U",
+      "I",
+      "K",
+      "G",
+      "L",
+      "E",
+      "H",
+      "G",
+      "E"
+    ],
+    [
+      "R",
+      "K",
+      "S",
+      "H",
+      "R",
+      "A",
+      "P",
+      "I",
+      "U",
+      "J"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "U",
+      "R",
+      "O",
+      "J",
+      "C",
+      "P",
+      "R"
+    ],
+    [
+      "O",
+      "T",
+      "J",
+      "G",
+      "Z",
+      "R",
+      "A",
+      "Y",
+      "O",
+      "I"
+    ],
+    [
+      "H",
+      "K",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "D",
+      "I",
+      "V"
+    ],
+    [
+      "I",
+      "J",
+      "E",
+      "G",
+      "A",
+      "T",
+      "I",
+      "R",
+      "E",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "EPOCH",
+      "gloss": "A notable period in history.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HERITAGE",
+      "gloss": "Traditions and culture from the past.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "gloss": "A mounted warrior of the Middle Ages.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PHARAOH",
+      "gloss": "A ruler of ancient Egypt.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PLOW",
+      "gloss": "A tool for turning soil.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "SILKROAD",
+      "gloss": "Historic trade routes across Asia.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SPEAR",
+      "gloss": "A long weapon with a pointed tip.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-16T20:45:25.261Z"
+}

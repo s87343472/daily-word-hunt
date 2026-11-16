@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-04-14",
+  "playDate": "2027-04-14",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "A",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
+      "F",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "O",
+      "Z",
+      "E",
+      "F",
+      "V",
+      "Q",
+      "T",
+      "B",
+      "L"
+    ],
+    [
+      "L",
+      "M",
+      "O",
+      "W",
+      "T",
+      "S",
+      "B",
+      "D",
+      "R",
+      "I"
+    ],
+    [
+      "W",
+      "A",
+      "A",
+      "F",
+      "T",
+      "K",
+      "B",
+      "Z",
+      "I",
+      "B"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "R",
+      "T",
+      "H",
+      "M",
+      "Q",
+      "C",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "E",
+      "K",
+      "O",
+      "U",
+      "J",
+      "K",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "L",
+      "V",
+      "K",
+      "E",
+      "P",
+      "X",
+      "W",
+      "R"
+    ],
+    [
+      "T",
+      "M",
+      "G",
+      "L",
+      "M",
+      "T",
+      "T",
+      "T",
+      "O",
+      "Y"
+    ],
+    [
+      "T",
+      "C",
+      "Q",
+      "Q",
+      "A",
+      "L",
+      "F",
+      "F",
+      "R",
+      "P"
+    ],
+    [
+      "R",
+      "D",
+      "J",
+      "R",
+      "D",
+      "R",
+      "L",
+      "V",
+      "K",
+      "B"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRICKWORK",
+      "gloss": "Construction using bricks.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "CELLAR",
+      "gloss": "A room below ground level.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "LANE",
+      "gloss": "A narrow road.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "LIBRARY",
+      "gloss": "A place that keeps books for borrowing.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "gloss": "A place where goods are bought and sold.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ROOFTOP",
+      "gloss": "The top outer surface of a building.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STREET",
+      "gloss": "A public road in a city or town.",
+      "path": [
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "gloss": "A change from one route to another.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-16T20:45:25.255Z"
+}
