@@ -1,0 +1,413 @@
+{
+  "id": "history-2027-04-16",
+  "playDate": "2027-04-16",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "F",
+      "E",
+      "D",
+      "E",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "D",
+      "S",
+      "T",
+      "B",
+      "S",
+      "Q",
+      "Z",
+      "Z",
+      "T"
+    ],
+    [
+      "E",
+      "R",
+      "Q",
+      "P",
+      "S",
+      "L",
+      "L",
+      "N",
+      "S",
+      "M"
+    ],
+    [
+      "I",
+      "Z",
+      "U",
+      "J",
+      "E",
+      "L",
+      "N",
+      "I",
+      "D",
+      "R"
+    ],
+    [
+      "T",
+      "Z",
+      "I",
+      "Q",
+      "I",
+      "C",
+      "N",
+      "O",
+      "Z",
+      "O"
+    ],
+    [
+      "N",
+      "F",
+      "R",
+      "M",
+      "S",
+      "O",
+      "A",
+      "L",
+      "B",
+      "F"
+    ],
+    [
+      "O",
+      "Q",
+      "E",
+      "Z",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "G",
+      "O",
+      "T",
+      "S",
+      "H",
+      "N",
+      "P",
+      "R"
+    ],
+    [
+      "F",
+      "S",
+      "C",
+      "L",
+      "Z",
+      "Y",
+      "A",
+      "V",
+      "F",
+      "S"
+    ],
+    [
+      "Y",
+      "T",
+      "I",
+      "S",
+      "R",
+      "E",
+      "V",
+      "I",
+      "N",
+      "U"
+    ]
+  ],
+  "words": [
+    {
+      "word": "COLONIST",
+      "gloss": "A settler in a colony.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FEDERATION",
+      "gloss": "A union of states under central power.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FRONTIER",
+      "gloss": "The edge of settled land.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MILL",
+      "gloss": "A building for grinding grain.",
+      "path": [
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "Freedom from war or conflict.",
+      "path": [
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "gloss": "A change to improve a system.",
+      "path": [
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SQUIRE",
+      "gloss": "A young man attending a knight.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSITY",
+      "gloss": "An institution of higher learning.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-18T19:12:21.471Z"
+}

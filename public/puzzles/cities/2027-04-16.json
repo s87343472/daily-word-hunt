@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-04-16",
+  "playDate": "2027-04-16",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "K",
+      "C",
+      "A",
+      "P",
+      "K",
+      "C",
+      "A",
+      "B",
+      "V",
+      "O"
+    ],
+    [
+      "L",
+      "Z",
+      "W",
+      "W",
+      "L",
+      "Z",
+      "A",
+      "B",
+      "P",
+      "H"
+    ],
+    [
+      "F",
+      "B",
+      "O",
+      "O",
+      "K",
+      "S",
+      "H",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "S",
+      "P",
+      "P",
+      "F",
+      "F",
+      "S",
+      "W"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "H",
+      "K",
+      "K",
+      "L",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "Y",
+      "U",
+      "A",
+      "H",
+      "M",
+      "Y",
+      "C",
+      "S",
+      "N",
+      "Z"
+    ],
+    [
+      "V",
+      "L",
+      "B",
+      "A",
+      "W",
+      "T",
+      "R",
+      "K",
+      "U",
+      "R"
+    ],
+    [
+      "T",
+      "P",
+      "R",
+      "W",
+      "I",
+      "T",
+      "E",
+      "I",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "U",
+      "A",
+      "H",
+      "G",
+      "H",
+      "S",
+      "F"
+    ],
+    [
+      "F",
+      "J",
+      "S",
+      "Z",
+      "Y",
+      "Y",
+      "B",
+      "S",
+      "V",
+      "E"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ASPHALT",
+      "gloss": "A dark material used for road surfaces.",
+      "path": [
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BACKPACK",
+      "gloss": "A bag carried on the back.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "BOOKSHOP",
+      "gloss": "A store that sells books.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SKYRISE",
+      "gloss": "A very tall building.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUBWAY",
+      "gloss": "An underground urban train system.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SUITCASE",
+      "gloss": "A case for carrying clothes while traveling.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "TRAM",
+      "gloss": "A passenger vehicle on rails in a city.",
+      "path": [
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-18T19:12:21.466Z"
+}

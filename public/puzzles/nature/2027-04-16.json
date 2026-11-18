@@ -1,0 +1,349 @@
+{
+  "id": "nature-2027-04-16",
+  "playDate": "2027-04-16",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "L",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "G",
+      "F",
+      "Z"
+    ],
+    [
+      "Y",
+      "B",
+      "M",
+      "J",
+      "Z",
+      "L",
+      "M",
+      "Y",
+      "E",
+      "E"
+    ],
+    [
+      "J",
+      "B",
+      "O",
+      "Y",
+      "I",
+      "S",
+      "S",
+      "V",
+      "K",
+      "R"
+    ],
+    [
+      "Z",
+      "L",
+      "L",
+      "G",
+      "J",
+      "J",
+      "O",
+      "A",
+      "W",
+      "S"
+    ],
+    [
+      "U",
+      "E",
+      "A",
+      "T",
+      "I",
+      "C",
+      "L",
+      "I",
+      "U",
+      "I"
+    ],
+    [
+      "P",
+      "C",
+      "K",
+      "F",
+      "I",
+      "F",
+      "H",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "Z",
+      "W",
+      "M",
+      "Z",
+      "Q",
+      "D",
+      "C"
+    ],
+    [
+      "H",
+      "E",
+      "T",
+      "O",
+      "I",
+      "J",
+      "M",
+      "O",
+      "J",
+      "U"
+    ],
+    [
+      "W",
+      "E",
+      "N",
+      "A",
+      "H",
+      "Z",
+      "Y",
+      "U",
+      "Y",
+      "V"
+    ],
+    [
+      "F",
+      "S",
+      "P",
+      "R",
+      "L",
+      "Q",
+      "H",
+      "G",
+      "S",
+      "V"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COVE",
+      "gloss": "A small sheltered bay.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "HILL",
+      "gloss": "A naturally raised area of land.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "LAKE",
+      "gloss": "A body of water surrounded by land.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "gloss": "A single crystal of snow.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SUMMIT",
+      "gloss": "The highest point of a hill or mountain.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-18T19:12:21.460Z"
+}

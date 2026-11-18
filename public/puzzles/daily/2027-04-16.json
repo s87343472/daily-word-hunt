@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-04-16",
+  "playDate": "2027-04-16",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "T",
+      "A",
+      "P",
+      "E",
+      "S",
+      "T",
+      "R",
+      "Y",
+      "I"
+    ],
+    [
+      "K",
+      "A",
+      "D",
+      "P",
+      "T",
+      "T",
+      "M",
+      "T",
+      "D",
+      "X"
+    ],
+    [
+      "S",
+      "L",
+      "N",
+      "I",
+      "W",
+      "W",
+      "D",
+      "F",
+      "P",
+      "T"
+    ],
+    [
+      "P",
+      "U",
+      "M",
+      "Y",
+      "V",
+      "M",
+      "L",
+      "C",
+      "U",
+      "T"
+    ],
+    [
+      "Q",
+      "E",
+      "N",
+      "G",
+      "O",
+      "B",
+      "Y",
+      "U",
+      "N",
+      "U"
+    ],
+    [
+      "F",
+      "Y",
+      "D",
+      "S",
+      "Q",
+      "N",
+      "U",
+      "S",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "C",
+      "T",
+      "U",
+      "E",
+      "D",
+      "B",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "Q",
+      "N",
+      "A",
+      "T",
+      "Y",
+      "T",
+      "A",
+      "M",
+      "E",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "H",
+      "O",
+      "H",
+      "T",
+      "S",
+      "A",
+      "F",
+      "V"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "T",
+      "C",
+      "E",
+      "N",
+      "Z",
+      "F",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CANYON",
+      "gloss": "A deep gorge with steep sides.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "NECTAR",
+      "gloss": "Sweet liquid from flowers.",
+      "path": [
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "QUART",
+      "gloss": "A unit of liquid measure.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TAPESTRY",
+      "gloss": "A woven wall hanging.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "TIME",
+      "gloss": "The ongoing sequence of moments.",
+      "path": [
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "UNCLE",
+      "gloss": "The brother of a parent.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "VOLE",
+      "gloss": "A small rodent like a mouse.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-18T19:12:21.455Z"
+}
