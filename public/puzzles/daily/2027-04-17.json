@@ -1,0 +1,337 @@
+{
+  "id": "daily-2027-04-17",
+  "playDate": "2027-04-17",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "S",
+      "N",
+      "C",
+      "P",
+      "U",
+      "Z",
+      "S",
+      "T",
+      "H"
+    ],
+    [
+      "J",
+      "U",
+      "W",
+      "A",
+      "O",
+      "E",
+      "H",
+      "W",
+      "T",
+      "F"
+    ],
+    [
+      "M",
+      "G",
+      "R",
+      "I",
+      "C",
+      "Y",
+      "L",
+      "Y",
+      "R",
+      "G"
+    ],
+    [
+      "X",
+      "C",
+      "P",
+      "A",
+      "E",
+      "A",
+      "G",
+      "A",
+      "O",
+      "Z"
+    ],
+    [
+      "H",
+      "V",
+      "E",
+      "L",
+      "M",
+      "K",
+      "H",
+      "C",
+      "Y",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      "E",
+      "I",
+      "A",
+      "W",
+      "A",
+      "R",
+      "T",
+      "S"
+    ],
+    [
+      "J",
+      "U",
+      "N",
+      "M",
+      "T",
+      "T",
+      "X",
+      "W",
+      "X",
+      "T"
+    ],
+    [
+      "Z",
+      "A",
+      "Q",
+      "Y",
+      "U",
+      "H",
+      "E",
+      "O",
+      "J",
+      "S"
+    ],
+    [
+      "R",
+      "P",
+      "O",
+      "Y",
+      "S",
+      "V",
+      "V",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "R",
+      "Q",
+      "H",
+      "H",
+      "K",
+      "O",
+      "G",
+      "B",
+      "E",
+      "Q"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANIMAL",
+      "gloss": "A living creature that is not a plant.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PARCH",
+      "gloss": "To make very dry.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "PEACE",
+      "gloss": "A state of calm without conflict.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "PETAL",
+      "gloss": "A segment of a flower’s corolla.",
+      "path": [
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "TUSK",
+      "gloss": "A long pointed tooth.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WAKE",
+      "gloss": "To stop sleeping.",
+      "path": [
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "WHARF",
+      "gloss": "A platform for docking ships.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ZEST",
+      "gloss": "Great enthusiasm; also citrus peel.",
+      "path": [
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-19T19:17:10.968Z"
+}

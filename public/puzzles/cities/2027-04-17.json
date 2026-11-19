@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-04-17",
+  "playDate": "2027-04-17",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "C",
+      "O",
+      "T",
+      "T",
+      "A",
+      "G",
+      "E",
+      "D",
+      "I",
+      "E"
+    ],
+    [
+      "U",
+      "L",
+      "D",
+      "T",
+      "S",
+      "F",
+      "A",
+      "T",
+      "Y",
+      "D"
+    ],
+    [
+      "N",
+      "R",
+      "J",
+      "H",
+      "N",
+      "P",
+      "I",
+      "E",
+      "G",
+      "I"
+    ],
+    [
+      "P",
+      "K",
+      "M",
+      "L",
+      "I",
+      "F",
+      "W",
+      "T",
+      "C",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "G",
+      "L",
+      "F",
+      "V",
+      "E",
+      "O",
+      "F",
+      "R"
+    ],
+    [
+      "F",
+      "Q",
+      "E",
+      "A",
+      "L",
+      "D",
+      "R",
+      "S",
+      "E",
+      "O"
+    ],
+    [
+      "V",
+      "H",
+      "R",
+      "R",
+      "A",
+      "N",
+      "U",
+      "T",
+      "B",
+      "B"
+    ],
+    [
+      "D",
+      "G",
+      "N",
+      "C",
+      "E",
+      "P",
+      "P",
+      "O",
+      "S",
+      "R"
+    ],
+    [
+      "F",
+      "S",
+      "A",
+      "R",
+      "N",
+      "K",
+      "Z",
+      "W",
+      "I",
+      "A"
+    ],
+    [
+      "B",
+      "F",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "U",
+      "D",
+      "V",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CORNER",
+      "gloss": "Where two streets meet.",
+      "path": [
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "COTTAGE",
+      "gloss": "A small simple house.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FACADE",
+      "gloss": "The front of a building.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "FERRY",
+      "gloss": "A boat that carries people across water.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "GRAFFITI",
+      "gloss": "Writing or drawings on public surfaces.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "HARBORSIDE",
+      "gloss": "The area beside a harbor.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HELIPAD",
+      "gloss": "A landing area for helicopters.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "PIER",
+      "gloss": "A platform extending into water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-19T19:17:10.974Z"
+}
