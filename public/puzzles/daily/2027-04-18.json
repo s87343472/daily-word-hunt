@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-04-18",
+  "playDate": "2027-04-18",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "Z",
+      "O",
+      "L",
+      "A",
+      "T",
+      "S",
+      "Y",
+      "R",
+      "C",
+      "D"
+    ],
+    [
+      "X",
+      "O",
+      "W",
+      "Z",
+      "T",
+      "P",
+      "Y",
+      "R",
+      "K",
+      "T"
+    ],
+    [
+      "Y",
+      "N",
+      "B",
+      "N",
+      "A",
+      "Z",
+      "O",
+      "P",
+      "M",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "V",
+      "T",
+      "D",
+      "Y",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "I",
+      "I",
+      "U",
+      "R",
+      "K",
+      "Q",
+      "G",
+      "F",
+      "P",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "G",
+      "Y",
+      "L",
+      "L",
+      "N",
+      "D",
+      "Y"
+    ],
+    [
+      "U",
+      "U",
+      "H",
+      "B",
+      "A",
+      "N",
+      "C",
+      "H",
+      "O",
+      "R"
+    ],
+    [
+      "Q",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "L",
+      "K",
+      "W",
+      "U"
+    ],
+    [
+      "X",
+      "N",
+      "R",
+      "Z",
+      "Q",
+      "J",
+      "P",
+      "B",
+      "R",
+      "G"
+    ],
+    [
+      "P",
+      "K",
+      "F",
+      "W",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "L"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCHOR",
+      "gloss": "A heavy device that holds a ship in place.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CRYSTAL",
+      "gloss": "A clear geometric solid.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PIANO",
+      "gloss": "A keyboard musical instrument.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "POPPY",
+      "gloss": "A flower with bright petals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "QUARTZ",
+      "gloss": "A hard mineral crystal.",
+      "path": [
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "QUIET",
+      "gloss": "Making little or no noise.",
+      "path": [
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "TOTE",
+      "gloss": "A large open bag.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "gloss": "The coldest season of the year.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-20T18:55:50.964Z"
+}
