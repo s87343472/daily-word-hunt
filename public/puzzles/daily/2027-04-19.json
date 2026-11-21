@@ -1,0 +1,361 @@
+{
+  "id": "daily-2027-04-19",
+  "playDate": "2027-04-19",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "B",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T",
+      "R",
+      "Y",
+      "A"
+    ],
+    [
+      "K",
+      "J",
+      "N",
+      "Y",
+      "E",
+      "R",
+      "I",
+      "G",
+      "B",
+      "V"
+    ],
+    [
+      "U",
+      "C",
+      "E",
+      "G",
+      "C",
+      "E",
+      "C",
+      "W",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "U",
+      "V",
+      "N",
+      "T",
+      "Q",
+      "T",
+      "S",
+      "Z"
+    ],
+    [
+      "C",
+      "J",
+      "Q",
+      "H",
+      "E",
+      "A",
+      "Z",
+      "E",
+      "P",
+      "H"
+    ],
+    [
+      "F",
+      "C",
+      "E",
+      "S",
+      "F",
+      "W",
+      "E",
+      "A",
+      "C",
+      "B"
+    ],
+    [
+      "W",
+      "R",
+      "N",
+      "I",
+      "T",
+      "H",
+      "N",
+      "T",
+      "V",
+      "C"
+    ],
+    [
+      "B",
+      "E",
+      "C",
+      "D",
+      "C",
+      "D",
+      "A",
+      "D",
+      "V",
+      "D"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "A",
+      "A",
+      "H",
+      "C",
+      "C",
+      "X",
+      "R"
+    ],
+    [
+      "D",
+      "K",
+      "Q",
+      "R",
+      "T",
+      "J",
+      "B",
+      "K",
+      "A",
+      "T"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BRIGHT",
+      "gloss": "Giving off much light.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CHEESE",
+      "gloss": "A food made from milk curds.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CREEK",
+      "gloss": "A small stream.",
+      "path": [
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "FENCE",
+      "gloss": "A barrier enclosing an area.",
+      "path": [
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PANDA",
+      "gloss": "A black-and-white bearlike animal.",
+      "path": [
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "RADISH",
+      "gloss": "A crunchy root vegetable.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "THATCH",
+      "gloss": "Roof covering of straw or reeds.",
+      "path": [
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WATER",
+      "gloss": "Clear liquid essential to life.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-21T17:50:44.812Z"
+}

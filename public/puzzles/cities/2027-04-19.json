@@ -1,0 +1,429 @@
+{
+  "id": "cities-2027-04-19",
+  "playDate": "2027-04-19",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "G",
+      "C",
+      "W",
+      "J",
+      "D",
+      "C",
+      "Z",
+      "N",
+      "F"
+    ],
+    [
+      "E",
+      "N",
+      "I",
+      "L",
+      "R",
+      "E",
+      "W",
+      "O",
+      "P",
+      "D"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "R",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "S",
+      "H",
+      "I",
+      "P",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "U",
+      "U"
+    ],
+    [
+      "P",
+      "C",
+      "Z",
+      "A",
+      "P",
+      "Z",
+      "Q",
+      "C",
+      "H",
+      "D"
+    ],
+    [
+      "K",
+      "C",
+      "E",
+      "I",
+      "B",
+      "I",
+      "S",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "O",
+      "H",
+      "N",
+      "W",
+      "S",
+      "M",
+      "O",
+      "Z",
+      "G",
+      "I"
+    ],
+    [
+      "O",
+      "I",
+      "C",
+      "V",
+      "Z",
+      "L",
+      "O",
+      "E",
+      "K",
+      "J"
+    ],
+    [
+      "Z",
+      "U",
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BISTRO",
+      "gloss": "A small informal restaurant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "CITIZEN",
+      "gloss": "A legally recognized member of a country.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "CROSSING",
+      "gloss": "A place where roads or paths cross.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "POWERLINE",
+      "gloss": "A cable carrying electricity.",
+      "path": [
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SHIPYARD",
+      "gloss": "A place where ships are built.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "WATERFRONT",
+      "gloss": "Land along a body of water.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "WATERTOWER",
+      "gloss": "A tower storing water for a town.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "ZOO",
+      "gloss": "A place where animals are kept for display.",
+      "path": [
+        {
+          "r": 9,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-21T17:50:44.824Z"
+}

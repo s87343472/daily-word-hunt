@@ -1,0 +1,361 @@
+{
+  "id": "nature-2027-04-19",
+  "playDate": "2027-04-19",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "U",
+      "E",
+      "C",
+      "Q",
+      "G",
+      "Z",
+      "W",
+      "L",
+      "N",
+      "S"
+    ],
+    [
+      "X",
+      "G",
+      "L",
+      "Z",
+      "Y",
+      "P",
+      "I",
+      "Z",
+      "U",
+      "T"
+    ],
+    [
+      "J",
+      "D",
+      "E",
+      "T",
+      "M",
+      "A",
+      "A",
+      "M",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "R",
+      "Y",
+      "U",
+      "C",
+      "K",
+      "R"
+    ],
+    [
+      "J",
+      "H",
+      "H",
+      "T",
+      "B",
+      "F",
+      "Z",
+      "C",
+      "K",
+      "L"
+    ],
+    [
+      "Z",
+      "G",
+      "A",
+      "Y",
+      "I",
+      "Y",
+      "W",
+      "H",
+      "G",
+      "I"
+    ],
+    [
+      "T",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "A",
+      "Y",
+      "G"
+    ],
+    [
+      "M",
+      "M",
+      "N",
+      "O",
+      "G",
+      "H",
+      "Q",
+      "N",
+      "Z",
+      "H"
+    ],
+    [
+      "O",
+      "A",
+      "K",
+      "N",
+      "J",
+      "J",
+      "E",
+      "W",
+      "O",
+      "T"
+    ],
+    [
+      "I",
+      "Z",
+      "M",
+      "D",
+      "C",
+      "F",
+      "J",
+      "L",
+      "D",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "FEN",
+      "gloss": "A low marshy land.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "HEDGE",
+      "gloss": "A fence of bushes.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "gloss": "A bee that makes honey.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "OAK",
+      "gloss": "A sturdy hardwood tree.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "PACK",
+      "gloss": "A group of animals that live together.",
+      "path": [
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "STARLIGHT",
+      "gloss": "Light from the stars.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "THISTLE",
+      "gloss": "A prickly plant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "TRAIL",
+      "gloss": "A marked path for walking.",
+      "path": [
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-21T17:50:44.819Z"
+}
