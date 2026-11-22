@@ -1,0 +1,409 @@
+{
+  "id": "history-2027-04-20",
+  "playDate": "2027-04-20",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "S",
+      "L",
+      "E",
+      "G",
+      "I",
+      "O",
+      "N",
+      "P",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "T",
+      "J",
+      "T",
+      "D",
+      "Z",
+      "A",
+      "A",
+      "L",
+      "N"
+    ],
+    [
+      "T",
+      "H",
+      "K",
+      "I",
+      "F",
+      "P",
+      "Y",
+      "R",
+      "Q",
+      "C"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "H",
+      "M",
+      "A",
+      "L",
+      "L",
+      "U",
+      "I"
+    ],
+    [
+      "L",
+      "Z",
+      "O",
+      "H",
+      "M",
+      "B",
+      "Y",
+      "I",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "K",
+      "S",
+      "E",
+      "C",
+      "M",
+      "A",
+      "X",
+      "N"
+    ],
+    [
+      "M",
+      "M",
+      "L",
+      "V",
+      "A",
+      "U",
+      "U",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "E",
+      "X",
+      "G",
+      "G",
+      "R",
+      "I",
+      "D",
+      "E",
+      "P",
+      "O"
+    ],
+    [
+      "N",
+      "W",
+      "E",
+      "O",
+      "N",
+      "M",
+      "C",
+      "N",
+      "H",
+      "W"
+    ],
+    [
+      "T",
+      "L",
+      "F",
+      "T",
+      "R",
+      "E",
+      "A",
+      "T",
+      "Y",
+      "X"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ANCIENT",
+      "gloss": "Belonging to the distant past.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FORUM",
+      "gloss": "A public square in ancient Rome.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LEGACY",
+      "gloss": "Something handed down from the past.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "LEGION",
+      "gloss": "A large unit of the Roman army.",
+      "path": [
+        {
+          "r": 0,
+          "c": 1
+        },
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "MOSAIC",
+      "gloss": "A picture made of small colored pieces.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "PARLIAMENT",
+      "gloss": "A legislature of elected members.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SETTLEMENT",
+      "gloss": "A place where people establish a community.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TREATY",
+      "gloss": "A formal agreement between states.",
+      "path": [
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-22T18:10:30.109Z"
+}

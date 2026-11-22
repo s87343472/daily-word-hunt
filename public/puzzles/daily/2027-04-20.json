@@ -1,0 +1,365 @@
+{
+  "id": "daily-2027-04-20",
+  "playDate": "2027-04-20",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "W",
+      "N",
+      "Z",
+      "C",
+      "U",
+      "S",
+      "H",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "N",
+      "H",
+      "R",
+      "T",
+      "U",
+      "H",
+      "P",
+      "Y",
+      "L"
+    ],
+    [
+      "R",
+      "M",
+      "I",
+      "W",
+      "Q",
+      "P",
+      "K",
+      "D",
+      "S",
+      "Y"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "I",
+      "Y",
+      "P",
+      "A",
+      "W",
+      "P",
+      "L"
+    ],
+    [
+      "G",
+      "Q",
+      "O",
+      "O",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "V",
+      "F",
+      "Z",
+      "R",
+      "T",
+      "R",
+      "U",
+      "M",
+      "U",
+      "Z"
+    ],
+    [
+      "K",
+      "O",
+      "K",
+      "S",
+      "Z",
+      "H",
+      "K",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "Y",
+      "A",
+      "R",
+      "P",
+      "S",
+      "O",
+      "I",
+      "T",
+      "E",
+      "Q"
+    ],
+    [
+      "E",
+      "N",
+      "V",
+      "D",
+      "C",
+      "O",
+      "W",
+      "B",
+      "C",
+      "J"
+    ],
+    [
+      "M",
+      "T",
+      "G",
+      "M",
+      "N",
+      "U",
+      "Q",
+      "I",
+      "B",
+      "R"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CUSHION",
+      "gloss": "A soft pad for sitting or leaning.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "gloss": "A dry barren region.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "RING",
+      "gloss": "A circular band worn on a finger.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "SMOOTH",
+      "gloss": "Having an even surface.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SPRAY",
+      "gloss": "Liquid flying in small drops.",
+      "path": [
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "STEADY",
+      "gloss": "Firmly fixed or constant.",
+      "path": [
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUPPER",
+      "gloss": "An evening meal.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "UNION",
+      "gloss": "The act of joining together.",
+      "path": [
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 4
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-22T18:10:30.094Z"
+}

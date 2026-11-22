@@ -1,0 +1,397 @@
+{
+  "id": "cities-2027-04-20",
+  "playDate": "2027-04-20",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "M",
+      "Z",
+      "P",
+      "R",
+      "A",
+      "A",
+      "Z",
+      "A",
+      "B",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "I",
+      "B",
+      "Q",
+      "I",
+      "P",
+      "X",
+      "G"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "U",
+      "P",
+      "L",
+      "D",
+      "J",
+      "Q",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "L",
+      "R",
+      "C",
+      "E",
+      "N",
+      "I",
+      "F",
+      "V"
+    ],
+    [
+      "E",
+      "K",
+      "G",
+      "U",
+      "O",
+      "N",
+      "L",
+      "A",
+      "X",
+      "F"
+    ],
+    [
+      "N",
+      "I",
+      "S",
+      "I",
+      "C",
+      "P",
+      "C",
+      "I",
+      "M",
+      "G"
+    ],
+    [
+      "C",
+      "O",
+      "B",
+      "Y",
+      "O",
+      "I",
+      "O",
+      "F",
+      "N",
+      "U"
+    ],
+    [
+      "H",
+      "S",
+      "P",
+      "Q",
+      "T",
+      "N",
+      "N",
+      "L",
+      "K",
+      "E"
+    ],
+    [
+      "U",
+      "K",
+      "Z",
+      "N",
+      "E",
+      "V",
+      "A",
+      "U",
+      "I",
+      "S"
+    ],
+    [
+      "H",
+      "W",
+      "U",
+      "S",
+      "J",
+      "L",
+      "J",
+      "T",
+      "F",
+      "S"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BAZAAR",
+      "gloss": "A market with many small stalls.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "BENCH",
+      "gloss": "A long seat for several people.",
+      "path": [
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "CAFE",
+      "gloss": "A small restaurant serving drinks and light meals.",
+      "path": [
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "FUNICULAR",
+      "gloss": "A cable railway on a steep slope.",
+      "path": [
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "KIOSK",
+      "gloss": "A small open-fronted booth.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "METROPOLIS",
+      "gloss": "A very large city.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "PIPELINE",
+      "gloss": "A long pipe for oil or gas.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "REGION",
+      "gloss": "A large area of a country.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-22T18:10:30.104Z"
+}
