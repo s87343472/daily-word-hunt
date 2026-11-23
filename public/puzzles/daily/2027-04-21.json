@@ -1,0 +1,337 @@
+{
+  "id": "daily-2027-04-21",
+  "playDate": "2027-04-21",
+  "pack": "daily",
+  "series": "daily",
+  "theme": "general",
+  "title": "Daily Word Hunt",
+  "description": "The main free daily word search — general vocabulary, new grid every day.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "R",
+      "H",
+      "G",
+      "Y",
+      "S",
+      "R",
+      "S",
+      "M",
+      "Y",
+      "B"
+    ],
+    [
+      "X",
+      "T",
+      "M",
+      "S",
+      "Y",
+      "Y",
+      "R",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "Y",
+      "T",
+      "F",
+      "H",
+      "N",
+      "T",
+      "C",
+      "N",
+      "F",
+      "J"
+    ],
+    [
+      "D",
+      "A",
+      "P",
+      "O",
+      "R",
+      "O",
+      "W",
+      "T",
+      "U",
+      "O"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "A",
+      "S",
+      "D",
+      "W",
+      "J",
+      "H",
+      "N"
+    ],
+    [
+      "Z",
+      "D",
+      "E",
+      "W",
+      "U",
+      "E",
+      "A",
+      "Y",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "H",
+      "H",
+      "I",
+      "D",
+      "E",
+      "S",
+      "R",
+      "G",
+      "X"
+    ],
+    [
+      "Z",
+      "J",
+      "U",
+      "R",
+      "E",
+      "B",
+      "P",
+      "U",
+      "E",
+      "F"
+    ],
+    [
+      "Z",
+      "I",
+      "A",
+      "O",
+      "N",
+      "A",
+      "G",
+      "I",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "V",
+      "L",
+      "P",
+      "R",
+      "I",
+      "H",
+      "L",
+      "K",
+      "H"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APRON",
+      "gloss": "A garment worn to protect clothes.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "HEART",
+      "gloss": "The organ that pumps blood; also courage.",
+      "path": [
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HOUSE",
+      "gloss": "A building people live in.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "MINT",
+      "gloss": "An aromatic herb.",
+      "path": [
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SNOWY",
+      "gloss": "Covered with or full of snow.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SOFT",
+      "gloss": "Easy to press; not hard.",
+      "path": [
+        {
+          "r": 4,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "WASP",
+      "gloss": "A stinging insect.",
+      "path": [
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "ZEPHYR",
+      "gloss": "A soft gentle breeze.",
+      "path": [
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-23T22:21:52.413Z"
+}
