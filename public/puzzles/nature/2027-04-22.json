@@ -1,0 +1,357 @@
+{
+  "id": "nature-2027-04-22",
+  "playDate": "2027-04-22",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "E",
+      "F",
+      "S",
+      "S",
+      "S",
+      "J",
+      "D",
+      "U",
+      "M",
+      "V"
+    ],
+    [
+      "M",
+      "V",
+      "G",
+      "B",
+      "E",
+      "U",
+      "N",
+      "L",
+      "B",
+      "K"
+    ],
+    [
+      "G",
+      "W",
+      "O",
+      "E",
+      "R",
+      "A",
+      "N",
+      "J",
+      "R",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "D",
+      "O",
+      "N",
+      "S",
+      "S",
+      "N",
+      "M"
+    ],
+    [
+      "J",
+      "R",
+      "N",
+      "L",
+      "T",
+      "D",
+      "C",
+      "O",
+      "E",
+      "C"
+    ],
+    [
+      "F",
+      "I",
+      "T",
+      "P",
+      "L",
+      "P",
+      "E",
+      "J",
+      "N",
+      "T"
+    ],
+    [
+      "O",
+      "V",
+      "W",
+      "W",
+      "M",
+      "O",
+      "Q",
+      "P",
+      "Y",
+      "B"
+    ],
+    [
+      "F",
+      "E",
+      "D",
+      "A",
+      "E",
+      "Z",
+      "W",
+      "H",
+      "B",
+      "I"
+    ],
+    [
+      "O",
+      "R",
+      "W",
+      "E",
+      "S",
+      "T",
+      "U",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "D",
+      "S",
+      "R",
+      "R",
+      "H",
+      "X",
+      "X",
+      "V",
+      "I",
+      "Z"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BOG",
+      "gloss": "Wet spongy ground.",
+      "path": [
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "ESTUARY",
+      "gloss": "Where a river meets the sea.",
+      "path": [
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GEODE",
+      "gloss": "A rock cavity lined with crystals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 3,
+          "c": 4
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "RIVER",
+      "gloss": "A flowing body of fresh water.",
+      "path": [
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SEASON",
+      "gloss": "One of the four parts of the year.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "SUNSET",
+      "gloss": "The daily disappearance of the sun.",
+      "path": [
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "SWAMP",
+      "gloss": "An area of waterlogged ground.",
+      "path": [
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "WILLOW",
+      "gloss": "A tree with slender flexible branches.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-24T20:57:28.546Z"
+}
