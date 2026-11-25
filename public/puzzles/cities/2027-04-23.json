@@ -1,0 +1,417 @@
+{
+  "id": "cities-2027-04-23",
+  "playDate": "2027-04-23",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "O",
+      "A",
+      "J",
+      "F",
+      "M",
+      "D",
+      "E",
+      "A",
+      "B",
+      "D"
+    ],
+    [
+      "B",
+      "P",
+      "R",
+      "G",
+      "V",
+      "N",
+      "H",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "K",
+      "H",
+      "U",
+      "E",
+      "P",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "S",
+      "Z",
+      "R",
+      "N",
+      "O",
+      "S",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "F",
+      "C",
+      "K",
+      "U",
+      "A",
+      "R",
+      "K",
+      "B",
+      "H",
+      "B"
+    ],
+    [
+      "U",
+      "O",
+      "J",
+      "G",
+      "N",
+      "G",
+      "Y",
+      "Y",
+      "F",
+      "L"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "S",
+      "D",
+      "Y",
+      "L",
+      "P",
+      "R",
+      "L"
+    ],
+    [
+      "L",
+      "T",
+      "H",
+      "T",
+      "F",
+      "A",
+      "I",
+      "A",
+      "O",
+      "I"
+    ],
+    [
+      "J",
+      "E",
+      "R",
+      "C",
+      "H",
+      "L",
+      "N",
+      "S",
+      "N",
+      "B"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "B",
+      "Q",
+      "P",
+      "E",
+      "S",
+      "T",
+      "O"
+    ]
+  ],
+  "words": [
+    {
+      "word": "BEACHFRONT",
+      "gloss": "Land or property along a beach.",
+      "path": [
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "BILLBOARD",
+      "gloss": "A large outdoor advertising board.",
+      "path": [
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 7,
+          "c": 9
+        },
+        {
+          "r": 6,
+          "c": 9
+        },
+        {
+          "r": 5,
+          "c": 9
+        },
+        {
+          "r": 4,
+          "c": 9
+        },
+        {
+          "r": 3,
+          "c": 9
+        },
+        {
+          "r": 2,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "BYPASS",
+      "gloss": "A road that avoids the city center.",
+      "path": [
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 7
+        },
+        {
+          "r": 7,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "FORT",
+      "gloss": "A fortified military building.",
+      "path": [
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        }
+      ]
+    },
+    {
+      "word": "OPERA",
+      "gloss": "A theater for opera performances.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 4
+        }
+      ]
+    },
+    {
+      "word": "PLAYGROUND",
+      "gloss": "An outdoor area for children to play.",
+      "path": [
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "SCOOTER",
+      "gloss": "A small two-wheeled vehicle.",
+      "path": [
+        {
+          "r": 3,
+          "c": 1
+        },
+        {
+          "r": 4,
+          "c": 1
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 1
+        },
+        {
+          "r": 7,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 1
+        }
+      ]
+    },
+    {
+      "word": "SKYLINE",
+      "gloss": "The outline of buildings against the sky.",
+      "path": [
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-25T20:19:23.280Z"
+}
