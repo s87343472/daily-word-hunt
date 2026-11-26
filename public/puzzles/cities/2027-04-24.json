@@ -1,0 +1,448 @@
+{
+  "id": "cities-2027-04-24",
+  "playDate": "2027-04-24",
+  "pack": "cities",
+  "series": "cities",
+  "theme": "places",
+  "title": "Cities & Places",
+  "description": "Streets, landmarks, and travel vocabulary for place lovers.",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+    [
+      "I",
+      "X",
+      "P",
+      "E",
+      "F",
+      "W",
+      "B",
+      "N",
+      "N",
+      "V",
+      "V"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "P",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "T",
+      "W"
+    ],
+    [
+      "K",
+      "N",
+      "R",
+      "E",
+      "N",
+      "W",
+      "T",
+      "T",
+      "N",
+      "N",
+      "B"
+    ],
+    [
+      "F",
+      "Z",
+      "A",
+      "C",
+      "V",
+      "M",
+      "D",
+      "E",
+      "W",
+      "B",
+      "X"
+    ],
+    [
+      "P",
+      "N",
+      "Z",
+      "G",
+      "U",
+      "G",
+      "M",
+      "O",
+      "S",
+      "X",
+      "L"
+    ],
+    [
+      "Z",
+      "D",
+      "E",
+      "S",
+      "A",
+      "T",
+      "T",
+      "O",
+      "M",
+      "S",
+      "V"
+    ],
+    [
+      "H",
+      "J",
+      "E",
+      "R",
+      "R",
+      "N",
+      "R",
+      "T",
+      "B",
+      "N",
+      "S"
+    ],
+    [
+      "B",
+      "U",
+      "A",
+      "A",
+      "W",
+      "T",
+      "U",
+      "R",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "M",
+      "G",
+      "P",
+      "O",
+      "E",
+      "O",
+      "U",
+      "M",
+      "S",
+      "C",
+      "W"
+    ],
+    [
+      "E",
+      "A",
+      "D",
+      "M",
+      "S",
+      "N",
+      "T",
+      "W",
+      "P",
+      "W",
+      "M"
+    ]
+  ],
+  "words": [
+    {
+      "word": "APARTMENT",
+      "gloss": "A set of rooms for living in a building.",
+      "path": [
+        {
+          "r": 10,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "COURTYARD",
+      "gloss": "An open area enclosed by walls or buildings.",
+      "path": [
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "DOWNTOWN",
+      "gloss": "The central business area of a city.",
+      "path": [
+        {
+          "r": 10,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "GARAGE",
+      "gloss": "A building for parking cars.",
+      "path": [
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 1
+        },
+        {
+          "r": 10,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "MARKETPLACE",
+      "gloss": "An open area for buying and selling.",
+      "path": [
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 10
+        }
+      ]
+    },
+    {
+      "word": "METRO",
+      "gloss": "An urban rail system.",
+      "path": [
+        {
+          "r": 10,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 6,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "MUSEUM",
+      "gloss": "A building that displays collections.",
+      "path": [
+        {
+          "r": 4,
+          "c": 5
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 3
+        },
+        {
+          "r": 7,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 9,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "TURRET",
+      "gloss": "A small tower on a building.",
+      "path": [
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        },
+        {
+          "r": 8,
+          "c": 8
+        },
+        {
+          "r": 8,
+          "c": 9
+        },
+        {
+          "r": 8,
+          "c": 10
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-26T19:56:27.572Z"
+}

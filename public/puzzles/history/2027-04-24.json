@@ -1,0 +1,417 @@
+{
+  "id": "history-2027-04-24",
+  "playDate": "2027-04-24",
+  "pack": "history",
+  "series": "history",
+  "theme": "history",
+  "title": "History Series",
+  "description": "Empires, inventions, and eras — general history vocabulary for daily word search.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "D",
+      "W",
+      "S",
+      "S",
+      "E",
+      "R",
+      "T",
+      "R",
+      "O",
+      "F"
+    ],
+    [
+      "I",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "E",
+      "V"
+    ],
+    [
+      "P",
+      "P",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "T",
+      "M",
+      "J"
+    ],
+    [
+      "L",
+      "V",
+      "M",
+      "X",
+      "D",
+      "C",
+      "V",
+      "O",
+      "P",
+      "G"
+    ],
+    [
+      "O",
+      "L",
+      "M",
+      "U",
+      "V",
+      "R",
+      "D",
+      "Q",
+      "E",
+      "X"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "L",
+      "S",
+      "G",
+      "Z",
+      "D",
+      "R",
+      "R"
+    ],
+    [
+      "A",
+      "Q",
+      "E",
+      "W",
+      "N",
+      "K",
+      "K",
+      "V",
+      "O",
+      "K"
+    ],
+    [
+      "C",
+      "H",
+      "J",
+      "I",
+      "D",
+      "C",
+      "E",
+      "P",
+      "R",
+      "E"
+    ],
+    [
+      "Y",
+      "U",
+      "K",
+      "T",
+      "T",
+      "F",
+      "I",
+      "T",
+      "O",
+      "H"
+    ],
+    [
+      "A",
+      "B",
+      "C",
+      "A",
+      "M",
+      "P",
+      "A",
+      "I",
+      "G",
+      "N"
+    ]
+  ],
+  "words": [
+    {
+      "word": "CAMPAIGN",
+      "gloss": "A series of military operations.",
+      "path": [
+        {
+          "r": 9,
+          "c": 2
+        },
+        {
+          "r": 9,
+          "c": 3
+        },
+        {
+          "r": 9,
+          "c": 4
+        },
+        {
+          "r": 9,
+          "c": 5
+        },
+        {
+          "r": 9,
+          "c": 6
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 9
+        }
+      ]
+    },
+    {
+      "word": "DIPLOMACY",
+      "gloss": "Managing relations between countries.",
+      "path": [
+        {
+          "r": 0,
+          "c": 0
+        },
+        {
+          "r": 1,
+          "c": 0
+        },
+        {
+          "r": 2,
+          "c": 0
+        },
+        {
+          "r": 3,
+          "c": 0
+        },
+        {
+          "r": 4,
+          "c": 0
+        },
+        {
+          "r": 5,
+          "c": 0
+        },
+        {
+          "r": 6,
+          "c": 0
+        },
+        {
+          "r": 7,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "EMPEROR",
+      "gloss": "The ruler of an empire.",
+      "path": [
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 2,
+          "c": 8
+        },
+        {
+          "r": 3,
+          "c": 8
+        },
+        {
+          "r": 4,
+          "c": 8
+        },
+        {
+          "r": 5,
+          "c": 8
+        },
+        {
+          "r": 6,
+          "c": 8
+        },
+        {
+          "r": 7,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "FORTRESS",
+      "gloss": "A strong military fort.",
+      "path": [
+        {
+          "r": 0,
+          "c": 9
+        },
+        {
+          "r": 0,
+          "c": 8
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 4
+        },
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 0,
+          "c": 2
+        }
+      ]
+    },
+    {
+      "word": "KINGDOM",
+      "gloss": "A country ruled by a king or queen.",
+      "path": [
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 7,
+          "c": 3
+        },
+        {
+          "r": 6,
+          "c": 4
+        },
+        {
+          "r": 5,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 3,
+          "c": 7
+        },
+        {
+          "r": 2,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "MUSKET",
+      "gloss": "An early type of gun.",
+      "path": [
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "SURGERY",
+      "gloss": "Medical treatment by operation.",
+      "path": [
+        {
+          "r": 1,
+          "c": 1
+        },
+        {
+          "r": 1,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 1,
+          "c": 5
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TABLET",
+      "gloss": "A flat slab for writing.",
+      "path": [
+        {
+          "r": 2,
+          "c": 2
+        },
+        {
+          "r": 2,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 2,
+          "c": 6
+        },
+        {
+          "r": 2,
+          "c": 7
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-26T19:56:27.577Z"
+}
