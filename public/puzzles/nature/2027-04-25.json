@@ -1,0 +1,357 @@
+{
+  "id": "nature-2027-04-25",
+  "playDate": "2027-04-25",
+  "pack": "nature",
+  "series": "nature",
+  "theme": "nature",
+  "title": "Nature Series",
+  "description": "Trees, weather, wildlife, and outdoor words — a calm themed daily series.",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+    [
+      "B",
+      "T",
+      "H",
+      "S",
+      "Q",
+      "W",
+      "A",
+      "V",
+      "E",
+      "H"
+    ],
+    [
+      "V",
+      "A",
+      "O",
+      "E",
+      "T",
+      "Y",
+      "S",
+      "I",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "E",
+      "A",
+      "O",
+      "N",
+      "W",
+      "N",
+      "L"
+    ],
+    [
+      "F",
+      "K",
+      "R",
+      "T",
+      "T",
+      "T",
+      "R",
+      "U",
+      "C",
+      "Q"
+    ],
+    [
+      "H",
+      "X",
+      "W",
+      "C",
+      "O",
+      "Y",
+      "H",
+      "M",
+      "A",
+      "F"
+    ],
+    [
+      "S",
+      "I",
+      "U",
+      "F",
+      "T",
+      "L",
+      "W",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "G",
+      "M",
+      "A",
+      "K",
+      "G",
+      "I",
+      "B",
+      "F",
+      "R",
+      "Q"
+    ],
+    [
+      "E",
+      "M",
+      "B",
+      "W",
+      "H",
+      "H",
+      "C",
+      "T",
+      "F",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "J",
+      "X"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "F",
+      "H",
+      "J",
+      "S",
+      "S",
+      "A",
+      "P"
+    ]
+  ],
+  "words": [
+    {
+      "word": "ARCTIC",
+      "gloss": "Relating to the North Pole region.",
+      "path": [
+        {
+          "r": 2,
+          "c": 1
+        },
+        {
+          "r": 3,
+          "c": 2
+        },
+        {
+          "r": 4,
+          "c": 3
+        },
+        {
+          "r": 5,
+          "c": 4
+        },
+        {
+          "r": 6,
+          "c": 5
+        },
+        {
+          "r": 7,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "CONSERVE",
+      "gloss": "To protect from loss or harm.",
+      "path": [
+        {
+          "r": 8,
+          "c": 0
+        },
+        {
+          "r": 8,
+          "c": 1
+        },
+        {
+          "r": 8,
+          "c": 2
+        },
+        {
+          "r": 8,
+          "c": 3
+        },
+        {
+          "r": 8,
+          "c": 4
+        },
+        {
+          "r": 8,
+          "c": 5
+        },
+        {
+          "r": 8,
+          "c": 6
+        },
+        {
+          "r": 8,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "DAISY",
+      "gloss": "A common flower with white petals.",
+      "path": [
+        {
+          "r": 1,
+          "c": 9
+        },
+        {
+          "r": 1,
+          "c": 8
+        },
+        {
+          "r": 1,
+          "c": 7
+        },
+        {
+          "r": 1,
+          "c": 6
+        },
+        {
+          "r": 1,
+          "c": 5
+        }
+      ]
+    },
+    {
+      "word": "HEATHER",
+      "gloss": "A low shrub with purple flowers.",
+      "path": [
+        {
+          "r": 0,
+          "c": 2
+        },
+        {
+          "r": 1,
+          "c": 3
+        },
+        {
+          "r": 2,
+          "c": 4
+        },
+        {
+          "r": 3,
+          "c": 5
+        },
+        {
+          "r": 4,
+          "c": 6
+        },
+        {
+          "r": 5,
+          "c": 7
+        },
+        {
+          "r": 6,
+          "c": 8
+        }
+      ]
+    },
+    {
+      "word": "PASS",
+      "gloss": "A route through mountains.",
+      "path": [
+        {
+          "r": 9,
+          "c": 9
+        },
+        {
+          "r": 9,
+          "c": 8
+        },
+        {
+          "r": 9,
+          "c": 7
+        },
+        {
+          "r": 9,
+          "c": 6
+        }
+      ]
+    },
+    {
+      "word": "STORM",
+      "gloss": "Violent weather.",
+      "path": [
+        {
+          "r": 0,
+          "c": 3
+        },
+        {
+          "r": 1,
+          "c": 4
+        },
+        {
+          "r": 2,
+          "c": 5
+        },
+        {
+          "r": 3,
+          "c": 6
+        },
+        {
+          "r": 4,
+          "c": 7
+        }
+      ]
+    },
+    {
+      "word": "TWIG",
+      "gloss": "A small thin branch.",
+      "path": [
+        {
+          "r": 3,
+          "c": 3
+        },
+        {
+          "r": 4,
+          "c": 2
+        },
+        {
+          "r": 5,
+          "c": 1
+        },
+        {
+          "r": 6,
+          "c": 0
+        }
+      ]
+    },
+    {
+      "word": "WAVE",
+      "gloss": "A moving ridge on water.",
+      "path": [
+        {
+          "r": 0,
+          "c": 5
+        },
+        {
+          "r": 0,
+          "c": 6
+        },
+        {
+          "r": 0,
+          "c": 7
+        },
+        {
+          "r": 0,
+          "c": 8
+        }
+      ]
+    }
+  ],
+  "largePrintFriendly": true,
+  "createdAt": "2026-11-27T19:45:12.353Z"
+}
